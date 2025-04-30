@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Posts - HeaterTips">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/posts/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/posts/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/posts/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/posts/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/posts/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/posts/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/posts/">
+<meta property="og:url" content="https://heatertips.com/posts/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Posts">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -79,7 +79,7 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Posts",
-      "item": "https://danieldeer.github.io/heatertips/posts/"
+      "item": "https://heatertips.com/posts/"
     }
   ]
 }
@@ -88,7 +88,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -97,40 +101,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -138,7 +162,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a></div>
   <h1>
     Posts
   </h1>
@@ -146,7 +170,7 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-much-power-does-a-heat-pump-use.webp" alt="how much power does a heat pump use">
+        <img loading="lazy" src="https://heatertips.com/img/how-much-power-does-a-heat-pump-use.webp" alt="how much power does a heat pump use">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How Much Power Does a Heat Pump use? (1-5 Tons)
@@ -159,12 +183,12 @@ I have calculated all the wattages and yearly running costs for the most common 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-26 17:10:15 +0000 +0000'>October 26, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How Much Power Does a Heat Pump use? (1-5 Tons)" href="https://danieldeer.github.io/heatertips/how-much-power-does-a-heat-pump-use/"></a>
+  <a class="entry-link" aria-label="post link to How Much Power Does a Heat Pump use? (1-5 Tons)" href="https://heatertips.com/how-much-power-does-a-heat-pump-use/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/what-size-generator-can-run-a-heat-pump.webp" alt="what size generator can run a heat pump">
+        <img loading="lazy" src="https://heatertips.com/img/what-size-generator-can-run-a-heat-pump.webp" alt="what size generator can run a heat pump">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">What Size Generator can run a Heat Pump?
@@ -177,12 +201,12 @@ Quick answer: Only a home standby generator can power a medium-sized heat pump. 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-25 18:14:42 +0000 +0000'>October 25, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to What Size Generator can run a Heat Pump?" href="https://danieldeer.github.io/heatertips/what-size-generator-can-run-a-heat-pump/"></a>
+  <a class="entry-link" aria-label="post link to What Size Generator can run a Heat Pump?" href="https://heatertips.com/what-size-generator-can-run-a-heat-pump/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-run-space-heater-off-solar-panel.webp" alt="can you run space heater off solar panel">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-run-space-heater-off-solar-panel.webp" alt="can you run space heater off solar panel">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you run a Space Heater off a Solar Panel?
@@ -194,12 +218,12 @@ Quick answer: Yes, you can run a space heater off a solar panel. One solar panel
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-24 16:18:59 +0000 +0000'>October 24, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you run a Space Heater off a Solar Panel?" href="https://danieldeer.github.io/heatertips/can-you-run-space-heater-off-solar-panel/"></a>
+  <a class="entry-link" aria-label="post link to Can you run a Space Heater off a Solar Panel?" href="https://heatertips.com/can-you-run-space-heater-off-solar-panel/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-heat-a-room-without-electricity.webp" alt="how to heat a room without electricity">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-heat-a-room-without-electricity.webp" alt="how to heat a room without electricity">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">9 Ways to Heat a Room without Electricity
@@ -212,12 +236,12 @@ After reading it thoroughly, you’ll know plenty of alternative heat sources. S
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-22 17:29:16 +0000 +0000'>October 22, 2022</span>&nbsp;·&nbsp;15 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 9 Ways to Heat a Room without Electricity" href="https://danieldeer.github.io/heatertips/how-to-heat-room-without-electricity/"></a>
+  <a class="entry-link" aria-label="post link to 9 Ways to Heat a Room without Electricity" href="https://heatertips.com/how-to-heat-room-without-electricity/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-heat-a-large-room.webp" alt="how to heat a large room">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-heat-a-large-room.webp" alt="how to heat a large room">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Heat a Large Room (Methods &amp;amp; Cost)
@@ -230,12 +254,12 @@ Generally, you can always turn up your central heater’s temperature settings. 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-21 14:54:40 +0000 +0000'>October 21, 2022</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Heat a Large Room (Methods &amp; Cost)" href="https://danieldeer.github.io/heatertips/how-to-heat-a-large-room/"></a>
+  <a class="entry-link" aria-label="post link to How to Heat a Large Room (Methods &amp; Cost)" href="https://heatertips.com/how-to-heat-a-large-room/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-heat-a-room-without-a-heater.webp" alt="how to heat a room without a heater">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-heat-a-room-without-a-heater.webp" alt="how to heat a room without a heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Heat a Room Without a Heater
@@ -247,12 +271,12 @@ Quick answer: You can heat a room without a heater using candles, running electr
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-19 13:44:58 +0000 +0000'>October 19, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Heat a Room Without a Heater" href="https://danieldeer.github.io/heatertips/how-to-heat-room-without-heater/"></a>
+  <a class="entry-link" aria-label="post link to How to Heat a Room Without a Heater" href="https://heatertips.com/how-to-heat-room-without-heater/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/space-heaters-electricity-cost-money.webp" alt="space heaters electricity cost money">
+        <img loading="lazy" src="https://heatertips.com/img/space-heaters-electricity-cost-money.webp" alt="space heaters electricity cost money">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Space Heaters Save Money?
@@ -265,12 +289,12 @@ Quick answer: Space heaters save you at least $162 yearly if you reduce your cen
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-18 16:00:51 +0000 +0000'>October 18, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Space Heaters Save Money?" href="https://danieldeer.github.io/heatertips/do-space-heaters-save-money/"></a>
+  <a class="entry-link" aria-label="post link to Do Space Heaters Save Money?" href="https://heatertips.com/do-space-heaters-save-money/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-build-a-terracotta-clay-flower-pot-heater.webp" alt="how to build a terracotta clay flower pot heater">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-build-a-terracotta-clay-flower-pot-heater.webp" alt="how to build a terracotta clay flower pot heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Build a Terracotta Clay Pot Heater
@@ -283,12 +307,12 @@ In this article, we’re going to check everything you need to know about terrac
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-30 16:42:28 +0000 +0000'>September 30, 2022</span>&nbsp;·&nbsp;14 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Build a Terracotta Clay Pot Heater" href="https://danieldeer.github.io/heatertips/how-to-build-a-terracotta-clay-pot-heater/"></a>
+  <a class="entry-link" aria-label="post link to How to Build a Terracotta Clay Pot Heater" href="https://heatertips.com/how-to-build-a-terracotta-clay-pot-heater/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-portable-air-conditioners-run-24-7.webp" alt="can portable air conditioners run 24-7">
+        <img loading="lazy" src="https://heatertips.com/img/can-portable-air-conditioners-run-24-7.webp" alt="can portable air conditioners run 24-7">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Portable Air Conditioners Run 24/7?
@@ -300,12 +324,12 @@ Quick Answer: Yes, portable air conditioners can run 24/7. While it may not have
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-29 15:16:30 +0000 +0000'>September 29, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Portable Air Conditioners Run 24/7?" href="https://danieldeer.github.io/heatertips/can-portable-air-conditioners-run-continuously/"></a>
+  <a class="entry-link" aria-label="post link to Can Portable Air Conditioners Run 24/7?" href="https://heatertips.com/can-portable-air-conditioners-run-continuously/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-cooling-fans-worth-it.webp" alt="are dyson cooling fans worth it">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-cooling-fans-worth-it.webp" alt="are dyson cooling fans worth it">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Dyson Cooling Fans Worth It?
@@ -317,19 +341,28 @@ Quick answer: No, Dyson cooling fans are not worth it and overpriced. For ventin
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-29 14:54:36 +0000 +0000'>September 29, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Dyson Cooling Fans Worth It?" href="https://danieldeer.github.io/heatertips/are-dyson-cooling-fans-worth-it/"></a>
+  <a class="entry-link" aria-label="post link to Are Dyson Cooling Fans Worth It?" href="https://heatertips.com/are-dyson-cooling-fans-worth-it/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/posts/page/17/">
+    <a class="prev" href="https://heatertips.com/posts/page/17/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/posts/page/19/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/posts/page/19/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -376,6 +409,18 @@ Quick answer: No, Dyson cooling fans are not worth it and overpriced. For ventin
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

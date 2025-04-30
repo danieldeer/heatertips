@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/air-conditioning/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/air-conditioning/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/air-conditioning/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/air-conditioning/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/air-conditioning/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/air-conditioning/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/air-conditioning/">
+<meta property="og:url" content="https://heatertips.com/category/air-conditioning/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Air-Conditioning">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span class="active">❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Air-Conditioning
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Fan not Rotating (7 Fixes)
@@ -145,12 +169,12 @@ Quick answer: Dyson heaters usually don’t rotate if there’s still tape on yo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-20 18:35:19 +0000 +0000'>December 20, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="https://danieldeer.github.io/heatertips/dyson-fan-not-rotating/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="https://heatertips.com/dyson-fan-not-rotating/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner-with-window-kit.webp" alt="window air conditioner with window kit">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner-with-window-kit.webp" alt="window air conditioner with window kit">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to insulate a Window AC (for Efficiency)
@@ -163,12 +187,12 @@ Quick answer: You can add insulation around a window AC by gluing styrofoam pane
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-09 10:37:17 +0000 +0000'>December 9, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to insulate a Window AC (for Efficiency)" href="https://danieldeer.github.io/heatertips/how-to-insulate-a-window-ac/"></a>
+  <a class="entry-link" aria-label="post link to How to insulate a Window AC (for Efficiency)" href="https://heatertips.com/how-to-insulate-a-window-ac/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner.webp" alt="window air conditioner">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner.webp" alt="window air conditioner">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to make a Window AC more efficient (9 Methods)
@@ -181,12 +205,12 @@ Quick Answer: You can make your window AC more efficient by insulating windows a
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-08 21:17:48 +0000 +0000'>December 8, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to make a Window AC more efficient (9 Methods)" href="https://danieldeer.github.io/heatertips/how-to-make-a-window-ac-more-efficient/"></a>
+  <a class="entry-link" aria-label="post link to How to make a Window AC more efficient (9 Methods)" href="https://heatertips.com/how-to-make-a-window-ac-more-efficient/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner.webp" alt="window air conditioner">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner.webp" alt="window air conditioner">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Window Air Conditioner not Cooling
@@ -200,12 +224,12 @@ Quick answer: To fix a window air conditioner not cooling, ensure that all airwa
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-05 13:49:46 +0000 +0000'>December 5, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://danieldeer.github.io/heatertips/how-to-fix-window-air-conditioner-not-cooling/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://heatertips.com/how-to-fix-window-air-conditioner-not-cooling/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-run-two-portable-air-conditioners-simultaneously.webp" alt="can-you-run-two-portable-air-conditioners-simultaneously">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-run-two-portable-air-conditioners-simultaneously.webp" alt="can-you-run-two-portable-air-conditioners-simultaneously">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you run two Portable ACs at once?
@@ -219,12 +243,12 @@ Quick Answer: You can run two portable air conditioners at the same time on the 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-28 17:22:19 +0000 +0000'>November 28, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you run two Portable ACs at once?" href="https://danieldeer.github.io/heatertips/can-you-run-two-portable-air-conditioners-at-once/"></a>
+  <a class="entry-link" aria-label="post link to Can you run two Portable ACs at once?" href="https://heatertips.com/can-you-run-two-portable-air-conditioners-at-once/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/quietest-portable-air-conditioners.webp" alt="quietest-portable-air-conditioners">
+        <img loading="lazy" src="https://heatertips.com/img/quietest-portable-air-conditioners.webp" alt="quietest-portable-air-conditioners">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">5 Quietest Portable Air Conditioners (47dB - 52dB)
@@ -237,12 +261,12 @@ Quick answer: The quietest portable air conditioner is a 47dB TOSOT unit. After 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-22 14:07:22 +0000 +0000'>November 22, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 5 Quietest Portable Air Conditioners (47dB - 52dB)" href="https://danieldeer.github.io/heatertips/quietest-portable-air-conditioners/"></a>
+  <a class="entry-link" aria-label="post link to 5 Quietest Portable Air Conditioners (47dB - 52dB)" href="https://heatertips.com/quietest-portable-air-conditioners/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/single-hose-vs-dual-hose-portable-air-conditioner-better.webp" alt="single-hose-vs-dual-hose-portable-air-conditioner-better">
+        <img loading="lazy" src="https://heatertips.com/img/single-hose-vs-dual-hose-portable-air-conditioner-better.webp" alt="single-hose-vs-dual-hose-portable-air-conditioner-better">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Is a Single-Hose or Dual-Hose AC Better?
@@ -254,12 +278,12 @@ Dual-hose portable air conditioners are more efficient than single-hose as they 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-21 14:35:58 +0000 +0000'>November 21, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Is a Single-Hose or Dual-Hose AC Better?" href="https://danieldeer.github.io/heatertips/is-a-single-or-dual-hose-portable-ac-better/"></a>
+  <a class="entry-link" aria-label="post link to Is a Single-Hose or Dual-Hose AC Better?" href="https://heatertips.com/is-a-single-or-dual-hose-portable-ac-better/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/best-air-conditioners-for-small-rooms.webp" alt="best air conditioners for small rooms">
+        <img loading="lazy" src="https://heatertips.com/img/best-air-conditioners-for-small-rooms.webp" alt="best air conditioners for small rooms">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">7 Best Air Conditioners for Small Rooms
@@ -272,12 +296,12 @@ Quick answer: The best air conditioner for small rooms is a 5,000 BTU window air
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-20 10:49:27 +0000 +0000'>November 20, 2022</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 7 Best Air Conditioners for Small Rooms" href="https://danieldeer.github.io/heatertips/best-air-conditioners-for-small-rooms/"></a>
+  <a class="entry-link" aria-label="post link to 7 Best Air Conditioners for Small Rooms" href="https://heatertips.com/best-air-conditioners-for-small-rooms/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/do-air-conditioners-wear-out.webp" alt="do-air-conditioners-wear-out">
+        <img loading="lazy" src="https://heatertips.com/img/do-air-conditioners-wear-out.webp" alt="do-air-conditioners-wear-out">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Air Conditioners Wear Out? (High vs Low Maintenance)
@@ -289,12 +313,12 @@ Quick answer: Yes, air conditioners wear out. You can expect an air conditioner 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-15 12:09:24 +0000 +0000'>November 15, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Air Conditioners Wear Out? (High vs Low Maintenance)" href="https://danieldeer.github.io/heatertips/do-air-conditioners-wear-out/"></a>
+  <a class="entry-link" aria-label="post link to Do Air Conditioners Wear Out? (High vs Low Maintenance)" href="https://heatertips.com/do-air-conditioners-wear-out/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/cheap-ways-to-cool-a-garage.webp" alt="cheap-ways-to-cool-a-garage">
+        <img loading="lazy" src="https://heatertips.com/img/cheap-ways-to-cool-a-garage.webp" alt="cheap-ways-to-cool-a-garage">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">14 Cheapest Ways to Cool a Garage
@@ -306,19 +330,28 @@ Quick answer: The cheapest way to cool a garage is a floor or ceiling fan. Insul
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-13 15:56:28 +0000 +0000'>November 13, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 14 Cheapest Ways to Cool a Garage" href="https://danieldeer.github.io/heatertips/cheapest-ways-to-cool-a-garage/"></a>
+  <a class="entry-link" aria-label="post link to 14 Cheapest Ways to Cool a Garage" href="https://heatertips.com/cheapest-ways-to-cool-a-garage/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/category/air-conditioning/page/2/">
+    <a class="prev" href="https://heatertips.com/category/air-conditioning/page/2/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/air-conditioning/page/4/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/air-conditioning/page/4/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -365,6 +398,18 @@ Quick answer: The cheapest way to cool a garage is a floor or ceiling fan. Insul
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

@@ -10,18 +10,18 @@
 
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="Daniel Hirsch">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/feed.xml">
-<link rel="alternate" type="application/json" href="https://danieldeer.github.io/heatertips/index.json">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/feed.xml">
+<link rel="alternate" type="application/json" href="https://heatertips.com/index.json">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/">
 <noscript>
     <style>
         #theme-toggle,
@@ -61,11 +61,12 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/">
+<meta property="og:url" content="https://heatertips.com/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource">
-  <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—we’ve got you covered. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
-🏆 Recommended Products Struggling to choose the right appliance? These expert recommendations help you get the best value for your money:">
+  <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - I’ve got you covered. Below you’ll find a couple of hand-picked guides to start with!
+On HeaterTips, you get honest, cost-effective, and technically solid recommendations on heating and cooling your home!
+Everything you read on this page is backed by my own experiments which I perform in my home lab, studies, and my own experience using heaters, air conditioners, and air purifiers.">
   <meta property="og:locale" content="en-US">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
@@ -77,9 +78,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HeaterTips",
-  "url": "https://danieldeer.github.io/heatertips/",
+  "url": "https://heatertips.com/",
   "description": "Home Heating and Cooling Guides and Reviews",
-  "logo": "https://danieldeer.github.io/favicon.ico",
+  "logo": "https://heatertips.com/favicon.ico",
   "sameAs": [
       
   ]
@@ -89,7 +90,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -98,40 +103,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -139,10 +164,13 @@
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><p>Welcome to your <strong>#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips</strong>! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—<strong>we’ve got you covered</strong>. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.</p>
+<div class="post-content"><p>Welcome to your <strong>#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips</strong>! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - <strong>I’ve got you covered</strong>. Below you’ll find a couple of hand-picked guides to start with!</p>
+<p>On HeaterTips, you get <strong>honest, cost-effective, and technically solid recommendations</strong> on heating and cooling your home!</p>
+<p>Everything you read on this page is backed by my <strong>own experiments</strong> which I perform in my <strong>home lab</strong>, studies, and my own experience using heaters, air conditioners, and air purifiers.</p>
+<p>I don&rsquo;t care about product brands, marketing, design, and all of that stuff. I simply recommend what works.</p>
 <hr>
 <h2 id="-recommended-products">🏆 Recommended Products<a hidden class="anchor" aria-hidden="true" href="#-recommended-products">#</a></h2>
-<p><strong>Struggling to choose the right appliance?</strong> These expert recommendations help you get the best value for your money:</p>
+<p><strong>Struggling to choose the right appliance?</strong> Here are my go-to product recommendations:</p>
 <ul>
 <li>🔥 <a href="/recommended-products/oil-filled-radiator/">Best Oil-filled Radiators</a></li>
 <li>🌞 <a href="/recommended-products/best-infrared-heater/">Best Infrared Heaters</a></li>
@@ -152,10 +180,9 @@
 <li>🔇 <a href="/quietest-portable-air-conditioners/">Quietest AC Units</a></li>
 <li>🧼 <a href="/best-air-purifiers-for-small-rooms/">Top Air Purifiers for Small Rooms</a></li>
 </ul>
-<p>👉 <a href="/category/heater-guides/">View all recommended products »</a></p>
 <hr>
 <h2 id="-save-energy--money">💡 Save Energy &amp; Money<a hidden class="anchor" aria-hidden="true" href="#-save-energy--money">#</a></h2>
-<p>Cut your bills without cutting comfort:</p>
+<p>Stop wasting energy and start saving money. Here are a couple of useful methods to improve your heater&rsquo;s or your AC&rsquo;s efficiency:</p>
 <ul>
 <li>💸 <a href="/space-heater-electricity-cost-a-look-at-the-costs-of-21-different-models/">How Much Does a Space Heater Cost to Run?</a></li>
 <li>🔌 <a href="/how-to-improve-oil-filled-radiator-efficiency/">Make Your Oil Heater More Efficient</a></li>
@@ -184,19 +211,19 @@
 </ul>
 <p>👉 <a href="/category/safety/">See all safety advice »</a></p>
 <hr>
-<h2 id="-not-sure-what-you-need">🔍 Not Sure What You Need?<a hidden class="anchor" aria-hidden="true" href="#-not-sure-what-you-need">#</a></h2>
+<h2 id="-cant-find-what-you-need">🔍 Can&rsquo;t find What You Need?<a hidden class="anchor" aria-hidden="true" href="#-cant-find-what-you-need">#</a></h2>
 <p>No problem. Try our powerful site search to find the perfect guide:</p>
 <p>👉 <a href="/search/">Search the entire site »</a></p>
 <hr>
-<h2 id="-stay-updated">📬 Stay Updated<a hidden class="anchor" aria-hidden="true" href="#-stay-updated">#</a></h2>
-<p>We’re constantly testing new devices and updating our guides. Bookmark this page and check back often to stay ahead of the seasons!</p>
+<h2 id="-check-our-latest-posts">📬 Check our Latest Posts<a hidden class="anchor" aria-hidden="true" href="#-check-our-latest-posts">#</a></h2>
+<p>I am constantly testing new devices and updating all guides. Here are my latest posts:</p>
 
 
 </div>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/propane-vs-electric-heater.webp" alt="propane vs electric heater">
+        <img loading="lazy" src="https://heatertips.com/img/propane-vs-electric-heater.webp" alt="propane vs electric heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Propane vs Electric Space Heater: Which is better?
@@ -210,7 +237,7 @@ Quick answer: Propane heaters are better than electric space heaters for rooms w
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-16 12:12:58 +0000 +0000'>December 16, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Propane vs Electric Space Heater: Which is better?" href="https://danieldeer.github.io/heatertips/propane-vs-electric-space-heater/"></a>
+  <a class="entry-link" aria-label="post link to Propane vs Electric Space Heater: Which is better?" href="https://heatertips.com/propane-vs-electric-space-heater/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -225,12 +252,12 @@ In this blog post, we’ll go over the five best ventless propane heaters on the
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-15 12:00:22 +0000 +0000'>December 15, 2022</span>&nbsp;·&nbsp;14 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 5 Best Ventless Propane Heaters" href="https://danieldeer.github.io/heatertips/best-ventless-propane-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 5 Best Ventless Propane Heaters" href="https://heatertips.com/best-ventless-propane-heaters/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-heating-element-temperature-measurement.webp" alt="infrared-heater-heating-element-temperature-measurement">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-heating-element-temperature-measurement.webp" alt="infrared-heater-heating-element-temperature-measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Infrared Heaters safe indoors?
@@ -242,12 +269,12 @@ Additionally, I will tell you how to safely run an infrared heater. And we will 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-15 11:43:43 +0000 +0000'>December 15, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Infrared Heaters safe indoors?" href="https://danieldeer.github.io/heatertips/are-infrared-heaters-safe-indoors/"></a>
+  <a class="entry-link" aria-label="post link to Are Infrared Heaters safe indoors?" href="https://heatertips.com/are-infrared-heaters-safe-indoors/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/propane-bottle-tank-valve.webp" alt="propane bottle tank valve">
+        <img loading="lazy" src="https://heatertips.com/img/propane-bottle-tank-valve.webp" alt="propane bottle tank valve">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How long does a Propane Tank last on a Patio Heater?
@@ -260,12 +287,12 @@ Quick answer: An average patio heater (45,000 BTU/h) lasts 7 hours with a 20lb p
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-14 15:50:51 +0000 +0000'>December 14, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How long does a Propane Tank last on a Patio Heater?" href="https://danieldeer.github.io/heatertips/how-long-does-a-propane-tank-last-on-a-patio-heater/"></a>
+  <a class="entry-link" aria-label="post link to How long does a Propane Tank last on a Patio Heater?" href="https://heatertips.com/how-long-does-a-propane-tank-last-on-a-patio-heater/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Dyson Heater not turning on
@@ -280,12 +307,12 @@ But I bet you don’t want to spend your day waiting for some uninterested call 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-14 12:15:20 +0000 +0000'>December 14, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Dyson Heater not turning on" href="https://danieldeer.github.io/heatertips/how-to-fix-a-dyson-heater-not-turning-on/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Dyson Heater not turning on" href="https://heatertips.com/how-to-fix-a-dyson-heater-not-turning-on/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How long can you run a Dyson Heater?
@@ -299,12 +326,12 @@ the design of a Dyson heater and where the heat accumulates how hot Dyson heater
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-14 10:29:33 +0000 +0000'>December 14, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How long can you run a Dyson Heater?" href="https://danieldeer.github.io/heatertips/how-long-can-you-run-a-dyson-heater/"></a>
+  <a class="entry-link" aria-label="post link to How long can you run a Dyson Heater?" href="https://heatertips.com/how-long-can-you-run-a-dyson-heater/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Fix a Dyson Heater not Blowing Hot Air
@@ -317,12 +344,12 @@ Quick answer: Your Dyson heater usually does not blow hot air if the airways are
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-13 12:25:51 +0000 +0000'>December 13, 2022</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Fix a Dyson Heater not Blowing Hot Air" href="https://danieldeer.github.io/heatertips/how-to-fix-a-dyson-heater-not-blowing-hot-air/"></a>
+  <a class="entry-link" aria-label="post link to How to Fix a Dyson Heater not Blowing Hot Air" href="https://heatertips.com/how-to-fix-a-dyson-heater-not-blowing-hot-air/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-in-front-of-window.webp" alt="infrared-heater-in-front-of-window">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-in-front-of-window.webp" alt="infrared-heater-in-front-of-window">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Infrared Heaters need to be vented?
@@ -334,12 +361,12 @@ Quick answer: No, you never need to vent an electric infrared heater. Electric i
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-12 10:52:07 +0000 +0000'>December 12, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Infrared Heaters need to be vented?" href="https://danieldeer.github.io/heatertips/do-infrared-heaters-need-to-be-vented/"></a>
+  <a class="entry-link" aria-label="post link to Do Infrared Heaters need to be vented?" href="https://heatertips.com/do-infrared-heaters-need-to-be-vented/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-space-heater-heating-settings.webp" alt="infrared space heater heating settings">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-space-heater-heating-settings.webp" alt="infrared space heater heating settings">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to make an Infrared Heater more efficient?
@@ -352,12 +379,12 @@ Quick Answer: You can increase your infrared heater’s perceived efficiency by
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-11 09:25:38 +0000 +0000'>December 11, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to make an Infrared Heater more efficient?" href="https://danieldeer.github.io/heatertips/how-to-make-an-infrared-heater-more-efficient/"></a>
+  <a class="entry-link" aria-label="post link to How to make an Infrared Heater more efficient?" href="https://heatertips.com/how-to-make-an-infrared-heater-more-efficient/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-next-to-bed.webp" alt="infrared-heater-next-to-bed">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-next-to-bed.webp" alt="infrared-heater-next-to-bed">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you run an Infrared Heater overnight?
@@ -371,19 +398,28 @@ Quick answer: Yes, you can run a quality infrared heater overnight given it is m
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-11 08:34:50 +0000 +0000'>December 11, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you run an Infrared Heater overnight?" href="https://danieldeer.github.io/heatertips/can-you-run-an-infrared-heater-overnight/"></a>
+  <a class="entry-link" aria-label="post link to Can you run an Infrared Heater overnight?" href="https://heatertips.com/can-you-run-an-infrared-heater-overnight/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/page/12/">
+    <a class="prev" href="https://heatertips.com/page/12/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/page/14/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/page/14/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -430,6 +466,18 @@ Quick answer: Yes, you can run a quality infrared heater overnight given it is m
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

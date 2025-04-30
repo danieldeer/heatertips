@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/repair/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/repair/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/repair/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/repair/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/repair/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/repair/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/repair/">
+<meta property="og:url" content="https://heatertips.com/category/repair/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Repair">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span class="active">🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Repair
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-amps-volts-multimeter-measurement.webp" alt="diesel heater amps volts multimeter measurement">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-amps-volts-multimeter-measurement.webp" alt="diesel heater amps volts multimeter measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How many Amps does a Diesel Heater use?
@@ -144,12 +168,12 @@ That’s as if I say that my car uses 100 horsepower per hour. It’s just a non
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-09 15:10:30 +0000 +0000'>December 9, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How many Amps does a Diesel Heater use?" href="https://danieldeer.github.io/heatertips/how-many-amps-does-a-diesel-heater-use/"></a>
+  <a class="entry-link" aria-label="post link to How many Amps does a Diesel Heater use?" href="https://heatertips.com/how-many-amps-does-a-diesel-heater-use/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-e08-error-code.webp" alt="diesel heater e08 error code">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-e08-error-code.webp" alt="diesel heater e08 error code">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel Heater E08 Error Code: How to Fix It
@@ -163,12 +187,12 @@ We’ll keep it simple &amp; easy.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-03 10:06:30 +0000 +0000'>December 3, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel Heater E08 Error Code: How to Fix It" href="https://danieldeer.github.io/heatertips/fix-diesel-heater-e08-error-code/"></a>
+  <a class="entry-link" aria-label="post link to Diesel Heater E08 Error Code: How to Fix It" href="https://heatertips.com/fix-diesel-heater-e08-error-code/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-f4-error-code.webp" alt="dyson-f4-error-code">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-f4-error-code.webp" alt="dyson-f4-error-code">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson F4 Error Code: How To Fix It
@@ -180,12 +204,12 @@ Quick answer: If your Dyson shows an F4 error, first try power cycling and check
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-26 13:39:49 +0000 +0000'>November 26, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson F4 Error Code: How To Fix It" href="https://danieldeer.github.io/heatertips/fix-dyson-f4-error-code/"></a>
+  <a class="entry-link" aria-label="post link to Dyson F4 Error Code: How To Fix It" href="https://heatertips.com/fix-dyson-f4-error-code/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-drip-tray-overflow-error.webp" alt="dyson drip tray overflow error">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-drip-tray-overflow-error.webp" alt="dyson drip tray overflow error">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Drip Tray Overflow Error: How to Fix It
@@ -199,12 +223,12 @@ In this article, we’re having a look at what the error means, where it comes f
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-12 14:51:31 +0000 +0000'>November 12, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Drip Tray Overflow Error: How to Fix It" href="https://danieldeer.github.io/heatertips/fix-dyson-drip-tray-overflow-error/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Drip Tray Overflow Error: How to Fix It" href="https://heatertips.com/fix-dyson-drip-tray-overflow-error/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Humidify&#43;Cool Not Humidifying: How To Fix It
@@ -218,12 +242,12 @@ One of the most common causes for the humidification not working is a clogged pu
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-11 08:49:03 +0000 +0000'>November 11, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Not Humidifying: How To Fix It" href="https://danieldeer.github.io/heatertips/fix-dyson-humidify-cool-not-humidifying/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Not Humidifying: How To Fix It" href="https://heatertips.com/fix-dyson-humidify-cool-not-humidifying/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-humidify-deep-clean-cycle-stuck-problem.webp" alt="dyson humidify deep clean cycle stuck problem">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-humidify-deep-clean-cycle-stuck-problem.webp" alt="dyson humidify deep clean cycle stuck problem">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Deep Clean Cycle Not Working: How To Fix It
@@ -237,12 +261,12 @@ What is the Deep Clean Cycle and why do you need it? Deep cleaning is the proces
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-29 11:53:25 +0000 +0000'>October 29, 2023</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Deep Clean Cycle Not Working: How To Fix It" href="https://danieldeer.github.io/heatertips/fix-dyson-deep-clean-cycle-not-working/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Deep Clean Cycle Not Working: How To Fix It" href="https://heatertips.com/fix-dyson-deep-clean-cycle-not-working/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/electric-kettle-fix-switch-bimetal-thermostat.webp" alt="electric kettle fix switch bimetal thermostat">
+        <img loading="lazy" src="https://heatertips.com/img/electric-kettle-fix-switch-bimetal-thermostat.webp" alt="electric kettle fix switch bimetal thermostat">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It
@@ -255,12 +279,12 @@ While writing this article, I discovered that kettles are actually incredibly ea
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-25 12:16:36 +0000 +0000'>October 25, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It" href="https://danieldeer.github.io/heatertips/fix-electric-kettle-keeps-boiling-doesnt-shut-off/"></a>
+  <a class="entry-link" aria-label="post link to Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It" href="https://heatertips.com/fix-electric-kettle-keeps-boiling-doesnt-shut-off/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/heat-storm-infrared-heater.webp" alt="heat storm infrared heater">
+        <img loading="lazy" src="https://heatertips.com/img/heat-storm-infrared-heater.webp" alt="heat storm infrared heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Heat Storm Heater Not Working: How to Fix It
@@ -274,12 +298,12 @@ Luckily, heat storm heaters are comparably simple devices. They don’t have tha
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-22 07:13:28 +0000 +0000'>October 22, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Heat Storm Heater Not Working: How to Fix It" href="https://danieldeer.github.io/heatertips/fix-heat-storm-heater-not-working/"></a>
+  <a class="entry-link" aria-label="post link to Heat Storm Heater Not Working: How to Fix It" href="https://heatertips.com/fix-heat-storm-heater-not-working/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-air-quality-temperature-sensor-problem-999.webp" alt="dyson air quality temperature sensor problem 999">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-air-quality-temperature-sensor-problem-999.webp" alt="dyson air quality temperature sensor problem 999">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Wrong Air Quality / Temperature: How to Fix It
@@ -293,12 +317,12 @@ This usually indicates a problem with the air quality and temperature sensor. Us
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-19 11:24:57 +0000 +0000'>October 19, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Wrong Air Quality / Temperature: How to Fix It" href="https://danieldeer.github.io/heatertips/fix-dyson-wrong-air-quality-temperature/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Wrong Air Quality / Temperature: How to Fix It" href="https://heatertips.com/fix-dyson-wrong-air-quality-temperature/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyson-fan-warning-triangle-sign-error.webp" alt="dyson fan warning triangle sign error">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-fan-warning-triangle-sign-error.webp" alt="dyson fan warning triangle sign error">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Fan Warning Triangle (5 Fixes)
@@ -312,16 +336,25 @@ Hi, my name is Daniel, I’m an electrical engineer. I’ve worked in a large re
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-10-17 12:14:19 +0000 +0000'>October 17, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Fan Warning Triangle (5 Fixes)" href="https://danieldeer.github.io/heatertips/dyson-fan-warning-triangle-error-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Fan Warning Triangle (5 Fixes)" href="https://heatertips.com/dyson-fan-warning-triangle-error-fixes/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/repair/page/2/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/repair/page/2/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -368,6 +401,18 @@ Hi, my name is Daniel, I’m an electrical engineer. I’ve worked in a large re
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

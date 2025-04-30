@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/repair/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/repair/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/repair/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/repair/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/repair/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/repair/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/repair/">
+<meta property="og:url" content="https://heatertips.com/category/repair/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Repair">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span class="active">🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Repair
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-front-view.webp" alt="infrared heater front view">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-front-view.webp" alt="infrared heater front view">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Fix Space Heater Smell (Plastic, Burning)
@@ -145,12 +169,12 @@ My name is Daniel, I am an electrical engineer, who worked in the heat sensing i
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-15 10:41:40 +0000 +0000'>August 15, 2023</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Fix Space Heater Smell (Plastic, Burning)" href="https://danieldeer.github.io/heatertips/how-to-fix-space-heater-smell/"></a>
+  <a class="entry-link" aria-label="post link to How to Fix Space Heater Smell (Plastic, Burning)" href="https://heatertips.com/how-to-fix-space-heater-smell/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-space-heater-power-cord-temperature-measurement.webp" alt="infrared space heater power cord temperature measurement">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-space-heater-power-cord-temperature-measurement.webp" alt="infrared space heater power cord temperature measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Space Heater Cord getting Hot
@@ -164,12 +188,12 @@ One cord is getting hot, the other stays cool. But that’s normal. A space heat
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-14 13:45:00 +0000 +0000'>August 14, 2023</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Space Heater Cord getting Hot" href="https://danieldeer.github.io/heatertips/how-to-fix-a-space-heater-cord-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Space Heater Cord getting Hot" href="https://heatertips.com/how-to-fix-a-space-heater-cord-getting-hot/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/space-heater-making-noise-sound-recording.webp" alt="space heater making noise sound recording">
+        <img loading="lazy" src="https://heatertips.com/img/space-heater-making-noise-sound-recording.webp" alt="space heater making noise sound recording">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Space Heater making Noise (6 Sound Samples &amp; Fixes)
@@ -183,12 +207,12 @@ For each sound, I will embed a real-life noise sample you can play and listen to
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-13 10:05:09 +0000 +0000'>August 13, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Space Heater making Noise (6 Sound Samples & Fixes)" href="https://danieldeer.github.io/heatertips/space-heater-making-noise-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Space Heater making Noise (6 Sound Samples & Fixes)" href="https://heatertips.com/space-heater-making-noise-fixes/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Fan not Cooling (5 Fixes)
@@ -201,12 +225,12 @@ Quick answer: A Dyson fan is usually not cooling because of blocked airways (air
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-10 09:46:34 +0000 +0000'>August 10, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Fan not Cooling (5 Fixes)" href="https://danieldeer.github.io/heatertips/dyson-fan-not-cooling-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Fan not Cooling (5 Fixes)" href="https://heatertips.com/dyson-fan-not-cooling-fixes/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/air-purifier-coway-airmega-400.webp" alt="air purifier coway airmega 400">
+        <img loading="lazy" src="https://heatertips.com/img/air-purifier-coway-airmega-400.webp" alt="air purifier coway airmega 400">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Fix a Coway Air Purifier not working (Repair Guide)
@@ -221,12 +245,12 @@ You probably don’t want to spend another $200 - $500 (or even up to $1,000 dep
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-09 07:57:07 +0000 +0000'>August 9, 2023</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Fix a Coway Air Purifier not working (Repair Guide)" href="https://danieldeer.github.io/heatertips/how-to-fix-a-coway-air-purifier-not-working/"></a>
+  <a class="entry-link" aria-label="post link to How to Fix a Coway Air Purifier not working (Repair Guide)" href="https://heatertips.com/how-to-fix-a-coway-air-purifier-not-working/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/air-purifier-removing-odors.webp" alt="air purifier removing odors">
+        <img loading="lazy" src="https://heatertips.com/img/air-purifier-removing-odors.webp" alt="air purifier removing odors">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why your Air Purifier is not Removing Odors (&#43; Fixes)
@@ -240,12 +264,12 @@ If you stick out until the end of this article, you’ll know exactly why your a
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-06 13:39:35 +0000 +0000'>August 6, 2023</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why your Air Purifier is not Removing Odors (&#43; Fixes)" href="https://danieldeer.github.io/heatertips/air-purifier-not-removing-odors-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Why your Air Purifier is not Removing Odors (&#43; Fixes)" href="https://heatertips.com/air-purifier-not-removing-odors-fixes/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/air-purifier-levoit-core-and-filter.webp" alt="air purifier levoit core and filter">
+        <img loading="lazy" src="https://heatertips.com/img/air-purifier-levoit-core-and-filter.webp" alt="air purifier levoit core and filter">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix an Air Purifier not Collecting Dust
@@ -260,12 +284,12 @@ Still, after some time, you should see something on the filters. If that’s not
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-05 12:38:36 +0000 +0000'>August 5, 2023</span>&nbsp;·&nbsp;16 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix an Air Purifier not Collecting Dust" href="https://danieldeer.github.io/heatertips/how-to-fix-an-air-purifier-not-collecting-dust/"></a>
+  <a class="entry-link" aria-label="post link to How to fix an Air Purifier not Collecting Dust" href="https://heatertips.com/how-to-fix-an-air-purifier-not-collecting-dust/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/air-purifier-levoit-core-top-panel-view.webp" alt="air purifier levoit core top panel view">
+        <img loading="lazy" src="https://heatertips.com/img/air-purifier-levoit-core-top-panel-view.webp" alt="air purifier levoit core top panel view">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Air Purifier making Noise (8 Noises &#43; Fixes)
@@ -279,12 +303,12 @@ Some noises, for example, quiet humming are normal. However, loud buzzing, scree
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-08-04 12:59:15 +0000 +0000'>August 4, 2023</span>&nbsp;·&nbsp;16 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Air Purifier making Noise (8 Noises &#43; Fixes)" href="https://danieldeer.github.io/heatertips/air-purifier-making-noise-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Air Purifier making Noise (8 Noises &#43; Fixes)" href="https://heatertips.com/air-purifier-making-noise-fixes/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/air-purifier-repair.webp" alt="air-purifier-repair">
+        <img loading="lazy" src="https://heatertips.com/img/air-purifier-repair.webp" alt="air-purifier-repair">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix an Air Purifier not turning on
@@ -299,12 +323,12 @@ After reading this article, you’ll know exactly how to fix your air purifier. 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-07-31 12:14:38 +0000 +0000'>July 31, 2023</span>&nbsp;·&nbsp;14 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix an Air Purifier not turning on" href="https://danieldeer.github.io/heatertips/how-to-fix-an-air-purifier-not-turning-on/"></a>
+  <a class="entry-link" aria-label="post link to How to fix an Air Purifier not turning on" href="https://heatertips.com/how-to-fix-an-air-purifier-not-turning-on/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/evaporative-swamp-cooler-hessaire-outdoors.webp" alt="evaporative-swamp-cooler-hessaire-outdoors">
+        <img loading="lazy" src="https://heatertips.com/img/evaporative-swamp-cooler-hessaire-outdoors.webp" alt="evaporative-swamp-cooler-hessaire-outdoors">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix Swamp Cooler Smell
@@ -319,19 +343,28 @@ So, let’s have a look at how you can get rid of the smell by cleaning your swa
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-07-19 18:07:31 +0000 +0000'>July 19, 2023</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix Swamp Cooler Smell" href="https://danieldeer.github.io/heatertips/how-to-fix-swamp-cooler-smell/"></a>
+  <a class="entry-link" aria-label="post link to How to fix Swamp Cooler Smell" href="https://heatertips.com/how-to-fix-swamp-cooler-smell/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/category/repair/page/2/">
+    <a class="prev" href="https://heatertips.com/category/repair/page/2/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/repair/page/4/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/repair/page/4/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -378,6 +411,18 @@ So, let’s have a look at how you can get rid of the smell by cleaning your swa
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

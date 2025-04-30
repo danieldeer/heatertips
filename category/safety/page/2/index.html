@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/safety/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/safety/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/safety/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/safety/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/safety/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/safety/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/safety/">
+<meta property="og:url" content="https://heatertips.com/category/safety/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Safety">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span class="active">🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span class="active">🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Safety
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
+        <img loading="lazy" src="https://heatertips.com/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Ventless Heaters cause Carbon Monoxide Poisoning?
@@ -143,12 +167,12 @@ Quick answer: Yes, you can theoretically get carbon monoxide poisoning from a ve
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-19 11:09:07 +0000 +0000'>December 19, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Ventless Heaters cause Carbon Monoxide Poisoning?" href="https://danieldeer.github.io/heatertips/can-ventless-heaters-cause-carbon-monoxide-poisoning/"></a>
+  <a class="entry-link" aria-label="post link to Can Ventless Heaters cause Carbon Monoxide Poisoning?" href="https://heatertips.com/can-ventless-heaters-cause-carbon-monoxide-poisoning/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Propane Heaters safe indoors?
@@ -161,12 +185,12 @@ After checking all of these “scary” aspects of propane heaters, you’re goi
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-17 10:32:06 +0000 +0000'>December 17, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Propane Heaters safe indoors?" href="https://danieldeer.github.io/heatertips/are-propane-heaters-safe-indoors/"></a>
+  <a class="entry-link" aria-label="post link to Are Propane Heaters safe indoors?" href="https://heatertips.com/are-propane-heaters-safe-indoors/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/surge-protector-space-heater.webp" alt="surge protector space heater">
+        <img loading="lazy" src="https://heatertips.com/img/surge-protector-space-heater.webp" alt="surge protector space heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Surge Protector with a Space Heater?
@@ -179,12 +203,12 @@ In this article, I’m going to tell you if you should use a surge protector wit
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-16 15:33:30 +0000 +0000'>December 16, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Surge Protector with a Space Heater?" href="https://danieldeer.github.io/heatertips/can-you-use-a-surge-protector-with-a-space-heater/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Surge Protector with a Space Heater?" href="https://heatertips.com/can-you-use-a-surge-protector-with-a-space-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-heating-element-temperature-measurement.webp" alt="infrared-heater-heating-element-temperature-measurement">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-heating-element-temperature-measurement.webp" alt="infrared-heater-heating-element-temperature-measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Infrared Heaters safe indoors?
@@ -196,12 +220,12 @@ Additionally, I will tell you how to safely run an infrared heater. And we will 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-15 11:43:43 +0000 +0000'>December 15, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Infrared Heaters safe indoors?" href="https://danieldeer.github.io/heatertips/are-infrared-heaters-safe-indoors/"></a>
+  <a class="entry-link" aria-label="post link to Are Infrared Heaters safe indoors?" href="https://heatertips.com/are-infrared-heaters-safe-indoors/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How long can you run a Dyson Heater?
@@ -215,12 +239,12 @@ the design of a Dyson heater and where the heat accumulates how hot Dyson heater
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-14 10:29:33 +0000 +0000'>December 14, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How long can you run a Dyson Heater?" href="https://danieldeer.github.io/heatertips/how-long-can-you-run-a-dyson-heater/"></a>
+  <a class="entry-link" aria-label="post link to How long can you run a Dyson Heater?" href="https://heatertips.com/how-long-can-you-run-a-dyson-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-next-to-bed.webp" alt="infrared-heater-next-to-bed">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-next-to-bed.webp" alt="infrared-heater-next-to-bed">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you run an Infrared Heater overnight?
@@ -234,12 +258,12 @@ Quick answer: Yes, you can run a quality infrared heater overnight given it is m
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-11 08:34:50 +0000 +0000'>December 11, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you run an Infrared Heater overnight?" href="https://danieldeer.github.io/heatertips/can-you-run-an-infrared-heater-overnight/"></a>
+  <a class="entry-link" aria-label="post link to Can you run an Infrared Heater overnight?" href="https://heatertips.com/can-you-run-an-infrared-heater-overnight/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/candle-burning.webp" alt="candle-burning">
+        <img loading="lazy" src="https://heatertips.com/img/candle-burning.webp" alt="candle-burning">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Candles cause Carbon Monoxide Poisoning?
@@ -251,12 +275,12 @@ But that doesn’t mean lighting candles is 100% safe. Since carbon monoxide is 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-08 20:52:37 +0000 +0000'>December 8, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Candles cause Carbon Monoxide Poisoning?" href="https://danieldeer.github.io/heatertips/can-candles-cause-carbon-monoxide-poisoning/"></a>
+  <a class="entry-link" aria-label="post link to Can Candles cause Carbon Monoxide Poisoning?" href="https://heatertips.com/can-candles-cause-carbon-monoxide-poisoning/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/rv-camper-mobile-home.webp" alt="rv camper mobile home">
+        <img loading="lazy" src="https://heatertips.com/img/rv-camper-mobile-home.webp" alt="rv camper mobile home">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use an Oil-filled Radiator in an RV?
@@ -269,12 +293,12 @@ In this article, we’re going to check all you need to know about oil-filled ra
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-07 10:15:16 +0000 +0000'>December 7, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in an RV?" href="https://danieldeer.github.io/heatertips/can-you-use-an-oil-filled-radiator-in-an-rv/"></a>
+  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in an RV?" href="https://heatertips.com/can-you-use-an-oil-filled-radiator-in-an-rv/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/oil-filled-radiator-in-bathroom.webp" alt="oil-filled-radiator-in-bathroom">
+        <img loading="lazy" src="https://heatertips.com/img/oil-filled-radiator-in-bathroom.webp" alt="oil-filled-radiator-in-bathroom">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use an Oil-filled Radiator in a Bathroom?
@@ -287,12 +311,12 @@ Quick Answer: Yes, you can use an oil-filled radiator in a bathroom. The large m
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-06 16:07:06 +0000 +0000'>December 6, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in a Bathroom?" href="https://danieldeer.github.io/heatertips/can-you-use-an-oil-filled-radiator-in-a-bathroom/"></a>
+  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in a Bathroom?" href="https://heatertips.com/can-you-use-an-oil-filled-radiator-in-a-bathroom/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-burn-coal-in-a-wood-stove.webp" alt="can-you-burn-coal-in-a-wood-stove">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-burn-coal-in-a-wood-stove.webp" alt="can-you-burn-coal-in-a-wood-stove">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you burn Coal in a Wood Stove?
@@ -304,19 +328,28 @@ Quick answer: It is not recommended to burn coal in a wood stove. While it is po
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-02 13:05:29 +0000 +0000'>December 2, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you burn Coal in a Wood Stove?" href="https://danieldeer.github.io/heatertips/can-you-burn-coal-in-a-wood-stove/"></a>
+  <a class="entry-link" aria-label="post link to Can you burn Coal in a Wood Stove?" href="https://heatertips.com/can-you-burn-coal-in-a-wood-stove/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/category/safety/">
+    <a class="prev" href="https://heatertips.com/category/safety/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/safety/page/3/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/safety/page/3/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -363,6 +396,18 @@ Quick answer: It is not recommended to burn coal in a wood stove. While it is po
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

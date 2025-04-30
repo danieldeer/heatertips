@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/safety/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/safety/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/safety/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/safety/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/safety/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/safety/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/safety/">
+<meta property="og:url" content="https://heatertips.com/category/safety/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Safety">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span class="active">🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span class="active">🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Safety
   </h1>
@@ -141,12 +165,12 @@ Quick answer: Yes, you can run a wood stove pipe through a window by using a pre
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-29 11:11:16 +0000 +0000'>November 29, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can You Run a Wood Stove Pipe through a Window?" href="https://danieldeer.github.io/heatertips/can-you-run-wood-stove-pipe-through-window/"></a>
+  <a class="entry-link" aria-label="post link to Can You Run a Wood Stove Pipe through a Window?" href="https://heatertips.com/can-you-run-wood-stove-pipe-through-window/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-run-two-portable-air-conditioners-simultaneously.webp" alt="can-you-run-two-portable-air-conditioners-simultaneously">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-run-two-portable-air-conditioners-simultaneously.webp" alt="can-you-run-two-portable-air-conditioners-simultaneously">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you run two Portable ACs at once?
@@ -160,12 +184,12 @@ Quick Answer: You can run two portable air conditioners at the same time on the 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-28 17:22:19 +0000 +0000'>November 28, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you run two Portable ACs at once?" href="https://danieldeer.github.io/heatertips/can-you-run-two-portable-air-conditioners-at-once/"></a>
+  <a class="entry-link" aria-label="post link to Can you run two Portable ACs at once?" href="https://heatertips.com/can-you-run-two-portable-air-conditioners-at-once/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-use-a-space-heater-for-a-sauna.webp" alt="can-you-use-a-space-heater-for-a-sauna">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-use-a-space-heater-for-a-sauna.webp" alt="can-you-use-a-space-heater-for-a-sauna">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Space Heater for a Sauna?
@@ -177,12 +201,12 @@ Quick answer: Yes, you can use space heaters to heat a sauna. However, you eithe
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-25 14:52:31 +0000 +0000'>November 25, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Space Heater for a Sauna?" href="https://danieldeer.github.io/heatertips/can-you-use-a-space-heater-for-a-sauna/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Space Heater for a Sauna?" href="https://heatertips.com/can-you-use-a-space-heater-for-a-sauna/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.webp" alt="can-you-use-a-portable-air-conditioner-when-its-smoky-outside">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.webp" alt="can-you-use-a-portable-air-conditioner-when-its-smoky-outside">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Portable AC when it’s Smoky outside?
@@ -195,12 +219,12 @@ Quick answer: You should not use a single-hose portable AC when it’s smoky out
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-13 08:31:19 +0000 +0000'>November 13, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Portable AC when it’s Smoky outside?" href="https://danieldeer.github.io/heatertips/can-you-use-portable-ac-when-smoky-outside/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Portable AC when it’s Smoky outside?" href="https://heatertips.com/can-you-use-portable-ac-when-smoky-outside/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-use-a-propane-heater-in-an-rv.webp" alt="can-you-use-a-propane-heater-in-an-rv">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-use-a-propane-heater-in-an-rv.webp" alt="can-you-use-a-propane-heater-in-an-rv">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can You Use a Propane Heater in an RV?
@@ -213,12 +237,12 @@ Quick answer: Yes, you can use a propane heater in an RV. However, the heater mu
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-08 09:33:26 +0000 +0000'>November 8, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can You Use a Propane Heater in an RV?" href="https://danieldeer.github.io/heatertips/can-you-use-a-propane-heater-in-an-rv/"></a>
+  <a class="entry-link" aria-label="post link to Can You Use a Propane Heater in an RV?" href="https://heatertips.com/can-you-use-a-propane-heater-in-an-rv/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-run-two-space-heaters-at-once.webp" alt="can you run two space heaters at once">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-run-two-space-heaters-at-once.webp" alt="can you run two space heaters at once">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you Run Two Space Heaters at once? (Experiment Confirmed)
@@ -231,12 +255,12 @@ Quick answer: On regular US 120V wall outlets you can run two space heaters at o
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-01 12:20:11 +0000 +0000'>November 1, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you Run Two Space Heaters at once? (Experiment Confirmed)" href="https://danieldeer.github.io/heatertips/can-you-run-two-space-heaters-at-once/"></a>
+  <a class="entry-link" aria-label="post link to Can you Run Two Space Heaters at once? (Experiment Confirmed)" href="https://heatertips.com/can-you-run-two-space-heaters-at-once/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
+        <img loading="lazy" src="https://heatertips.com/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Space Heaters Emit Carbon Monoxide?
@@ -249,12 +273,12 @@ In this article, we’re shedding light on what type of space heaters can emit c
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-27 10:26:29 +0000 +0000'>October 27, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Space Heaters Emit Carbon Monoxide?" href="https://danieldeer.github.io/heatertips/do-space-heaters-emit-carbon-monoxide/"></a>
+  <a class="entry-link" aria-label="post link to Do Space Heaters Emit Carbon Monoxide?" href="https://heatertips.com/do-space-heaters-emit-carbon-monoxide/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-portable-air-conditioners-run-24-7.webp" alt="can portable air conditioners run 24-7">
+        <img loading="lazy" src="https://heatertips.com/img/can-portable-air-conditioners-run-24-7.webp" alt="can portable air conditioners run 24-7">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Portable Air Conditioners Run 24/7?
@@ -266,12 +290,12 @@ Quick Answer: Yes, portable air conditioners can run 24/7. While it may not have
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-29 15:16:30 +0000 +0000'>September 29, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Portable Air Conditioners Run 24/7?" href="https://danieldeer.github.io/heatertips/can-portable-air-conditioners-run-continuously/"></a>
+  <a class="entry-link" aria-label="post link to Can Portable Air Conditioners Run 24/7?" href="https://heatertips.com/can-portable-air-conditioners-run-continuously/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-portable-air-conditioners-safe.webp" alt="are portable air conditioners safe">
+        <img loading="lazy" src="https://heatertips.com/img/are-portable-air-conditioners-safe.webp" alt="are portable air conditioners safe">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Portable Air Conditioners Safe?
@@ -283,12 +307,12 @@ Quick Answer: Yes, portable air conditioners are safe. As long as you maintain t
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-22 10:00:45 +0000 +0000'>September 22, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Portable Air Conditioners Safe?" href="https://danieldeer.github.io/heatertips/are-portable-air-conditioners-safe/"></a>
+  <a class="entry-link" aria-label="post link to Are Portable Air Conditioners Safe?" href="https://heatertips.com/are-portable-air-conditioners-safe/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/do-portable-air-conditioners-give-off-carbon-monoxide.webp" alt="portable air conditioner installed at a window">
+        <img loading="lazy" src="https://heatertips.com/img/do-portable-air-conditioners-give-off-carbon-monoxide.webp" alt="portable air conditioner installed at a window">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Portable Air Conditioners give off Carbon Monoxide?
@@ -301,19 +325,28 @@ However, there are a few uncommon situations whereby your portable AC could be i
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-08-30 10:47:37 +0000 +0000'>August 30, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Portable Air Conditioners give off Carbon Monoxide?" href="https://danieldeer.github.io/heatertips/portable-air-conditioner-carbon-monoxide/"></a>
+  <a class="entry-link" aria-label="post link to Do Portable Air Conditioners give off Carbon Monoxide?" href="https://heatertips.com/portable-air-conditioner-carbon-monoxide/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/category/safety/page/2/">
+    <a class="prev" href="https://heatertips.com/category/safety/page/2/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/safety/page/4/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/safety/page/4/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -360,6 +393,18 @@ However, there are a few uncommon situations whereby your portable AC could be i
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

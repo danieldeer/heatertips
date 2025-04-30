@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/heater-guides/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/heater-guides/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/heater-guides/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/heater-guides/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/heater-guides/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/heater-guides/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/heater-guides/">
+<meta property="og:url" content="https://heatertips.com/category/heater-guides/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Heater-Guides">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span class="active">🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Heater-Guides
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-hot-air-exhaust.webp" alt="diesel heater hot air exhaust">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-hot-air-exhaust.webp" alt="diesel heater hot air exhaust">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Use a Diesel Heater Indoors: The Complete Guide
@@ -145,12 +169,12 @@ In this guide, we’re having a look at how to properly set up a diesel heater f
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-12 13:19:29 +0000 +0000'>December 12, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Use a Diesel Heater Indoors: The Complete Guide" href="https://danieldeer.github.io/heatertips/how-to-use-a-diesel-heater-indoors/"></a>
+  <a class="entry-link" aria-label="post link to How to Use a Diesel Heater Indoors: The Complete Guide" href="https://heatertips.com/how-to-use-a-diesel-heater-indoors/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/dyna-glo-powerful-15000-watts-electric-space-heater.webp" alt="dyna-glo powerful 15000 watts electric space heater">
+        <img loading="lazy" src="https://heatertips.com/img/dyna-glo-powerful-15000-watts-electric-space-heater.webp" alt="dyna-glo powerful 15000 watts electric space heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Space Heaters Over 1,500 Watts (Electric, Gas)
@@ -163,12 +187,12 @@ So, the average US household circuit can support 1,800 Watts. But since you want
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-11 09:25:20 +0000 +0000'>December 11, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Space Heaters Over 1,500 Watts (Electric, Gas)" href="https://danieldeer.github.io/heatertips/space-heaters-over-1500-watts/"></a>
+  <a class="entry-link" aria-label="post link to Space Heaters Over 1,500 Watts (Electric, Gas)" href="https://heatertips.com/space-heaters-over-1500-watts/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-amps-volts-multimeter-measurement.webp" alt="diesel heater amps volts multimeter measurement">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-amps-volts-multimeter-measurement.webp" alt="diesel heater amps volts multimeter measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How many Amps does a Diesel Heater use?
@@ -181,12 +205,12 @@ That’s as if I say that my car uses 100 horsepower per hour. It’s just a non
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-09 15:10:30 +0000 +0000'>December 9, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How many Amps does a Diesel Heater use?" href="https://danieldeer.github.io/heatertips/how-many-amps-does-a-diesel-heater-use/"></a>
+  <a class="entry-link" aria-label="post link to How many Amps does a Diesel Heater use?" href="https://heatertips.com/how-many-amps-does-a-diesel-heater-use/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/infrared-heater-front-view.webp" alt="infrared heater front view">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-front-view.webp" alt="infrared heater front view">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">4 Best Fanless Heaters
@@ -198,12 +222,12 @@ No wear-down: Since they have no built-in fan, they don’t wear down over time 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-06 09:48:56 +0000 +0000'>December 6, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 4 Best Fanless Heaters" href="https://danieldeer.github.io/heatertips/best-fanless-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 4 Best Fanless Heaters" href="https://heatertips.com/best-fanless-heaters/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/electric-vs-diesel-heaters-for-RVs.webp" alt="electric vs diesel heaters for RVs">
+        <img loading="lazy" src="https://heatertips.com/img/electric-vs-diesel-heaters-for-RVs.webp" alt="electric vs diesel heaters for RVs">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel vs Electric RV Heaters: Which to Pick?
@@ -216,12 +240,12 @@ Electric heaters are easier to use and quieter, but they might not give you as m
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-02 09:32:30 +0000 +0000'>December 2, 2023</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel vs Electric RV Heaters: Which to Pick?" href="https://danieldeer.github.io/heatertips/diesel-vs-electric-rv-heaters/"></a>
+  <a class="entry-link" aria-label="post link to Diesel vs Electric RV Heaters: Which to Pick?" href="https://heatertips.com/diesel-vs-electric-rv-heaters/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-fuel-gelling.webp" alt="diesel fuel gelling">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-fuel-gelling.webp" alt="diesel fuel gelling">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel Heater Fuel Gelling: 4 Fixes
@@ -234,12 +258,12 @@ How to Fix Diesel Heater Fuel Gelling To properly winterize your diesel heater, 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-01 10:19:51 +0000 +0000'>December 1, 2023</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel Heater Fuel Gelling: 4 Fixes" href="https://danieldeer.github.io/heatertips/fix-diesel-heater-fuel-gelling/"></a>
+  <a class="entry-link" aria-label="post link to Diesel Heater Fuel Gelling: 4 Fixes" href="https://heatertips.com/fix-diesel-heater-fuel-gelling/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-e10-error-code.webp" alt="diesel heater e10 error code">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-e10-error-code.webp" alt="diesel heater e10 error code">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel Heater E10 Error Code (3 Causes and Fixes)
@@ -252,12 +276,12 @@ This article serves as a reference for the E10 error on diesel heaters. We’ll 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-30 21:02:30 +0000 +0000'>November 30, 2023</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel Heater E10 Error Code (3 Causes and Fixes)" href="https://danieldeer.github.io/heatertips/fix-diesel-heater-e10-error/"></a>
+  <a class="entry-link" aria-label="post link to Diesel Heater E10 Error Code (3 Causes and Fixes)" href="https://heatertips.com/fix-diesel-heater-e10-error/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-heater-hot-air-exhaust.webp" alt="diesel heater hot air exhaust">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-heater-hot-air-exhaust.webp" alt="diesel heater hot air exhaust">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel Heater Not Getting Hot (12 Fixes)
@@ -270,12 +294,12 @@ This makes them relatively hard to troubleshoot. However, it’s not as hard as 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-30 09:58:55 +0000 +0000'>November 30, 2023</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel Heater Not Getting Hot (12 Fixes)" href="https://danieldeer.github.io/heatertips/diesel-heater-not-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to Diesel Heater Not Getting Hot (12 Fixes)" href="https://heatertips.com/diesel-heater-not-getting-hot/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/diesel-vs-propane-heater.webp" alt="diesel vs propane heater">
+        <img loading="lazy" src="https://heatertips.com/img/diesel-vs-propane-heater.webp" alt="diesel vs propane heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Diesel vs Propane Heater: Which To Pick? (5 Differences)
@@ -289,12 +313,12 @@ In this article, we’re going to have a look at the differences between diesel 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-29 06:51:17 +0000 +0000'>November 29, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Diesel vs Propane Heater: Which To Pick? (5 Differences)" href="https://danieldeer.github.io/heatertips/diesel-vs-propane-heater/"></a>
+  <a class="entry-link" aria-label="post link to Diesel vs Propane Heater: Which To Pick? (5 Differences)" href="https://heatertips.com/diesel-vs-propane-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/vornadobaby-tempa-child-safe-lockable-space-heater.webp" alt="vornadobaby tempa child-safe lockable space heater">
+        <img loading="lazy" src="https://heatertips.com/img/vornadobaby-tempa-child-safe-lockable-space-heater.webp" alt="vornadobaby tempa child-safe lockable space heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">4 Best Child-Safe Heaters
@@ -308,16 +332,25 @@ In this article, we’ll have a look at space heaters that are very safe for chi
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-28 09:55:36 +0000 +0000'>November 28, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 4 Best Child-Safe Heaters" href="https://danieldeer.github.io/heatertips/best-child-safe-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 4 Best Child-Safe Heaters" href="https://heatertips.com/best-child-safe-heaters/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/heater-guides/page/2/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/heater-guides/page/2/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -364,6 +397,18 @@ In this article, we’ll have a look at space heaters that are very safe for chi
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

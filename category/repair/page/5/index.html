@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/category/repair/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/category/repair/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/category/repair/feed.xml">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/category/repair/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/repair/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/repair/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/category/repair/">
+<meta property="og:url" content="https://heatertips.com/category/repair/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Repair">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span class="active">🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="https://danieldeer.github.io/heatertips/">Home</a>&nbsp;»&nbsp;<a href="https://danieldeer.github.io/heatertips/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Repair
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Fan not Rotating (7 Fixes)
@@ -145,12 +169,12 @@ Quick answer: Dyson heaters usually don’t rotate if there’s still tape on yo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-20 18:35:19 +0000 +0000'>December 20, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="https://danieldeer.github.io/heatertips/dyson-fan-not-rotating/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="https://heatertips.com/dyson-fan-not-rotating/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
+        <img loading="lazy" src="https://heatertips.com/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Propane Heater keeps shutting off (7 Fixes)
@@ -163,12 +187,12 @@ Quick answer: Propane heaters usually keep shutting off and don’t stay lit bec
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-20 10:11:53 +0000 +0000'>December 20, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Propane Heater keeps shutting off (7 Fixes)" href="https://danieldeer.github.io/heatertips/propane-heater-keeps-shutting-off/"></a>
+  <a class="entry-link" aria-label="post link to Propane Heater keeps shutting off (7 Fixes)" href="https://heatertips.com/propane-heater-keeps-shutting-off/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
+        <img loading="lazy" src="https://heatertips.com/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Mr. Heater Buddy not lighting
@@ -181,12 +205,12 @@ Quick answer: You can fix your Mr. Heater Buddy not lighting by cleaning the pil
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-18 14:40:06 +0000 +0000'>December 18, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Mr. Heater Buddy not lighting" href="https://danieldeer.github.io/heatertips/how-to-fix-a-mr-heater-buddy-not-lighting/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Mr. Heater Buddy not lighting" href="https://heatertips.com/how-to-fix-a-mr-heater-buddy-not-lighting/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Dyson Heater not turning on
@@ -201,12 +225,12 @@ But I bet you don’t want to spend your day waiting for some uninterested call 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-14 12:15:20 +0000 +0000'>December 14, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Dyson Heater not turning on" href="https://danieldeer.github.io/heatertips/how-to-fix-a-dyson-heater-not-turning-on/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Dyson Heater not turning on" href="https://heatertips.com/how-to-fix-a-dyson-heater-not-turning-on/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Fix a Dyson Heater not Blowing Hot Air
@@ -219,12 +243,12 @@ Quick answer: Your Dyson heater usually does not blow hot air if the airways are
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-13 12:25:51 +0000 +0000'>December 13, 2022</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Fix a Dyson Heater not Blowing Hot Air" href="https://danieldeer.github.io/heatertips/how-to-fix-a-dyson-heater-not-blowing-hot-air/"></a>
+  <a class="entry-link" aria-label="post link to How to Fix a Dyson Heater not Blowing Hot Air" href="https://heatertips.com/how-to-fix-a-dyson-heater-not-blowing-hot-air/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner.webp" alt="window air conditioner">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner.webp" alt="window air conditioner">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Window Air Conditioner not Cooling
@@ -238,12 +262,12 @@ Quick answer: To fix a window air conditioner not cooling, ensure that all airwa
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-05 13:49:46 +0000 +0000'>December 5, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://danieldeer.github.io/heatertips/how-to-fix-window-air-conditioner-not-cooling/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://heatertips.com/how-to-fix-window-air-conditioner-not-cooling/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/oil-filled-radiator-temperature-measurement.webp" alt="oil-filled radiator temperature measurement">
+        <img loading="lazy" src="https://heatertips.com/img/oil-filled-radiator-temperature-measurement.webp" alt="oil-filled radiator temperature measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why is my Oil-filled Radiator not getting hot? (6 Fixes)
@@ -255,12 +279,12 @@ Quick Answer: Oil-filled radiators stop heating because of a broken thermostat. 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-03 09:47:06 +0000 +0000'>December 3, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why is my Oil-filled Radiator not getting hot? (6 Fixes)" href="https://danieldeer.github.io/heatertips/oil-filled-radiator-not-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to Why is my Oil-filled Radiator not getting hot? (6 Fixes)" href="https://heatertips.com/oil-filled-radiator-not-getting-hot/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-fix-portable-ac-not-turning-on.webp" alt="how to fix portable ac not turning on">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-fix-portable-ac-not-turning-on.webp" alt="how to fix portable ac not turning on">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Portable AC not turning on
@@ -273,12 +297,12 @@ Don’t worry! For each of those causes, I’ll tell you exactly how to check it
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-05 11:04:33 +0000 +0000'>November 5, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Portable AC not turning on" href="https://danieldeer.github.io/heatertips/how-to-fix-portable-ac-not-turning-on/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Portable AC not turning on" href="https://heatertips.com/how-to-fix-portable-ac-not-turning-on/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/portable-air-conditioner-not-collecting-water.webp" alt="portable air conditioner not collecting water">
+        <img loading="lazy" src="https://heatertips.com/img/portable-air-conditioner-not-collecting-water.webp" alt="portable air conditioner not collecting water">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why does your Portable Air Conditioner Collect no Water?
@@ -291,12 +315,12 @@ Let’s have a look at each of those reasons.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-23 14:24:27 +0000 +0000'>September 23, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why does your Portable Air Conditioner Collect no Water?" href="https://danieldeer.github.io/heatertips/portable-air-conditioner-collects-no-water/"></a>
+  <a class="entry-link" aria-label="post link to Why does your Portable Air Conditioner Collect no Water?" href="https://heatertips.com/portable-air-conditioner-collects-no-water/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-fix-portable-air-conditioner-not-cooling.webp" alt="how to fix portable air conditioner not cooling">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-fix-portable-air-conditioner-not-cooling.webp" alt="how to fix portable air conditioner not cooling">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Fix a Portable Air Conditioner not Cooling
@@ -308,19 +332,28 @@ Quick answer: Place your portable AC in a room that suits its size. Insulate the
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-09-19 08:32:37 +0000 +0000'>September 19, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Fix a Portable Air Conditioner not Cooling" href="https://danieldeer.github.io/heatertips/how-to-fix-portable-air-conditioner-not-cooling/"></a>
+  <a class="entry-link" aria-label="post link to How to Fix a Portable Air Conditioner not Cooling" href="https://heatertips.com/how-to-fix-portable-air-conditioner-not-cooling/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/category/repair/page/4/">
+    <a class="prev" href="https://heatertips.com/category/repair/page/4/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/category/repair/page/6/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/repair/page/6/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -367,6 +400,18 @@ Quick answer: Place your portable AC in a room that suits its size. Insulate the
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

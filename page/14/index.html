@@ -10,18 +10,18 @@
 
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="Daniel Hirsch">
-<link rel="canonical" href="https://danieldeer.github.io/heatertips/">
-<link crossorigin="anonymous" href="/heatertips/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://danieldeer.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://danieldeer.github.io/heatertips/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://danieldeer.github.io/heatertips/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://danieldeer.github.io/heatertips/apple-touch-icon.png">
-<link rel="mask-icon" href="https://danieldeer.github.io/heatertips/safari-pinned-tab.svg">
+<link rel="canonical" href="https://heatertips.com/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://danieldeer.github.io/heatertips/feed.xml">
-<link rel="alternate" type="application/json" href="https://danieldeer.github.io/heatertips/index.json">
-<link rel="alternate" hreflang="en" href="https://danieldeer.github.io/heatertips/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/feed.xml">
+<link rel="alternate" type="application/json" href="https://heatertips.com/index.json">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/">
 <noscript>
     <style>
         #theme-toggle,
@@ -61,11 +61,12 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="https://danieldeer.github.io/heatertips/">
+<meta property="og:url" content="https://heatertips.com/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource">
-  <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—we’ve got you covered. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
-🏆 Recommended Products Struggling to choose the right appliance? These expert recommendations help you get the best value for your money:">
+  <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - I’ve got you covered. Below you’ll find a couple of hand-picked guides to start with!
+On HeaterTips, you get honest, cost-effective, and technically solid recommendations on heating and cooling your home!
+Everything you read on this page is backed by my own experiments which I perform in my home lab, studies, and my own experience using heaters, air conditioners, and air purifiers.">
   <meta property="og:locale" content="en-US">
   <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
@@ -77,9 +78,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HeaterTips",
-  "url": "https://danieldeer.github.io/heatertips/",
+  "url": "https://heatertips.com/",
   "description": "Home Heating and Cooling Guides and Reviews",
-  "logo": "https://danieldeer.github.io/favicon.ico",
+  "logo": "https://heatertips.com/favicon.ico",
   "sameAs": [
       
   ]
@@ -89,7 +90,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -98,40 +103,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://danieldeer.github.io/heatertips/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://danieldeer.github.io/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://danieldeer.github.io/heatertips/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://danieldeer.github.io/heatertips/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="https://danieldeer.github.io/heatertips/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -139,10 +164,13 @@
     </nav>
 </header>
 <main class="main"> 
-<div class="post-content"><p>Welcome to your <strong>#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips</strong>! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—<strong>we’ve got you covered</strong>. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.</p>
+<div class="post-content"><p>Welcome to your <strong>#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips</strong>! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - <strong>I’ve got you covered</strong>. Below you’ll find a couple of hand-picked guides to start with!</p>
+<p>On HeaterTips, you get <strong>honest, cost-effective, and technically solid recommendations</strong> on heating and cooling your home!</p>
+<p>Everything you read on this page is backed by my <strong>own experiments</strong> which I perform in my <strong>home lab</strong>, studies, and my own experience using heaters, air conditioners, and air purifiers.</p>
+<p>I don&rsquo;t care about product brands, marketing, design, and all of that stuff. I simply recommend what works.</p>
 <hr>
 <h2 id="-recommended-products">🏆 Recommended Products<a hidden class="anchor" aria-hidden="true" href="#-recommended-products">#</a></h2>
-<p><strong>Struggling to choose the right appliance?</strong> These expert recommendations help you get the best value for your money:</p>
+<p><strong>Struggling to choose the right appliance?</strong> Here are my go-to product recommendations:</p>
 <ul>
 <li>🔥 <a href="/recommended-products/oil-filled-radiator/">Best Oil-filled Radiators</a></li>
 <li>🌞 <a href="/recommended-products/best-infrared-heater/">Best Infrared Heaters</a></li>
@@ -152,10 +180,9 @@
 <li>🔇 <a href="/quietest-portable-air-conditioners/">Quietest AC Units</a></li>
 <li>🧼 <a href="/best-air-purifiers-for-small-rooms/">Top Air Purifiers for Small Rooms</a></li>
 </ul>
-<p>👉 <a href="/category/heater-guides/">View all recommended products »</a></p>
 <hr>
 <h2 id="-save-energy--money">💡 Save Energy &amp; Money<a hidden class="anchor" aria-hidden="true" href="#-save-energy--money">#</a></h2>
-<p>Cut your bills without cutting comfort:</p>
+<p>Stop wasting energy and start saving money. Here are a couple of useful methods to improve your heater&rsquo;s or your AC&rsquo;s efficiency:</p>
 <ul>
 <li>💸 <a href="/space-heater-electricity-cost-a-look-at-the-costs-of-21-different-models/">How Much Does a Space Heater Cost to Run?</a></li>
 <li>🔌 <a href="/how-to-improve-oil-filled-radiator-efficiency/">Make Your Oil Heater More Efficient</a></li>
@@ -184,19 +211,19 @@
 </ul>
 <p>👉 <a href="/category/safety/">See all safety advice »</a></p>
 <hr>
-<h2 id="-not-sure-what-you-need">🔍 Not Sure What You Need?<a hidden class="anchor" aria-hidden="true" href="#-not-sure-what-you-need">#</a></h2>
+<h2 id="-cant-find-what-you-need">🔍 Can&rsquo;t find What You Need?<a hidden class="anchor" aria-hidden="true" href="#-cant-find-what-you-need">#</a></h2>
 <p>No problem. Try our powerful site search to find the perfect guide:</p>
 <p>👉 <a href="/search/">Search the entire site »</a></p>
 <hr>
-<h2 id="-stay-updated">📬 Stay Updated<a hidden class="anchor" aria-hidden="true" href="#-stay-updated">#</a></h2>
-<p>We’re constantly testing new devices and updating our guides. Bookmark this page and check back often to stay ahead of the seasons!</p>
+<h2 id="-check-our-latest-posts">📬 Check our Latest Posts<a hidden class="anchor" aria-hidden="true" href="#-check-our-latest-posts">#</a></h2>
+<p>I am constantly testing new devices and updating all guides. Here are my latest posts:</p>
 
 
 </div>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner-with-window-kit.webp" alt="window air conditioner with window kit">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner-with-window-kit.webp" alt="window air conditioner with window kit">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to insulate a Window AC (for Efficiency)
@@ -209,12 +236,12 @@ Quick answer: You can add insulation around a window AC by gluing styrofoam pane
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-09 10:37:17 +0000 +0000'>December 9, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to insulate a Window AC (for Efficiency)" href="https://danieldeer.github.io/heatertips/how-to-insulate-a-window-ac/"></a>
+  <a class="entry-link" aria-label="post link to How to insulate a Window AC (for Efficiency)" href="https://heatertips.com/how-to-insulate-a-window-ac/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner.webp" alt="window air conditioner">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner.webp" alt="window air conditioner">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to make a Window AC more efficient (9 Methods)
@@ -227,12 +254,12 @@ Quick Answer: You can make your window AC more efficient by insulating windows a
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-08 21:17:48 +0000 +0000'>December 8, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to make a Window AC more efficient (9 Methods)" href="https://danieldeer.github.io/heatertips/how-to-make-a-window-ac-more-efficient/"></a>
+  <a class="entry-link" aria-label="post link to How to make a Window AC more efficient (9 Methods)" href="https://heatertips.com/how-to-make-a-window-ac-more-efficient/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/candle-burning.webp" alt="candle-burning">
+        <img loading="lazy" src="https://heatertips.com/img/candle-burning.webp" alt="candle-burning">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Candles cause Carbon Monoxide Poisoning?
@@ -244,12 +271,12 @@ But that doesn’t mean lighting candles is 100% safe. Since carbon monoxide is 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-08 20:52:37 +0000 +0000'>December 8, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Candles cause Carbon Monoxide Poisoning?" href="https://danieldeer.github.io/heatertips/can-candles-cause-carbon-monoxide-poisoning/"></a>
+  <a class="entry-link" aria-label="post link to Can Candles cause Carbon Monoxide Poisoning?" href="https://heatertips.com/can-candles-cause-carbon-monoxide-poisoning/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/rv-camper-mobile-home.webp" alt="rv camper mobile home">
+        <img loading="lazy" src="https://heatertips.com/img/rv-camper-mobile-home.webp" alt="rv camper mobile home">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use an Oil-filled Radiator in an RV?
@@ -262,12 +289,12 @@ In this article, we’re going to check all you need to know about oil-filled ra
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-07 10:15:16 +0000 +0000'>December 7, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in an RV?" href="https://danieldeer.github.io/heatertips/can-you-use-an-oil-filled-radiator-in-an-rv/"></a>
+  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in an RV?" href="https://heatertips.com/can-you-use-an-oil-filled-radiator-in-an-rv/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/oil-filled-radiator-in-bathroom.webp" alt="oil-filled-radiator-in-bathroom">
+        <img loading="lazy" src="https://heatertips.com/img/oil-filled-radiator-in-bathroom.webp" alt="oil-filled-radiator-in-bathroom">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use an Oil-filled Radiator in a Bathroom?
@@ -280,12 +307,12 @@ Quick Answer: Yes, you can use an oil-filled radiator in a bathroom. The large m
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-06 16:07:06 +0000 +0000'>December 6, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in a Bathroom?" href="https://danieldeer.github.io/heatertips/can-you-use-an-oil-filled-radiator-in-a-bathroom/"></a>
+  <a class="entry-link" aria-label="post link to Can you use an Oil-filled Radiator in a Bathroom?" href="https://heatertips.com/can-you-use-an-oil-filled-radiator-in-a-bathroom/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/window-air-conditioner.webp" alt="window air conditioner">
+        <img loading="lazy" src="https://heatertips.com/img/window-air-conditioner.webp" alt="window air conditioner">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Window Air Conditioner not Cooling
@@ -299,12 +326,12 @@ Quick answer: To fix a window air conditioner not cooling, ensure that all airwa
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-05 13:49:46 +0000 +0000'>December 5, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://danieldeer.github.io/heatertips/how-to-fix-window-air-conditioner-not-cooling/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Window Air Conditioner not Cooling" href="https://heatertips.com/how-to-fix-window-air-conditioner-not-cooling/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/oil-filled-radiator-temperature-measurement.webp" alt="oil-filled radiator temperature measurement">
+        <img loading="lazy" src="https://heatertips.com/img/oil-filled-radiator-temperature-measurement.webp" alt="oil-filled radiator temperature measurement">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why is my Oil-filled Radiator not getting hot? (6 Fixes)
@@ -316,12 +343,12 @@ Quick Answer: Oil-filled radiators stop heating because of a broken thermostat. 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-03 09:47:06 +0000 +0000'>December 3, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why is my Oil-filled Radiator not getting hot? (6 Fixes)" href="https://danieldeer.github.io/heatertips/oil-filled-radiator-not-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to Why is my Oil-filled Radiator not getting hot? (6 Fixes)" href="https://heatertips.com/oil-filled-radiator-not-getting-hot/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/can-you-burn-coal-in-a-wood-stove.webp" alt="can-you-burn-coal-in-a-wood-stove">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-burn-coal-in-a-wood-stove.webp" alt="can-you-burn-coal-in-a-wood-stove">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you burn Coal in a Wood Stove?
@@ -333,12 +360,12 @@ Quick answer: It is not recommended to burn coal in a wood stove. While it is po
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-02 13:05:29 +0000 +0000'>December 2, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you burn Coal in a Wood Stove?" href="https://danieldeer.github.io/heatertips/can-you-burn-coal-in-a-wood-stove/"></a>
+  <a class="entry-link" aria-label="post link to Can you burn Coal in a Wood Stove?" href="https://heatertips.com/can-you-burn-coal-in-a-wood-stove/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/how-to-improve-oil-filled-radiator-efficiency.webp" alt="how to improve oil-filled radiator efficiency">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-improve-oil-filled-radiator-efficiency.webp" alt="how to improve oil-filled radiator efficiency">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Improve Oil-filled Radiator Efficiency
@@ -351,12 +378,12 @@ Technical efficiency - How much electricity is converted to heat? Perceived effi
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-02 10:42:45 +0000 +0000'>December 2, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Improve Oil-filled Radiator Efficiency" href="https://danieldeer.github.io/heatertips/how-to-improve-oil-filled-radiator-efficiency/"></a>
+  <a class="entry-link" aria-label="post link to How to Improve Oil-filled Radiator Efficiency" href="https://heatertips.com/how-to-improve-oil-filled-radiator-efficiency/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://danieldeer.github.io/img/propane-bottle-tank-valve.webp" alt="propane bottle tank valve">
+        <img loading="lazy" src="https://heatertips.com/img/propane-bottle-tank-valve.webp" alt="propane bottle tank valve">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why is my Propane Heater using so much gas?
@@ -370,19 +397,28 @@ Quick Answer: Your Propane heater consumes more gas than usual if there is a lea
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-01 10:27:54 +0000 +0000'>December 1, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why is my Propane Heater using so much gas?" href="https://danieldeer.github.io/heatertips/why-is-propane-heater-using-so-much-gas/"></a>
+  <a class="entry-link" aria-label="post link to Why is my Propane Heater using so much gas?" href="https://heatertips.com/why-is-propane-heater-using-so-much-gas/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="https://danieldeer.github.io/heatertips/page/13/">
+    <a class="prev" href="https://heatertips.com/page/13/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="https://danieldeer.github.io/heatertips/page/15/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/page/15/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
+        Created by
+        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -429,6 +465,18 @@ Quick Answer: Your Propane heater consumes more gas than usual if there is a lea
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>
