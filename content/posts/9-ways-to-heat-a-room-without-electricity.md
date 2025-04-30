@@ -75,7 +75,11 @@ For a living room, you need around 1 cord of wood (128 cubic feet, or 3.6 cubic 
 
 Here’s a **table listing the number of cords of wood you need per year for different room sizes and target temperatures.**
 
-Room Temperature150 sq. ft. room300 sq. ft. room450 sq. ft. room65°F (economic)0.5 cords per year1 cord per year1.5 cords per year70°F (normal)1 cord per year1.5 cords per year2 cords per year75°F (comfortable hot)1.5 cords per year2 cords per year2.5 cords per year
+| Room Temperature        | 150 sq. ft. room | 300 sq. ft. room | 450 sq. ft. room |
+|-------------------------|------------------|------------------|------------------|
+| 65°F (economic)         | 0.5 cords/year   | 1 cord/year      | 1.5 cords/year   |
+| 70°F (normal)           | 1 cord/year      | 1.5 cords/year   | 2 cords/year     |
+| 75°F (comfortable hot)  | 1.5 cords/year   | 2 cords/year     | 2.5 cords/year   |
 
 The forestry department of [Utah State University](https://forestry.usu.edu/forest-products/wood-heating) found that you get 27.5 Million BTUs of heat per cord of Beechwood. Oak delivers up to 30.7 million BTUs of heat energy per cord.
 
