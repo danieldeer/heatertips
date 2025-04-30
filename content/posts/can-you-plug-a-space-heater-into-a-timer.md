@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can you plug a space heater into a timer
-  image: /wp-content/uploads/2019/11/can-you-plug-a-space-heater-into-a-timer.jpg
+  image: /img/can-you-plug-a-space-heater-into-a-timer.webp
 date: "2019-11-27T20:42:41+00:00"
 guid: https://heatertips.com/?p=93
 tag:
@@ -66,7 +66,7 @@ It’s similar for timers:
 
 **Because most outlet timers are rated at 15 to 20A, they can not handle more than one space heater at a time.** Most space heaters need about 12.5A (sometimes more, sometimes less).
 
-![power strip with multiple space heaters plugged into a timer](/wp-content/uploads/2019/11/power-strip-with-multiple-space-heaters-in-a-timer.jpg)
+![power strip with multiple space heaters plugged into a timer](/img/power-strip-with-multiple-space-heaters-in-a-timer.webp)
 
 ## Can you plug a space heater into a timer?
 

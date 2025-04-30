@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /wp-content/uploads/2022/12/propane-bottle-tank-valve.jpg
+  image: /img/propane-bottle-tank-valve.webp
 date: "2022-11-30T13:31:32+00:00"
 guid: https://heatertips.com/?p=1186
 title: How long does a 100lb propane tank last?
@@ -37,7 +37,7 @@ Therefore:
 
 **A 100lb propane tank contains up to 80lb of propane.**
 
-![](/wp-content/uploads/2022/12/100lb-tank.jpg)
+![](/img/100lb-tank.webp)
 
 ## How much energy is in a 100lb propane tank?
 

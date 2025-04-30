@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space-heater-on-table-infrared-oil-filled-propane
-  image: /wp-content/uploads/2022/12/space-heater-on-table-infrared-oil-filled-propane.jpg
+  image: /img/space-heater-on-table-infrared-oil-filled-propane.webp
 date: "2022-12-28T09:36:39+00:00"
 guid: https://heatertips.com/?p=1429
 title: Can you put a Space Heater on a table?
@@ -76,7 +76,7 @@ Propane heaters emit a majority of their heat using convection as well. Yes, the
 
 So, propane heaters also distribute their heat mostly upwards.
 
-![propane heater on table tabletop temperature](/wp-content/uploads/2022/12/propane-heater-on-table-tabletop-temperature.jpg)Measuring the tabletop temperatures different space heaters produce
+![propane heater on table tabletop temperature](/img/propane-heater-on-table-tabletop-temperature.webp)Measuring the tabletop temperatures different space heaters produce
 
 ## Which table materials can you put a space heater on?
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyna-glo powerful 15000 watts electric space heater
-  image: /wp-content/uploads/2023/09/dyna-glo-powerful-15000-watts-electric-space-heater.jpg
+  image: /img/dyna-glo-powerful-15000-watts-electric-space-heater.webp
 date: "2023-09-07T07:18:07+00:00"
 guid: https://heatertips.com/?p=1899
 title: 3 Most Powerful Space Heaters
@@ -48,7 +48,7 @@ In the US, the most powerful electric household space heater is [this **DeLonghi
 
 Actually, calling it the “most powerful” is misleading, since there are hundreds of other space heaters rated at 1,500W. But I found not a single (trustable) model that is rated higher.
 
-![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1-152x300.jpg)
+![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)
 
 So, with electric household space heaters you only get so far. The electric circuit is usually too weak to handle more.
 
@@ -62,7 +62,7 @@ My favorite indoor-safe portable propane heater is [this **Mr. Heater Big Buddy 
 
 With 18,000 BTU (British Thermal Units) of heat output per hour, which equates to a whopping **5,275 Watts of heating power**, the Mr. Heater Big Buddy is **more than three times as powerful as a regular electric space heater.**
 
-![mr heater buddy propane heater](/wp-content/uploads/2022/12/mr-heater-buddy-ventless-portable-propane-heater-300x300.jpg)
+![mr heater buddy propane heater](/img/mr-heater-buddy-ventless-portable-propane-heater.webp)
 
 Mr Heater propane heaters are [my favorite propane heaters](/recommended-products/propane-heater/) and objectively one of the [safest portable propane heaters](/whats-the-safest-propane-heater/) you can get.
 
@@ -80,7 +80,7 @@ This electric space heater is so powerful, it **needs to run on a dedicated circ
 
 So, to get this space heater running, you’ll need the hand of a professional.
 
-![space heater dynaglo 15000 watts](/wp-content/uploads/2023/09/space-heater-dynaglo-15000-watts.jpg)This Dyna-Glo heater blasts a whopping 15,000 Watts!
+![space heater dynaglo 15000 watts](/img/space-heater-dynaglo-15000-watts.webp)This Dyna-Glo heater blasts a whopping 15,000 Watts!
 
 ### 2\. Ideal for warehouses and garages: Qmark space heater (10,000 Watts)
 
@@ -136,7 +136,7 @@ I feel weird calling this one the “smaller variant”. With 50,000 BTUs this h
 
 It produces as much heat as the most powerful electric heater we checked earlier.
 
-![mr-heater-big-maxx-vented-gas-heater-building](/wp-content/uploads/2023/01/mr-heater-big-maxx-vented-gas-heater-building.jpg)The Mr Heater Big Maxx models are great for heating construction sites, large garages & workshops!
+![mr-heater-big-maxx-vented-gas-heater-building](/img/mr-heater-big-maxx-vented-gas-heater-building.webp)The Mr Heater Big Maxx models are great for heating construction sites, large garages & workshops!
 
 ## How to get the most heat _without_ installation?
 
@@ -162,7 +162,7 @@ To do that, I recommend getting the DeLonghi electric heater recommended earlier
 
 1,500 Watts + 18,000 BTU/h ≈ 1,500 Watts + 5,275 Watts = **6775 Watts of heating power**
 
-![infrared heater front view](/wp-content/uploads/2023/08/infrared-heater-front-view.webp)My infrared heater, combined with the Mr Heater Buddy (in the background)
+![infrared heater front view](/img/infrared-heater-front-view.webp)My infrared heater, combined with the Mr Heater Buddy (in the background)
 
 ## More ideas to heat large spaces (without needing the absolute strongest heater)
 

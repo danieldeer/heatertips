@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: garage gym heat
-  image: /wp-content/uploads/2020/01/garage-gym-heat.jpg
+  image: /img/garage-gym-heat.webp
 date: "2020-01-06T17:28:27+00:00"
 guid: https://heatertips.com/?p=271
 tag:
@@ -49,7 +49,7 @@ You can layer up clothes in several ways. I found 3 layers the best:
 
 If you don’t have special thermal wear, don’t worry. You can make up all the clothing layers of simple t-shirts and pullovers you already have at home. They will keep you warm enough in a garage gym.
 
-![layer up clothes to stay warm while working out](/wp-content/uploads/2020/01/wear-different-layers-to-keep-warm.jpg)
+![layer up clothes to stay warm while working out](/img/wear-different-layers-to-keep-warm.webp)
 
 ## 2\. Wear shoes
 
@@ -87,7 +87,7 @@ Scientists from Loyola University wrote the following when they researched finge
 >
 > [Loyola University Health System](https://www.sciencedaily.com/releases/2013/02/130226141235.htm)
 
-![wear gloves - otherwise it's too cold to workout in your garage](/wp-content/uploads/2020/01/full-finger-gloves.jpg)
+![wear gloves - otherwise it's too cold to workout in your garage](/img/full-finger-gloves.webp)
 
 ## 4\. Insulate your garage door
 
@@ -157,7 +157,7 @@ If you run it for half an hour per workout, a simple 20lb tank will last for 28 
 
 In case you don't want to pay so much money for space heaters, here's a full post about the [Best Space Heaters **under $50**](/best-space-heaters-under-50-a-complete-guide-to-the-cheapest-ones/).
 
-![a torpedo heater is the fastest way to heat](/wp-content/uploads/2020/01/torpedo-heater.jpg)
+![a torpedo heater is the fastest way to heat](/img/torpedo-heater.webp)
 
 ## 8\. Put a towel on the bench
 
@@ -348,4 +348,4 @@ They all work in similar ways: One central heating unit heats either water, stea
 
 When your garage is close to your home, you are maybe able to build pipes that connect your home central heating with your garage.
 
-![different types of central heating systems to heat a garage gym](/wp-content/uploads/2020/01/types-of-heater-systems.jpg)Image by [smarterhouse.org](https://smarterhouse.org/heating-systems/types-heating-systems)
+![different types of central heating systems to heat a garage gym](/img/types-of-heater-systems.webp)Image by [smarterhouse.org](https://smarterhouse.org/heating-systems/types-heating-systems)

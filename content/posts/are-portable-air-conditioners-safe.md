@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: are portable air conditioners safe
-  image: /wp-content/uploads/2022/09/are-portable-air-conditioners-safe.jpg
+  image: /img/are-portable-air-conditioners-safe.webp
 date: "2022-09-22T10:00:45+00:00"
 guid: https://heatertips.com/?p=725
 title: Are Portable Air Conditioners Safe?

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater buddy heater outdoors balcony
-  image: /wp-content/uploads/2023/01/mr-heater-buddy-heater-outdoors-balcony.jpg
+  image: /img/mr-heater-buddy-heater-outdoors-balcony.webp
 date: "2023-01-07T10:18:33+00:00"
 guid: https://heatertips.com/?p=1457
 title: What is the safest Propane Heater?
@@ -32,7 +32,7 @@ It outputs up to 9,000 BTU of heating power, which is almost twice as much as th
 
 Also, it has a built-in pilot light mechanism. In principle, a small test flame in combination with a special thermometer determines whether the propane burns properly. Only if the propane burn is ideal, the Mr. Heater Buddy opens the main gas valve.
 
-![mr heater buddy propane heater pilot light](/wp-content/uploads/2023/01/mr-heater-buddy-pilog-light-closeup.jpg)The pilot light of a propane heater ensures a safe and efficient burn!
+![mr heater buddy propane heater pilot light](/img/mr-heater-buddy-pilog-light-closeup.webp)The pilot light of a propane heater ensures a safe and efficient burn!
 
 This makes an improper burn, which would cause toxic gas emissions, almost impossible. And it ensures that you don’t waste any propane gas to a low-efficiency burn!
 
@@ -138,7 +138,7 @@ To reduce the chance of overheating, engineers design propane heaters such that 
 
 The heat from the propane flame goes in two directions: The hot air rises upward. And the [radiant](/infrared-vs-radiant-heaters-are-they-the-same/) heat leaves the front side of the heater.
 
-![mr heater propane heater heat distribution](/wp-content/uploads/2023/01/mr-heater-propane-heater-heat-distribution.jpg)Safe propane heaters distribute their heat over a large angle
+![mr heater propane heater heat distribution](/img/mr-heater-propane-heater-heat-distribution.webp)Safe propane heaters distribute their heat over a large angle
 
 Almost no heat reaches the back of the heater, since the flow direction of the propane gas is forward. So, the ceramic heating panel (where the flames come out) heats up on the front and protects the backside.
 

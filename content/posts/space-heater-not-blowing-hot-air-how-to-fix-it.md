@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space-heater-not-blowing-hot-air
-  image: /wp-content/uploads/2022/01/space-heater-not-blowing-hot-air.jpg
+  image: /img/space-heater-not-blowing-hot-air.webp
 date: "2022-01-21T10:46:26+00:00"
 guid: https://heatertips.com/?p=541
 title: Space Heater not Blowing Hot Air (How to fix it)

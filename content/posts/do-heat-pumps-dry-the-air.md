@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: do heat pumps dry the air
-  image: /wp-content/uploads/2022/11/do-heat-pumps-dry-the-air.jpg
+  image: /img/do-heat-pumps-dry-the-air.webp
 date: "2022-11-23T15:49:37+00:00"
 guid: https://heatertips.com/?p=1111
 title: Do Heat Pumps dry the air?
@@ -31,7 +31,7 @@ However, heat pumps increase your room’s temperature. And the increased temper
 
 The reason is that warm air has a higher water-holding capacity. The chart below shows the moisture-holding capacity of air for varying temperatures.
 
-![air humidity with varying temperatures](/wp-content/uploads/2022/11/air-humidity-capacity-by-temperature.png)( [source](https://www.engineeringtoolbox.com/moisture-holding-capacity-air-d_281.html))
+![air humidity with varying temperatures](/img/air-humidity-capacity-by-temperature.webp)( [source](https://www.engineeringtoolbox.com/moisture-holding-capacity-air-d_281.html))
 
 As you can see, air can hold a seemingly exponentially growing amount of water with increasing temperature.
 

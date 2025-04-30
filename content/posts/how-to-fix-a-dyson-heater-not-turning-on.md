@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg
+  image: /img/are-dyson-heaters-safe.webp
 date: "2022-12-14T12:15:20+00:00"
 guid: https://heatertips.com/?p=1307
 title: How to fix a Dyson Heater not turning on
@@ -68,7 +68,7 @@ For space heaters, you should always get a [heavy-duty extension cord](/can-i-us
 
 So, get a new, proper extension cord and use it with your Dyson heater. It’s well worth the higher cost.
 
-![heavy duty extension cord](/wp-content/uploads/2019/12/extension-cord-for-space-heaters.jpg)
+![heavy duty extension cord](/img/extension-cord-for-space-heaters.webp)
 
 ### Clogged airways
 
@@ -94,7 +94,7 @@ Does dirt block the holes?
 
 **How to fix:** Poke the dirt with a toothpick. You can also use a dry toothbrush and brush over the holes.
 
-![dyson hot cool air inlet holes](/wp-content/uploads/2022/12/dyson-hot-cool-air-inlet-holes.jpg)
+![dyson hot cool air inlet holes](/img/dyson-hot-cool-air-inlet-holes.webp)
 
 ### Internal components
 
@@ -112,7 +112,7 @@ Don’t use water or any kind of cleaner to remove the dirt. This could damage t
 
 I wet-cleaned a device once and will never do it again.
 
-![dyson hot cool dust in internal components](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)
+![dyson hot cool dust in internal components](/img/dyson-hot-cool-heater-dust-internal-components.webp)
 
 ### Air filter
 
@@ -184,7 +184,7 @@ I think this visual inspection should detect most electronic issues. If you can�
 
 Replace the broken part with a matching part. You can buy matching parts online or in an electronic hardware store.
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)
+![power module](/img/portable-ac-power-module.webp)
 
 ## Your Dyson Hot + Cool is still not turning on?
 

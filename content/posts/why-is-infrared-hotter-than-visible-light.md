@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater hand
-  image: /wp-content/uploads/2022/12/infrared-heater-hand.jpg
+  image: /img/infrared-heater-hand.webp
 date: "2022-12-27T14:40:01+00:00"
 guid: https://heatertips.com/?p=1425
 title: Why is Infrared hotter than visible light?
@@ -81,7 +81,7 @@ They emit the majority of heat as infrared radiation.
 
 Most humanly tolerable heat sources are infrared.
 
-![](/wp-content/uploads/2022/12/black-body-radiator-infrared-planck.jpg)Most radiation is in the infrared-range spectrum according to [Planck's law](https://en.wikipedia.org/wiki/Planck%27s_law)
+![](/img/black-body-radiator-infrared-planck.webp)Most radiation is in the infrared-range spectrum according to [Planck's law](https://en.wikipedia.org/wiki/Planck%27s_law)
 
 ### Is infrared hotter than visible light?
 
@@ -129,7 +129,7 @@ The safety grid would scatter a part of the visible light, which causes the heat
 
 This is a _tiny effect._ However, it is another reason for infrared to be better than shorter-wavelength radiation for heating.
 
-![infrared heater temperature measurement](/wp-content/uploads/2022/12/infrared-heater-heating-element-temperature-measurement.jpg)Infrared heaters create very hot temperatures. But _theoretically,_ you can build a blue or green wavelength heater with about the same characteristics.
+![infrared heater temperature measurement](/img/infrared-heater-heating-element-temperature-measurement.webp)Infrared heaters create very hot temperatures. But _theoretically,_ you can build a blue or green wavelength heater with about the same characteristics.
 
 ## Conclusion
 

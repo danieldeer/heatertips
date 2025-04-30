@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best space heaters under 50$
-  image: /wp-content/uploads/2020/01/best-space-heaters-under-50.jpg
+  image: /img/best-space-heaters-under-50.webp
 date: "2020-01-02T12:11:21+00:00"
 guid: https://heatertips.com/?p=233
 title: "Best Space Heaters Under $50: A Complete Guide to the Cheapest Ones \uFEFF"
@@ -76,7 +76,7 @@ NamePrice[**PELONIS PH-17P** (Amazon link)](https://www.amazon.com/PELONIS-PH-17
 
 **My recommendation:** The multifun Space Heater is by far the best-rated model among our four candidates. It looks cool, even a little industrial. Because of its heating power, reliability and because it’s ETL safety certified, I’d definitely get this model!
 
-![](/wp-content/uploads/2020/12/61MjeduwFoL._AC_SL1000_.jpg)
+![](/img/61MjeduwFoL._AC_SL1000_.jpg)
 
 However, that’s just a personal preference. The other models are good as well. Check all of them out before you make a personal decision!
 
@@ -104,7 +104,7 @@ Propane outdoor heaters are usually in higher price categories. That’s why all
 
 These 3 heaters are all just fine for keeping garages and greenhouses warm. **My recommendation is the Texsport Portable**, which is the most reliable and durable model.
 
-![](/wp-content/uploads/2020/12/71T3LGCBOPL._AC_SL1500_-728x1024.jpg)
+![](/img/71T3LGCBOPL._AC_SL1500_.jpg)
 
 ## Used Space Heaters
 
@@ -131,7 +131,7 @@ Nothing stops a 10-year-old heater from running another 10 years.
 - **Old-fashioned:** Used heaters oftentimes are several years old and therefore oftentimes appear old-fashioned. You will find lots of them when you browse for used heaters. Just skip them. You can still find recent products that are just a year old and look modern.
 - **Faulty electronics:** When somebody keeps his heater in a storeroom or a garage for years (or decades), there’s a chance that electronics are faulty. Usually, sellers tell you in the product description. However, I would prefer getting a heater that the seller used and now sells, because he wants a newer model.
 
-![used space heaters are good as well](/wp-content/uploads/2020/01/old-used-heater.jpg)
+![used space heaters are good as well](/img/old-used-heater.webp)
 
 ### What to look out for when getting a cheap used heater
 
@@ -213,7 +213,7 @@ Which of these two scenarios applies to you is very hard to guess. It depends on
 
 But no matter whether you save money or pay money: **A space heater will move a part of the costs from your heating bill to your electric bill.** That’s why it is not as expensive as it appears when you calculate your electricity usage.
 
-![electric bill](/wp-content/uploads/2020/01/electric-bill.jpg)
+![electric bill](/img/electric-bill.webp)
 
 ## How to check the space heater yourself and save money
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a walk in closet
-  image: /wp-content/uploads/2020/01/how-to-heat-a-walk-in-closet.jpg
+  image: /img/how-to-heat-a-walk-in-closet.webp
 date: "2020-01-23T07:30:33+00:00"
 guid: https://heatertips.com/?p=376
 title: How to Heat a Walk-in Closet (In 4 Simple Steps)
@@ -89,7 +89,7 @@ Otherwise, it would take an eternity to heat.
 
 And you can’t use it under certain types of furniture. Especially the type of furniture that touches the floor with a large area.
 
-![best infrared heater is the dr infrared heater DR-968](/wp-content/uploads/2020/01/dr-heater-infrared-heater-home.jpg)
+![best infrared heater is the dr infrared heater DR-968](/img/dr-heater-infrared-heater-home.webp)
 
 ### Space heaters for a walk-in closet
 

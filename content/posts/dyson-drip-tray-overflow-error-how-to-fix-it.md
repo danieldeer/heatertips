@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson drip tray overflow error
-  image: /wp-content/uploads/2023/11/dyson-drip-tray-overflow-error.jpg
+  image: /img/dyson-drip-tray-overflow-error.webp
 date: "2023-11-12T14:51:31+00:00"
 guid: https://heatertips.com/?p=2148
 title: 'Dyson Drip Tray Overflow Error: How to Fix It'
@@ -51,7 +51,7 @@ Fixing the drip tray overflow error is usually simple and requires no tools. Her
 
 First, perform a Deep Clean Cycle. During a deep clean cycle, your Dyson humidifier carries out self-maintenance that helps resolve the drip tray overflow error.
 
-![dyson deep clean cycle instructions](/wp-content/uploads/2023/10/dyson-deep-clean-cycle-instructions.jpg)You can find deep clean cycle instructions on the tank lid.
+![dyson deep clean cycle instructions](/img/dyson-deep-clean-cycle-instructions.webp)You can find deep clean cycle instructions on the tank lid.
 
 Normally, your Humidify+Cool fan prompts you to perform deep clean cycles in regular intervals. But you don’t have to wait.
 
@@ -107,7 +107,7 @@ If neither the deep clean cycle nor thorough drying and recalibration resolve th
 
 In this case, just get a new Dyson humidifier. I recommend the [**Dyson Pure Humidify+Cool PH04**(click to see it on amazon)](https://www.amazon.com/Dyson-Purifier-Humidify-Cool-Formaldehyde/dp/B0B3F749ZJ?&linkCode=ll1&tag=heatertips-20&linkId=5a9a8379ccc0bff521774d9f9fe46f9f&language=en_US&ref_=as_li_ss_tl).
 
-![dyson pure humidify cool ph04](/wp-content/uploads/2023/11/dyson-pure-humidify-cool-ph04.jpg)
+![dyson pure humidify cool ph04](/img/dyson-pure-humidify-cool-ph04.webp)
 
 If you’re still within the warranty period (2 years after purchase), contact Dyson’s customer support. They will aid you through similar fixing steps and none of them will work. Then, they’ll conclude it’s best to replace your device and send you a new one.
 

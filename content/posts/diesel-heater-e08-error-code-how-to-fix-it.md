@@ -4,7 +4,7 @@ category:
   - repair
 cover:
   alt: diesel heater e08 error code
-  image: /wp-content/uploads/2023/12/diesel-heater-e08-error-code.jpg
+  image: /img/diesel-heater-e08-error-code.webp
 date: "2023-12-03T10:06:30+00:00"
 guid: https://heatertips.com/?p=2268
 title: 'Diesel Heater E08 Error Code: How to Fix It'
@@ -47,7 +47,7 @@ If you recently refilled it, and you discover it empty, check your fuel tank for
 
 Also, [make sure that the diesel in your tank is not gelling](/diesel-heater-not-getting-hot/). Diesel fuel turns to a gel when it is cold outside. This can prevent your heater from receiving any fuel. You can prevent gelling by adding [anti-gel additive](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=31S7C1NYXBU4F&keywords=diesel%2Banti%2Bgel%2Bfuel%2Badditive&qid=1701597040&sprefix=diesel%2Banti%2Bgel%2Caps%2C194&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=91fc7557355e9fcd13b8658218c959fa&language=en_US&ref_=as_li_ss_tl).
 
-[![diesel winter anti-gel additive hot shots](/wp-content/uploads/2023/12/diesel-winter-anti-gel-additive-hot-shots.jpg)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=31S7C1NYXBU4F&keywords=diesel%2Banti%2Bgel%2Bfuel%2Badditive&qid=1701597040&sprefix=diesel%2Banti%2Bgel%2Caps%2C194&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=91fc7557355e9fcd13b8658218c959fa&language=en_US&ref_=as_li_ss_tl)
+[![diesel winter anti-gel additive hot shots](/img/diesel-winter-anti-gel-additive-hot-shots.webp)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=31S7C1NYXBU4F&keywords=diesel%2Banti%2Bgel%2Bfuel%2Badditive&qid=1701597040&sprefix=diesel%2Banti%2Bgel%2Caps%2C194&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=91fc7557355e9fcd13b8658218c959fa&language=en_US&ref_=as_li_ss_tl)
 
 Once that’s done, refill it, restart the heater, and the E08 error should be gone.
 

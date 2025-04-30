@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared space heater power cord temperature measurement
-  image: /wp-content/uploads/2023/08/infrared-space-heater-power-cord-temperature-measurement.jpg
+  image: /img/infrared-space-heater-power-cord-temperature-measurement.webp
 date: "2023-08-14T13:45:00+00:00"
 guid: https://heatertips.com/?p=1787
 title: How to fix a Space Heater Cord getting Hot
@@ -61,7 +61,7 @@ A typical American 1,500W space heater draws 12.5 Amps from a 120V US wall outle
 
 As you can see in the experiment table, the stronger a space heater is, the hotter the power cord gets.
 
-![space heater power cord temperature measurement oil-filled radiator](/wp-content/uploads/2023/08/space-heater-power-cord-temperature-measurement-oil-filled-radiator.jpg)Measurement of the 2,500W heater power cord temperature: 94.4°F
+![space heater power cord temperature measurement oil-filled radiator](/img/space-heater-power-cord-temperature-measurement-oil-filled-radiator.webp)Measurement of the 2,500W heater power cord temperature: 94.4°F
 
 ### Heat coming from the space heater heats the power cord
 

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: portable air conditioner installed at a window
-  image: /wp-content/uploads/2022/08/do-portable-air-conditioners-give-off-carbon-monoxide.jpg
+  image: /img/do-portable-air-conditioners-give-off-carbon-monoxide.webp
 date: "2022-08-30T10:47:37+00:00"
 guid: https://heatertips.com/?p=686
 title: Do Portable Air Conditioners give off Carbon Monoxide?

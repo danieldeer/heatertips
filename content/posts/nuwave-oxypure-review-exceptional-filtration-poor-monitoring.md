@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: nuwave oxypure air purifier
-  image: /wp-content/uploads/2023/09/nuwave-oxypure-air-purifier.jpg
+  image: /img/nuwave-oxypure-air-purifier.webp
 date: "2023-09-04T06:39:50+00:00"
 guid: https://heatertips.com/?p=1884
 title: 'Nuwave OxyPure Review: Exceptional Filtration, Poor Monitoring'
@@ -31,7 +31,7 @@ Here’s a quick outline of what we’re going to find out about:
 
 So, let’s start:
 
-![nuwave oxypure air purifier product image](/wp-content/uploads/2023/09/nuwave-oxypure-air-purifier-product-image-202x300.jpg)
+![nuwave oxypure air purifier product image](/img/nuwave-oxypure-air-purifier-product-image.webp)
 
 ## The Pros: What Makes the Nuwave OxyPure Stand Out
 
@@ -64,7 +64,7 @@ Still, a 100% particle collection rate is noteworthy! But I am sure they rounded
 
 Nothing is 100% in nature.
 
-![nuwave oxypure air purifier filters](/wp-content/uploads/2023/09/nuwave-oxypure-air-purifier-filters.jpg)The best thing about the Nuwave OxyPure is literally the filtration system. You get multiple filter stacked on top of each other. And most filters are washable!
+![nuwave oxypure air purifier filters](/img/nuwave-oxypure-air-purifier-filters.webp)The best thing about the Nuwave OxyPure is literally the filtration system. You get multiple filter stacked on top of each other. And most filters are washable!
 
 ### OxyPure Ozone Removal: Unique among air purifiers
 
@@ -114,7 +114,7 @@ The Nuwave OxyPure has an auto mode at which it monitors indoor air pollution le
 
 This feature allows you to run your Nuwave OxyPure air purifier [24/7](/can-you-run-air-purifier-all-day/).
 
-![nuwave oxypure air purifier monitoring and control](/wp-content/uploads/2023/09/nuwave-oxypure-air-purifier-monitoring-and-control.jpg)You get a very nice monitoring & control panel with the Nuwave OxyPure!
+![nuwave oxypure air purifier monitoring and control](/img/nuwave-oxypure-air-purifier-monitoring-and-control.webp)You get a very nice monitoring & control panel with the Nuwave OxyPure!
 
 ## The Cons: Where the Nuwave OxyPure Falls Short
 
@@ -167,7 +167,7 @@ It may not be a deal-breaker, but it’s an area where the Nuwave OxyPure could 
 
 Compare it with the [**Coway Airmega 400** (click here to view it on amazon)](https://www.amazon.com/Coway-Airmega-Purifier-sq-ft-White/dp/B01C9RIACG?crid=35BMRIYUZ6J6S&keywords=coway%2Bairmega%2B400&qid=1693809269&sprefix=coway%2Bairmega%2B40%2Caps%2C198&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=11f9cd41282dc759f558fb31a52430b2&language=en_US&ref_=as_li_ss_tl):
 
-![coway airmega 400 product image](/wp-content/uploads/2023/09/coway-airmega-400-product-image-226x300.jpg)For comparison: The Coway Airmega 400 has _much_ more air inlet holes!
+![coway airmega 400 product image](/img/coway-airmega-400-product-image.webp)For comparison: The Coway Airmega 400 has _much_ more air inlet holes!
 
 ### Weight
 

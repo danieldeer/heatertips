@@ -2,7 +2,7 @@
 author: Daniel Hirsch
 cover:
   alt: best torpedo heater mr heater
-  image: /wp-content/uploads/2020/01/best-torpedo-heater-mr-heater.jpg
+  image: /img/best-torpedo-heater-mr-heater.webp
 date: "2020-01-06T18:29:41+00:00"
 guid: https://heatertips.com/?page_id=303
 title: 'The Best Torpedo Heater: Powerful and Reliable'

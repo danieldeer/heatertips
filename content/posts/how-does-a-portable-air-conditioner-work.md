@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: how does a portable air conditioner work
-  image: /wp-content/uploads/2022/08/how-does-a-portable-air-conditioner-work-1.jpg
+  image: /img/how-does-a-portable-air-conditioner-work-1.webp
 date: "2022-08-21T07:50:00+00:00"
 guid: https://heatertips.com/?p=598
 title: How does a Portable Air Conditioner work?

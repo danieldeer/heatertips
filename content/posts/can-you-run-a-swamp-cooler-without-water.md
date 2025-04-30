@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: swamp cooler wet water pads
-  image: /wp-content/uploads/2023/07/swamp-cooler-wet-water-pads.jpg
+  image: /img/swamp-cooler-wet-water-pads.webp
 date: "2023-07-23T08:51:49+00:00"
 guid: https://heatertips.com/?p=1578
 title: Can you run a Swamp Cooler without water?
@@ -64,7 +64,7 @@ You can connect most (good) swamp coolers to a water source, such as a tap. Usua
 
 Once connected, you can run your swamp cooler off the tap indefinitely and it will never run out of water.
 
-![swamp cooler water line](/wp-content/uploads/2023/01/swamp-cooler-water-distribution-line.jpg)Here's what a typical swamp cooler water tap setup looks like!
+![swamp cooler water line](/img/swamp-cooler-water-distribution-line.webp)Here's what a typical swamp cooler water tap setup looks like!
 
 ## Can you run a swamp cooler without water?
 

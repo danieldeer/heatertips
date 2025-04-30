@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /wp-content/uploads/2022/12/propane-bottle-tank-valve.jpg
+  image: /img/propane-bottle-tank-valve.webp
 date: "2023-02-02T11:52:15+00:00"
 guid: https://heatertips.com/?p=1529
 title: How long does a 20lb Propane Tank last?

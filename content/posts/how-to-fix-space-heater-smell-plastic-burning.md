@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared heater front view
-  image: /wp-content/uploads/2023/08/infrared-heater-front-view.webp
+  image: /img/infrared-heater-front-view.webp
 date: "2023-08-15T10:41:40+00:00"
 guid: https://heatertips.com/?p=1792
 title: How to Fix Space Heater Smell (Plastic, Burning)
@@ -64,7 +64,7 @@ So:
 
 **Dust, hair and other particles settling on your space heater can cause a burning smell. The burning smell, however, has to fade within a short time after turning the heater on.**
 
-![closeup of my infrared heater and the dust that settled on it](/wp-content/uploads/2023/08/space-heater-dust-accumulation-min.jpg)Closeup view of my infrared heater: Can you spot the dust that settled on it? All this dust will cause a burning smell.
+![closeup of my infrared heater and the dust that settled on it](/img/space-heater-dust-accumulation-min.webp)Closeup view of my infrared heater: Can you spot the dust that settled on it? All this dust will cause a burning smell.
 
 In case the burning smell remains, even after many minutes of running your space heater, you should turn your space heater off.
 
@@ -106,7 +106,7 @@ But, of course, cleaners can help as well. However, to prevent your space heater
 
 Rubbing alcohol is very good for removing any oily and greasy residue that can cause a plastic smell.
 
-![space heater infrared cleaning wet wipe-min](/wp-content/uploads/2023/08/space-heater-infrared-cleaning-wet-wipe-min.jpg)I am cleaning my infrared heater with a simple wet wipe.
+![space heater infrared cleaning wet wipe-min](/img/space-heater-infrared-cleaning-wet-wipe-min.webp)I am cleaning my infrared heater with a simple wet wipe.
 
 ### 3\. Burning smell: Clean the heater’s heating elements.
 

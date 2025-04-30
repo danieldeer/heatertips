@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air-purifier-repair
-  image: /wp-content/uploads/2023/07/air-purifier-repair.jpg
+  image: /img/air-purifier-repair.webp
 date: "2023-09-25T08:20:47+00:00"
 guid: https://heatertips.com/?p=2040
 title: Air Purifier Keeps Shutting Off (7 Reasons & Fixes)
@@ -69,7 +69,7 @@ It’s very easy to accidentally turn on auto mode.
 
 Set your air purifier to "Manual" mode and see if it works!
 
-![Dyson air purifier air quality screen](/wp-content/uploads/2023/09/Dyson-air-purifier-air-quality-screen.jpg)Try to run your air purifier in "Manual" mode and see if it keeps shutting off!
+![Dyson air purifier air quality screen](/img/Dyson-air-purifier-air-quality-screen.webp)Try to run your air purifier in "Manual" mode and see if it keeps shutting off!
 
 ### 2\. Overheating
 
@@ -100,7 +100,7 @@ Ideally, **to clean greasy air inlet holes, use Q-tips and rubbing alcohol.**
 
 Also, replace your air purifier filters every 6-12 months.
 
-![dyson hot cool air inlet holes](/wp-content/uploads/2022/12/dyson-hot-cool-air-inlet-holes.jpg)Clean the air inlet holes around the unit's casing.
+![dyson hot cool air inlet holes](/img/dyson-hot-cool-air-inlet-holes.webp)Clean the air inlet holes around the unit's casing.
 
 ### 4\. Electrical Issues
 
@@ -144,7 +144,7 @@ If that doesn’t solve the issue, likely the sensor is defective. You can work 
 
 Then, it does not use air quality sensor readings to determine whether to run or shut off.
 
-![](/wp-content/uploads/2023/08/air-purifier-coway-airmega-dust-sensor-cleaning-min.jpg)Here's a close-up picture of a Coway air purifier. There are three sensors to clean.
+![](/img/air-purifier-coway-airmega-dust-sensor-cleaning-min.webp)Here's a close-up picture of a Coway air purifier. There are three sensors to clean.
 
 ### 7\. Timer Settings
 

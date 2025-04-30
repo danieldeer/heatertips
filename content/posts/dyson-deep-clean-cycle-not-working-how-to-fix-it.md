@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson humidify deep clean cycle stuck problem
-  image: /wp-content/uploads/2023/10/dyson-humidify-deep-clean-cycle-stuck-problem.jpg
+  image: /img/dyson-humidify-deep-clean-cycle-stuck-problem.webp
 date: "2023-10-29T11:53:25+00:00"
 guid: https://heatertips.com/?p=2102
 title: 'Dyson Deep Clean Cycle Not Working: How To Fix It'
@@ -43,7 +43,7 @@ There are several different symptoms of deep clean cycle problems.:
 
 Dyson customer support forwards to a generic cleaning video that doesn’t address the source of the problem.
 
-![dyson deep clean cycle instructions](/wp-content/uploads/2023/10/dyson-deep-clean-cycle-instructions.jpg)If the deep clean cycle doesn't work following the official instructions, something needs fixing.
+![dyson deep clean cycle instructions](/img/dyson-deep-clean-cycle-instructions.webp)If the deep clean cycle doesn't work following the official instructions, something needs fixing.
 
 ## How to Fix the Dyson Humidify Deep Clean Cycle
 
@@ -81,7 +81,7 @@ Open the tank lid and turn it upside down, so the pump column protrudes upwards.
 
 The filter screen on the base cap filters water and blocks small particles and algae from entering the pump.
 
-![dyson humidifier pump column base cap](/wp-content/uploads/2023/10/dyson-humidifier-pump-column-base-cap-1024x425.jpg)Remove the column base cap using the small notch (left side of the image), and clean the screen (right side of the image).
+![dyson humidifier pump column base cap](/img/dyson-humidifier-pump-column-base-cap.webp)Remove the column base cap using the small notch (left side of the image), and clean the screen (right side of the image).
 
 Warning: **Don't turn a wet pump upside down to prevent water damage to the internal circuitry. Dry before.**
 

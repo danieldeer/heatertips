@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared heater fix repair
-  image: /wp-content/uploads/2023/09/infrared-heater-fix-repair.jpg
+  image: /img/infrared-heater-fix-repair.webp
 date: "2023-09-17T07:11:43+00:00"
 guid: https://heatertips.com/?p=1967
 title: How to Fix an Infrared Heater Not Working
@@ -72,7 +72,7 @@ To fix it, go to your home’s electric service panel and check that none of the
 
 Switch back the tripped circuit breaker. Replace the blown fuse with one of an identical rating. Just take out the blown fuse and bring it to an electronic hardware store. They’ll hand you a fuse with an identical rating.
 
-![electric service panel box circuit breakers fuses](/wp-content/uploads/2023/09/electric-service-panel-box-circuit-breakers-fuses.jpg)Electric service box: Check that all switches are flipped in the same direction!
+![electric service panel box circuit breakers fuses](/img/electric-service-panel-box-circuit-breakers-fuses.webp)Electric service box: Check that all switches are flipped in the same direction!
 
 #### Broken wall outlet
 
@@ -98,7 +98,7 @@ To fix a broken power cord, disassemble your infrared heater to gain access to t
 
 Then, get a [heavy-duty extension cord for space heaters](/can-i-use-an-extension-cord-with-a-space-heater/), cut off the female end of it, strip the wires, and resolder the new cord in place.
 
-![space heater with long cord](/wp-content/uploads/2019/12/space-heaters-with-long-cords.jpg)
+![space heater with long cord](/img/space-heaters-with-long-cords.webp)
 
 #### Broken connection or blown part in the power electronics
 
@@ -148,7 +148,7 @@ If the heating element is indeed broken, your best option is to replace it. Some
 
 But oftentimes for infrared space heaters under $200, all that trouble is not worth it. Jump to the section “What to do if you can’t fix your infrared heater?” where I recommend you my all-time favorite infrared heater.
 
-![infrared heater heating element tubes](/wp-content/uploads/2023/09/infrared-heater-heating-element-tubes.jpg)Check that your infrared heater's heating elements sit firmly in place. Some infrared heaters have a contraption, where you can take out the tubes and replace them.
+![infrared heater heating element tubes](/img/infrared-heater-heating-element-tubes.webp)Check that your infrared heater's heating elements sit firmly in place. Some infrared heaters have a contraption, where you can take out the tubes and replace them.
 
 #### Blown Part or Short Circuit in Heat Control Circuitry
 
@@ -208,7 +208,7 @@ I highly recommend disassembling your infrared heater and removing all dust you 
 
 Thoroughly unclog and dust off your heater and it should work again!
 
-![dust off infrared heater](/wp-content/uploads/2023/09/dust-off-infrared-heater.jpg)Disassemble your infrared heater and dust off the internals!
+![dust off infrared heater](/img/dust-off-infrared-heater.webp)Disassemble your infrared heater and dust off the internals!
 
 #### Overheat protection mechanism faulty
 

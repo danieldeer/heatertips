@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: portable air conditioner not collecting water
-  image: /wp-content/uploads/2022/09/portable-air-conditioner-not-collecting-water.jpg
+  image: /img/portable-air-conditioner-not-collecting-water.webp
 date: "2022-09-23T14:24:27+00:00"
 guid: https://heatertips.com/?p=729
 title: Why does your Portable Air Conditioner Collect no Water?

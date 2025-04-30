@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-07-24T15:17:46+00:00"
 guid: https://heatertips.com/?p=1591
 title: 'Best Swamp Cooler: My Top Pick'
@@ -95,7 +95,7 @@ While the Hessaire MC37M is an excellent choice for larger spaces, what about th
 
 Don't worry; Hessaire has got you covered there too, with the MC18M.
 
-![swamp cooler on patio](/wp-content/uploads/2023/07/swamp-cooler-patio.jpg)This is the MC18M!
+![swamp cooler on patio](/img/swamp-cooler-patio.webp)This is the MC18M!
 
 The Hessaire MC18M shares a lot of the robust design and performance features of its bigger brother, the MC37M.
 

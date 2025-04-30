@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: air purifier levoit pets dogs
-  image: /wp-content/uploads/2023/08/air-purifier-levoit-pets-dogs.jpg
+  image: /img/air-purifier-levoit-pets-dogs.webp
 date: "2023-08-10T08:24:48+00:00"
 guid: https://heatertips.com/?p=1710
 title: Are Air Purifiers Safe for Pets? (Dogs, Cats, Birds, etc.)
@@ -140,7 +140,7 @@ In a bird forum, one member writes:
 
 The pet-safe full-house air purifier she refers to is probably [the **Levoit EverestAir** (click to see it on amazon)](https://www.amazon.com/LEVOIT-Purifiers-Captures-Particles-Allergies/dp/B0B252LDH7?th=1&linkCode=ll1&tag=heatertips-20&linkId=5719a7b4cd093bd33a1e76f53f6f8a46&language=en_US&ref_=as_li_ss_tl).
 
-![air purifier bird](/wp-content/uploads/2023/08/air-purifier-bird.jpg)This parrot enjoys his Levoit Core air purifier!
+![air purifier bird](/img/air-purifier-bird.webp)This parrot enjoys his Levoit Core air purifier!
 
 ### Fish (in an aquarium)
 

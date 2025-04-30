@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater front view
-  image: /wp-content/uploads/2023/08/infrared-heater-front-view.webp
+  image: /img/infrared-heater-front-view.webp
 date: "2023-09-18T08:17:14+00:00"
 guid: https://heatertips.com/?p=1980
 title: Do Infrared Heaters Heat the Air?
@@ -93,7 +93,7 @@ And these are the reasons why infrared heaters _always_ have vents for hot air t
 
 So, even if a manufacturer claims that their infrared heaters don’t heat the air, you know they’re lying if you see the hot air vents on the top or backside of the heater!
 
-![infrared heater hovering hand](/wp-content/uploads/2023/08/infrared-heater-hovering-hand.webp)I can feel hot air rising from my infrared heater. If infrared heaters didn't heat the air, they'd have no heat vents!
+![infrared heater hovering hand](/img/infrared-heater-hovering-hand.webp)I can feel hot air rising from my infrared heater. If infrared heaters didn't heat the air, they'd have no heat vents!
 
 ### An Analogy to Prove that Infrared Heaters do Heat the Air
 
@@ -143,7 +143,7 @@ The Dr Infrared heater is a bit pricier than many other infrared heaters. But it
 
 It works in the coldest cold, and, due to its wooden case, can take hits and falls. And it’s so sturdy, it will last you for _decades!_
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)The Dr Infrared DR-968 is one of the best infrared heaters on the market!
+![](/img/infrared-heater-dr-infrared.webp)The Dr Infrared DR-968 is one of the best infrared heaters on the market!
 
 ## Conclusion
 

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: window AC at bottom of window
-  image: /wp-content/uploads/2023/01/window-AC-at-bottom-of-window.jpg
+  image: /img/window-AC-at-bottom-of-window.webp
 date: "2023-01-17T10:46:58+00:00"
 guid: https://heatertips.com/?p=1468
 title: Window AC making Noise (9 Fixes)
@@ -78,7 +78,7 @@ The tape, the walls, and the window will absorb all the vibration from your wind
 
 Also, you can add dampening to your room. This can be a simple carpet on the floor or even soundproofing foam that you mount to your walls.
 
-![poorly insulated window AC](/wp-content/uploads/2023/01/poorly-insulated-window-air-conditioner-sitting-inside-window.jpg)This window AC sits too loosely inside the window. To stop the humming, you'd need to add insulation around it.
+![poorly insulated window AC](/img/poorly-insulated-window-air-conditioner-sitting-inside-window.webp)This window AC sits too loosely inside the window. To stop the humming, you'd need to add insulation around it.
 
 ### 2\. Rattling noise
 
@@ -170,7 +170,7 @@ If the source of your buzzing is not the fan or the compressor, it is very likel
 
 Then, visually check whether you see any blown or broken-off parts. If you manage to locate the issue, replace the part with an identical one (this might need soldering) and try running your window AC again.
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)Buzzing oftentimes comes from the electronic power module
+![power module](/img/portable-ac-power-module.webp)Buzzing oftentimes comes from the electronic power module
 
 ### 4\. Scratching noise
 
@@ -222,7 +222,7 @@ It’s like whistling with your mouth where you form a narrow air opening with y
 
 Capacitors can also whistle when they break down or when other parts that they are connected to break. This can create high-frequency voltages which cause the capacitor to vibrate and whistle.
 
-![refrigerant duct leak inside an AC](/wp-content/uploads/2023/01/refrigerant-duct-leak-inside-an-AC.jpg)Refrigerant duct leak inside an AC
+![refrigerant duct leak inside an AC](/img/refrigerant-duct-leak-inside-an-AC.webp)Refrigerant duct leak inside an AC
 
 #### How to test
 

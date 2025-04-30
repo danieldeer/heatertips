@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: infrared-heater-next-to-bed
-  image: /wp-content/uploads/2022/12/infrared-heater-next-to-bed.jpg
+  image: /img/infrared-heater-next-to-bed.webp
 date: "2022-12-11T08:34:50+00:00"
 guid: https://heatertips.com/?p=1272
 title: Can you run an Infrared Heater overnight?
@@ -44,7 +44,7 @@ To find out, I placed a styrofoam block in front of my running infrared heater.
 
 By varying the distance of the styrofoam block and measuring the styrofoam’s temperature using a laser thermometer, we can find out how infrared heat spreads!
 
-![](/wp-content/uploads/2022/12/infrared-heater-temperature-measurement-styrofoam-block-distance.jpg)
+![](/img/infrared-heater-temperature-measurement-styrofoam-block-distance.webp)
 
 Here’s the result:
 
@@ -64,7 +64,7 @@ The heating element under test consumes 400W of power. The temperature was measu
 
 I suspect that space heaters with higher power (e.g. 1,500W) do not necessarily get hotter. Instead, they use larger heating elements or more heating elements in parallel.
 
-![infrared heating element temperature measurement using a laser thermometer](/wp-content/uploads/2022/12/infrared-heater-heating-element-temperature-measurement.jpg)Infrared heating element temperature measurement: It's over 870°F!
+![infrared heating element temperature measurement using a laser thermometer](/img/infrared-heater-heating-element-temperature-measurement.webp)Infrared heating element temperature measurement: It's over 870°F!
 
 ## How does the temperature of an infrared heater change with distance?
 
@@ -72,7 +72,7 @@ I suspect that space heaters with higher power (e.g. 1,500W) do not necessarily 
 
 Here’s a graph displaying the temperature change with increasing distance.
 
-![](/wp-content/uploads/2022/12/infrared-heater-heating-elements-temperature-with-increasing-distance.png)The temperature in front of my infrared heater. Measured using a Bosch laser thermometer and a styrofoam block.
+![](/img/infrared-heater-heating-elements-temperature-with-increasing-distance.webp)The temperature in front of my infrared heater. Measured using a Bosch laser thermometer and a styrofoam block.
 
 As you can see, infrared heaters get _very hot_ in close proximity. But within a radius of 15 inches, the temperature cools down quickly.
 

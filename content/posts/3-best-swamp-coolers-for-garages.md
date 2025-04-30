@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-coolers-for-garages
-  image: /wp-content/uploads/2023/07/swamp-coolers-for-garages.jpg
+  image: /img/swamp-coolers-for-garages.webp
 date: "2023-07-10T11:07:46+00:00"
 guid: https://heatertips.com/?p=1550
 title: 3 Best Swamp Coolers for Garages

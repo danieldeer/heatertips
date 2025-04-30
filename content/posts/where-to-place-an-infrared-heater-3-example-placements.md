@@ -38,7 +38,7 @@ Also, a corner placement maximizes the area covered by the heat radiation, assum
 
 Anyways, let’s have a look at how much area a corner infrared heater placement would cover:
 
-![infrared heater placement in corner of the room](/wp-content/uploads/2022/11/infrared-heater-corner-of-room-placement.jpg)Infrared heater placed in corner facing into the room: Large area coverage, but relatively unfocused heat
+![infrared heater placement in corner of the room](/img/infrared-heater-corner-of-room-placement.webp)Infrared heater placed in corner facing into the room: Large area coverage, but relatively unfocused heat
 
 As you can see, when an infrared heater is placed in a corner, the infrared radiation covers a large part of the room.
 
@@ -52,7 +52,7 @@ If your corners are already occupied by furniture you have no other choice than 
 
 Here’s an image of how that would look like:
 
-![infrared heater placement at the center of a wall](/wp-content/uploads/2022/11/infrared-heater-center-of-room-placement.jpg)Infrared heater placement at the center of a wall facing into the room: Large area coverage, but heat reaches people at a steep angle (90° in the example)
+![infrared heater placement at the center of a wall](/img/infrared-heater-center-of-room-placement.webp)Infrared heater placement at the center of a wall facing into the room: Large area coverage, but heat reaches people at a steep angle (90° in the example)
 
 As you see, all the radiation reaches the furniture and people in the room from a 90° angle. This is very bad efficiency-wise because you feel the warmest when heat radiation shines at you right from the front (which would be a 0° angle).
 
@@ -74,7 +74,7 @@ Place your infrared heater right in front of people whenever you need _quick and
 
 Here’s an image of what the right-in-front-of-people-placement looks like:
 
-![infrared heater placement right in front of people](/wp-content/uploads/2022/11/infrared-heater-in-front-of-people-placement.jpg)Infrared heater placement right in front of people: High heat exposure, but low area coverage (which is not necessarily bad)
+![infrared heater placement right in front of people](/img/infrared-heater-in-front-of-people-placement.webp)Infrared heater placement right in front of people: High heat exposure, but low area coverage (which is not necessarily bad)
 
 As you can see, most of the room remains uncovered by the radiation. But a small area (in this case the sofa) gets all of the heat radiation.
 

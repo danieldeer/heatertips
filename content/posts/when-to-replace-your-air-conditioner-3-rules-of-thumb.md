@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: air conditioner replacement
-  image: /wp-content/uploads/2023/09/air-conditioner-replacement.jpg
+  image: /img/air-conditioner-replacement.webp
 date: "2023-09-21T08:04:10+00:00"
 guid: https://heatertips.com/?p=2018
 title: 'When to Replace Your Air Conditioner: 3 Rules Of Thumb'

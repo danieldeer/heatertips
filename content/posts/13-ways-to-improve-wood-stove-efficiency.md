@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: how-to-improve-wood-stove-efficiency
-  image: /wp-content/uploads/2022/11/how-to-improve-wood-stove-efficiency.jpg
+  image: /img/how-to-improve-wood-stove-efficiency.webp
 date: "2022-11-18T22:21:35+00:00"
 guid: https://heatertips.com/?p=1086
 title: 13 Ways to Improve Wood Stove Efficiency

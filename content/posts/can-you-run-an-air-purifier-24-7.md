@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier levoit core top panel view
-  image: /wp-content/uploads/2023/07/air-purifier-levoit-core-top-panel-view.jpg
+  image: /img/air-purifier-levoit-core-top-panel-view.webp
 date: "2023-07-27T11:31:30+00:00"
 guid: https://heatertips.com/?p=1609
 title: Can you run an Air Purifier 24/7?
@@ -67,7 +67,7 @@ The reason fans last so long, even though they do all the heavy lifting inside t
 
 Manufacturers all around the world have been producing fans for cars, computers, ovens, etc. for _decades._ And each little improvement is copied by the competition.
 
-![air purifier levoit core next to floor fan](/wp-content/uploads/2023/07/air-purifier-levoit-core-next-to-floor-fan.jpg)Air purifiers, just like bigger fans (in the background), can run for thousands of hours!
+![air purifier levoit core next to floor fan](/img/air-purifier-levoit-core-next-to-floor-fan.webp)Air purifiers, just like bigger fans (in the background), can run for thousands of hours!
 
 ### How long does the HEPA filter last?
 
@@ -92,7 +92,7 @@ Air purifier running time | Filter effectiveness (measured through the reduction
 
 Here’s the image with all measurements:
 
-![HEPA lifespan test](/wp-content/uploads/2023/07/HEPA-lifespan-test.png)The effectiveness of HEPA filters reduces sharply after the 160 days mark. (experimental results from [smartairfilters.com](https://smartairfilters.com/en/blog/hepa-lifespan-how-long-filters-last/))
+![HEPA lifespan test](/img/HEPA-lifespan-test.webp)The effectiveness of HEPA filters reduces sharply after the 160 days mark. (experimental results from [smartairfilters.com](https://smartairfilters.com/en/blog/hepa-lifespan-how-long-filters-last/))
 
 As you can see, after the 160 days mark, HEPA filters start becoming useless. They don’t technically fail (as if they suddenly stop working), but they appear to have a half-life.
 
@@ -128,7 +128,7 @@ At an average electricity rate of 16 cents per kWh, an average 33W air purifier 
 - $3.80 per month (30 days)
 - $46.25 per year (365 days)
 
-![air purifier power rating label levoit core](/wp-content/uploads/2023/07/air-purifier-power-rating-label-levoit-core.jpg)An average air purifier is rated at 33W. That's very little in comparison to other household devices.
+![air purifier power rating label levoit core](/img/air-purifier-power-rating-label-levoit-core.webp)An average air purifier is rated at 33W. That's very little in comparison to other household devices.
 
 A set of two replacement filters usually costs between $20 and $50. Original replacement parts are more expensive, while aftermarket replacement parts are cheap.
 
@@ -228,7 +228,7 @@ Running an air purifier for increasing time periods yields diminishing returns.
 
 **After running your air purifier for 8 hours, the majority of particles in the air in your living space are filtered. Any running time beyond that will collect fewer and fewer particles.**
 
-![air purifier levoit core touch panel timer](/wp-content/uploads/2023/07/air-purifier-levoit-core-touch-panel-timer.jpg)The touch panel of an air purifier allows you to set a timer up to 8 hours. Maybe that's an indicator that running times beyond 8 hours don't make much sense.
+![air purifier levoit core touch panel timer](/img/air-purifier-levoit-core-touch-panel-timer.webp)The touch panel of an air purifier allows you to set a timer up to 8 hours. Maybe that's an indicator that running times beyond 8 hours don't make much sense.
 
 ### Do not run your air purifier all day because you fear dust and bacteria
 

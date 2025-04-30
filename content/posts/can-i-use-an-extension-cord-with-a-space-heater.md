@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-i-use-an-extension-cord-with-space-heater
-  image: /wp-content/uploads/2019/11/can-i-use-an-extension-cord-with-space-heater.jpg
+  image: /img/can-i-use-an-extension-cord-with-space-heater.webp
 date: "2019-11-20T08:46:30+00:00"
 guid: https://heatertips.com/?p=28
 tag:

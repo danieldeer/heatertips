@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-07-13T08:15:41+00:00"
 guid: https://heatertips.com/?p=1558
 title: Can a Swamp Cooler catch on fire?

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: mr heater propane heater hand
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-hand.jpg
+  image: /img/mr-heater-propane-heater-hand.webp
 date: "2022-12-22T12:56:10+00:00"
 guid: https://heatertips.com/?p=1394
 title: Propane Heater making Noise (7 Fixes)
@@ -79,7 +79,7 @@ This oftentimes causes people to worry about their heater having loose internal 
 
 **How to fix:** There’s no way to fix the clicking of tip-over protection. The protection mechanism makes a clicking sound and this is expected.
 
-![mr heater propane heater tip over](/wp-content/uploads/2022/12/mr-heater-propane-heater-tip-over.jpg)Propane heater with tip-over protection activated
+![mr heater propane heater tip over](/img/mr-heater-propane-heater-tip-over.webp)Propane heater with tip-over protection activated
 
 ### 3\. Crackling
 
@@ -185,7 +185,7 @@ Also, get a new hose. The connector between the tank and the hose might be damag
 
 But if you only hear the hissing sound when your heater is connected, then the fault is in your propane heater. And in this case, I recommend getting a new heater, such as [this **Mr. Heater Buddy**(click to see my review)](/recommended-products/propane-heater/).
 
-![propane heater bottle connector](/wp-content/uploads/2022/12/propane-heater-bottle-connector.jpg)Propane heater with a screw-on bottle. Hissing noise comes from an improper connection between propane tank or bottle, and the propane heater.
+![propane heater bottle connector](/img/propane-heater-bottle-connector.webp)Propane heater with a screw-on bottle. Hissing noise comes from an improper connection between propane tank or bottle, and the propane heater.
 
 ## What if your propane heater is making a different noise?
 

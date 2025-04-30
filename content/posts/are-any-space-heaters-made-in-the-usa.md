@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters made in the usa
-  image: /wp-content/uploads/2023/08/space-heaters-made-in-the-usa.jpg
+  image: /img/space-heaters-made-in-the-usa.webp
 date: "2023-08-25T10:26:39+00:00"
 guid: https://heatertips.com/?p=1824
 title: Are any Space Heaters made in the USA?
@@ -44,7 +44,7 @@ So, based on that sentence alone we learn that the design process is done in the
 
 I found this badge on one of Dr Infrared’s sales pages:
 
-![designed and serviced in the USA badge](/wp-content/uploads/2023/08/designed-and-serviced-in-the-USA-badge.png)“Designed & serviced in the USA”-badge from the Dr Infrared sales page with a US flag
+![designed and serviced in the USA badge](/img/designed-and-serviced-in-the-USA-badge.webp)“Designed & serviced in the USA”-badge from the Dr Infrared sales page with a US flag
 
 They really try to force the impression of an American product.
 
@@ -86,7 +86,7 @@ Many international space heaters earn the Underwriters Laboratories (UL) certifi
 
 Therefore, many overseas brands meet or even exceed American testing standards.
 
-![mr heater space heater made in china](/wp-content/uploads/2023/08/mr-heater-space-heater-made-in-china.jpg)The backside of my Mr Heater Buddy propane heater where the "Made in China" label is printed on: Mr Heater Buddy heaters are among the [safest propane heaters](/whats-the-safest-propane-heater/). As American-branded heaters, they are still manufactured in China.
+![mr heater space heater made in china](/img/mr-heater-space-heater-made-in-china.webp)The backside of my Mr Heater Buddy propane heater where the "Made in China" label is printed on: Mr Heater Buddy heaters are among the [safest propane heaters](/whats-the-safest-propane-heater/). As American-branded heaters, they are still manufactured in China.
 
 ## Which overseas brands produce good quality space heaters?
 
@@ -132,7 +132,7 @@ Rest easy, as the DR-968 is listed by Underwriters Laboratories (UL) in both the
 
 It comes equipped with built-in Overheat and Tip-Over Protection, along with a 12-hour automatic shut-off timer.
 
-![UL certification badge](/wp-content/uploads/2023/08/UL-certification-badge.png)The UL certification badge.
+![UL certification badge](/img/UL-certification-badge.webp)The UL certification badge.
 
 ### Backed by Exceptional Warranty and Support
 

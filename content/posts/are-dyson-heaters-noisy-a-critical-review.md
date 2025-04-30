@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyson hot and cool heater
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-noisy.jpg
+  image: /img/are-dyson-heaters-noisy.webp
 date: "2022-01-15T10:11:54+00:00"
 guid: https://heatertips.com/?p=537
 title: Are Dyson heaters noisy? (A critical review)

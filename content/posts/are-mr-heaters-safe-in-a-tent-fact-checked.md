@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater propane heater tip over
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-tip-over.jpg
+  image: /img/mr-heater-propane-heater-tip-over.webp
 date: "2023-01-05T09:56:45+00:00"
 guid: https://heatertips.com/?p=1455
 title: Are Mr. Heaters safe in a tent? (Fact checked)
@@ -103,7 +103,7 @@ However, since the ceramic tile absorbs the propane flame heat and distributes i
 
 **In very close proximity to the Mr. Heater (e.g. right in front of the ceramic heating tile and the air vents on top), you can measure temperatures of >800°F.**
 
-![mr heater buddy burning paper](/wp-content/uploads/2023/01/mr-heater-buddy-burning-paper.jpg)My Mr. Heater Buddy gets hot enough to burn paper! So, it can definitely melt tent walls if they get too close.
+![mr heater buddy burning paper](/img/mr-heater-buddy-burning-paper.webp)My Mr. Heater Buddy gets hot enough to burn paper! So, it can definitely melt tent walls if they get too close.
 
 This is enough to ignite or melt tent walls that are close to the Mr. Heater.
 

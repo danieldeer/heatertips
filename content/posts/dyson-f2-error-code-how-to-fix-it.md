@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson f2 error code
-  image: /wp-content/uploads/2023/10/dyson-f2-error-code.jpg
+  image: /img/dyson-f2-error-code.webp
 date: "2023-10-15T08:09:32+00:00"
 guid: https://heatertips.com/?p=2073
 title: 'Dyson F2 Error Code: How to Fix It'

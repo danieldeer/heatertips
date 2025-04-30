@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: window air conditioner
-  image: /wp-content/uploads/2022/12/window-air-conditioner.jpg
+  image: /img/window-air-conditioner.webp
 date: "2022-12-08T21:17:48+00:00"
 guid: https://heatertips.com/?p=1258
 title: How to make a Window AC more efficient (9 Methods)
@@ -63,7 +63,7 @@ There should be no gaps or cracks around the panels (side panels).
 - Spray foam insulation
 - Using foam tape (to air-seal the window)
 
-![foam tape](/wp-content/uploads/2022/12/air-conditioner-window-insulation-foam.jpg)
+![foam tape](/img/air-conditioner-window-insulation-foam.webp)
 
 ### Block the gap below the door
 
@@ -171,7 +171,7 @@ It will help you save bills and get the best performance out of your window AC.
 
 Also, do not use long extensions and power cords because they increase total power consumption.
 
-![heavy duty extension cord](/wp-content/uploads/2019/12/extension-cord-for-space-heaters.jpg)
+![heavy duty extension cord](/img/extension-cord-for-space-heaters.webp)
 
 ### Run your AC at moderate cooling settings
 

@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier coway airmega 400
-  image: /wp-content/uploads/2023/08/air-purifier-coway-airmega-400.jpg
+  image: /img/air-purifier-coway-airmega-400.webp
 date: "2023-08-08T10:40:15+00:00"
 guid: https://heatertips.com/?p=1687
 title: Are Coway Airmega Air Purifiers worth it? (Critical Review)
@@ -53,7 +53,7 @@ As an electrical engineer, I’ve never heard of that term.
 
 After checking Coway’s official [ProX product page](https://cowaymega.com/products/airmega-prox), I saw a simple image of the Airmega ProX containing _two_ fans.
 
-![coway airmega prox binary motor](/wp-content/uploads/2023/08/coway-airmega-prox-binary-motor-min.png)
+![coway airmega prox binary motor](/img/coway-airmega-prox-binary-motor-min.webp)
 
 “Wow, that’s great. Doesn’t that mean that it has twice the air purification power?”
 
@@ -164,7 +164,7 @@ In one [study](https://www.researchgate.net/publication/325801518_Assessment_of_
 
 Here’s the result:
 
-![air purifier hepa filter filtration efficiency](/wp-content/uploads/2023/07/air-purifier-hepa-filter-filtration-efficiency.png)
+![air purifier hepa filter filtration efficiency](/img/air-purifier-hepa-filter-filtration-efficiency.webp)
 
 As you can see, the filtration efficiency is **above** **99.999%**(for a regular HEPA filter) for particles _smaller_ than 40nm and _larger_ than 0.3µm.
 
@@ -198,7 +198,7 @@ The testing standard is called “SPS-KACA 002”.
 
 Here’s what the only dust chamber testing for that standard looks like:
 
-![coway korea dust chamber](/wp-content/uploads/2023/08/coway-korea-dust-chamber.jpg)[Huanyi Chamber (Hong Kong)](https://www.huanyichamber.com/product/8m3purification-performance-test-chamber-sps-kaca002-0132-2018) \- Did Coway test their filters here?
+![coway korea dust chamber](/img/coway-korea-dust-chamber.webp)[Huanyi Chamber (Hong Kong)](https://www.huanyichamber.com/product/8m3purification-performance-test-chamber-sps-kaca002-0132-2018) \- Did Coway test their filters here?
 
 One interesting thing I found here: The Huanyi testing chamber website describes the testing process. Here’s what they say is one testing step:
 
@@ -362,7 +362,7 @@ Below _every_ price on Coway’s website, they advertise picking up debt (throug
 
 Here’s an example for ProX replacement filters:
 
-![air purifier airmega prox max replacement filter price](/wp-content/uploads/2023/08/air-purifier-airmega-prox-max-replacement-filter-price.png)Replacement filter price of the Airmega ProX.
+![air purifier airmega prox max replacement filter price](/img/air-purifier-airmega-prox-max-replacement-filter-price.webp)Replacement filter price of the Airmega ProX.
 
 Apparently, **Coway markets their luxury Airmega air purifiers to people who can’t afford them.**
 
@@ -424,7 +424,7 @@ The Core 400 cleans more air than the Airmega 300 or 400 (according to Levoit’
 
 Personally, I have the [Levoit Core 300 (click to see my review)](/best-air-purifier/) and I really dig its simplicity. It’s a high-quality device, with all the features I need (different fan settings, good filter, quiet mode), but not going overboard with automated “smart”, “eco” and whatever modes I’ll never use.
 
-![air purifier levoit core thumbs up](/wp-content/uploads/2023/07/air-purifier-levoit-core-thumbs-up.jpg)
+![air purifier levoit core thumbs up](/img/air-purifier-levoit-core-thumbs-up.webp)
 
 For larger spaces, and for a truly luxurious feel, you can also get the larger [Levoit Core 600 (click here to view it on amazon)](https://www.amazon.com/LEVOIT-Purifier-Allergies-Core-400S/dp/B09BJMY8HL?crid=984KZ91RL7JG&keywords=levoit%2Bcore%2B600&qid=1691488523&sprefix=levoit%2Bcore%2B600%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=c82dedbee01ec5c2c2aac58106b33d72&language=en_US&ref_=as_li_ss_tl).
 

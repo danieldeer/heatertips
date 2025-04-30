@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: vornado space heater repair
-  image: /wp-content/uploads/2023/02/vornado-space-heater-repair.jpg
+  image: /img/vornado-space-heater-repair.webp
 date: "2023-02-05T10:14:43+00:00"
 guid: https://heatertips.com/?p=1534
 title: How to fix a Vornado Heater not working
@@ -120,7 +120,7 @@ You can make it fit by adjusting the hole size of the power switch. But that req
 
 You can find generic replacement power switches online or in a hardware store. They come in different sizes and shapes. So, get the one that most closely resembles the original switch!
 
-![vornado space heater open power switch fan](/wp-content/uploads/2023/02/vornado-space-heater-open-power-switch-fan.jpg)Check the connectors below the power switch panel!
+![vornado space heater open power switch fan](/img/vornado-space-heater-open-power-switch-fan.webp)Check the connectors below the power switch panel!
 
 ### Does the light / display turn on?
 
@@ -188,7 +188,7 @@ If you can’t find any issues by visual inspection, trace the voltage from the 
 
 Then check the area in the vicinity of the voltage drop. Something must be off there.
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)Oftentimes you can spot issues right on the electric power module (which looks similar to this picture, with big copper coils, capacitors, and a transformer).
+![power module](/img/portable-ac-power-module.webp)Oftentimes you can spot issues right on the electric power module (which looks similar to this picture, with big copper coils, capacitors, and a transformer).
 
 ### Does the heater turn off after some time?
 

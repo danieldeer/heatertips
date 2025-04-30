@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space heater smoking
-  image: /wp-content/uploads/2022/12/space-heater-smoking.jpg
+  image: /img/space-heater-smoking.webp
 date: "2022-12-31T08:18:54+00:00"
 guid: https://heatertips.com/?p=1448
 title: Space Heater Smoking (4 Fixes)&nbsp;
@@ -88,7 +88,7 @@ If you don’t see an issue with the power electronics circuit board, look for a
 
 After double-checking that your circuitry does not touch any conductors, you can even turn on your open space heater and see where the smoke comes from. You should, however, only do this if you are _really_ familiar with electronics.
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)An electronic power module
+![power module](/img/portable-ac-power-module.webp)An electronic power module
 
 **How to fix:** Most electronic circuitry issues are simple part replacements. Just identify the broken or blown part, and replace it with a matching one. You can find replacement parts online. For the replacement, you likely need a soldering iron.
 
@@ -126,7 +126,7 @@ If the space heater’s power cord is the cause, you can replace it with a new p
 
 Also, if you are using an extension cord and your extension cord is the cause, then you should get a [new extension cord for space heaters](/can-i-use-an-extension-cord-with-a-space-heater/).
 
-![heavy duty extension cord](/wp-content/uploads/2019/12/extension-cord-for-space-heaters.jpg)
+![heavy duty extension cord](/img/extension-cord-for-space-heaters.webp)
 
 **How to prevent it in the future:** The original cause of your space heater’s power cord smoking is likely that you either don’t connect it tightly to the wall outlet, or you bumped into the space heater and almost ripped off the power cord.
 

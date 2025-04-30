@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space heater making noise sound recording
-  image: /wp-content/uploads/2023/08/space-heater-making-noise-sound-recording.jpg
+  image: /img/space-heater-making-noise-sound-recording.webp
 date: "2023-08-13T10:05:09+00:00"
 guid: https://heatertips.com/?p=1771
 title: Space Heater making Noise (6 Sound Samples & Fixes)
@@ -36,7 +36,7 @@ For each space heater noise, I included a sound recording!
 
 **Clicking noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/clicking-min.mp3" >}}
+{{< audio src="/img/clicking-min.mp3" >}}
 
 **Explanation:**
 
@@ -58,7 +58,7 @@ Humming noise in a space heater is usually safe.
 
 **Humming noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/humming-min.mp3" >}}
+{{< audio src="/img/humming-min.mp3" >}}
 
 **Explanation:**
 
@@ -78,7 +78,7 @@ Screeching noise is usually not safe and indicates a problem in the heater’s e
 
 **Screeching noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/screeching-min.mp3" >}}
+{{< audio src="/img/screeching-min.mp3" >}}
 
 **Explanation:**
 
@@ -90,7 +90,7 @@ Hiring a technician is also an option. However, the cost of hiring someone is of
 
 So, if your space heater makes a screeching noise, I recommend getting a new one.
 
-![space heater clicking noise recording](/wp-content/uploads/2023/08/space-heater-clicking-noise-recording.jpg)
+![space heater clicking noise recording](/img/space-heater-clicking-noise-recording.webp)
 
 ### Squealing noise
 
@@ -98,7 +98,7 @@ Squealing noises indicate an electric failure and possibly a broken heating elem
 
 **Squealing noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/squealing-min.mp3" >}}
+{{< audio src="/img/squealing-min.mp3" >}}
 
 **Explanation:**
 
@@ -112,7 +112,7 @@ A space heater making a buzzing noise can be either safe or unsafe to use.
 
 **Buzzing noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/buzzing-min.mp3" >}}
+{{< audio src="/img/buzzing-min.mp3" >}}
 
 **Explanation:**
 
@@ -138,7 +138,7 @@ Rattling noises usually come from loose moving parts in your space heater.
 
 **Rattling noise sound recording:**
 
-{{< audio src="/wp-content/uploads/2023/08/rattling-min.mp3" >}}
+{{< audio src="/img/rattling-min.mp3" >}}
 
 **Explanation:**
 

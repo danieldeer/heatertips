@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-07-18T10:00:27+00:00"
 guid: https://heatertips.com/?p=1568
 title: Where do Swamp Coolers work? (US States List)
@@ -155,7 +155,7 @@ So, getting a swamp cooler for the very hot and dry summer days is worth it almo
 
 A typical [24-hour humidity chart](https://www.researchgate.net/profile/Johannes-Viljoen) looks like this:
 
-![24-hour humidity chart](/wp-content/uploads/2023/07/24-hour-humidity.png)
+![24-hour humidity chart](/img/24-hour-humidity.webp)
 
 As you can see in the sample data above, the humidity reaches almost 80% humidity during the night time. However, during day time, humidity sinks below 20%.
 

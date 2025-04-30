@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: how-to-make-portable-air-conditioner-quiet
-  image: /wp-content/uploads/2022/08/how-to-make-portable-air-conditioner-quiet.jpg
+  image: /img/how-to-make-portable-air-conditioner-quiet.webp
 date: "2022-03-07T10:59:38+00:00"
 guid: https://heatertips.com/?p=572
 title: How to make a Portable Air Conditioner quiet?

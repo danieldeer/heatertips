@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: electric fireplace disassembled open back side motor exposed-min
-  image: /wp-content/uploads/2023/09/electric-fireplace-disassembled-open-back-side-motor-exposed-min.jpg
+  image: /img/electric-fireplace-disassembled-open-back-side-motor-exposed-min.webp
 date: "2023-09-19T07:47:26+00:00"
 guid: https://heatertips.com/?p=1987
 title: 'Electric Fireplace Not Working: Tried & Tested Fixes'
@@ -84,7 +84,7 @@ Ideally, you should measure voltages here using a [multimeter](https://www.amazo
 
 After that, **visually inspect the circuitry, looking for blown parts and burn marks. Spend 5 minutes just staring at the circuitry. You can spot almost any electric problem visually.**
 
-![electric circuitry blown part](/wp-content/uploads/2023/09/electric-circuitry-blown-part.jpg)Look out for burn marks and blown parts. Can you spot the blown part in this image? It's pretty obvious.
+![electric circuitry blown part](/img/electric-circuitry-blown-part.webp)Look out for burn marks and blown parts. Can you spot the blown part in this image? It's pretty obvious.
 
 That’s something I learned working in the repair department of an electronics manufacturing plant. And it's the single best electronics troubleshooting method that requires no tools.
 
@@ -102,7 +102,7 @@ And if, by chance, the thermostat's target temperature is below room temperature
 
 So, for troubleshooting electric fireplaces, always set the highest possible temperature.
 
-![electric fireplace thermostat temperature](/wp-content/uploads/2023/09/electric-fireplace-thermostat-temperature.jpg)
+![electric fireplace thermostat temperature](/img/electric-fireplace-thermostat-temperature.webp)
 
 See if that fixes the problem.
 
@@ -134,7 +134,7 @@ The flame motor is what gives your electric fireplace its realistic flickering f
 
 If the “flames” in your unit are not moving as they should, it may be an issue with this motor.
 
-![electric fireplace lights flame motor](/wp-content/uploads/2023/09/electric-fireplace-lights-flame-motor.jpg)The light motor rotates this artistically shaped metal axis, which creates the flame effect. If the flames are not moving, the motor is not working!
+![electric fireplace lights flame motor](/img/electric-fireplace-lights-flame-motor.webp)The light motor rotates this artistically shaped metal axis, which creates the flame effect. If the flames are not moving, the motor is not working!
 
 Here’s what you can do:
 
@@ -154,7 +154,7 @@ Open your fireplace and check for unconnected connectors.
 
 If you find a loose connector, plug it back in and turn on your fireplace. It should work now!
 
-![electric circuitry connectors](/wp-content/uploads/2023/09/electric-circuitry-connectors.jpg)Check for loose connectors that look like the ones in this image! These connectors are responsible for the light controls.
+![electric circuitry connectors](/img/electric-circuitry-connectors.webp)Check for loose connectors that look like the ones in this image! These connectors are responsible for the light controls.
 
 ### What to do if your electric fireplace is making unusual noises?
 
@@ -202,7 +202,7 @@ Buying a new fireplace is usually faster than getting your faulty fireplace fixe
 
 And it saves you the hassle of hiring an electrician and arranging time for a visit.
 
-![duraflame electric fireplace](/wp-content/uploads/2023/09/duraflame-electric-fireplace-300x290.jpg)
+![duraflame electric fireplace](/img/duraflame-electric-fireplace.webp)
 
 ## Conclusion
 

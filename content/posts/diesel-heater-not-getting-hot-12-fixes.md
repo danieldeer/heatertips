@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel heater hot air exhaust
-  image: /wp-content/uploads/2023/11/diesel-heater-hot-air-exhaust.jpg
+  image: /img/diesel-heater-hot-air-exhaust.webp
 date: "2023-11-30T09:58:55+00:00"
 guid: https://heatertips.com/?p=2236
 title: Diesel Heater Not Getting Hot (12 Fixes)
@@ -33,7 +33,7 @@ When the fuel pump is not pumping fuel quickly enough or with insufficient force
 
 If you can't adjust the fuel pump setting on your diesel heater, inspect the fuel pump manually and verify that it works correctly.
 
-![diesel heater fuel pump](/wp-content/uploads/2023/11/diesel-heater-fuel-pump.jpg)Ensure the fuel pump is working and pumping properly.
+![diesel heater fuel pump](/img/diesel-heater-fuel-pump.webp)Ensure the fuel pump is working and pumping properly.
 
 ### 2\. Low Battery
 
@@ -53,7 +53,7 @@ But in any case, you should make sure that the fuel line is cleanly set up. A to
 
 **How to fix it:** Some diesel heaters come with multiple fuel lines - try using a different one. Ensure the pipe is as short as possible without dents or kinks, and that it doesn’t contain air bubbles. Surprisingly, thinner pipes can be more effective than larger ones, as they require less power to build pressure.
 
-![diesel heater fuel lines](/wp-content/uploads/2023/11/diesel-heater-fuel-lines.jpg)Try different fuel lines. Usually, diesel heaters come with a set of them. Test which one works best for you.
+![diesel heater fuel lines](/img/diesel-heater-fuel-lines.webp)Try different fuel lines. Usually, diesel heaters come with a set of them. Test which one works best for you.
 
 ### 4\. Clogged or Loose Atomizer Screen
 
@@ -141,7 +141,7 @@ Use a flashlight to inspect deeper sections.
 
 **How to fix it:** Remove any visible blockages by hand or with tools. For more stubborn debris, compressed air can be effective.
 
-![diesel heater clogged exhaust vent](/wp-content/uploads/2023/11/diesel-heater-clogged-exhaust-vent.jpg)Broken heaters, especially when they leak fuel, or have a similar fatal issue, clog up quickly. If your diesel heater is as clogged as the one in the image above, get a new one.
+![diesel heater clogged exhaust vent](/img/diesel-heater-clogged-exhaust-vent.webp)Broken heaters, especially when they leak fuel, or have a similar fatal issue, clog up quickly. If your diesel heater is as clogged as the one in the image above, get a new one.
 
 ### 12\. Overheating Due to Poor Ventilation
 
@@ -177,7 +177,7 @@ Diesel heaters have one fundamental drawback. Since diesel burns so poorly, dies
 
 Because of that, all diesel heaters require electricity to run. And because diesel heaters are such complex devices, they are complex to troubleshoot (as you’ve seen in this article).
 
-![diesel heater new parts unboxing](/wp-content/uploads/2023/11/diesel-heater-new-parts-unboxing.jpg)Diesel heaters consist of dozens of components. All of which can break. Which makes them hard to troubleshoot.
+![diesel heater new parts unboxing](/img/diesel-heater-new-parts-unboxing.webp)Diesel heaters consist of dozens of components. All of which can break. Which makes them hard to troubleshoot.
 
 Propane heaters, on the other hand, are much easier to operate. They don’t require electricity. And they contain _no moving parts_ that wear down over time. So, they practically last a lifetime.
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyson hot cool replacement remote
-  image: /wp-content/uploads/2023/08/dyson-hot-cool-replacement-remote.jpg
+  image: /img/dyson-hot-cool-replacement-remote.webp
 date: "2023-08-17T13:49:30+00:00"
 guid: https://heatertips.com/?p=1796
 title: How to use a Dyson Hot + Cool without the Remote
@@ -72,7 +72,7 @@ For each of the following settings, you have to use the standby ON/OFF button on
 So, to lower the temperature, you have to wait for the target temperature to pass 37°C.
 - **Switch to Cooling mode:** Press and hold the button until the temperature decreases below 0°C. Release the button once the red indicator light ring around the button turns blue.
 
-![dyson hot cool standby button](/wp-content/uploads/2023/08/dyson-hot-cool-standbdy-button-1024x626.jpg)
+![dyson hot cool standby button](/img/dyson-hot-cool-standbdy-button.webp)
 
 ### What you can’t control without a remote
 

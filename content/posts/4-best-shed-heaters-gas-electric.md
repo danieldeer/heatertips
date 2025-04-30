@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane heater mr heater buddy and oil-filled radiator space heater in garage
-  image: /wp-content/uploads/2023/09/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.jpg
+  image: /img/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.webp
 date: "2023-09-15T07:59:43+00:00"
 guid: https://heatertips.com/?p=1949
 title: 4 Best Shed Heaters (Gas & Electric)
@@ -59,7 +59,7 @@ I ranked this heater the #1 for most sheds for the following reasons:
 While a regular electric space heater might keep the shed at mild temperatures, a propane heater will keep it at _any_ temperature all year round.
 - **Emergency heat:** In an electric outage you can rely on your propane heater. Since it works without electricity and you can store large [100lb propane tanks](/how-long-does-a-100lb-propane-tank-last/) in your shed, you can use a propane heater as a backup heater to rely on.
 
-![dyna-glo wall-mounted propane heater](/wp-content/uploads/2023/09/dyna-glo-wall-mounted-propane-heater.jpg)The Dyna-Glo wall-mounted propane heater is perfect for most sheds!
+![dyna-glo wall-mounted propane heater](/img/dyna-glo-wall-mounted-propane-heater.webp)The Dyna-Glo wall-mounted propane heater is perfect for most sheds!
 
 Personally, I consider all these points to be very strong reasons to get a propane heater for your shed over an electric heater.
 
@@ -111,7 +111,7 @@ The Mr. Heater Big Buddy (recommended in this section), for example, outputs 18,
 
 Except for the fact that you can’t mount a portable heater to the shed’s wall, there is absolutely no drawback to getting one.
 
-![mr heater buddy propane heater in garage](/wp-content/uploads/2023/09/mr-heater-buddy-propane-heater-in-garage.jpg)Here's my Mr. Heater Buddy propane heater: Totally reliable & works in the freezing cold.
+![mr heater buddy propane heater in garage](/img/mr-heater-buddy-propane-heater-in-garage.webp)Here's my Mr. Heater Buddy propane heater: Totally reliable & works in the freezing cold.
 
 ## 3\. Best Electric Heaters for Sheds
 
@@ -159,7 +159,7 @@ I recommend getting [this **De’Longhi oil-filled radiator**(click here to view
 
 It will last. Guaranteed.
 
-![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1-152x300.jpg)
+![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)
 
 ## Quick Recap: When to pick which heater
 
@@ -196,7 +196,7 @@ Installing a radiant barrier is usually as simple as stapling the material to yo
 
 You can also cover your shed’s windows with it.
 
-![window reflective insulation wrap](/wp-content/uploads/2023/09/window-reflective-insulation-wrap.jpg)Reflective insulation wraps make a large difference! You can even cover your shed window with a layer of reflective insulation.
+![window reflective insulation wrap](/img/window-reflective-insulation-wrap.webp)Reflective insulation wraps make a large difference! You can even cover your shed window with a layer of reflective insulation.
 
 ### Under-Door Air Draft Stoppers & Door Sweeps
 

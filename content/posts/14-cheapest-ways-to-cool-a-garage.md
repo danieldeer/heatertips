@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: cheap-ways-to-cool-a-garage
-  image: /wp-content/uploads/2022/11/cheap-ways-to-cool-a-garage.jpg
+  image: /img/cheap-ways-to-cool-a-garage.webp
 date: "2022-11-13T15:56:28+00:00"
 guid: https://heatertips.com/?p=1056
 title: 14 Cheapest Ways to Cool a Garage

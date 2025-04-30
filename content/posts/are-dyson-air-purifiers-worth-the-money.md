@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson big quiet and pure cool air purifier
-  image: /wp-content/uploads/2023/09/dyson-big-quiet-and-pure-cool-air-purifier.jpg
+  image: /img/dyson-big-quiet-and-pure-cool-air-purifier.webp
 date: "2023-09-01T09:50:22+00:00"
 guid: https://heatertips.com/?p=1858
 title: Are Dyson Air Purifiers Worth the Money?
@@ -43,7 +43,7 @@ The [**Dyson Hot + Cool HP07** (click here to view it on amazon)](https://www.am
 
 I haven’t seen this all-in-one concept in any other major air purifier brand.
 
-![dyson hot cool fans air purifier](/wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg)Dyson Hot+Cool fans with built-in air purification.
+![dyson hot cool fans air purifier](/img/are-dyson-heaters-safe.webp)Dyson Hot+Cool fans with built-in air purification.
 
 ## Power usage: Dyson air purifiers consume more due to increased airflow resistance
 
@@ -61,7 +61,7 @@ Additionally, air only enters through a comparably narrow band of air inlet hole
 
 A _real_ air purifier has as large and open as possible air inlets to reduce airflow resistance as much as possible.
 
-![dyson loop amplifier](/wp-content/uploads/2022/12/dyson-loop-amplifier.jpg)Dyson forces air through the thin loop amplifier. For a fan, that's a good thing. For air purification, however, it is technically an inefficiency.
+![dyson loop amplifier](/img/dyson-loop-amplifier.webp)Dyson forces air through the thin loop amplifier. For a fan, that's a good thing. For air purification, however, it is technically an inefficiency.
 
 ## Filter size: Comparison between a Dyson and a pure air purifier
 
@@ -75,7 +75,7 @@ That’s what a real air purifier should be like.
 
 For comparison, the filter of a Dyson Pure Cool Link tower fan is 7.7 × 7.7 inches (height × diameter). So, **a Dyson filter is just about 51% of the size of the total filter size used in a Coway air purifier** (Coway uses two filters per device).
 
-![air purifier coway airmega 400](/wp-content/uploads/2023/08/air-purifier-coway-airmega-400-1024x677.jpg)This is the Coway Airmega 400. It has much larger air intakes than any Dyson air purifier!
+![air purifier coway airmega 400](/img/air-purifier-coway-airmega-400.webp)This is the Coway Airmega 400. It has much larger air intakes than any Dyson air purifier!
 
 So, **physically, it is impossible for a Dyson air purifier to compete with a pure air purifier in the same price range.**
 
@@ -117,7 +117,7 @@ Activated carbon is the filter material that [absorbs odors from the air](/air-p
 
 **Dyson air purifier filters are the exact same filters found in many other air purifiers. While they filter particles and odors well, you can get the same air purification effect from a much cheaper regular air purifier.**
 
-![air purifier hepa filter levoit core](/wp-content/uploads/2023/07/air-purifier-hepa-filter-levoit-core.jpg)Even my cheap Levoit Core 300 air purifier has a two-stage filter. The outer layer is HEPA, and the inner layer is activated carbon.
+![air purifier hepa filter levoit core](/img/air-purifier-hepa-filter-levoit-core.webp)Even my cheap Levoit Core 300 air purifier has a two-stage filter. The outer layer is HEPA, and the inner layer is activated carbon.
 
 ## What’s really nice: Dyson Air Purifier features that beat the competition
 
@@ -147,7 +147,7 @@ I have seen some air purifiers (such as the larger Levoit Core models) around th
 
 With its detailed air quality monitoring, Dyson beats even the premium air purifier brands such as Coway and Levoit.
 
-![Dyson air purifier air quality screen](/wp-content/uploads/2023/09/Dyson-air-purifier-air-quality-screen.jpg)The green line indicates great air quality. When air quality decreases, the line moves upward toward the orange and red segments.
+![Dyson air purifier air quality screen](/img/Dyson-air-purifier-air-quality-screen.webp)The green line indicates great air quality. When air quality decreases, the line moves upward toward the orange and red segments.
 
 ### Filter life display: Minimizes filter replacement cost
 
@@ -209,7 +209,7 @@ Dyson fans deliver. They are great products. Although, admittedly, their price i
 
 But if you use them for a long time, they may be well worth it.
 
-![dyson hot and cool heater](/wp-content/uploads/2022/01/are-dyson-heaters-noisy.jpg)Dyson fans just look great.
+![dyson hot and cool heater](/img/are-dyson-heaters-noisy.webp)Dyson fans just look great.
 
 ## Recommended Dyson Pure models
 

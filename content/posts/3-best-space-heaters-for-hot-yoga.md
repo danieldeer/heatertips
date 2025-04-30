@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best space heaters for hot yoga
-  image: /wp-content/uploads/2022/10/best-space-heaters-for-hot-yoga.jpg
+  image: /img/best-space-heaters-for-hot-yoga.webp
 date: "2022-10-30T13:19:54+00:00"
 guid: https://heatertips.com/?p=850
 title: 3 Best Space Heaters for Hot Yoga

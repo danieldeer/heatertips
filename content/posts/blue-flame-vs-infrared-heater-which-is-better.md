@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater running closeup
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-running-closeup.jpg
+  image: /img/mr-heater-propane-heater-running-closeup.webp
 date: "2023-01-10T12:01:32+00:00"
 guid: https://heatertips.com/?p=1464
 title: 'Blue Flame vs Infrared Heater: Which is better?'
@@ -89,7 +89,7 @@ Still, the overall amount of heat both heaters produce is the same, given they c
 
 **The biggest difference between infrared gas heaters and blue flame heaters is the direction of heat. In most cases, heat radiation _into_ the room (instead of upwards) is preferable.**
 
-![mr heater propane heater top vents](/wp-content/uploads/2023/01/mr-heater-propane-heater-top-vents.jpg)Most of the heat leaves my propane heater through the top vents (even though it is supposedly an infrared heater)
+![mr heater propane heater top vents](/img/mr-heater-propane-heater-top-vents.webp)Most of the heat leaves my propane heater through the top vents (even though it is supposedly an infrared heater)
 
 ## Mythbusting Blue Flame vs Infrared Heaters
 
@@ -157,7 +157,7 @@ If you buy a blue flame heater, some of the heat will radiate as infrared. And i
 
 Only the ratio of convection and radiation heat varies between heaters. But you always get a mix of both worlds, and never only one.
 
-![mr heater propane heater heat distribution](/wp-content/uploads/2023/01/mr-heater-propane-heater-heat-distribution.jpg)Mr. Heater Buddy heaters heat upward (through convection) and from the front (through radiation)
+![mr heater propane heater heat distribution](/img/mr-heater-propane-heater-heat-distribution.webp)Mr. Heater Buddy heaters heat upward (through convection) and from the front (through radiation)
 
 ## Should you pick a blue flame or an infrared heater?
 

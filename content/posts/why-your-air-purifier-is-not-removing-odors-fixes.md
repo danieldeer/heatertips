@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier removing odors
-  image: /wp-content/uploads/2023/08/air-purifier-removing-odors.jpg
+  image: /img/air-purifier-removing-odors.webp
 date: "2023-08-06T13:39:35+00:00"
 guid: https://heatertips.com/?p=1679
 title: Why your Air Purifier is not Removing Odors (+ Fixes)
@@ -137,7 +137,7 @@ Usually, you’ll find the word “carbon” on the sales page.
 
 Alternatively, you can take out your air purifier’s filter and check for a black layer. Here’s what my filter with activated carbon looks like:
 
-![air purifier hepa filter levoit core](/wp-content/uploads/2023/07/air-purifier-hepa-filter-levoit-core.jpg)The inner filtering layer contains hundreds of black pieces. That's the activated carbon.
+![air purifier hepa filter levoit core](/img/air-purifier-hepa-filter-levoit-core.webp)The inner filtering layer contains hundreds of black pieces. That's the activated carbon.
 
 ## Other common reasons for your air purifier not removing odor
 

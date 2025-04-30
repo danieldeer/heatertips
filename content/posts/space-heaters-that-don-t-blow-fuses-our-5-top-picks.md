@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters that don't blow fuses
-  image: /wp-content/uploads/2019/12/space-heaters-that-dont-blow-fuses.jpg
+  image: /img/space-heaters-that-dont-blow-fuses.webp
 date: "2019-12-13T18:18:54+00:00"
 guid: https://heatertips.com/?p=171
 tag:
@@ -45,7 +45,7 @@ You can decide for 1500W, 1000W and ECO mode. As long as you use the 1000W setti
 1. [**Pelonis Tower Heater** (click here to check the price on amazon)](https://www.amazon.com/dp/B09BJL6VR8?ie=UTF8&pd_rd_i=B09BJL6VR8p13NParams&s=home-garden&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll1&tag=heatertips-20&linkId=684d1abda52d57f72f96eda663710731&language=en_US&ref_=as_li_ss_tl) \- Even though this tower heater runs on 1500W, it has a built-in ECO mode that you can use if you want to stay safe and keep your fuse intact.  
 It also has overheat protection.
 
-![tower space heaters with eco mode don't blow fuses](/wp-content/uploads/2019/12/tower-space-heaters-with-eco-mode-dont-blow-fuses.jpg)
+![tower space heaters with eco mode don't blow fuses](/img/tower-space-heaters-with-eco-mode-dont-blow-fuses.webp)
 
 ## Why do space heaters blow fuses?
 
@@ -77,7 +77,7 @@ That’s where a fuse comes into play.
 
 Let me explain how fuses work.
 
-![](/wp-content/uploads/2019/12/space-heater-fuse.jpg)
+![](/img/space-heater-fuse.webp)
 
 ## What is a fuse and how does it work?
 

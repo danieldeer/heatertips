@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater makes clicking noise
-  image: /wp-content/uploads/2019/12/space-heater-makes-clicking-noise.jpg
+  image: /img/space-heater-makes-clicking-noise.webp
 date: "2019-12-20T11:24:15+00:00"
 guid: https://heatertips.com/?p=203
 tag:
@@ -87,7 +87,7 @@ Because the engineers designing the space heater need to switch on and off big c
 
 **A relay is an electric switch that mechanically switches connections. Each time it’s switched on or off, a piece of metal bumps onto another piece of metal - that’s where the clicking noise in your space heater comes from.**
 
-![how a space heater relay looks like](/wp-content/uploads/2019/12/space-heater-relay.jpg)This is what a relay looks like.
+![how a space heater relay looks like](/img/space-heater-relay.webp)This is what a relay looks like.
 
 I liked this explanation:
 
@@ -127,7 +127,7 @@ When a transformer doesn’t work properly and you plug it in the outlet, it rec
 
 **A screeching or squealing noise is a sign that you should replace your space heater.**
 
-![how a transformer in a space heater looks like](/wp-content/uploads/2019/12/space-heater-transformer.jpg)The metal layers of a transformer vibrate and produce noise.
+![how a transformer in a space heater looks like](/img/space-heater-transformer.webp)The metal layers of a transformer vibrate and produce noise.
 
 ### What about humming noise?
 

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: mr heater buddy ceramic burner tile
-  image: /wp-content/uploads/2023/09/mr-heater-buddy-ceramic-burner-tile.jpg
+  image: /img/mr-heater-buddy-ceramic-burner-tile.webp
 date: "2023-09-28T10:01:52+00:00"
 guid: https://heatertips.com/?p=2042
 title: Mr. Heater Ceramic Burner Tile Replacement (in 6 Steps)
@@ -47,7 +47,7 @@ Mr. Heater Hunting Buddy | MH12B
 
 If your model is not on the list, look it up directly on the back side of your Mr. Heater unit.
 
-![mr heater buddy model number](/wp-content/uploads/2023/09/mr-heater-buddy-model-number.jpg)My Mr. Heater Buddy has the Model number MH8BXDF. I think the model number differs from the table above because I have a European model.
+![mr heater buddy model number](/img/mr-heater-buddy-model-number.webp)My Mr. Heater Buddy has the Model number MH8BXDF. I think the model number differs from the table above because I have a European model.
 
 Or, alternatively, look up the model number on a sales page of your Mr. Heater model. On Amazon, you’ll usually find the model number in the description of the heater.
 
@@ -60,7 +60,7 @@ For a complete burner tile replacement, you’ll need
 
 The burner burner gasket is a piece of felt that insulates gas leaks.
 
-![mr heater burner tile replacement kit](/wp-content/uploads/2023/09/mr-heater-burner-tile-replacement-kit.jpg)Ceramic burner tile and gasket replacement kit
+![mr heater burner tile replacement kit](/img/mr-heater-burner-tile-replacement-kit.webp)Ceramic burner tile and gasket replacement kit
 
 Usually, the tile and the gasket are sold together in a kit. If you can’t find a kit, you can also buy them separately.
 
@@ -108,7 +108,7 @@ After that, position the new burner tile in the bracket ensuring it sits flat an
 
 Once the new burner tile is in place, tighten the bracket screw securely to hold the burner tile in place. Ensure it's well-secured but not overly tightened to prevent any damage to the new tile, especially when it heats up.
 
-![mr heater big buddy burner tile replacement](/wp-content/uploads/2023/09/mr-heater-big-buddy-burner-tile-replacement.jpg)Scrape out the old gasket and replace the new ceramic burner tile! The image shows the Mr. Heater Big Buddy. But it works the same in the Mr. Heater Buddy.
+![mr heater big buddy burner tile replacement](/img/mr-heater-big-buddy-burner-tile-replacement.webp)Scrape out the old gasket and replace the new ceramic burner tile! The image shows the Mr. Heater Big Buddy. But it works the same in the Mr. Heater Buddy.
 
 ### 5\. Reassemble your Mr. Heater
 

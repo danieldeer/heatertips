@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: air purifier extension cord
-  image: /wp-content/uploads/2023/08/air-purifier-extension-cord.jpg
+  image: /img/air-purifier-extension-cord.webp
 date: "2023-08-09T09:15:16+00:00"
 guid: https://heatertips.com/?p=1702
 title: Can you use an Extension Cord with an Air Purifier?
@@ -88,7 +88,7 @@ Sometimes, air purifiers consume more power than their specification label indic
 
 For example, the [Levoit Core 300](/best-air-purifier/) (which is the air purifier I use), _officially_ draws 33W. Here’s the proof:
 
-![air purifier power rating label levoit core](/wp-content/uploads/2023/07/air-purifier-power-rating-label-levoit-core.jpg)Power specs label of a regular Levoit air purifier.
+![air purifier power rating label levoit core](/img/air-purifier-power-rating-label-levoit-core.webp)Power specs label of a regular Levoit air purifier.
 
 But, according to [power-meter measurements](/air-purifier-running-cost-guide/), that’s only the _average_ wattage on the “Medium” fan speed setting.
 
@@ -119,7 +119,7 @@ A loose connection increases electric resistance and can result in a power cord 
 
 Still, before you use “any” extension cord, ensure it can handle the power requirements of your air purifier.
 
-![air purifier with surge protector](/wp-content/uploads/2023/08/air-purifier-with-surge-protector.jpg)I frequently run my air purifier with this messy surge protector (in the background). Everything works just fine.
+![air purifier with surge protector](/img/air-purifier-with-surge-protector.webp)I frequently run my air purifier with this messy surge protector (in the background). Everything works just fine.
 
 Check the Amperage rating on the extension cord itself. You should find a print label on the power cord itself.
 

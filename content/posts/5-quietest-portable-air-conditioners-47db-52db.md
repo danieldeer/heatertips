@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: quietest-portable-air-conditioners
-  image: /wp-content/uploads/2022/11/quietest-portable-air-conditioners.jpg
+  image: /img/quietest-portable-air-conditioners.webp
 date: "2022-11-22T14:07:22+00:00"
 guid: https://heatertips.com/?p=1103
 title: 5 Quietest Portable Air Conditioners (47dB - 52dB)
@@ -43,7 +43,7 @@ With 52dB it’s just 1dB “louder” than the previous model. So, the noise di
 
 It’s a [dual-hose](/is-a-single-or-dual-hose-portable-ac-better/) portable air conditioner which makes it a _lot_ more efficient than regular single-hose air conditioners.
 
-![Whynter Elite-ARC-122DS portable air conditioner](/wp-content/uploads/2022/11/Whynter-Elite-ARC-122DS-portable-air-conditioner-160x300.jpg)
+![Whynter Elite-ARC-122DS portable air conditioner](/img/Whynter-Elite-ARC-122DS-portable-air-conditioner.webp)
 
 Because of its increased efficiency, it outputs more cold air (12,000 BTU) while still running quietly.
 
@@ -179,7 +179,7 @@ However, the better you set up your portable air conditioner, the less cooling c
 
 **For more portable air conditioner efficiency tips, read [“How to make a portable air conditioner more efficient?”](/how-to-make-portable-air-conditioner-more-efficient/).**
 
-![how to make portable air conditioner more efficient](/wp-content/uploads/2022/03/how-to-make-portable-air-conditioner-more-efficient.jpg)Here's a Whynter portable AC with added hose insulation, which improves quietness and energy-efficiency!
+![how to make portable air conditioner more efficient](/img/how-to-make-portable-air-conditioner-more-efficient.webp)Here's a Whynter portable AC with added hose insulation, which improves quietness and energy-efficiency!
 
 ### Place the AC unit on an anti-vibration pad
 

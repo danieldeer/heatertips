@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: are space heaters allowed in dorms
-  image: /wp-content/uploads/2019/12/are-space-heaters-allowed-in-dorms.jpg
+  image: /img/are-space-heaters-allowed-in-dorms.webp
 date: "2019-12-02T07:28:50+00:00"
 guid: https://heatertips.com/?p=119
 title: Are Space Heaters allowed in Dorms?
@@ -54,7 +54,7 @@ If you’re unlucky you belong to one of the dorms which **totally prohibit spac
 
 If you keep reading, you’ll find a short list of some universities and whether they allow space heaters.
 
-![college dorm with an oil-filled space heater - seems to be allowed](/wp-content/uploads/2019/12/college-dorm-with-allowed-space-heater.jpg)
+![college dorm with an oil-filled space heater - seems to be allowed](/img/college-dorm-with-allowed-space-heater.webp)
 
 ## Why are space heaters not allowed in all dorms?
 

@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson humidify cool fan
-  image: /wp-content/uploads/2023/11/dyson-humidify-cool-fan.jpg
+  image: /img/dyson-humidify-cool-fan.webp
 date: "2023-11-09T10:00:35+00:00"
 guid: https://heatertips.com/?p=2119
 title: 'Dyson Humidify+Cool Fans: Are They Worth It?'
@@ -45,7 +45,7 @@ Dyson's designs are modern and attention-grabbing. Their bladeless fans are **sa
 
 The technology behind the Humidify+Cool series is centered on what Dyson calls **Air Multiplier™ technology**.
 
-![dyson humidify cool air multiplier technology air quality monitoring lcd](/wp-content/uploads/2023/11/dyson-humidify-cool-air-multiplier-technology-air-quality-monitoring-lcd.jpg)
+![dyson humidify cool air multiplier technology air quality monitoring lcd](/img/dyson-humidify-cool-air-multiplier-technology-air-quality-monitoring-lcd.webp)
 
 It’s a fancy term for a simple concept: Air multiplier technology is all about narrowing the escape area of the airstream to speed up airflow (but reduce airflow diameter).
 
@@ -57,7 +57,7 @@ What I personally enjoy most is the **detailed air quality monitoring**, achieve
 
 In conclusion, Dyson's Humidify+Cool models combine functionality with design and user-friendly technology. These aspects might make the higher price point more palatable for those who prioritize advanced features and ease of use.
 
-![dyson humidify cool formaldehyde](/wp-content/uploads/2023/11/dyson-humidify-cool-formaldehyde.jpg)The Dyson Humidify+Cool PH04 specifies the gasses it captures. The 4 air quality sensor holes showcase Dyson's emphasis on proper air quality monitoring.
+![dyson humidify cool formaldehyde](/img/dyson-humidify-cool-formaldehyde.webp)The Dyson Humidify+Cool PH04 specifies the gasses it captures. The 4 air quality sensor holes showcase Dyson's emphasis on proper air quality monitoring.
 
 ## What Does Owning a Dyson Humidify+Cool Cost?
 
@@ -125,7 +125,7 @@ The cooling function doesn't directly purify the air, but it does distribute the
 
 **With its HEPA filter, a Dyson Humidity+Cool cleans the air just as well as any other air purifier. Since the filter follows the HEPA standard, the air purification is neither better nor worse than other air purifiers.**
 
-![dyson humidify cool filter replacement](/wp-content/uploads/2023/11/dyson-humidify-cool-filter-replacement.jpg)The HEPA filter in a Dyson Humidify+Cool looks high-tech. And it is. But it is not any better than any other HEPA filter in a regular air purifier.
+![dyson humidify cool filter replacement](/img/dyson-humidify-cool-filter-replacement.webp)The HEPA filter in a Dyson Humidify+Cool looks high-tech. And it is. But it is not any better than any other HEPA filter in a regular air purifier.
 
 ### Health Impact
 
@@ -167,7 +167,7 @@ So, if you’re someone who wants a no-maintenance product, then a Dyson fan is 
 
 The high price does not protect you from having to troubleshoot technical problems.
 
-![dyson humidify deep clean cycle stuck problem](/wp-content/uploads/2023/10/dyson-humidify-deep-clean-cycle-stuck-problem.jpg)The deep clean cycle oftentimes gets stuck after a few seconds on Dyson Humidify+Cool fans. Very annoying and hard to fix.
+![dyson humidify deep clean cycle stuck problem](/img/dyson-humidify-deep-clean-cycle-stuck-problem.webp)The deep clean cycle oftentimes gets stuck after a few seconds on Dyson Humidify+Cool fans. Very annoying and hard to fix.
 
 ## Is It Worth the Investment?
 
@@ -238,7 +238,7 @@ However, it’s essential to see how it stacks up against the competition. Let�
    - **Lacks**: nothing
    - **Conclusion**: Just as good as a Dyson Humidify+Cool
 
-![coway airmega 400 product image](/wp-content/uploads/2023/09/coway-airmega-400-product-image.jpg)The Coway Airmega 400 is the ideal air purifier, with a very large filtration surface (see all the holes in the sides), and extreme longevity without maintenance.
+![coway airmega 400 product image](/img/coway-airmega-400-product-image.webp)The Coway Airmega 400 is the ideal air purifier, with a very large filtration surface (see all the holes in the sides), and extreme longevity without maintenance.
 
 ### Budget-Friendly Options
 
@@ -269,7 +269,7 @@ While Dyson is at the top end of the market, there are even more luxurious optio
    - **Lacks**: Humidification
    - **Conclusion**: Advanced air purification and smart controls but no humidifying capabilities.
 
-![molekule air pro](/wp-content/uploads/2023/11/molekule-air-pro.jpg)Talking about design, I prefer the Molekule Air Pro over a Dyson purifier / humidifier. It looks very modern without being overly flashy.
+![molekule air pro](/img/molekule-air-pro.webp)Talking about design, I prefer the Molekule Air Pro over a Dyson purifier / humidifier. It looks very modern without being overly flashy.
 
 In conclusion, while the Dyson Humidify+Cool stands out for its unique combination of features, design, and technology, the market does offer a range of alternatives. Depending on specific needs and budget, consumers can opt for more affordable or even more advanced options, though they might have to compromise on either the multifunctionality or the sleek design that Dyson offers.
 

@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-12-12T13:19:29+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/category/</loc>
     <lastmod>2023-12-12T13:19:29+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/category/heater-guides/</loc>
-    <lastmod>2023-12-12T13:19:29+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-12-12T13:19:29+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/how-to-use-a-diesel-heater-indoors/</loc>
@@ -76,9 +76,6 @@
   </url><url>
     <loc>http://localhost:1313/fix-dyson-drip-tray-overflow-error/</loc>
     <lastmod>2023-11-12T14:51:31+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/home/</loc>
-    <lastmod>2023-11-11T14:39:01+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fix-dyson-humidify-cool-not-humidifying/</loc>
     <lastmod>2023-11-11T08:49:03+00:00</lastmod>

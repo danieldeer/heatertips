@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space-heater-keeps-shutting-off
-  image: /wp-content/uploads/2021/11/space-heater-keeps-shutting-off.jpg
+  image: /img/space-heater-keeps-shutting-off.webp
 date: "2021-11-20T10:37:17+00:00"
 guid: https://heatertips.com/?p=489
 title: Space Heater keeps shutting off (5 reasons and how to fix it)
@@ -106,7 +106,7 @@ Most space heaters have built-in tip-over protection. Tip-over protection is a s
 
 Oftentimes that tip-over protection is a simple button at the bottom of your heater. The button has a longish shape. It touches the floor. If the button is pressed down (eg. by the floor), the heater assumes to be standing upright. If it is not pressed, the heater thinks it is tipped over and shuts off.
 
-![space heater tip over shut off protection](/wp-content/uploads/2021/11/space-heater-shut-off-tip-over-protection.jpg)The black button you see at the bottom of this infrared space heater is the tip-over protection. When the space heater stands on the floor, the button is pressed down. When it tips over, the button is released causing the space heater to shut off.
+![space heater tip over shut off protection](/img/space-heater-shut-off-tip-over-protection.webp)The black button you see at the bottom of this infrared space heater is the tip-over protection. When the space heater stands on the floor, the button is pressed down. When it tips over, the button is released causing the space heater to shut off.
 
 If your heater stands on uneven or soft ground, the tip-over protection button may not be fully pressed, falsely leading the heater to believe it is tipped over.
 

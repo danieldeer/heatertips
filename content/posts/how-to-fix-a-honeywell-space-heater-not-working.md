@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: honeywell space heater repair how to fix
-  image: /wp-content/uploads/2023/02/honeywell-space-heater-repair-how-to-fix.jpg
+  image: /img/honeywell-space-heater-repair-how-to-fix.webp
 date: "2023-02-01T09:09:53+00:00"
 guid: https://heatertips.com/?p=1525
 title: How to fix a Honeywell Space Heater not working
@@ -120,7 +120,7 @@ In any case, to fix broken power electronics, you need soldering skills and you 
 
 Unfortunately, Honeywell doesn’t sell any electronic circuit replacement parts. But any brand’s replacement parts will do as long as you get the right specifications.
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)That's what the power module in most space heaters looks like. Usually, they have large cylindrical capacitors and one or multiple transformers (yellow).
+![power module](/img/portable-ac-power-module.webp)That's what the power module in most space heaters looks like. Usually, they have large cylindrical capacitors and one or multiple transformers (yellow).
 
 ### Does the light / display turn on?
 
@@ -174,7 +174,7 @@ But there’s one disadvantage: The bent metal sheet does not move back into pla
 
 Another problem is that the contacts can deform without overheating, for example when the heater tips over.
 
-![honeywell space heater overheat protection](/wp-content/uploads/2023/02/honeywell-space-heater-overheat-protection-next-to-air-filter.jpg)The overheat protection is the small copper piece sitting aside the air filter. In the image it's on the top right side of the air filter.
+![honeywell space heater overheat protection](/img/honeywell-space-heater-overheat-protection-next-to-air-filter.webp)The overheat protection is the small copper piece sitting aside the air filter. In the image it's on the top right side of the air filter.
 
 Here’s how to fix it.
 

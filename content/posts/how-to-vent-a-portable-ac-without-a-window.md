@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: how to vent a portable air conditioner in a room without a window
-  image: /wp-content/uploads/2022/11/how-to-vent-a-portable-air-conditioner-in-a-room-without-a-window.jpg
+  image: /img/how-to-vent-a-portable-air-conditioner-in-a-room-without-a-window.webp
 date: "2022-11-08T16:44:55+00:00"
 guid: https://heatertips.com/?p=1035
 title: How to Vent a Portable AC Without a Window?

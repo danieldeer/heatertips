@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot and cool heater
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-noisy.jpg
+  image: /img/are-dyson-heaters-noisy.webp
 date: "2022-12-13T12:25:51+00:00"
 guid: https://heatertips.com/?p=1298
 title: How to Fix a Dyson Heater not Blowing Hot Air
@@ -60,7 +60,7 @@ Alternatively, if you don’t have a good vacuum cleaner or a compressed air gun
 
 This will take a bit longer, but the result will be the same.
 
-![](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)Dusty internal components in a Dyson Hot + Cool blocking the airflow
+![](/img/dyson-hot-cool-heater-dust-internal-components.webp)Dusty internal components in a Dyson Hot + Cool blocking the airflow
 
 Now that the internal parts are clean and dusted, let’s continue with the next step.
 
@@ -120,7 +120,7 @@ Does the fan sound any different now? Does it still blow the same amount of air?
 
 Mount the loop amplifier again and start your Dyson heater. Does the airflow improve?
 
-![dyson loop amplifier](/wp-content/uploads/2022/12/dyson-loop-amplifier.jpg)
+![dyson loop amplifier](/img/dyson-loop-amplifier.webp)
 
 ### Replace or remove the air filter
 
@@ -192,7 +192,7 @@ It could also be that your Dyson heater has an internal electronic issue. It cou
 
 Or it could be that the thermostat’s thermometer is broken and returns wrong values to the thermostat (which causes it to think that your room is already at target temperature and needs no heating).
 
-![power module](/wp-content/uploads/2022/11/portable-ac-power-module.jpg)
+![power module](/img/portable-ac-power-module.webp)
 
 **How to test:** This one is a little advanced, but it should be doable for everyone who likes to repair electronics.
 

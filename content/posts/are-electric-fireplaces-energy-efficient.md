@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: electric fireplace free standing
-  image: /wp-content/uploads/2023/09/electric-fireplace-free-standing.jpg
+  image: /img/electric-fireplace-free-standing.webp
 date: "2023-09-18T12:31:49+00:00"
 guid: https://heatertips.com/?p=1982
 title: Are Electric Fireplaces Energy Efficient?
@@ -82,7 +82,7 @@ With a traditional fireplace, you get efficiencies of 80%, while with an electri
 
 And, of course, the marketing departments of electric fireplace manufacturers are riding the efficiency wave.
 
-![electric fireplace placed in wall](/wp-content/uploads/2023/09/electric-fireplace-placed-in-wall.jpg)Electric fireplaces are technically very efficient. But does that efficiency even matter?
+![electric fireplace placed in wall](/img/electric-fireplace-placed-in-wall.webp)Electric fireplaces are technically very efficient. But does that efficiency even matter?
 
 ## Why Efficiency Does _Not_ Matter
 
@@ -188,7 +188,7 @@ As you know now, electric fireplaces can be efficient worth it! It solely depend
 
 My favorite electric fireplace is [this **Duraflame Fireplace** (click here to view it on amazon)](https://www.amazon.com/Duraflame-Infrared-Electric-Fireplace-Control/dp/B01M0AGJIQ?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=U5IRAIV6M556&keywords=electric%2Bfireplace&qid=1695038649&sprefix=electric%2Bfireplace%2Caps%2C93&sr=8-9&th=1&linkCode=ll1&tag=heatertips-20&linkId=f892e0bb1853ce4d310561e29864566c&language=en_US&ref_=as_li_ss_tl).
 
-![duraflame electric fireplace](/wp-content/uploads/2023/09/duraflame-electric-fireplace-300x290.jpg)My recommendation: This Duraflame fireplace. It just works. A great product.
+![duraflame electric fireplace](/img/duraflame-electric-fireplace.webp)My recommendation: This Duraflame fireplace. It just works. A great product.
 
 I recommend this particular fireplace over others, because it’s full metal!
 

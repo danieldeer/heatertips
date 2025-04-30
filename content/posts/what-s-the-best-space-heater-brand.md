@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters propane infrared oil-filled radiator
-  image: /wp-content/uploads/2023/08/space-heaters-propane-infrared-oil-filled-radiator.jpg
+  image: /img/space-heaters-propane-infrared-oil-filled-radiator.webp
 date: "2023-09-19T11:20:41+00:00"
 guid: https://heatertips.com/?p=1994
 title: What’s the Best Space Heater Brand?
@@ -43,7 +43,7 @@ You get built-in
 - air purification (with a HEPA filter that absorbs 99.97% of particles down to 0.1 micrometers)
 - air quality monitoring
 
-![dyson hot and cool heater](/wp-content/uploads/2022/01/are-dyson-heaters-noisy.jpg)Dyson Hot+Cool heaters are the overall best space heaters. They provide so much functionality. But the price is high!
+![dyson hot and cool heater](/img/are-dyson-heaters-noisy.webp)Dyson Hot+Cool heaters are the overall best space heaters. They provide so much functionality. But the price is high!
 
 But there are more great brands! Especially if you don’t care about these advanced features at all.
 
@@ -155,7 +155,7 @@ Vornado heaters are usually under $100. So, they are very affordable.
 
 They are unique, but for me, they are not a candidate for the absolute best space heater brand.
 
-![vornado MVH vortex heater with box](/wp-content/uploads/2023/08/vornado-MVH-vortex-heater-with-box-300x235.jpg)
+![vornado MVH vortex heater with box](/img/vornado-MVH-vortex-heater-with-box.webp)
 
 ### Which Space Heater Brands Build High-Quality & Safe Products?
 
@@ -179,7 +179,7 @@ Frequently I also recommend other brands such as Pelonis, because they are cheap
 
 Since we’re looking at the best of the best in this article, DeLonghi is my candidate for the safest, highest-quality, and most durable space heater.
 
-![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1-152x300.jpg)
+![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)
 
 #### Dr Infrared and Mr Heater: Wooden and metal casings
 
@@ -193,7 +193,7 @@ The large [vented Big Maxx models](/best-vented-gas-heaters/) are the [best heat
 
 Since you’re probably looking for regular electric space heaters, I won’t consider Mr Heater propane heaters. They still deserve an honorable mention.
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared-276x300.webp)The Dr Infrared DR-968 is my favorite infrared heater!
+![](/img/infrared-heater-dr-infrared.webp)The Dr Infrared DR-968 is my favorite infrared heater!
 
 ### Which Space Heater Brands Are Affordable?
 
@@ -215,7 +215,7 @@ They are highly portable, and I love their original look.
 
 Additionally, they are much cheaper than other space heaters, while still providing the _same_ heat output!
 
-![honeywell 360 degree ceramic heater](/wp-content/uploads/2023/09/honeywell-360-degree-ceramic-heater-190x300.jpg)Honeywell space heaters are a good choice & very affordable!
+![honeywell 360 degree ceramic heater](/img/honeywell-360-degree-ceramic-heater.webp)Honeywell space heaters are a good choice & very affordable!
 
 #### Pelonis: The Cheapest Oil-filled Radiators
 

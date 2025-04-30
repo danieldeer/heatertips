@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier levoit core top panel view
-  image: /wp-content/uploads/2023/07/air-purifier-levoit-core-top-panel-view.jpg
+  image: /img/air-purifier-levoit-core-top-panel-view.webp
 date: "2023-08-04T12:59:15+00:00"
 guid: https://heatertips.com/?p=1668
 title: Air Purifier making Noise (8 Noises + Fixes)
@@ -199,7 +199,7 @@ How to fix it
 
 Open your air purifier take out the filter and vacuum the inside of your air purifier to remove all these large particles.
 
-![air purifier levoit core filter replacement](/wp-content/uploads/2023/07/air-purifier-levoit-core-filter-replacement.jpg)
+![air purifier levoit core filter replacement](/img/air-purifier-levoit-core-filter-replacement.webp)
 
 ## 4\. Whistling
 

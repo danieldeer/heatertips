@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-coolers-for-garages
-  image: /wp-content/uploads/2023/07/swamp-coolers-for-garages.jpg
+  image: /img/swamp-coolers-for-garages.webp
 date: "2023-07-24T09:32:11+00:00"
 guid: https://heatertips.com/?p=1588
 title: Do Swamp Coolers need open windows?

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier coway airmega 400
-  image: /wp-content/uploads/2023/08/air-purifier-coway-airmega-400.jpg
+  image: /img/air-purifier-coway-airmega-400.webp
 date: "2023-08-09T07:57:07+00:00"
 guid: https://heatertips.com/?p=1695
 title: How to Fix a Coway Air Purifier not working (Repair Guide)
@@ -54,7 +54,7 @@ Coway's advanced models (the Airmega 300 and 400) feature an [air quality indica
 
 If this indicator is consistently lit, it signifies either very good (blue) or very poor (red) air quality.
 
-![air purifier coway airmega 400 led ring](/wp-content/uploads/2023/08/air-purifier-coway-airmega-400-led-ring.jpg)This LED ring indicates air quality.
+![air purifier coway airmega 400 led ring](/img/air-purifier-coway-airmega-400-led-ring.webp)This LED ring indicates air quality.
 
 If you think the air quality indicators are not working, do the following:
 
@@ -76,7 +76,7 @@ Lift the front cover of your Airmega 300 or 400 and, with a damp swab (according
 
 I put three big red arrows pointing, so you can't miss them:
 
-![](/wp-content/uploads/2023/08/air-purifier-coway-airmega-dust-sensor-cleaning-min.jpg)
+![](/img/air-purifier-coway-airmega-dust-sensor-cleaning-min.webp)
 
 ### Coway Mood Light turned off
 
@@ -104,7 +104,7 @@ In this case, you can’t really trust the accuracy of the indication and if the
 
 Clean the pre-filters, and touch and hold the pre-filter indicator button for 2-3 seconds. This should reset the indicator.
 
-![](/wp-content/uploads/2023/08/air-purifier-coway-Pre-Wash-button-indicator.jpg)The pre-filter button is this button with the text "Pre **Wash**" on it
+![](/img/air-purifier-coway-Pre-Wash-button-indicator.webp)The pre-filter button is this button with the text "Pre **Wash**" on it
 
 If the pre-filter cleaning indicator issue also happens for you, possibly there is some issue with the sensor.
 

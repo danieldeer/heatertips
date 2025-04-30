@@ -29,7 +29,7 @@ As you can see, the 400S/300S models use two colors, while the 400/300 models us
 
 **In all models, blue indicates good air quality, while pink and red indicate bad air quality.**
 
-![air purifier coway airmega 400 led ring](/wp-content/uploads/2023/08/air-purifier-coway-airmega-400-led-ring.jpg)
+![air purifier coway airmega 400 led ring](/img/air-purifier-coway-airmega-400-led-ring.webp)
 
 ## 2\. Wi-Fi indicator
 
@@ -57,7 +57,7 @@ Red light around the indicator, “Wash” word highlighted red | Pre-filter is 
 
 To reset the Pre Wash indicator light after cleaning the pre-filter, press the Pre Wash button for 3 seconds.
 
-![air purifier coway indicator lights](/wp-content/uploads/2023/08/air-purifier-coway-indicator-lights.jpg)
+![air purifier coway indicator lights](/img/air-purifier-coway-indicator-lights.webp)
 
 ## 4\. Max2 (Filter) Change indicator
 

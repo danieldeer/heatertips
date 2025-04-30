@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: which air conditioner type is best for garage
-  image: /wp-content/uploads/2022/11/which-air-conditioner-type-is-best-for-garage.jpg
+  image: /img/which-air-conditioner-type-is-best-for-garage.webp
 date: "2022-11-10T09:45:52+00:00"
 guid: https://heatertips.com/?p=1039
 title: Which Air Conditioner Type is Best for a Garage? (1,2,3,4 cars)

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heater explosion
-  image: /wp-content/uploads/2023/08/space-heater-explosion.jpg
+  image: /img/space-heater-explosion.webp
 date: "2023-08-26T12:58:20+00:00"
 guid: https://heatertips.com/?p=1832
 title: Can Space Heaters explode?
@@ -52,7 +52,7 @@ Oil-filled radiators, on the other hand, not only drive current through a heatin
 
 The heating element is embedded in a fully sealed metal heating body. No oil can ever leave this metal body since it is perfectly sealed.
 
-![temperature reading oil-filled radiator after 5 minutes](/wp-content/uploads/2022/12/temperature-reading-oil-filled-radiator-after-5-minutes.jpg)I am pointing my laser thermometer at the oil-filled metal body of my oil-filled radiator! Because of the finned design, heat disperses quickly and pressure can't build up inside! Additionally, oil does not boil at these low temperatures, which is why it doesn't build pressure.
+![temperature reading oil-filled radiator after 5 minutes](/img/temperature-reading-oil-filled-radiator-after-5-minutes.webp)I am pointing my laser thermometer at the oil-filled metal body of my oil-filled radiator! Because of the finned design, heat disperses quickly and pressure can't build up inside! Additionally, oil does not boil at these low temperatures, which is why it doesn't build pressure.
 
 Now that’s where many would expect potential for explosion.
 
@@ -104,7 +104,7 @@ However, due to the nature of infrared radiation radiating away from the heater 
 
 So, infrared heaters are also safe if you use them correctly.
 
-![infrared heater temperature measurement styrofoam block](/wp-content/uploads/2022/12/infrared-heater-temperature-measurement-styrofoam-block-distance.jpg)Infrared heaters heat up objects right in front of them. So, keep the space in front of an infrared heater free!
+![infrared heater temperature measurement styrofoam block](/img/infrared-heater-temperature-measurement-styrofoam-block-distance.webp)Infrared heaters heat up objects right in front of them. So, keep the space in front of an infrared heater free!
 
 #### Material Safety
 
@@ -189,7 +189,7 @@ The safest space heater that is also UL-certified is [this **De’Longhi oil-fil
 
 It comes with all the safety features you need. And, as an oil-filled radiator, **it is safe by design.**
 
-![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1.jpg)
+![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)
 
 ## **Conclusion**
 

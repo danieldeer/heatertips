@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyna-glo powerful 15000 watts electric space heater
-  image: /wp-content/uploads/2023/09/dyna-glo-powerful-15000-watts-electric-space-heater.jpg
+  image: /img/dyna-glo-powerful-15000-watts-electric-space-heater.webp
 date: "2023-12-11T09:25:20+00:00"
 guid: https://heatertips.com/?p=2326
 title: Space Heaters Over 1,500 Watts (Electric, Gas)
@@ -46,7 +46,7 @@ The [Comfort Zone CZ220 (click to view it on amazon)](https://www.amazon.com/Com
 
 I ranked this one the #1 electric heater over 1,500 Watts because it is very durable. The full steel case protects it from heat and impact.
 
-![comfort zone cz220 heavy-duty electric heater ceiling-mounted](/wp-content/uploads/2023/11/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.jpg)
+![comfort zone cz220 heavy-duty electric heater ceiling-mounted](/img/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.webp)
 
 I wouldn’t be surprised if this heater lasts you 20 years or more.
 
@@ -100,7 +100,7 @@ Heat from propane gas is about 70% cheaper than heat from electricity.
 
 However, beware that burning propane gas produces some humidity. So, with a propane heater, you will have to vent regularly.
 
-![mr heater buddy propane heater in garage](/wp-content/uploads/2023/09/mr-heater-buddy-propane-heater-in-garage.jpg)
+![mr heater buddy propane heater in garage](/img/mr-heater-buddy-propane-heater-in-garage.webp)
 
 ### 4\. [Dyna-Glo Wall-mounted Heater (30,000 BTU/h = 8,800 Watts)](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?crid=112LJ0UPO0CMK&keywords=dyna%2Bglo%2Bwall%2Bmounted%2Bheater&qid=1702225600&sprefix=dyna%2Bglo%2Bwall%2Bmounted%2Bheate%2Caps%2C172&sr=8-8&th=1&linkCode=ll1&tag=heatertips-20&linkId=28d5b37792b6ed35f6e43c1e33ca1c29&language=en_US&ref_=as_li_ss_tl)
 

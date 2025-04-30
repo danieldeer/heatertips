@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /wp-content/uploads/2022/12/propane-bottle-tank-valve.jpg
+  image: /img/propane-bottle-tank-valve.webp
 date: "2022-12-14T15:50:51+00:00"
 guid: https://heatertips.com/?p=1312
 title: How long does a Propane Tank last on a Patio Heater?
@@ -57,7 +57,7 @@ So, considering 85% efficiency and 80% capacity, I've calculated the effective e
 
 Now we have the effective energy that a 20lb propane tank provides. It's time to check how long a propane tank lasts on different patio heaters.
 
-![patio heater](/wp-content/uploads/2022/12/patio-heater.jpg)
+![patio heater](/img/patio-heater.webp)
 
 ## How long does a 20lb propane tank last on different patio heaters?
 

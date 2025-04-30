@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier levoit core thumbs up
-  image: /wp-content/uploads/2023/07/air-purifier-levoit-core-thumbs-up.jpg
+  image: /img/air-purifier-levoit-core-thumbs-up.webp
 date: "2023-07-25T20:40:06+00:00"
 guid: https://heatertips.com/?p=1597
 title: 'Best Air Purifier: My Top Pick'
@@ -69,7 +69,7 @@ One of the highlights of the Core 300 series is how quiet they run. With a noise
 
 Plus, they come with top certifications, including Energy Star, FCC, ETC, and CARB. These certifications verify the product's energy efficiency, electrical safety, and compliance with California's strict air cleaner regulations.
 
-![air purifier levoit core touch panel timer](/wp-content/uploads/2023/07/air-purifier-levoit-core-touch-panel-timer.jpg)On the Levoit Core 300 touch panel, you can set night mode for extra quiet operation (the moon sign). Also, you can set a timer (in the picture, it's set to 4 hours)
+![air purifier levoit core touch panel timer](/img/air-purifier-levoit-core-touch-panel-timer.webp)On the Levoit Core 300 touch panel, you can set night mode for extra quiet operation (the moon sign). Also, you can set a timer (in the picture, it's set to 4 hours)
 
 ### Great filters and plenty of replacement options
 
@@ -81,7 +81,7 @@ Much more important would be the carbon’s total surface area, which does not n
 
 The Core 300 series operates at 140CFM (238m³/h), which may seem low compared to a (strong) floor fan's 5,100 CFM, but remember, a fan doesn't filter the air.
 
-![air purifier hepa filter levoit core](/wp-content/uploads/2023/07/air-purifier-hepa-filter-levoit-core.jpg)
+![air purifier hepa filter levoit core](/img/air-purifier-hepa-filter-levoit-core.webp)
 
 ### Incredibly low power consumption
 

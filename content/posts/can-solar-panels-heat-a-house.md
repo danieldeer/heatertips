@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can solar panels heat a house
-  image: /wp-content/uploads/2022/09/can-solar-panels-heat-a-house.jpg
+  image: /img/can-solar-panels-heat-a-house.webp
 date: "2022-09-25T09:00:22+00:00"
 guid: https://heatertips.com/?p=732
 title: Can Solar Panels Heat a House?

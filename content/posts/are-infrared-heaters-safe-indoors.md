@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: infrared-heater-heating-element-temperature-measurement
-  image: /wp-content/uploads/2022/12/infrared-heater-heating-element-temperature-measurement.jpg
+  image: /img/infrared-heater-heating-element-temperature-measurement.webp
 date: "2022-12-15T11:43:43+00:00"
 guid: https://heatertips.com/?p=1319
 title: Are Infrared Heaters safe indoors?
@@ -88,7 +88,7 @@ I placed a styrofoam block at different distances in front of an infrared heater
 
 Here’s the result.
 
-![infrared heater heating elements temperature with increasing distance chart](/wp-content/uploads/2022/12/infrared-heater-heating-elements-temperature-with-increasing-distance.png)The temperature of an infrared heater at varying distances.
+![infrared heater heating elements temperature with increasing distance chart](/img/infrared-heater-heating-elements-temperature-with-increasing-distance.webp)The temperature of an infrared heater at varying distances.
 
 As you can see, infrared heaters get very hot in close proximity! My styrofoam block started smoking and melting as soon as I placed it closer than 5 inches to the infrared heater.
 
@@ -112,7 +112,7 @@ Now, it’s usually not possible to touch the heating elements directly. There�
 
 But as you know, metal conducts heat very well. Touching the grid would be the same as touching a hot frying pan.
 
-![infrared heater temperature measurement styrofoam block](/wp-content/uploads/2022/12/infrared-heater-temperature-measurement-styrofoam-block-distance.jpg)
+![infrared heater temperature measurement styrofoam block](/img/infrared-heater-temperature-measurement-styrofoam-block-distance.webp)
 
 ## Can infrared heaters cause a fire?
 
@@ -146,7 +146,7 @@ So, your room will get equally warm with both heaters.
 
 Personally, I prefer oil-filled radiators for whole-room heating, and I prefer infrared heaters when I want to focus heat toward me (for example toward my desk when I am working).
 
-![temperature reading oil-filled radiator after 5 minutes](/wp-content/uploads/2022/12/temperature-reading-oil-filled-radiator-after-5-minutes.jpg)
+![temperature reading oil-filled radiator after 5 minutes](/img/temperature-reading-oil-filled-radiator-after-5-minutes.webp)
 
 ## How to safely run an infrared heater
 

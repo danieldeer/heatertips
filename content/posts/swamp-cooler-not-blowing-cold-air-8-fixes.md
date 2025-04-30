@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-01-23T11:43:20+00:00"
 guid: https://heatertips.com/?p=1492
 title: Swamp Cooler not Blowing Cold Air (8 Fixes)
@@ -68,7 +68,7 @@ The fans inside swamp coolers unfortunately rarely are any better than regular f
 
 It makes me wonder why manufacturers put these regular fans inside swamp coolers. But well… it’s all about the money.
 
-![swamp cooler broken fan part](/wp-content/uploads/2023/01/swamp-cooler-broken-part.jpg)A broken plastic part blocking the fan in a swamp cooler can cause it to stop working
+![swamp cooler broken fan part](/img/swamp-cooler-broken-part.webp)A broken plastic part blocking the fan in a swamp cooler can cause it to stop working
 
 #### How to test
 
@@ -144,7 +144,7 @@ Each increment of dust inside your swamp cooler reduces the airflow.
 
 So, it is _mathematically_ just a matter of time until your swamp cooler stops working due to full dust blockage.
 
-![air filters dirty clogged](/wp-content/uploads/2023/01/air-filter-dirty-clogged.jpg)Extremely dirty air filters prevent proper airflow and therefore stop your evaporative cooler from cooling (image by [DanDaue](https://imgur.com/user/DanDaue))
+![air filters dirty clogged](/img/air-filter-dirty-clogged.webp)Extremely dirty air filters prevent proper airflow and therefore stop your evaporative cooler from cooling (image by [DanDaue](https://imgur.com/user/DanDaue))
 
 #### How to test
 
@@ -286,7 +286,7 @@ If the water line is clogged, it can’t distribute water.
 
 Normally, water lines don’t clog. However, depending on the water source you use, algae, lime, and dirt can accumulate in the water lines over time.
 
-![swamp cooler water line](/wp-content/uploads/2023/01/swamp-cooler-water-distribution-line.jpg)When the water line in a swamp cooler is clogged, too little water flows through it and your water pads don't get humid enough to produce cold air
+![swamp cooler water line](/img/swamp-cooler-water-distribution-line.webp)When the water line in a swamp cooler is clogged, too little water flows through it and your water pads don't get humid enough to produce cold air
 
 #### How to test
 
@@ -364,7 +364,7 @@ Usually, V-belts last a _very_ long time. They are even used in cars. And you ra
 
 However, because they are moving parts, they wear down with time. And so it can happen that they tear.
 
-![ripped v-belt](/wp-content/uploads/2023/01/v-belt-ripped.jpg)
+![ripped v-belt](/img/v-belt-ripped.webp)
 
 #### How to test
 
@@ -384,7 +384,7 @@ I recommend [this **replacement V-belt**(click to view it on amazon)](https://ww
 
 To find a matching width and length, either measure the torn V-belt in your evaporative cooler. Or read the specs on the label imprinted on the belt.
 
-![v-belt](/wp-content/uploads/2023/01/v-belt.jpg)V-belts like this are used in large swamp coolers
+![v-belt](/img/v-belt.webp)V-belts like this are used in large swamp coolers
 
 ## What if your swamp cooler still is not blowing cold air?
 

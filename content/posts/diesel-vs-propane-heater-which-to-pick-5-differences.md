@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel vs propane heater
-  image: /wp-content/uploads/2023/11/diesel-vs-propane-heater.jpg
+  image: /img/diesel-vs-propane-heater.webp
 date: "2023-11-29T06:51:17+00:00"
 guid: https://heatertips.com/?p=2232
 title: 'Diesel vs Propane Heater: Which To Pick? (5 Differences)'
@@ -31,7 +31,7 @@ Hold the match to diesel for a minute or longer, and its temperature slowly rise
 
 If you throw a burning match into a large tank of diesel, it will extinguish.
 
-![match trying to light diesel](/wp-content/uploads/2023/11/match-trying-to-light-diesel.jpg)If you hold a match to a bowl of diesel, it won't light!
+![match trying to light diesel](/img/match-trying-to-light-diesel.webp)If you hold a match to a bowl of diesel, it won't light!
 
 Diesel contains lots of energy but is _very_ hard to light.
 
@@ -61,7 +61,7 @@ But all portable propane heaters, such as the [Mr. Heater Buddy](https://www.ama
 
 **If you need an off-grid / emergency heater, get a propane heater.**
 
-![mr heater propane heater](/wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg)Propane heaters need only a propane tank to work, nothing else.
+![mr heater propane heater](/img/best-propane-heater-mr-heater.webp)Propane heaters need only a propane tank to work, nothing else.
 
 #### Diesel Heaters
 
@@ -97,7 +97,7 @@ Refined liquid propane in propane bottles is never 100% propane. There are alway
 
 The oil in a propane tank can end up inside your propane heater’s pilot light orifice and clog it over time and cause it to stop working.Luckily, that’s simple to fix. Just [clean the pilot light opening with a Q-tip and rubbing alcohol](/how-to-fix-a-mr-heater-buddy-not-lighting/) and it works again.
 
-![propane mr heater buddy pilot light](/wp-content/uploads/2022/12/mr-heater-buddy-pilot-light.jpg)The orifice where the small pilot light comes out needs a yearly cleaning. But that's about it for propane heater maintenance.
+![propane mr heater buddy pilot light](/img/mr-heater-buddy-pilot-light.webp)The orifice where the small pilot light comes out needs a yearly cleaning. But that's about it for propane heater maintenance.
 
 The easiest way to work around this problem is to use a [propane hose with a built-in fuel filter](https://www.amazon.com/Mr-Heater-Buddy-Fuel-Filter/dp/B00PJYL9IO?crid=2D7CUPDLOF4B5&keywords=propane+oil+filter&qid=1701175501&sprefix=propane+oil+filte%2Caps%2C201&sr=8-2&linkCode=ll1&tag=heatertips-20&linkId=567dbeaa18ea6b7afd60741f5dca68e9&language=en_US&ref_=as_li_ss_tl) with your propane heater. Then, you need to do practically no maintenance.
 
@@ -137,7 +137,7 @@ That makes diesel heaters incredibly convenient for car / van / truck heating.
 
 **With a diesel heater, you can get fuel refills at every gas station. You never need to visit an extra place to refuel diesel.**
 
-![diesel-heater-for-van-camper-rv](/wp-content/uploads/2023/11/diesel-heater-for-van-camper-rv.jpg)Diesel heaters are ideal for use in vehicles, since you can refill them at any gas station.
+![diesel-heater-for-van-camper-rv](/img/diesel-heater-for-van-camper-rv.webp)Diesel heaters are ideal for use in vehicles, since you can refill them at any gas station.
 
 ### 4\. Heat Output
 
@@ -167,7 +167,7 @@ Propane heaters are ready to go as soon as you hook them up with a propane tank.
 
 Some wall-mounted propane heaters need to be mounted to the wall. And some (large-scale) vented propane heaters need a vent through the wall (but that’s the exception).
 
-![dyna-glo natural gas propane heater ventless wall-mounted](/wp-content/uploads/2023/02/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.jpg)Here's a fully installed [wall-mounted Dyna-Glo propane heater](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?crid=25MXD5CNM7GO5&keywords=propane+heater+wall+mount&qid=1701237712&sprefix=propane+heater+wall+mount%2Caps%2C168&sr=8-6&linkCode=ll1&tag=heatertips-20&linkId=a73af59af425acd88498ad7399b3cc3d&language=en_US&ref_=as_li_ss_tl): It's wall-mounted and it has a simple propane line setup (which you can see below the heater)
+![dyna-glo natural gas propane heater ventless wall-mounted](/img/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.webp)Here's a fully installed [wall-mounted Dyna-Glo propane heater](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?crid=25MXD5CNM7GO5&keywords=propane+heater+wall+mount&qid=1701237712&sprefix=propane+heater+wall+mount%2Caps%2C168&sr=8-6&linkCode=ll1&tag=heatertips-20&linkId=a73af59af425acd88498ad7399b3cc3d&language=en_US&ref_=as_li_ss_tl): It's wall-mounted and it has a simple propane line setup (which you can see below the heater)
 
 But, on average, propane heater installation and setup takes just a few minutes.
 

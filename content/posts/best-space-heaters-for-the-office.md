@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: vornado space heater in the office
-  image: /wp-content/uploads/2023/08/vornado-space-heater-in-the-office.jpg
+  image: /img/vornado-space-heater-in-the-office.webp
 date: "2023-08-24T08:54:13+00:00"
 guid: https://heatertips.com/?p=1815
 title: Best Space Heaters for the Office
@@ -69,7 +69,7 @@ Dr Infrared also offers a more extravagant model, [the **Dr Infrared DR998 Elite
 
 But in general, my first recommendation (the first Dr Infrared heater linked) is more than enough for most personal offices!
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)
+![](/img/infrared-heater-dr-infrared.webp)
 
 #### Recommended space heater for corporate offices
 
@@ -85,7 +85,7 @@ But this heater is heavy. So, carrying it into the office can be annoying. If po
 
 A light stealth space heater is [this **Vornado MVH Vortex heater** (click to view it on amazon)](https://www.amazon.com/Vornado-Whole-Vortex-Heater-Black/dp/B00MB4BQ0G?crid=Y6SI0JIUETSE&keywords=vornado%2Bheater&qid=1692861021&sprefix=vornado%2Bheate%2Caps%2C174&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=363ec7529a5b93f6b6ece4eb3ccee8e0&language=en_US&ref_=as_li_ss_tl). However, this one will make some noise because needs the built-in fan to distribute heat.
 
-![vornado vortex space heater](/wp-content/uploads/2023/08/vornado-vortex-space-heater-260x300.jpg)
+![vornado vortex space heater](/img/vornado-vortex-space-heater.webp)
 
 ### 2\. Cubicles & Open-plan offices
 
@@ -101,7 +101,7 @@ This one is a good choice, because it is easy to transport, outputs the same amo
 
 And on top of that, since it’s an infrared heater, you can run it at low power settings and still feel warm instantly.
 
-![dr infrared dr 978](/wp-content/uploads/2023/08/dr-infrared-dr-978-300x292.jpg)
+![dr infrared dr 978](/img/dr-infrared-dr-978.webp)
 
 You don’t have to get this specific infrared heater model. Any small infrared heater will do.
 
@@ -197,7 +197,7 @@ Quote:
 >
 > Dr Infrared Heater sales page
 
-![UL certification badge](/wp-content/uploads/2023/08/UL-certification-badge.png)The UL certification badge is printed on the packaging of safe & tested space heaters. Also, you can find out on the sales page of a heater whether it has this certification.
+![UL certification badge](/img/UL-certification-badge.webp)The UL certification badge is printed on the packaging of safe & tested space heaters. Also, you can find out on the sales page of a heater whether it has this certification.
 
 ( Except for the space heater alternatives: The neck warmer and the heating pad don’t have special certifications aside from the CE standard certification, since they are both low-power devices )
 

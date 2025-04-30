@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can a space heater dehumidify room
-  image: /wp-content/uploads/2019/11/can-a-space-heater-dehumidify-room.jpg
+  image: /img/can-a-space-heater-dehumidify-room.webp
 date: "2019-11-27T08:11:28+00:00"
 guid: https://heatertips.com/?p=79
 tag:
@@ -39,7 +39,7 @@ The temperature inside the box increases. But because nothing can pass through t
 
 When you run a space heater at home, it’s exactly the same thing. Your room is the closed box and your space heater heats the air. The amount of humidity stays the same because it can’t leave your room.
 
-![space heaters will not really dehumidify a room because the amount of water vapor stays the same](/wp-content/uploads/2019/11/heated-box-dehumifiy-with-a-space-heater.jpg)
+![space heaters will not really dehumidify a room because the amount of water vapor stays the same](/img/heated-box-dehumifiy-with-a-space-heater.webp)
 
 Let’s note: **The amount of humidity in your room (absolute humidity) is constant.**
 

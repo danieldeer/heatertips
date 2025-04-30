@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can you get a tan from a space heater
-  image: /wp-content/uploads/2019/11/can-you-get-a-tan-from-a-space-heater.jpg
+  image: /img/can-you-get-a-tan-from-a-space-heater.webp
 date: "2019-11-27T10:06:01+00:00"
 guid: https://heatertips.com/?p=85
 tag:
@@ -85,7 +85,7 @@ But how does pure infrared radiation look like?
 
 Infrared radiation is just a very small part of the far right side of the spectrum. It has nothing to do with UV. **Infrared radiation has absolutely no effects on tanning - it just heats your skin.**
 
-![can you get a tan from a space heater? - the spectrum of UV and infrared](/wp-content/uploads/2019/11/can-you-get-a-tan-from-a-space-heater-spectrum-of-light.jpg)
+![can you get a tan from a space heater? - the spectrum of UV and infrared](/img/can-you-get-a-tan-from-a-space-heater-spectrum-of-light.webp)
 
 By the way: The infrared part of the sunlight keeps you warm, while the UV part causes tans (and sunburns). The visible colors in between make up the colors we can perceive in the world. That’s how each part of the sunlight’s spectrum has its own use.
 
@@ -113,7 +113,7 @@ Additionally, most people are looking for just the heat part when they want to b
 
 So, if you want to get a tan indoors, you have to look out for something else than a space heater.
 
-![can you get a tan from a space heater - tanned hand](/wp-content/uploads/2019/11/tanned-hand-can-you-get-a-tan-from-a-space-heater.jpg)
+![can you get a tan from a space heater - tanned hand](/img/tanned-hand-can-you-get-a-tan-from-a-space-heater.webp)
 
 ## How to get a tan indoors
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: oil-filled radiator
-  image: /wp-content/uploads/2022/11/how-long-do-oil-filled-radiators-last.jpg
+  image: /img/how-long-do-oil-filled-radiators-last.webp
 date: "2022-11-16T16:14:40+00:00"
 guid: https://heatertips.com/?p=1075
 title: How Long do Oil-Filled Radiators Last?

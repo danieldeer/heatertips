@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson air quality temperature sensor problem 999
-  image: /wp-content/uploads/2023/10/dyson-air-quality-temperature-sensor-problem-999.jpg
+  image: /img/dyson-air-quality-temperature-sensor-problem-999.webp
 date: "2023-10-19T11:24:57+00:00"
 guid: https://heatertips.com/?p=2079
 title: 'Dyson Wrong Air Quality / Temperature: How to Fix It'
@@ -62,7 +62,7 @@ When dust and grease settle on the sensors, they can’t measure air pollution a
 
 To fix it clean the pollution and air quality sensors of your Dyson fan.
 
-![dyson sensor slits openings](/wp-content/uploads/2023/10/dyson-sensor-slits-openings.jpg)Dyson fan air quality and temperature sensors sit inside these two openings
+![dyson sensor slits openings](/img/dyson-sensor-slits-openings.webp)Dyson fan air quality and temperature sensors sit inside these two openings
 
 The sensors sit inside the two long and narrow opening slits in the side of the fan housing, above the air inlet holes.
 

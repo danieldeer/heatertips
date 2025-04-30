@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater running closeup
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-running-closeup.jpg
+  image: /img/mr-heater-propane-heater-running-closeup.webp
 date: "2022-12-29T08:51:06+00:00"
 guid: https://heatertips.com/?p=1435
 title: Do Propane Heaters need electricity?
@@ -55,7 +55,7 @@ I’d say that every household should have at least one portable propane heater.
 
 It’s just the model that I (and many others) have at home as well, so I tend to recommend it.
 
-![mr heater propane heater](/wp-content/uploads/2022/12/mr-heater-propane-heater-hand.jpg)Portable propane heaters always work without electricity. My favorite is the Mr. Heater Buddy!
+![mr heater propane heater](/img/mr-heater-propane-heater-hand.webp)Portable propane heaters always work without electricity. My favorite is the Mr. Heater Buddy!
 
 Anyways, let’s have a look at propane heaters that _do need electricity._
 
@@ -137,7 +137,7 @@ This one comes in very handy when your furnace is in the basement and you have t
 
 It can handle enough current to power your furnace, fridge, your TV, and chargers simultaneously.
 
-![](/wp-content/uploads/2022/12/westinghouse-generator.jpg)
+![](/img/westinghouse-generator.webp)
 
 ### Use a portable propane heater
 

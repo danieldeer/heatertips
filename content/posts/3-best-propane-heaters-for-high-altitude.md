@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best-propane-heaters-for-high-altitude
-  image: /wp-content/uploads/2022/11/best-propane-heaters-for-high-altitude.jpg
+  image: /img/best-propane-heaters-for-high-altitude.webp
 date: "2022-11-14T17:30:37+00:00"
 guid: https://heatertips.com/?p=1060
 title: 3 Best Propane Heaters for High Altitude
@@ -118,7 +118,7 @@ Altitude (feet) | Altitude (meters) | Relative Oxygen Levels (%) | Will a propan
 
 I have seen gas-heated showers on a Nepal trek up to around 16,000 feet. So, unless you’re going higher, there’s absolutely nothing to worry about.
 
-![](/wp-content/uploads/2022/11/propane-gas-shower-at-high-altitude-in-nepal.jpg)This propane gas-heated shower on my Nepal trek at an altitude of worked perfectly fine at an altitude of about 13,250 ft.
+![](/img/propane-gas-shower-at-high-altitude-in-nepal.webp)This propane gas-heated shower on my Nepal trek at an altitude of worked perfectly fine at an altitude of about 13,250 ft.
 
 ## Does cold weather impact propane burn?
 

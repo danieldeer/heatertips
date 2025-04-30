@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: window air conditioner
-  image: /wp-content/uploads/2022/12/window-air-conditioner.jpg
+  image: /img/window-air-conditioner.webp
 date: "2022-12-05T13:49:46+00:00"
 guid: https://heatertips.com/?p=1217
 title: How to fix a Window Air Conditioner not Cooling
@@ -133,7 +133,7 @@ Get that and install it. If you don’t have it, just buy and install your own i
 
 This is the insulation foam roll I got with my (portable) AC:
 
-![](/wp-content/uploads/2022/12/air-conditioner-window-insulation-foam.jpg)
+![](/img/air-conditioner-window-insulation-foam.webp)
 
 ### Drain water
 

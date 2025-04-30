@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared vs oil heater
-  image: /wp-content/uploads/2020/01/infrared-vs-oil-heater.jpg
+  image: /img/infrared-vs-oil-heater.webp
 date: "2020-01-04T13:06:37+00:00"
 guid: https://heatertips.com/?p=261
 tag:
@@ -89,7 +89,7 @@ Before any heat reaches you, the heater has to warm up the oil first. That’s w
 
 Because of that, oil heaters are good for longer heating periods, for example, keeping a living room warm throughout the evening.
 
-![infrared vs oil heater: infrared has higher heating speed](/wp-content/uploads/2020/01/space-heater-efficient-infrared.jpg)
+![infrared vs oil heater: infrared has higher heating speed](/img/space-heater-efficient-infrared.webp)
 
 ## 4\. Efficiency
 
@@ -139,7 +139,7 @@ Still, you can find oil heaters for cheap and infrared heaters that are expensiv
 
 However, remember that an oil heater is better in heating large spaces. This means that for the same price, you can heat more space. Meanwhile, infrared heaters are more efficient in the long run. The long-term cost to run an infrared heater is usually lower.
 
-![infrared space heaters electricity cost less than others in some occasions](/wp-content/uploads/2019/12/infrared-space-heaters-electricity-cost.jpg)
+![infrared space heaters electricity cost less than others in some occasions](/img/infrared-space-heaters-electricity-cost.webp)
 
 ## 6\. Safety
 
@@ -365,7 +365,7 @@ Because infrared heaters have an opening where all the heat comes out, they are 
 
 Oil heaters, on the other hand, have a big surface and the heating element is embodied in oil. So, there are no hot to touch spots. Oil heaters get hot, but not hot enough to be dangerous.
 
-![](/wp-content/uploads/2020/01/cat-with-oil-heater.jpg)Image by [Mark Turnauckas](https://flickr.com/photos/marktee/5501934981/)
+![](/img/cat-with-oil-heater.webp)Image by [Mark Turnauckas](https://flickr.com/photos/marktee/5501934981/)
 
 ## 18\. Outdoor Use
 

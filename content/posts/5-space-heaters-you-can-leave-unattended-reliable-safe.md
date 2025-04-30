@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heaters you can leave unattended safe and reliable
-  image: /wp-content/uploads/2019/12/space-heaters-you-can-leave-unattended-safe-and-reliable.jpg
+  image: /img/space-heaters-you-can-leave-unattended-safe-and-reliable.webp
 date: "2019-12-03T10:13:40+00:00"
 guid: https://heatertips.com/?p=124
 tag:
@@ -38,7 +38,7 @@ In this article, I’m going to show you the safest space heaters you can get. T
 
 ## 1\. Free Standing Electric Fireplace Stove by e-Flame
 
-![Free Standing Electric Fireplace Stove by e-Flame spaec heater you can leave unattended](/wp-content/uploads/2019/12/Free-Standing-Electric-Fireplace-Stove-by-e-Flame-heater.jpg)
+![Free Standing Electric Fireplace Stove by e-Flame spaec heater you can leave unattended](/img/Free-Standing-Electric-Fireplace-Stove-by-e-Flame-heater.webp)
 
 The [e-Flame freestanding electric fireplace stove (click here to check the price on amazon)](https://www.amazon.com/dp/B00HJ8WP2W/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=ll1&tag=heatertips-20&linkId=e31612dcfe0e65192c1fd068b24ab328&language=en_US) looks like (as the name suggests) an actual stove!
 
@@ -62,7 +62,7 @@ Sadly, it has no built-in timer (as the other candidates in the list below) wher
 
 ## 2\. Dyson Hot + Cool Jet Focus AM09 Fan Heater
 
-![dyson space heater you can leave unattended](/wp-content/uploads/2019/12/dyson-space-heater-you-can-leave-unattended.jpg)
+![dyson space heater you can leave unattended](/img/dyson-space-heater-you-can-leave-unattended.webp)
 
 The [Dyson Hot + Cool fan heater (click here to check the price on amazon)](https://www.amazon.com/Dyson-Focus-Heater-Black-Nickel/dp/B00SMLKEUK/ref=as_li_ss_tl?keywords=Dyson+Hot+++Cool+Jet+Focus+AM09+Fan+Heater&qid=1575358973&sr=8-2&linkCode=ll1&tag=heatertips-20&linkId=e11e5074516d09ad186ab5850eb89b96&language=en_US) looks comparably modern and suits you if you want your space heater to look good.
 
@@ -84,7 +84,7 @@ Also, it has tip-over protection that instantly turns your heater off if someone
 
 ## 3\. Dr Infrared Heater Portable Space Heater
 
-![](/wp-content/uploads/2019/12/dr-infrared-space-heater-you-can-leave-unattended.jpg)
+![](/img/dr-infrared-space-heater-you-can-leave-unattended.webp)
 
 Here’s the best-rated heater in this list: The [Dr Infrared Heater Portable (click here to check the price on amazon)](https://www.amazon.com/Dr-Infrared-Heater-Portable-1500-Watt/dp/B002QZ11J6/ref=as_li_ss_tl?keywords=space+heater+safe&qid=1575358901&sr=8-36&linkCode=ll1&tag=heatertips-20&linkId=1f3630cb2ffa7c2ee9ade09574db183c&language=en_US).
 
@@ -106,7 +106,7 @@ Thermostats make sure that space heaters don’t overheat and they help with hea
 
 **The Dr Infrared Heater Portable is certified by Underwriters Laboratories (UL) USA and Canada.**
 
-UL certifies only space heaters that fulfill strict safety conditions. For example, they say that they do “abnormal operation tests” ( [source](https://legacy-uploads.ul.com/wp-content/uploads/2014/04/ul_ElectricHeaterTipoverProtection.pdf)), where they test space heaters for proper functionality and safety.
+UL certifies only space heaters that fulfill strict safety conditions. For example, they say that they do “abnormal operation tests” ( [source](https://legacy-uploads.ul.com/img/ul_ElectricHeaterTipoverProtection.pdf)), where they test space heaters for proper functionality and safety.
 
 Of course, this space heater is cool to the touch as well.
 
@@ -114,7 +114,7 @@ Of course, this space heater is cool to the touch as well.
 
 ## 4\. DeLonghi TRD40615E Full Room Radiant Heater
 
-![](/wp-content/uploads/2019/12/delonghi-space-heater-you-can-leave-unattended.jpg)
+![](/img/delonghi-space-heater-you-can-leave-unattended.webp)
 
 The [DeLonghi radiant heater (click here to check the price on amazon)](https://www.amazon.com/DeLonghi-TRD40615E-Full-Radiant-Heater/dp/B00G96S4Y8/ref=as_li_ss_tl?crid=I6RV405TPOXD&keywords=oil+filled+radiator+heater&qid=1575359835&sprefix=oil+filled+,aps,215&sr=8-13&linkCode=ll1&tag=heatertips-20&linkId=c1613e489a1118a22ce3581be62a1fa6&language=en_US) comes with a handy digital thermostat to control the temperature.
 
@@ -138,7 +138,7 @@ Additionally, it has a built-in timer so you can decide when you want it to shut
 
 ## 5\. Pelonis Oil Filled Radiator
 
-![](/wp-content/uploads/2019/12/reliable-and-safe-pelonis-space-heater-you-can-leave-unattended.jpg)
+![](/img/reliable-and-safe-pelonis-space-heater-you-can-leave-unattended.webp)
 
 Here’s our most affordable candidate: The [Pelonis oil-filled radiator (click here to check the price on amazon)](https://www.amazon.com/Pelonis-Programmable-Thermostat-Overheating-Functions/dp/B07XRP9M3F/ref=as_li_ss_tl?crid=2LHACGFECNO4I&keywords=pelonis+oil-filled+radiator&qid=1575366033&sprefix=pelonis+oil-,aps,209&sr=8-3&linkCode=ll1&tag=heatertips-20&linkId=d91ca181b688ad669222c943ddb8b21f&language=en_US).
 

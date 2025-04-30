@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a cabin without electricity
-  image: /wp-content/uploads/2022/11/how-to-heat-a-cabin-without-electricity.jpg
+  image: /img/how-to-heat-a-cabin-without-electricity.webp
 date: "2022-11-12T10:38:30+00:00"
 guid: https://heatertips.com/?p=1044
 title: How to Heat a Cabin without Electricity (5 Methods)

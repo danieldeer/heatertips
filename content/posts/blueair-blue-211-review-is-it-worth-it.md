@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: blueair blue pure 211 angled view
-  image: /wp-content/uploads/2023/09/blueair-blue-pure-211-angled-view.jpg
+  image: /img/blueair-blue-pure-211-angled-view.webp
 date: "2023-09-10T08:55:41+00:00"
 guid: https://heatertips.com/?p=1919
 title: 'Blueair Blue 211+ Review: Is It Worth It?'
@@ -35,7 +35,7 @@ All of these air purifier series have one thing in common:
 
 **The largest air purifier in a model series is always much more expensive than the average-sized air purifier.**
 
-![blueair blue pure 211 311 411 compared](/wp-content/uploads/2023/09/blueair-blue-pure-211-311-411-compared.jpg)The Blueair Blue Pure 211+ is the biggest model on the left-hand side. Next to it are the 311 (middle) and the 411 (right).
+![blueair blue pure 211 311 411 compared](/img/blueair-blue-pure-211-311-411-compared.webp)The Blueair Blue Pure 211+ is the biggest model on the left-hand side. Next to it are the 311 (middle) and the 411 (right).
 
 This generally makes sense. However, oftentimes, the largest model is a whole different price class. Usually, it costs more than _double_ the price of the model right below it in the size hierarchy.
 
@@ -103,7 +103,7 @@ In fact, I am even missing some features, such as detailed air quality reports, 
 
 We’ll have a look at what’s missing later.
 
-![blueair blue pure 211 standing in living room](/wp-content/uploads/2023/09/blueair-blue-pure-211-standing-in-living-room.jpg)
+![blueair blue pure 211 standing in living room](/img/blueair-blue-pure-211-standing-in-living-room.webp)
 
 ## What’s not so good about the Blueair Blue 211+?
 
@@ -153,7 +153,7 @@ So, they can even detect odors and unhealthy gases.
 
 While the Blueair Blue 211+ is cheaper than a Dyson air purifier, I would still love it a lot more if it provided better air quality reports.
 
-![blueair blue pure 211 closeup](/wp-content/uploads/2023/09/blueair-blue-pure-211-closeup.jpg)The small blue indicator light indicates air quality.
+![blueair blue pure 211 closeup](/img/blueair-blue-pure-211-closeup.webp)The small blue indicator light indicates air quality.
 
 ### Cost
 
@@ -186,7 +186,7 @@ Check out the other air purifiers here:
 
 Let’s dive in.
 
-![coway airmega 400 product image](/wp-content/uploads/2023/09/coway-airmega-400-product-image-226x300.jpg)The Coway Airmega 300S.
+![coway airmega 400 product image](/img/coway-airmega-400-product-image.webp)The Coway Airmega 300S.
 
 ### **App & Voice Controls**
 
@@ -219,7 +219,7 @@ But overall, the difference is small. [All good quality air purifiers are energy
 
 In terms of room coverage, Levoit Core 600S is the king, covering up to a massive 3,175 sq ft. Coway Airmega 300S covers less area but still beats the Blueair’s 550 sq ft.
 
-![levoit core 600s product image](/wp-content/uploads/2023/09/levoit-core-600s-product-image.jpg)The Levoit Core 600S allegedly covers the largest area (by far)
+![levoit core 600s product image](/img/levoit-core-600s-product-image.webp)The Levoit Core 600S allegedly covers the largest area (by far)
 
 The significant area coverage difference can be explained by different types of experiments performed by different brands. It _could_ be that Blueair is just more honest than Levoit.
 

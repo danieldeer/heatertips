@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: tower fan vs pedestal fan
-  image: /wp-content/uploads/2023/08/tower-fan-vs-pedestal-fan.jpg
+  image: /img/tower-fan-vs-pedestal-fan.webp
 date: "2023-08-11T10:01:47+00:00"
 guid: https://heatertips.com/?p=1744
 title: 'Are Tower Fans better than Pedestal Fans? (Answer: NO)'
@@ -82,7 +82,7 @@ And I am not making this up. These 3 totally different devices all look _exactly
 
 Here's an image of an air purifier, a tower heater and a tower fan:
 
-![](/wp-content/uploads/2023/08/tower-fan-design-quiz.jpg)Maybe you know the answer. But you get the point: **Tower fans are not easy to recognize.**
+![](/img/tower-fan-design-quiz.webp)Maybe you know the answer. But you get the point: **Tower fans are not easy to recognize.**
 
 On the other hand, when I see a pedestal fan, I instantly recognize it as a fan. I like that.
 
@@ -106,13 +106,13 @@ If I compare a _modern_ tower fan with a _modern_ pedestal fan, there is not a b
 
 Let’s have a look at two up-to-date models from Dreo:
 
-![pedestal fan tower fan size comparison new modern](/wp-content/uploads/2023/08/pedestal-fan-tower-fan-size-comparison-new-modern.jpg)
+![pedestal fan tower fan size comparison new modern](/img/pedestal-fan-tower-fan-size-comparison-new-modern.webp)
 
 **They are both _about_ equal in size.** There is no significant difference. Of course, the pedestal fan takes up more volume at its top.
 
 Now, let’s compare a _classic & cheap_ tower fan with a _classic & cheap_ pedestal fan:
 
-![pedestal fan tower fan size comparison old classic](/wp-content/uploads/2023/08/pedestal-fan-tower-fan-size-comparison-old-classic.jpg)
+![pedestal fan tower fan size comparison old classic](/img/pedestal-fan-tower-fan-size-comparison-old-classic.webp)
 
 As you can see, **the size difference is much more significant in low-end fans.**
 
@@ -206,7 +206,7 @@ The [**Dreo PolyFan** (click here to view it on amazon)](https://www.amazon.com/
 
 This fan stops sweaty & smelly family gatherings. Plus, I guarantee, every time someone visits, they will comment on the fan.
 
-![pedestal fan dreo polyfan](/wp-content/uploads/2023/08/pedestal-fan-dreo-polyfan.jpg)See how the Dreo PolyFan blends in. It looks much nicer than a weird tower.
+![pedestal fan dreo polyfan](/img/pedestal-fan-dreo-polyfan.webp)See how the Dreo PolyFan blends in. It looks much nicer than a weird tower.
 
 ### Recommended tower fan
 

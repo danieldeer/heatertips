@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: oil heater electricity usage and power consumption
-  image: /wp-content/uploads/2020/01/oil-heater-electricity-usage-and-power-consumption.jpg
+  image: /img/oil-heater-electricity-usage-and-power-consumption.webp
 date: "2020-01-13T20:44:21+00:00"
 guid: https://heatertips.com/?p=345
 tag:
@@ -78,7 +78,7 @@ Wattage / Rate$0.08$0.10$0.12$0.14$0.16$0.18$0.20500W$0.04$0.05$0.06$0.07$0.08$0
 
 If you are the more visual type of person and you prefer seeing images rather than a table, here’s a 3D chart that I have created for you. It contains exactly the same data as the table above and you can use it to look up your oil heater cost per hour.
 
-![electricity cost of different oil heaters with different power and electricity rates](/wp-content/uploads/2020/01/electricity-usage-oil-heater-by-watts-and-dollar-watermark.jpg)
+![electricity cost of different oil heaters with different power and electricity rates](/img/electricity-usage-oil-heater-by-watts-and-dollar-watermark.webp)
 
 **As you can see, depending on your electricity rate and your power settings, your space heater can cost anywhere from $0.04 to $0.3 per hour.** And I didn’t even include the whole range of possible costs.
 
@@ -134,7 +134,7 @@ Still, your total costs don’t rise as much as you previously expected them to.
 
 I believe, that in the future, the generation of electricity might become even cheaper, especially compared to oil prices. That’s why electric heaters are the future - but we’ll see. I don’t have a magic glass ball.
 
-![electric bill](/wp-content/uploads/2020/01/electric-bill.jpg)
+![electric bill](/img/electric-bill.webp)
 
 ## Oil-Filled Radiator Efficiency
 
@@ -202,7 +202,7 @@ That’s why oil heater thermostats are better. They can more accurately measure
 
 More efficient thermostats will also mean less power usage and thus higher energy savings.
 
-![turn thermostat down to save space heater electricity cost](/wp-content/uploads/2019/12/turn-thermostat-down-to-save-space-heater-electricity-cost.jpg)
+![turn thermostat down to save space heater electricity cost](/img/turn-thermostat-down-to-save-space-heater-electricity-cost.webp)
 
 ## Difference between oil heaters and other electric heaters
 

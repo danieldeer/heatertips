@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to keep heat in a room without a door
-  image: /wp-content/uploads/2019/12/how-to-keep-heat-in-a-room-without-a-door.jpg
+  image: /img/how-to-keep-heat-in-a-room-without-a-door.webp
 date: "2019-12-25T11:03:57+00:00"
 guid: https://heatertips.com/?p=211
 tag:
@@ -47,7 +47,7 @@ In this case, you could alternatively also use thick curtains instead of a wool 
 
 **Effectively, the blanket limits the space you need to heat and creates a warm air pocket.**
 
-![add a wool blanket to keep heat in a room without a door](/wp-content/uploads/2019/12/add-a-wool-blanket-to-keep-heat-in-a-room-without-a-door.jpg)
+![add a wool blanket to keep heat in a room without a door](/img/add-a-wool-blanket-to-keep-heat-in-a-room-without-a-door.webp)
 
 ### 2\. Use the radiator, but store the heat
 
@@ -81,7 +81,7 @@ Other heaters would heat the air, which would quickly disappear.
 
 **In a room without a door, an infrared heater is an awesome investment for additional heat.**
 
-![infrared heater to heat a room without doors](/wp-content/uploads/2019/12/infrared-heater-near-carpet.jpg)
+![infrared heater to heat a room without doors](/img/infrared-heater-near-carpet.webp)
 
 ### 4\. Carefully test the heater
 
@@ -250,7 +250,7 @@ Answer: The energy bill will increase according to the size of the room without 
 
 This way you can also see the benefit of insulation: By separating the hallway and your room (for example using a blanket or by adding a door), you’ll decrease the size of the area to heat by 25% and save money accordingly.
 
-![the area you have to heat decreases when you close the door](/wp-content/uploads/2019/12/Heated-area-small.jpg)The area you need to heat decreases when you install a door. This cuts your energy bill.
+![the area you have to heat decreases when you close the door](/img/Heated-area-small.webp)The area you need to heat decreases when you install a door. This cuts your energy bill.
 
 ### 15\. Close other rooms
 

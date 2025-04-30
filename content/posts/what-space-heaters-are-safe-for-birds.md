@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: What Space Heaters are safe for Birds
-  image: /wp-content/uploads/2019/11/What-Space-Heaters-are-safe-for-Birds.jpg
+  image: /img/What-Space-Heaters-are-safe-for-Birds.webp
 date: "2019-11-24T13:17:32+00:00"
 guid: https://heatertips.com/?p=59
 tag:
@@ -86,7 +86,7 @@ Still, if you get a new heater, run it a few hours, because the paint could stor
 
 Unlike other heaters, oil-filled radiators don’t emit light. This means you can also use them at night without disturbing your bird’s sleep.
 
-![oil-filled space heaters are safe for birds](/wp-content/uploads/2019/11/oil-filled-space-heaters-are-safe-for-birds-1.jpg)
+![oil-filled space heaters are safe for birds](/img/oil-filled-space-heaters-are-safe-for-birds-1.webp)
 
 ### Our recommendation: Oil-filled space heaters are the safest choice for birds
 
@@ -148,7 +148,7 @@ To make sure your birds are happy, here are some points you need to consider:
 - **Keep your room humid**. Birds are sensitive to dry air. Especially tropical birds need humidity. A simple thing you can do to fix this issue is to [get a humidifier (like this one (click me) on amazon)](https://www.amazon.com/TaoTronics-Humidifiers-Ultrasonic-Humidifier-Operation/dp/B07H2717BM/ref=as_li_ss_tl?crid=2DUIONSJ6UC7B&keywords=humidifiers&qid=1574598777&sprefix=humi,aps,264&sr=8-9&linkCode=ll1&tag=heatertips-20&linkId=a707228502abb2343b2fe1f845da19de&language=en_US).
 - **Make sure no coatings like Teflon are used** in your heater.
 
-![how to stay safe while using space heater for birds](/wp-content/uploads/2019/11/air-your-room-to-keep-it-humid-while-space-heating.jpg)
+![how to stay safe while using space heater for birds](/img/air-your-room-to-keep-it-humid-while-space-heating.webp)
 
 ## How to bird-safe a new heater
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater tip over
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-tip-over.jpg
+  image: /img/mr-heater-propane-heater-tip-over.webp
 date: "2023-01-02T12:18:15+00:00"
 guid: https://heatertips.com/?p=1452
 title: Are Mr. Heaters any good? (Critical Review)
@@ -54,7 +54,7 @@ If you need an outdoor heater, convection heaters are pointless.
 
 Mr. Heater Buddy heaters are a mix of infrared and convection heaters. The front heating panel emits infrared radiation. And the top vents emit convective heat.
 
-![propane heater on table tabletop temperature](/wp-content/uploads/2022/12/propane-heater-on-table-tabletop-temperature.jpg)A Mr. Heater propane heater directs almost no heat to the floor (which is good). Most of the heat escapes through the top vents.
+![propane heater on table tabletop temperature](/img/propane-heater-on-table-tabletop-temperature.webp)A Mr. Heater propane heater directs almost no heat to the floor (which is good). Most of the heat escapes through the top vents.
 
 When you initially turn on your Mr. Heater Buddy, it immediately emits hot air (convective heat). But it takes some time for the heating panel to heat up. Only then you will also feel some infrared heat.
 
@@ -112,7 +112,7 @@ I tried different positions around the heater. And the front-top part of the hea
 
 This makes sense since that’s where the propane flame rises.
 
-![](/wp-content/uploads/2023/01/mr-heater-buddy-burning-paper.jpg)My Mr. Heater Buddy gets hot enough to ignite paper!
+![](/img/mr-heater-buddy-burning-paper.webp)My Mr. Heater Buddy gets hot enough to ignite paper!
 
 So, it’s very important that you don’t use your Mr. Heater Buddy in tight places. In this case, I think about tents. If you place a Mr. Heater Buddy in the corner of a tent (under a tilted tent roof), then I guarantee you it will burn a big hole into your tent.
 
@@ -182,7 +182,7 @@ Of course, that’s not the fault of the brand Mr. Heater. That’s just basic p
 
 Still, the heating duration of Mr. Heater Buddy heaters is not very good.The biggest drawback is, in my opinion:
 
-![propane heater bottle connector](/wp-content/uploads/2022/12/propane-heater-bottle-connector.jpg)On such a 1-pound propane bottle, a Mr. Heater Buddy lasts up to 5.4h.
+![propane heater bottle connector](/img/propane-heater-bottle-connector.webp)On such a 1-pound propane bottle, a Mr. Heater Buddy lasts up to 5.4h.
 
 **A Mr. Heater Buddy does not last a full night on a 1-pound propane bottle.**
 
@@ -242,7 +242,7 @@ Ideally, you should be surprised now. At least, this was my goal.
 
 Mr. Heater propane heaters are actually _great heaters._ And if you are looking to buy one, here are some very good reasons why they should be your first choice.
 
-![mr heater propane heater running closeup](/wp-content/uploads/2022/12/mr-heater-propane-heater-running-closeup.jpg)Mr. Heater Buddy heaters are very "round", which improves impact resistance
+![mr heater propane heater running closeup](/img/mr-heater-propane-heater-running-closeup.webp)Mr. Heater Buddy heaters are very "round", which improves impact resistance
 
 ### Impact-proof design
 

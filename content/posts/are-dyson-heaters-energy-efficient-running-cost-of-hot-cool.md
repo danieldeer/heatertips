@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyson heater efficiency
-  image: /wp-content/uploads/2020/01/dyson-heater-efficiency.jpg
+  image: /img/dyson-heater-efficiency.webp
 date: "2020-01-14T20:13:09+00:00"
 guid: https://heatertips.com/?p=349
 tag:
@@ -121,7 +121,7 @@ What Dyson sells as intelligent is nowhere near intelligent. There are dozens of
 
 You can view these space heaters on my [**Recommended Products page (click here to view it)**](/recommended-products/).
 
-![dyson hot and cool thermostat determines energy efficiency and running cost](/wp-content/uploads/2020/01/dyson-heater-thermostat.jpg)
+![dyson hot and cool thermostat determines energy efficiency and running cost](/img/dyson-heater-thermostat.webp)
 
 #### How every thermostat works
 
@@ -297,7 +297,7 @@ But that’s positive: Tip-over protection makes space heaters much safer. Dyson
 
 Well done. Automatic tip-over protection is a must-have.
 
-![the dyson heater logo](/wp-content/uploads/2020/01/dyson-brand-logo.jpg)
+![the dyson heater logo](/img/dyson-brand-logo.webp)
 
 ## Conclusion - Are Dyson Heaters Energy-Efficient?
 

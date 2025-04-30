@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-use-a-portable-air-conditioner-when-its-smoky-outside
-  image: /wp-content/uploads/2022/11/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.jpg
+  image: /img/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.webp
 date: "2022-11-13T08:31:19+00:00"
 guid: https://heatertips.com/?p=1048
 title: Can you use a Portable AC when it’s Smoky outside?

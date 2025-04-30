@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: are space heaters safe for cats
-  image: /wp-content/uploads/2019/11/are-space-heaters-safe-for-cats.jpg
+  image: /img/are-space-heaters-safe-for-cats.webp
 date: "2019-11-30T16:43:08+00:00"
 guid: https://heatertips.com/?p=108
 tag:
@@ -28,7 +28,7 @@ I totally understand your worries. This is a headline of a blog post I found onl
 
 And below that headline, there’s this image of a cat with -indeed - slightly toasted fur. She just got too comfortable in front of the space heater.
 
-![](/wp-content/uploads/2019/11/cat-space-heater-burned-fur.jpg)
+![](/img/cat-space-heater-burned-fur.webp)
 
 In this post, you’ll learn exactly how you can cat-safe your space heater so your cat doesn’t end up toasted as well.
 
@@ -67,7 +67,7 @@ Here’s the one I recommend:
 
 - [DeLonghi Oil-Filled Radiator Space Heater, Quiet 1500W (click here to check the price on amazon)](https://www.amazon.com/DeLonghi-EW7707CM-ComforTemp-Portable-Oil-Filled/dp/B000TGDGLU/ref=as_li_ss_tl?keywords=oil+filled+heater&qid=1574581550&sr=8-4&linkCode=ll1&tag=heatertips-20&linkId=14e894e4a9006b3f382b39c01a1907a0&language=en_US)
 
-![oil filled space heaters are safe for cats](/wp-content/uploads/2019/11/oil-filled-space-heaters-are-safe-for-cats.jpg)Image by [monnibo](https://flickr.com/photos/monnibo/5144528439/)
+![oil filled space heaters are safe for cats](/img/oil-filled-space-heaters-are-safe-for-cats.webp)Image by [monnibo](https://flickr.com/photos/monnibo/5144528439/)
 
 ### Other safety tips for space heaters and cats
 
@@ -87,7 +87,7 @@ But these people are obviously not cat owners. Everyone knows that cats can reac
 
 Even though it’s just 800W, it gets very hot to the touch - I just tried it and nearly burned my fingers.
 
-![infrared space heaters are not safe for cats](/wp-content/uploads/2019/11/infrared-heaters-are-not-safe-for-cats.jpg)Space heaters with exposed heating elements are not safe for cats.
+![infrared space heaters are not safe for cats](/img/infrared-heaters-are-not-safe-for-cats.webp)Space heaters with exposed heating elements are not safe for cats.
 
 Even though this space heater is perfectly fine for me, it’s not for cats. Cats like to lie down right in front of it. If your cat’s fur would touch the hot metal grid, it might turn toasty brown.
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater front view
-  image: /wp-content/uploads/2023/08/infrared-heater-front-view.webp
+  image: /img/infrared-heater-front-view.webp
 date: "2023-12-06T09:48:56+00:00"
 guid: https://heatertips.com/?p=2273
 title: 4 Best Fanless Heaters
@@ -66,7 +66,7 @@ It has all the advantages of a fanless heater: It is 100% silent and never requi
 
 And on top of that, it is the safest form of fanless heater: an oil-filled radiator.
 
-![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1.jpg)
+![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)
 
 Oil radiators are very safe because they do not expose the built-in heating element. The heat source is completely inaccessible from the outside and embedded inside the sealed metal heating body, where it’s drowned in oil.
 
@@ -86,7 +86,7 @@ Pelonis is my personal favorite radiator brand, because they are _really afforda
 
 This Pelonis oil heater costs just half as much as the DeLonghi Dragon. And, I’d say, for most people, the Pelonis is going to be the better choice cost-wise.
 
-![](/wp-content/uploads/2019/12/reliable-and-safe-pelonis-space-heater-you-can-leave-unattended.jpg)
+![](/img/reliable-and-safe-pelonis-space-heater-you-can-leave-unattended.webp)
 
 Here’s why:
 
@@ -112,7 +112,7 @@ That’s not the case for infrared heaters with fans. With a built-in fan, infra
 
 Anyway, here’s my recommendation for a strong 1,500-watt fanless infrared heater: The [**Heat Storm HS-1500-OTR infrared heater**(click to view it on amazon)](https://www.amazon.com/Heat-Storm-Tradesman-Outdoor-Infrared/dp/B08GFK73MY?keywords=Heat%2BStorm%2BHS-1500-OTR%2BInfrared%2BHeater%2C%2B1500-watt&qid=1701766939&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=db5a73259ac6018d80ce15810d30091f&language=en_US&ref_=as_li_ss_tl).
 
-![heat storm tradesman infrared heater product image](/wp-content/uploads/2023/12/heat-storm-tradesman-infrared-heater-product-image.jpg)
+![heat storm tradesman infrared heater product image](/img/heat-storm-tradesman-infrared-heater-product-image.webp)
 
 As the name suggests, it is a “pure” infrared heater. It has an industrial look to it, because, as explained earlier, the infrared tubes must be as exposed as possible to make the heater work without a fan.
 

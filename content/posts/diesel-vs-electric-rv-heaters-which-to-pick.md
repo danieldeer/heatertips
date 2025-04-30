@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: electric vs diesel heaters for RVs
-  image: /wp-content/uploads/2023/12/electric-vs-diesel-heaters-for-RVs.jpg
+  image: /img/electric-vs-diesel-heaters-for-RVs.webp
 date: "2023-12-02T09:32:30+00:00"
 guid: https://heatertips.com/?p=2255
 title: 'Diesel vs Electric RV Heaters: Which to Pick?'
@@ -34,7 +34,7 @@ Diesel heaters in RVs work by burning diesel fuel to create heat. This heat is t
 - **Fuel Usage:** On average, a diesel heater might use about 0.1 to 0.3 gallons of diesel per hour, depending on the model and the heat setting. So, over the course of a night (let's say 8 hours), you could expect to use approximately 0.8 to 2.4 gallons of diesel (depending on the heat setting).  
 That’s quite something. But it’s _a lot_ more cost-effective than using expensive electricity!
 
-![diesel heater new parts unboxing](/wp-content/uploads/2023/11/diesel-heater-new-parts-unboxing.jpg)Diesel heater unboxing: A new diesel heater comes with a tank and a set of fuel lines and exhausts.
+![diesel heater new parts unboxing](/img/diesel-heater-new-parts-unboxing.webp)Diesel heater unboxing: A new diesel heater comes with a tank and a set of fuel lines and exhausts.
 
 #### Downsides of Diesel Heaters
 
@@ -59,7 +59,7 @@ So, I’d just pick a popular model with a decent rating. So, if the heater ever
 
 My recommendation is [this **Vevor diesel heater**(click to view it on amazon)](https://www.amazon.com/dp/B0CFQQ4FPB?pd_rd_i=B0CFQQ4FPB&pd_rd_w=a76Dd&content-id=amzn1.sym.08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_p=08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_r=QQ7NEKSC1CCW836K929N&pd_rd_wg=gORWO&pd_rd_r=582811c5-8ef3-45a5-acc1-879d7568acab&s=automotive&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll1&tag=heatertips-20&linkId=7520590992f76425227328e7f8215d90&language=en_US&ref_=as_li_ss_tl). It’s a 5kW model, which is more than enough for most regular-sized camper vans and motorhomes. For large motorhomes, just pick the 8kW variant.
 
-[![vevor diesel heater product image](/wp-content/uploads/2023/12/vevor-diesel-heater-product-image.jpg)](https://www.amazon.com/dp/B0CFQQ4FPB?pd_rd_i=B0CFQQ4FPB&pd_rd_w=a76Dd&content-id=amzn1.sym.08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_p=08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_r=QQ7NEKSC1CCW836K929N&pd_rd_wg=gORWO&pd_rd_r=582811c5-8ef3-45a5-acc1-879d7568acab&s=automotive&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll1&tag=heatertips-20&linkId=7520590992f76425227328e7f8215d90&language=en_US&ref_=as_li_ss_tl)
+[![vevor diesel heater product image](/img/vevor-diesel-heater-product-image.webp)](https://www.amazon.com/dp/B0CFQQ4FPB?pd_rd_i=B0CFQQ4FPB&pd_rd_w=a76Dd&content-id=amzn1.sym.08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_p=08ba9b95-1385-44b0-b652-c46acdff309c&pf_rd_r=QQ7NEKSC1CCW836K929N&pd_rd_wg=gORWO&pd_rd_r=582811c5-8ef3-45a5-acc1-879d7568acab&s=automotive&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll1&tag=heatertips-20&linkId=7520590992f76425227328e7f8215d90&language=en_US&ref_=as_li_ss_tl)
 
 ## Electric Heaters for RVs
 
@@ -78,7 +78,7 @@ Most come with a thermostat and different heat settings, so you can control the 
 The typical electric heater uses around 1,500 Watts of power. So, if you’re using your RV’s battery, it’ll drain quickly.  
 However, when you’re at a campground with hookups, it’s perfect - you can heat your RV without worrying about refueling or battery drain.
 
-![electric space heater](/wp-content/uploads/2020/01/electric-space-heater-on-window-sill.jpg)
+![electric space heater](/img/electric-space-heater-on-window-sill.webp)
 
 #### Downsides of Electric Heaters
 
@@ -96,7 +96,7 @@ So, electric heaters are not ideal for heating larger spaces or in very cold con
 
 For electric heaters, the key is finding a balance between size, power, and safety features. My favorite pick is [this **Heat Storm infrared heater** (click to view it on amazon)](https://www.amazon.com/Heat-Storm-HS-1500-PHX-WIFI-Infrared-Heater/dp/B07JXRWJ8D?crid=3C6O76HD75F9I&keywords=infrared%2Bheater&qid=1701440998&sprefix=infrared%2Bheater%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=fddbc9f168f6e41b9b2c8c4b85f52610&language=en_US&ref_=as_li_ss_tl).
 
-[![heat storm infrared heater](/wp-content/uploads/2023/10/heat-storm-infrared-heater.jpg)](https://www.amazon.com/Heat-Storm-HS-1500-PHX-WIFI-Infrared-Heater/dp/B07JXRWJ8D?crid=3C6O76HD75F9I&keywords=infrared%2Bheater&qid=1701440998&sprefix=infrared%2Bheater%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=fddbc9f168f6e41b9b2c8c4b85f52610&language=en_US&ref_=as_li_ss_tl)
+[![heat storm infrared heater](/img/heat-storm-infrared-heater.webp)](https://www.amazon.com/Heat-Storm-HS-1500-PHX-WIFI-Infrared-Heater/dp/B07JXRWJ8D?crid=3C6O76HD75F9I&keywords=infrared%2Bheater&qid=1701440998&sprefix=infrared%2Bheater%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=fddbc9f168f6e41b9b2c8c4b85f52610&language=en_US&ref_=as_li_ss_tl)
 
 This one stands out from all other infrared heaters because it comes with a built-in thermostat and _auto-mode_, which lets the heater completely control itself.
 

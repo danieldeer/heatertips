@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater vs electric blanket
-  image: /wp-content/uploads/2020/01/space-heater-vs-electric-blanket.jpg
+  image: /img/space-heater-vs-electric-blanket.webp
 date: "2020-01-17T10:18:24+00:00"
 guid: https://heatertips.com/?p=356
 tag:
@@ -105,7 +105,7 @@ Space heaters run on 1500W fixed unless you get a model with a built-in thermost
 
 The difference is that space heaters heat a whole room, whereas a blanket heats just one person. Obviously, [an electric blanket is more efficient](https://www.energy.gov/energysaver/articles/electric-blanket-delivers-ko-space-heater-during-energyfaceoff-round-three).
 
-![thermostat of a heater](/wp-content/uploads/2020/01/thermostat-of-a-heater.jpg)
+![thermostat of a heater](/img/thermostat-of-a-heater.webp)
 
 ## 5\. Price
 
@@ -331,7 +331,7 @@ To be fair, I have to mention that some electric blankets have an automatic shut
 
 For sleeping, I’d stick to space heaters.
 
-![blanket on couch - better than a space heater?](/wp-content/uploads/2020/01/blanket-on-couch.jpg)
+![blanket on couch - better than a space heater?](/img/blanket-on-couch.webp)
 
 ## 16\. Noise
 

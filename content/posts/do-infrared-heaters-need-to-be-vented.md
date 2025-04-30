@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared-heater-in-front-of-window
-  image: /wp-content/uploads/2022/12/infrared-heater-in-front-of-window.jpg
+  image: /img/infrared-heater-in-front-of-window.webp
 date: "2022-12-12T10:52:07+00:00"
 guid: https://heatertips.com/?p=1287
 title: Do Infrared Heaters need to be vented?
@@ -66,7 +66,7 @@ The heating element heats up and starts glowing red hot.
 
 That’s what causes the typical electric infrared heater glow.
 
-![infrared heater in front of window angled](/wp-content/uploads/2022/12/infrared-heater-in-front-of-window-angled.jpg)Electric infrared heater with the typical glowing infrared heating elements
+![infrared heater in front of window angled](/img/infrared-heater-in-front-of-window-angled.webp)Electric infrared heater with the typical glowing infrared heating elements
 
 Because the heating element merely heats up without causing any chemical reaction, it does not produce waste material such as water vapor or [toxic gases](/do-space-heaters-emit-carbon-monoxide/).
 

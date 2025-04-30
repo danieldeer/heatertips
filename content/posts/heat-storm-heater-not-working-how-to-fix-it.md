@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: heat storm infrared heater
-  image: /wp-content/uploads/2023/10/heat-storm-infrared-heater.jpg
+  image: /img/heat-storm-infrared-heater.webp
 date: "2023-10-22T07:13:28+00:00"
 guid: https://heatertips.com/?p=2087
 title: 'Heat Storm Heater Not Working: How to Fix It'
@@ -68,7 +68,7 @@ Clean out the dust. For dusting, I recommend getting [this **Craftsman air compr
 
 An air compressor is invaluable for heater maintenance. And you can use it for cleaning out your car, inflating tires, and all kinds of other maintenance tasks. It’s an investment that pays in the long run.
 
-![heat storm heater disassembly repair blower motor](/wp-content/uploads/2023/10/heat-storm-heater-disassembly-repair-blower-motor.jpg)Ideally, your Heat Storm heater's inside should look like the picture above: No dust at all. Make sure the squirrel cage fan blades are clean!
+![heat storm heater disassembly repair blower motor](/img/heat-storm-heater-disassembly-repair-blower-motor.webp)Ideally, your Heat Storm heater's inside should look like the picture above: No dust at all. Make sure the squirrel cage fan blades are clean!
 
 ### 4\. Check Tip-Over Protection
 
@@ -122,7 +122,7 @@ To repair the electronic circuitry, buy a matching replacement part online. Unso
 
 After going through all these steps, your Heat Storm heater should be working again.
 
-![heat storm heater disassembly inspect electronics](/wp-content/uploads/2023/10/heat-storm-heater-disassembly-inspect-electronics.jpg)Check the electronic circuitry inside your Heat Storm heater. Check for burn marks. And, if you can, you can manually test the two relais by applying a small voltage to them (for experts only!).
+![heat storm heater disassembly inspect electronics](/img/heat-storm-heater-disassembly-inspect-electronics.webp)Check the electronic circuitry inside your Heat Storm heater. Check for burn marks. And, if you can, you can manually test the two relais by applying a small voltage to them (for experts only!).
 
 ## What to do if You Can’t Fix your Heat Storm Heater?
 

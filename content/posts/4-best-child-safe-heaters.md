@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: vornadobaby tempa child-safe lockable space heater
-  image: /wp-content/uploads/2023/11/vornadobaby-tempa-child-safe-lockable-space-heater.jpg
+  image: /img/vornadobaby-tempa-child-safe-lockable-space-heater.webp
 date: "2023-11-28T09:55:36+00:00"
 guid: https://heatertips.com/?p=2215
 title: 4 Best Child-Safe Heaters
@@ -47,7 +47,7 @@ Any space heater that fulfills these criteria is child-safe.
 
 Surprise! The number #1 child-safe space heater is a [Dyson Hot+Cool Heater and Air Purifier](https://www.amazon.com/Dyson-Purifier-CoolTM-Gen1-HP10/dp/B0CDQW6Q7W?crid=2FO5Q5CR6E1QX&keywords=dyson%2Bheater&qid=1701077459&sprefix=dyson%2Bheate%2Caps%2C158&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=3d52906130fa078a6e1b46c6376a07d2&language=en_US&ref_=as_li_ss_tl). It is _not_ a space heater that was originally designed for children. However, it fulfills _all_ of the criteria we just checked and even surpasses them.
 
-[![dyson hot cool fans air purifier](/wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg)](https://www.amazon.com/Dyson-Purifier-CoolTM-Gen1-HP10/dp/B0CDQW6Q7W?crid=2FO5Q5CR6E1QX&keywords=dyson%2Bheater&qid=1701077459&sprefix=dyson%2Bheate%2Caps%2C158&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=3d52906130fa078a6e1b46c6376a07d2&language=en_US&ref_=as_li_ss_tl) Dyson heaters are round, safe, and very advanced.
+[![dyson hot cool fans air purifier](/img/are-dyson-heaters-safe.webp)](https://www.amazon.com/Dyson-Purifier-CoolTM-Gen1-HP10/dp/B0CDQW6Q7W?crid=2FO5Q5CR6E1QX&keywords=dyson%2Bheater&qid=1701077459&sprefix=dyson%2Bheate%2Caps%2C158&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=3d52906130fa078a6e1b46c6376a07d2&language=en_US&ref_=as_li_ss_tl) Dyson heaters are round, safe, and very advanced.
 
 Let’s have a look.
 
@@ -83,7 +83,7 @@ And, you get a few more **additional advantages:**
 
 My second recommendation is the [Vornadobaby Tempa](https://www.amazon.com/Vornadobaby-Tempa-Nursery-Heater-White/dp/B07G4W433W?crid=1U54ZBGVXY0DR&keywords=child+safe+heater&qid=1701077313&sprefix=child+safe+heate%2Caps%2C159&sr=8-5&linkCode=ll1&tag=heatertips-20&linkId=a572b76186482b8efed6ed9e917ac6a5&language=en_US&ref_=as_li_ss_tl). And here it gets interesting!
 
-[![vornadobaby tempa product image](/wp-content/uploads/2023/11/vornadobaby-tempa-product-image.jpg)](https://www.amazon.com/Vornadobaby-Tempa-Nursery-Heater-White/dp/B07G4W433W?crid=1U54ZBGVXY0DR&keywords=child+safe+heater&qid=1701077313&sprefix=child+safe+heate%2Caps%2C159&sr=8-5&linkCode=ll1&tag=heatertips-20&linkId=a572b76186482b8efed6ed9e917ac6a5&language=en_US&ref_=as_li_ss_tl)
+[![vornadobaby tempa product image](/img/vornadobaby-tempa-product-image.webp)](https://www.amazon.com/Vornadobaby-Tempa-Nursery-Heater-White/dp/B07G4W433W?crid=1U54ZBGVXY0DR&keywords=child+safe+heater&qid=1701077313&sprefix=child+safe+heate%2Caps%2C159&sr=8-5&linkCode=ll1&tag=heatertips-20&linkId=a572b76186482b8efed6ed9e917ac6a5&language=en_US&ref_=as_li_ss_tl)
 
 The Vornadobaby Tempa is a really good space heater **specifically designed for small children and toddlers**.
 
@@ -93,7 +93,7 @@ Not only does it look like a child’s heater, but it also has one very importan
 
 This makes the Vornadobaby Tempa extra child-safe.
 
-![vornadobaby tempa lockable power switch](/wp-content/uploads/2023/11/vornadobaby-tempa-lockable-power-switch.jpg)The yellow lever-lock on the left hand side of the heater (with the lock icon) can lock the power button to stay turned off. In the image, the lock is open.
+![vornadobaby tempa lockable power switch](/img/vornadobaby-tempa-lockable-power-switch.webp)The yellow lever-lock on the left hand side of the heater (with the lock icon) can lock the power button to stay turned off. In the image, the lock is open.
 
 Aside from that, it of course provides all the safety features you need, including tip-over protection and an automatic shutoff to prevent overheating.
 
@@ -121,7 +121,7 @@ It’s a great heater for babies and small children. But you won’t find much u
 
 The [Dr Infrared HeatStyle](https://www.amazon.com/dp/B09QM1QTCJ?psc=1&pd_rd_i=B09QM1QTCJ&pd_rd_w=Aycyt&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=0Y53ME9YV23KW6J5KMJ7&pd_rd_wg=Ta2OS&pd_rd_r=0a22513c-49d3-4319-8b21-bd0da1df1c5e&s=home-garden&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&linkCode=ll1&tag=heatertips-20&linkId=dcade9cc35ce36d99c232c52a00af283&language=en_US&ref_=as_li_ss_tl) is a very interesting infrared heater. And this one is actually the type of heater I referred to in the introduction.
 
-[![dr infrared heatstyle child-safe heater](/wp-content/uploads/2023/11/dr-infrared-heatstyle-child-safe-heater.jpg)](https://www.amazon.com/dp/B09QM1QTCJ?psc=1&pd_rd_i=B09QM1QTCJ&pd_rd_w=Aycyt&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=0Y53ME9YV23KW6J5KMJ7&pd_rd_wg=Ta2OS&pd_rd_r=0a22513c-49d3-4319-8b21-bd0da1df1c5e&s=home-garden&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&linkCode=ll1&tag=heatertips-20&linkId=dcade9cc35ce36d99c232c52a00af283&language=en_US&ref_=as_li_ss_tl) The Dr Infrared HeatStyle combines powerful infrared heat with a child-safe cornerless design.
+[![dr infrared heatstyle child-safe heater](/img/dr-infrared-heatstyle-child-safe-heater.webp)](https://www.amazon.com/dp/B09QM1QTCJ?psc=1&pd_rd_i=B09QM1QTCJ&pd_rd_w=Aycyt&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=0Y53ME9YV23KW6J5KMJ7&pd_rd_wg=Ta2OS&pd_rd_r=0a22513c-49d3-4319-8b21-bd0da1df1c5e&s=home-garden&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&linkCode=ll1&tag=heatertips-20&linkId=dcade9cc35ce36d99c232c52a00af283&language=en_US&ref_=as_li_ss_tl) The Dr Infrared HeatStyle combines powerful infrared heat with a child-safe cornerless design.
 
 In principle, the Dr Infrared HeatStyle is very similar to any other Dr Infrared Heater. The only difference is that the corners are rounded and the whole thing is made of plastic instead of solid wood (which is not necessarily better). Now don’t get me wrong. Dr Infrared Heaters are, in my opinion, among the [best infrared heaters](/recommended-products/best-infrared-heater/) you can get.
 
@@ -152,7 +152,7 @@ One more advantage of the Dr Infrared HeatStyle is that you can wall-mount it. S
 
 My last recommendation for a child’s room / nursery is an oil-filled radiator. These are incredibly safe. My recommendation is the [DeLonghi Dragon oil-filled radiator](https://www.amazon.com/DeLonghi-Oil-Filled-Radiator-Adjustable-Thermostat/dp/B07WSJZH1G?crid=3OEUJHK4IPLOH&keywords=delonghi+oil+filled+heater&qid=1701099922&sprefix=delonghi+oil+filled%2Caps%2C191&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=heatertips-20&linkId=a6ce830d635ce573d5a953b896a3a8c7&language=en_US&ref_=as_li_ss_tl).
 
-[![delonghi oil-filled radiator](/wp-content/uploads/2021/10/delonghi-space-heater-1.jpg)](https://www.amazon.com/DeLonghi-Oil-Filled-Radiator-Adjustable-Thermostat/dp/B07WSJZH1G?crid=3OEUJHK4IPLOH&keywords=delonghi+oil+filled+heater&qid=1701099922&sprefix=delonghi+oil+filled%2Caps%2C191&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=heatertips-20&linkId=a6ce830d635ce573d5a953b896a3a8c7&language=en_US&ref_=as_li_ss_tl)
+[![delonghi oil-filled radiator](/img/delonghi-space-heater-1.webp)](https://www.amazon.com/DeLonghi-Oil-Filled-Radiator-Adjustable-Thermostat/dp/B07WSJZH1G?crid=3OEUJHK4IPLOH&keywords=delonghi+oil+filled+heater&qid=1701099922&sprefix=delonghi+oil+filled%2Caps%2C191&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=heatertips-20&linkId=a6ce830d635ce573d5a953b896a3a8c7&language=en_US&ref_=as_li_ss_tl)
 
 Oil-filled radiators are very safe by design. Their heating element is embedded deep inside the large oil-filled metal body. The oil then carries the heat from the heating element to the large metal surface, which practically turns the entire body of the heater into one large heating element. And because the heat is not focused in one point, but spread over a large surface area, **oil-filled radiators do not get overly to the touch and you can’t burn yourself on them**, while still delivering the same heat (1,500 Watts) as any other space heater.
 

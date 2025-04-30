@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: evaporative-swamp-cooler-hessaire-outdoors
-  image: /wp-content/uploads/2023/01/evaporative-swamp-cooler-hessaire-outdoors.jpg
+  image: /img/evaporative-swamp-cooler-hessaire-outdoors.webp
 date: "2023-01-25T12:06:19+00:00"
 guid: https://heatertips.com/?p=1502
 title: Evaporative Cooler not turning on (7 Fixes)
@@ -98,7 +98,7 @@ Sometimes wall outlets break and stop carrying power.
 
 Luckily, that’s easy to troubleshoot and work around.
 
-![cfgi safety outlet](/wp-content/uploads/2019/12/cfgi-outlet-for-using-space-heater-in-a-bathroom.jpg)
+![cfgi safety outlet](/img/cfgi-outlet-for-using-space-heater-in-a-bathroom.webp)
 
 #### How to test
 
@@ -138,7 +138,7 @@ If your evaporative cooler doesn’t turn on, it might just be a blown fuse of a
 
 Let’s check it together.
 
-![electric safety switch fuse blow](/wp-content/uploads/2019/12/electric-safety-switch-fuse-blow-space-heater.jpg)Check your electric service panels for out-of-place switches.
+![electric safety switch fuse blow](/img/electric-safety-switch-fuse-blow-space-heater.webp)Check your electric service panels for out-of-place switches.
 
 #### How to test
 
@@ -178,7 +178,7 @@ If your evaporative cooler turns on with a full water tank, then it likely has a
 
 Also, check the user manual for whether there’s a warning light indicating a low water level.
 
-![swamp cooler water line](/wp-content/uploads/2023/01/swamp-cooler-water-distribution-line.jpg)In some evaporative coolers, you can connect a water line directly, so there's no need to manually refill a tank
+![swamp cooler water line](/img/swamp-cooler-water-distribution-line.webp)In some evaporative coolers, you can connect a water line directly, so there's no need to manually refill a tank
 
 #### How to fix
 
@@ -238,7 +238,7 @@ A stuck fan, on the other hand, usually is a short circuit, because all of the e
 
 So, an issue in your fan can cause your entire evaporative cooler to not turn on.
 
-![swamp cooler broken fan part](/wp-content/uploads/2023/01/swamp-cooler-broken-part.jpg)A broken part can cause the fan to stop rotating
+![swamp cooler broken fan part](/img/swamp-cooler-broken-part.webp)A broken part can cause the fan to stop rotating
 
 #### How to test
 

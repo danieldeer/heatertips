@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater cost
-  image: /wp-content/uploads/2022/12/infrared-heater-cost.jpg
+  image: /img/infrared-heater-cost.webp
 date: "2022-12-27T09:17:57+00:00"
 guid: https://heatertips.com/?p=1417
 title: How much do Infrared Heaters cost to run?
@@ -226,7 +226,7 @@ You can reduce the heat setting of your infrared heater and it will feel the sam
 
 So, effectively, you can run your infrared heater at lower settings. You don’t need to run it at maximum capacity.
 
-![infrared heater on desk](/wp-content/uploads/2020/01/cheapest-way-to-heat-a-room-infrared-heater.jpg)I run my infrared heater on the lowest setting while it's standing on my desk and feel perfectly warm
+![infrared heater on desk](/img/cheapest-way-to-heat-a-room-infrared-heater.webp)I run my infrared heater on the lowest setting while it's standing on my desk and feel perfectly warm
 
 Some people claim that infrared heaters are up to 40% more efficient than other heaters. However, this is both technically incorrect and, I think, exaggerated.
 
@@ -264,7 +264,7 @@ The most important efficiency advantage of infrared heaters over other types of 
 
 Always place your infrared heater in a way that it faces you. The closer it is to you, the more heat you perceive. This, in turn, means that you can reduce the power settings.
 
-![infrared heater placement right in front of people](/wp-content/uploads/2022/11/infrared-heater-in-front-of-people-placement.jpg)Usually, placing an infrared heater right in front of the area where people are is the most efficient way to heat. Your infrared heater then only covers a part of the room. But this heated part of the room feels very cozy!
+![infrared heater placement right in front of people](/img/infrared-heater-in-front-of-people-placement.webp)Usually, placing an infrared heater right in front of the area where people are is the most efficient way to heat. Your infrared heater then only covers a part of the room. But this heated part of the room feels very cozy!
 
 ### Insulation
 

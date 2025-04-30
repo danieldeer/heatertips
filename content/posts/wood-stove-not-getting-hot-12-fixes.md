@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: wood-stove-fire
-  image: /wp-content/uploads/2022/12/wood-stove-fire.jpg
+  image: /img/wood-stove-fire.webp
 date: "2022-12-25T11:59:25+00:00"
 guid: https://heatertips.com/?p=1402
 title: Wood Stove not getting hot (12 Fixes)
@@ -46,7 +46,7 @@ Open all of your air vents. If your air vents were closed before, and you didnâ€
 
 **How to fix:** Before lighting a fire, always open up all of the air intakes. When your fire burns brightly, you can lower the air intake to force a slower burn.
 
-![](/wp-content/uploads/2022/12/wood-stove-air-intake-valves.jpg)The wood stove in our home has two air intake valves
+![](/img/wood-stove-air-intake-valves.webp)The wood stove in our home has two air intake valves
 
 ### 2\. Airtight room
 
@@ -90,7 +90,7 @@ Also, make sure your wood stove pipe is not clogged! For this, you can use a lar
 
 **How to fix:** Clean all of the air vents with a wire brush. Use a large wire brush for the stove pipe.
 
-![wood stove wire brush](/wp-content/uploads/2022/12/wood-stove-wire-brush.jpg)This thing is a large wire brush with which you can clean wood stove pipes
+![wood stove wire brush](/img/wood-stove-wire-brush.webp)This thing is a large wire brush with which you can clean wood stove pipes
 
 ### 4\. No wood grate
 
@@ -178,7 +178,7 @@ However, if your wood stove has natural stone plates attached to it, which absor
 
 Just be more patient!
 
-![wood stove natural stone](/wp-content/uploads/2022/12/wood-stove-natural-stone.jpg)These natural stones absorb a lot of heat. It takes some time for your wood stove to get them hot
+![wood stove natural stone](/img/wood-stove-natural-stone.webp)These natural stones absorb a lot of heat. It takes some time for your wood stove to get them hot
 
 ### 8\. Stove too large for room
 
@@ -282,7 +282,7 @@ While it is very unlikely that the ash and creosote in your wood stove insulate 
 
 **How to fix:** In any case, clean the inside walls of your wood stove. Also, to prevent dirt buildup in the future, I recommend cleaning the inside walls of your wood stove once every two weeks during the heating season.
 
-![wood stove inner wall](/wp-content/uploads/2022/12/wood-stove-inner-wall.jpg)Make sure that the inner walls of your wood stove are always clean!
+![wood stove inner wall](/img/wood-stove-inner-wall.webp)Make sure that the inner walls of your wood stove are always clean!
 
 ## What to do if your wood stove is still not getting hot?
 

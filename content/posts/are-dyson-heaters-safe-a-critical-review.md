@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: dyson hot cool fans air purifier
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg
+  image: /img/are-dyson-heaters-safe.webp
 date: "2022-01-09T11:45:51+00:00"
 guid: https://heatertips.com/?p=534
 title: Are Dyson Heaters safe? (A Critical Review)

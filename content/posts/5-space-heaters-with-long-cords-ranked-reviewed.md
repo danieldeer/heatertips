@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters with long cords
-  image: /wp-content/uploads/2019/12/space-heaters-with-long-cords.jpg
+  image: /img/space-heaters-with-long-cords.webp
 date: "2019-12-14T12:44:29+00:00"
 guid: https://heatertips.com/?p=178
 tag:
@@ -51,7 +51,7 @@ Here are our 5 top picks:
 - [**Honeywell HCE323V Digital Ceramic Heater** (click here to check price on amazon)](https://www.amazon.com/Honeywell-Digital-Ceramic-Tower-Heater/dp/B00KNBKB64/ref=as_li_ss_tl?ac_md=3-3-c3BhY2UgaGVhdGVyIGhvbmV5d2VsbA==-ac_d_rm&keywords=space+heater&pd_rd_i=B00JLWQT4Y&pd_rd_r=24a90ce9-47ec-4ddf-aa27-800cc6a23ffa&pd_rd_w=qHFtk&pd_rd_wg=IkkXP&pf_rd_p=6d29ef56-fc35-411a-8a8e-7114f01518f7&pf_rd_r=HDQPFNAN66M77WS45QAP&qid=1576317709&th=1&linkCode=ll1&tag=heatertips-20&linkId=51fa86cb2af8b76386cf6ff8ff62f606&language=en_US) \- The Honeywell tower heater is a really cool heater that has a feature I’ve never heard of: A motion sensor that automatically shuts off when an object gets too close. This way it is a very safe heater if you have kids or pets around.  
 And it is our number one candidate for being the space heater with the longest cord. It comes with a 6.5 feet cord, which is the longest I could find. However, that’s only half an inch longer than the other four heaters below.
 
-![honeywell space heaters with long cords](/wp-content/uploads/2019/12/honeywell-space-heater-with-long-cord.jpg)
+![honeywell space heaters with long cords](/img/honeywell-space-heater-with-long-cord.webp)
 
 **The next 4 heaters all have cords of 6ft. length**
 
@@ -67,7 +67,7 @@ It’s also a fuse-friendly heater - meaning it is not likely to blow your fuse 
 
 If you want to increase your flexibility with space heaters and a 6 feet. cord is not long enough, I’d recommend getting this heavy-duty [extension cord (amazon link).](https://www.amazon.com/dp/B001BDY2NG/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=heatertips-20&linkId=a31399a573f07fe8766449d2a2ee2082&language=en_US)
 
-![extension cord to extend the cord of your space heater](/wp-content/uploads/2019/12/extension-cord-for-space-heaters.jpg)
+![extension cord to extend the cord of your space heater](/img/extension-cord-for-space-heaters.webp)
 
 I’ve already written an article about space heaters and extension cords and explained why it might be unsafe. But I talked only about thin, cheap extension cords.
 
@@ -164,7 +164,7 @@ Each time you want to be flexible with a space heater, you should get a propane 
 
 You can even take them with you for camping!
 
-![propane heaters don't need long cords](/wp-content/uploads/2019/12/propane-heaters-dont-need-a-cord.jpg)
+![propane heaters don't need long cords](/img/propane-heaters-dont-need-a-cord.webp)
 
 ## Conclusion - Space Heaters with long cords
 

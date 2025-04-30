@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifiers levoit blueair coway
-  image: /wp-content/uploads/2023/09/air-purifiers-levoit-blueair-coway.jpg
+  image: /img/air-purifiers-levoit-blueair-coway.webp
 date: "2023-09-09T09:10:56+00:00"
 guid: https://heatertips.com/?p=1911
 title: 5 Best Air Purifiers for Small Rooms
@@ -93,7 +93,7 @@ There are two variants: The Core 300 and the Core 300S. The S-variant comes with
 
 Personally, I don’t need those fancy features. So, I decided to get the simpler (and cheaper) Core 300!
 
-![air purifier levoit core thumbs up](/wp-content/uploads/2023/07/air-purifier-levoit-core-thumbs-up.jpg)I love my Levoit Core 300!
+![air purifier levoit core thumbs up](/img/air-purifier-levoit-core-thumbs-up.webp)I love my Levoit Core 300!
 
 ### 2\. Best Compact: Blueair Blue Pure 511
 
@@ -109,7 +109,7 @@ I like in particular that the Blueair Blue Pure air purifier does not have the t
 
 It’s also a nice choice if you value design. The Blueair Blue Pure just looks good.
 
-![blueair blue pure 511 product image](/wp-content/uploads/2023/09/blueair-blue-pure-511-product-image.jpg)
+![blueair blue pure 511 product image](/img/blueair-blue-pure-511-product-image.webp)
 
 ### 3\. Best Quality: Coway Airmega 150
 
@@ -125,7 +125,7 @@ The large Coway Airmega models are, in my opinion, too expensive. But the Coway 
 
 So, if you can invest a bit more, I recommend this air purifier. Otherwise, get either the Levoit or the Blueair air purifier.
 
-![coway airmega 150 indicator light](/wp-content/uploads/2023/09/coway-airmega-150-indicator-light.jpg)The Coway Airmega 150 has the smoothest design and comes with a built-in air quality indicator light. Here, it's blue, indicating good air quality.
+![coway airmega 150 indicator light](/img/coway-airmega-150-indicator-light.webp)The Coway Airmega 150 has the smoothest design and comes with a built-in air quality indicator light. Here, it's blue, indicating good air quality.
 
 ## Best Extra-Small Air Purifiers for Small Rooms
 

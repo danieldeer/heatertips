@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how do convection heaters work 2
-  image: /wp-content/uploads/2020/01/how-do-convection-heaters-work-2.jpg
+  image: /img/how-do-convection-heaters-work-2.webp
 date: "2020-01-21T07:21:19+00:00"
 guid: https://heatertips.com/?p=371
 tag:
@@ -87,7 +87,7 @@ Some heaters produce light. Especially infrared radiant heaters. They usually he
 
 So, all radiant heaters glow.
 
-![an infrared space heater on the floor stairs](/wp-content/uploads/2020/01/space-heater-on-stairs.jpg)
+![an infrared space heater on the floor stairs](/img/space-heater-on-stairs.webp)
 
 In contrast, convection heaters oftentimes don’t. Yes, there are some convection heaters where you can see a glowing hot heating coil. But mostly the heating coil is hidden inside the body of the heater.
 

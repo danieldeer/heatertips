@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared or radiant heater
-  image: /wp-content/uploads/2019/11/infrared-or-radiant-heater.jpg
+  image: /img/infrared-or-radiant-heater.webp
 date: "2019-11-22T11:57:55+00:00"
 guid: https://heatertips.com/?p=35
 tag:
@@ -50,7 +50,7 @@ _**Small and interesting side note:**_
 
 Sunlight contains a broader spectrum of wavelengths, ranging from infrared to ultraviolet (UV). The UV part gives you sunburn. That’s the reason you can’t get a sunburn from your space heater, radiator or in a sauna: The warmth there is pure infrared radiation.
 
-![](/wp-content/uploads/2019/11/spectrum-of-light-infrared-heat.jpg)The range of visible light: From UV (left) to infrared (right)
+![](/img/spectrum-of-light-infrared-heat.webp)The range of visible light: From UV (left) to infrared (right)
 
 **The warmth you perceive is always infrared radiation.** It doesn’t matter where the heat comes from. Whether it’s from an infrared heater or a ceramic heater doesn’t matter.
 
@@ -77,7 +77,7 @@ This is useful when you have a big room (a garage) and you want to be working ju
 
 **Design**\- This is just my personal opinion, but I think radiant heaters look really really good. You can fit their design anywhere. It gives your room a bit of a manly vibe because you have these glowing orange-red radiator parts.
 
-![infrared and radiant heaters are the same](/wp-content/uploads/2019/11/infrared-heater-is-the-same-as-radiant-heater.jpg)
+![infrared and radiant heaters are the same](/img/infrared-heater-is-the-same-as-radiant-heater.webp)
 
 ## Disadvantages of infrared and radiant heaters
 

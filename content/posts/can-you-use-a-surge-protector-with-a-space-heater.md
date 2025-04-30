@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: surge protector space heater
-  image: /wp-content/uploads/2022/12/surge-protector-space-heater.jpg
+  image: /img/surge-protector-space-heater.webp
 date: "2022-12-16T15:33:30+00:00"
 guid: https://heatertips.com/?p=1343
 title: Can you use a Surge Protector with a Space Heater?

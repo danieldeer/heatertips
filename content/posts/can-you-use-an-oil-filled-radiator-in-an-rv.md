@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: rv camper mobile home
-  image: /wp-content/uploads/2022/12/rv-camper-mobile-home.jpg
+  image: /img/rv-camper-mobile-home.webp
 date: "2022-12-07T10:15:16+00:00"
 guid: https://heatertips.com/?p=1232
 title: Can you use an Oil-filled Radiator in an RV?
@@ -42,7 +42,7 @@ So, I’d estimate the real cost in the upcoming months to be closer to 35 cents
 
 In an RV, you usually don’t need to blast your space heater on full power, except during wintertime. So, the average power consumption of a space heater would be closer to 1,000W, reducing the hourly cost to 20 cents.
 
-![oil-filled radiator](/wp-content/uploads/2022/11/how-long-do-oil-filled-radiators-last.jpg)
+![oil-filled radiator](/img/how-long-do-oil-filled-radiators-last.webp)
 
 ## Can RVs provide enough electricity for an oil-filled radiator?
 

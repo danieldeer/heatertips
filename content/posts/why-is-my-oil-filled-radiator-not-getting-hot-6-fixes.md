@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: oil-filled radiator temperature measurement
-  image: /wp-content/uploads/2022/12/oil-filled-radiator-temperature-measurement.jpg
+  image: /img/oil-filled-radiator-temperature-measurement.webp
 date: "2022-12-03T09:47:06+00:00"
 guid: https://heatertips.com/?p=1210
 title: Why is my Oil-filled Radiator not getting hot? (6 Fixes)
@@ -160,10 +160,10 @@ Here are the highlights of how I experimented with my oil-filled heater:
 
 The temperature immediately after turning it on:
 
-![temperature measurement oil-filled radiator](/wp-content/uploads/2022/12/temperature-reading-oil-filled-radiator.jpg)
+![temperature measurement oil-filled radiator](/img/temperature-reading-oil-filled-radiator.webp)
 
 Temperature after 5 minutes of running:
 
-![temperature measurement oil-filled radiator after 5 minutes](/wp-content/uploads/2022/12/temperature-reading-oil-filled-radiator-after-5-minutes.jpg)
+![temperature measurement oil-filled radiator after 5 minutes](/img/temperature-reading-oil-filled-radiator-after-5-minutes.webp)
 
 So, if your oil-filled heater is not getting hot like mine, there must be an issue. I've mentioned every possible issue in this article, along with troubleshooting and fixing guides.

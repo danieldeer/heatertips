@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: e1 error code electric heater
-  image: /wp-content/uploads/2023/10/e1-error-code-electric-heater.jpg
+  image: /img/e1-error-code-electric-heater.webp
 date: "2023-10-09T10:12:08+00:00"
 guid: https://heatertips.com/?p=2059
 title: 'Electric Heater E1 Error: How to Fix It'
@@ -64,7 +64,7 @@ My [favorite infrared heater](/recommended-products/best-infrared-heater/) is th
 
 It can reliably heat even large living rooms during the winter. So, it's a great backup heater to have anyways!
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)The Dr. Infrared DR-998 is a great heater that you can rely on when your main heater fails!
+![](/img/infrared-heater-dr-infrared.webp)The Dr. Infrared DR-998 is a great heater that you can rely on when your main heater fails!
 
 If the heater that shows the E1 error is a larger system such as a domestic heater or a water boiler, I recommend trying to check the issue yourself first. Quite possibly, it's simpler to solve than you think with the troubleshooting steps below.
 
@@ -106,7 +106,7 @@ To do that, you can first pull off the thickest layers of dust with your bare ha
 
 Once your heater is dust-free, turn it on and see if the E1 error shows. Likely, it is gone.
 
-![lasko ceramic heater disassembled clogged with dust](/wp-content/uploads/2023/10/lasko-ceramic-heater-disassembled-clogged-with-dust.jpg)Here's what a clogged space heater looks like. As you can see, the heating element is fully covered under a thick layer of dust.
+![lasko ceramic heater disassembled clogged with dust](/img/lasko-ceramic-heater-disassembled-clogged-with-dust.webp)Here's what a clogged space heater looks like. As you can see, the heating element is fully covered under a thick layer of dust.
 
 If your heater still shows the E1, continue with the next troubleshooting steps.
 
@@ -142,7 +142,7 @@ In this case, check the temperature sensor manually. Open up the heater's back s
 
 Here’s an image for reference:
 
-![electric thermostat temperature sensor](/wp-content/uploads/2023/10/electric-thermostat-temperature-sensor.jpg)A thermostat temperature sensor. In smaller heaters such as electric space heaters, they might have smaller sensor heads. But in general, it's a metal head piece connected via wire to the rest of the heater.
+![electric thermostat temperature sensor](/img/electric-thermostat-temperature-sensor.webp)A thermostat temperature sensor. In smaller heaters such as electric space heaters, they might have smaller sensor heads. But in general, it's a metal head piece connected via wire to the rest of the heater.
 
 **Ensure the sensor wires are properly connected at both ends.**
 
@@ -190,7 +190,7 @@ For the replacement, you need a soldering iron.
 
 If you can’t replace a torn-off wire yourself, hire someone or ask a knowledgeable friend or family member to do it for you.
 
-![electric circuitry connectors](/wp-content/uploads/2023/09/electric-circuitry-connectors.jpg)Make sure you check that connectors like these are connected firmly!
+![electric circuitry connectors](/img/electric-circuitry-connectors.webp)Make sure you check that connectors like these are connected firmly!
 
 7\. Inspect Other Components:
 
@@ -239,7 +239,7 @@ Knowledge is power, but it can be dangerous as well.
 
 **For the following hacks, I assume you know your heater _very_ well.**
 
-![e1 error code electric water boiler](/wp-content/uploads/2023/10/e1-error-code-electric-water-boiler.jpg)Especially when you work with a larger-scale electric heater such as a water boiler (as in the image above), you _have_ to know what you're doing. Otherwise, hire a technician. There's just too much that can go wrong.
+![e1 error code electric water boiler](/img/e1-error-code-electric-water-boiler.webp)Especially when you work with a larger-scale electric heater such as a water boiler (as in the image above), you _have_ to know what you're doing. Otherwise, hire a technician. There's just too much that can go wrong.
 
 Quite recently, I almost blew up my water boiler because I tried to fix something myself that I wasn't very familiar with. It ended up in a pressure buildup and a blown pipe.
 

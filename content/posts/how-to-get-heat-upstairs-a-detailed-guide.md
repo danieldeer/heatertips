@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to get heat upstairs
-  image: /wp-content/uploads/2020/01/how-to-get-heat-upstairs.jpg
+  image: /img/how-to-get-heat-upstairs.webp
 date: "2020-01-12T12:04:56+00:00"
 guid: https://heatertips.com/?p=338
 tag:
@@ -73,7 +73,7 @@ Keep in mind that you still need to have a practical placement of the fan. For e
 
 For the best ventilation (and heat transfer) possible, it is best if you leave all doors open which connect the downstairs floor with the upstairs floor. The hot air should be able to freely move between stories.
 
-![an image of a fan ventilator](/wp-content/uploads/2020/01/regular-fan.jpg)
+![an image of a fan ventilator](/img/regular-fan.webp)
 
 #### Even Better: Use two fans
 
@@ -153,7 +153,7 @@ Generally, I recommend space heaters over adding or extending your central heati
 
 I’ve been into the space heater topics for several months now. And during all that research I found the most reliable, durable and most affordable space heater models for you. If you are curious, here are the best space heater models you can find: [**Recommended Products** (click to see my favorite heaters)](/recommended-products/).
 
-![an infrared space heater on the floor stairs](/wp-content/uploads/2020/01/space-heater-on-stairs.jpg)
+![an infrared space heater on the floor stairs](/img/space-heater-on-stairs.webp)
 
 ## Space Heaters: Electric vs Propane for Heating Upstairs
 

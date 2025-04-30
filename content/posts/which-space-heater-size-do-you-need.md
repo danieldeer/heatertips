@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: which-space-heater-size-do-you-need
-  image: /wp-content/uploads/2022/01/which-space-heater-size-do-you-need.jpg
+  image: /img/which-space-heater-size-do-you-need.webp
 date: "2022-01-31T10:06:10+00:00"
 guid: https://heatertips.com/?p=555
 title: Which Space Heater Size do you need?

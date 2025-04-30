@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared space heater for room with high ceiling
-  image: /wp-content/uploads/2023/08/infrared-space-heater-for-room-with-high-ceiling.jpg
+  image: /img/infrared-space-heater-for-room-with-high-ceiling.webp
 date: "2023-08-22T07:56:43+00:00"
 guid: https://heatertips.com/?p=1810
 title: Best Space Heaters for Rooms with High Ceilings
@@ -123,7 +123,7 @@ It currently has well over 4,000 positive reviews on amazon.
 
 It’s the #1 wall-mounted infrared heater. My recommendation for most people!
 
-![wall-mounted infrared heater](/wp-content/uploads/2023/08/wall-mounted-infrared-heater.jpg)Dr Infrared DR-238
+![wall-mounted infrared heater](/img/wall-mounted-infrared-heater.webp)Dr Infrared DR-238
 
 ### Hanging infrared heater
 

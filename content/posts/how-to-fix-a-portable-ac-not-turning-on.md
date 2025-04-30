@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: how to fix portable ac not turning on
-  image: /wp-content/uploads/2022/11/how-to-fix-portable-ac-not-turning-on.jpg
+  image: /img/how-to-fix-portable-ac-not-turning-on.webp
 date: "2022-11-05T11:04:33+00:00"
 guid: https://heatertips.com/?p=1007
 title: How to fix a Portable AC not turning on
@@ -54,7 +54,7 @@ On this power module, see if the fuse is blown. If you can’t find a fuse, look
 - **How to fix:** Replace the broken fuse. Usually, the fuse sits in a push-in system. In that case, you can just take it out. If the fuse is soldered in, you’ll need a soldering iron and solder wick to remove the fuse.  
 Check the amperage rating that’s engraved on the fuse and buy an identically rated replacement. Put in the new fuse to complete the fix.
 
-![](/wp-content/uploads/2022/11/portable-ac-power-module-300x234.jpg)
+![](/img/portable-ac-power-module.webp)
 
 ### \#4 Clogged air filters and filled drain pan
 

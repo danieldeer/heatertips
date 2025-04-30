@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-use-a-space-heater-for-a-sauna
-  image: /wp-content/uploads/2022/11/can-you-use-a-space-heater-for-a-sauna.jpg
+  image: /img/can-you-use-a-space-heater-for-a-sauna.webp
 date: "2022-11-25T14:52:31+00:00"
 guid: https://heatertips.com/?p=1120
 title: Can you use a Space Heater for a Sauna?

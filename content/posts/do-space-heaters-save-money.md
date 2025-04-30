@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: space heaters electricity cost money
-  image: /wp-content/uploads/2022/10/space-heaters-electricity-cost-money.jpg
+  image: /img/space-heaters-electricity-cost-money.webp
 date: "2022-10-18T16:00:51+00:00"
 guid: https://heatertips.com/?p=763
 title: Do Space Heaters Save Money?
@@ -34,7 +34,7 @@ It does not really matter which of those resources you use in your home. Since t
 
 On your central heating system, you can set target temperatures for your home. The higher the temperature you set, the higher the resulting heating bill.
 
-![turn thermostat down to save space heater electricity cost](/wp-content/uploads/2019/12/turn-thermostat-down-to-save-space-heater-electricity-cost-300x200.jpg)
+![turn thermostat down to save space heater electricity cost](/img/turn-thermostat-down-to-save-space-heater-electricity-cost.webp)
 
 ## When does Central Heating make sense?
 
@@ -106,7 +106,7 @@ In a real environment, however, rooms are not perfectly insulated and heat leave
 
 Therefore, I assume the WWF estimate of 5.6%, even though it is double the theoretical value we calculated.
 
-![central gas heating system](/wp-content/uploads/2022/10/central-gas-heating-system.jpg)To save money with space heaters, you _have_ to reduce central heat. Otherwise, you just add space heater expenses on top of central heating expenses!
+![central gas heating system](/img/central-gas-heating-system.webp)To save money with space heaters, you _have_ to reduce central heat. Otherwise, you just add space heater expenses on top of central heating expenses!
 
 #### Example calculation: How much can you save by reducing central heating by 5 degrees?
 
@@ -120,7 +120,7 @@ You can calculate this yourself using this formula:
 
 Inflation drives prices quickly, so it’s very hard to find up-to-date numbers.
 
-According to a [National Energy Assistance Director’s Association](https://neada.org/wp-content/uploads/2022/09/winter2022-23PR.pdf) estimate, the average US family pays $1,202 on heating bills per year.
+According to a [National Energy Assistance Director’s Association](https://neada.org/img/winter2022-23PR.pdf) estimate, the average US family pays $1,202 on heating bills per year.
 
 This average includes different heating resources such as natural gas, oil, electricity, or propane.
 
@@ -188,7 +188,7 @@ This means **you can only _really_ save money using space heaters if your home�
 
 If your central heat settings are below that, then the savings are not sufficient for running a space heater.
 
-![infrared heater cost](/wp-content/uploads/2022/12/infrared-heater-cost.jpg)
+![infrared heater cost](/img/infrared-heater-cost.webp)
 
 ## Other Highly Effective Ways to Save Heating Costs
 

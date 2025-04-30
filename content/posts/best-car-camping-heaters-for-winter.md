@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater buddy propane heater on car seat
-  image: /wp-content/uploads/2023/11/mr-heater-buddy-propane-heater-on-car-seat.jpg
+  image: /img/mr-heater-buddy-propane-heater-on-car-seat.webp
 date: "2023-11-19T09:19:20+00:00"
 guid: https://heatertips.com/?p=2162
 title: Best Car Camping Heaters for Winter
@@ -23,7 +23,7 @@ At least that was my thought when I spent a night out in the mountains at 15°F 
 
 I woke up with a nasty cold the next morning, having shivered through a long night. And that was just the start of a long day of trying to climb a snowy peak. We eventually gave up half an hour of ice climbing away from the peak due to our energy levels fading.
 
-![car camping in winter alps](/wp-content/uploads/2023/11/car-camping-in-winter-alps.jpg)Here's a blurry picture from the coldest morning of my life, car camping mid-winter in the mountains.
+![car camping in winter alps](/img/car-camping-in-winter-alps.webp)Here's a blurry picture from the coldest morning of my life, car camping mid-winter in the mountains.
 
 The day would have looked _completely_ different had I slept in a car even a tiny bit warm.
 
@@ -47,7 +47,7 @@ Let’s have a look at the best heaters for winter car camping:
 
 _Cheap, adjustable, small, simple & lightweight._ The [Stansport Portable Propane Heater](https://www.amazon.com/Stansport-Portable-Outdoor-Infrared-Propane/dp/B012FIIZ1U?crid=2GUBY2ONO4NVR&keywords=portable%2Bpropane%2Bheater&qid=1700210603&sprefix=portable%2Bpropane%2Bheate%2Caps%2C177&sr=8-25&th=1&linkCode=ll1&tag=heatertips-20&linkId=9413e87ede4f4f4c32ecf146aae12f85&language=en_US&ref_=as_li_ss_tl) is the perfect car camping heater in many regards.
 
-![stansport portable propane heater](/wp-content/uploads/2023/11/stansport-portable-propane-heater.jpg)
+![stansport portable propane heater](/img/stansport-portable-propane-heater.webp)
 
 Actually, I wanted to place the Mr. Heater Little Buddy (from the next section) on rank #1 first. But then I discovered this Stansport propane heater. And it’s much better. By a large margin.
 
@@ -77,7 +77,7 @@ The only downside I can think of is that this heater is not great for heating la
 
 The [Mr. Heater Little Buddy](https://www.amazon.com/Mr-Heater-F215100-3800-BTU-Propane/dp/B001CFRF7I?crid=2MR7VJVO96NW2&keywords=mr+heater+buddy&qid=1700124927&sprefix=mr+heater+bud%2Caps%2C167&sr=8-5&linkCode=ll1&tag=heatertips-20&linkId=3250eeb390cdbdd55fbccc31717abefc&language=en_US&ref_=as_li_ss_tl) is a small portable propane heater. With a heat output of 3,800 BTU/h, it outputs a similar amount of heat as an electric space heater on a medium heat setting.
 
-![mr heater little buddy heater](/wp-content/uploads/2023/11/mr-heater-little-buddy-heater.jpg)
+![mr heater little buddy heater](/img/mr-heater-little-buddy-heater.webp)
 
 In freezing winter, the Mr. Heater Little Buddy won’t be able to turn your car into a sauna. But it will definitely keep you comfortable!
 
@@ -103,7 +103,7 @@ I’d get the Mr. Heater Little Buddy for winter nights in a moderately sized ca
 
 The Mr. Heater Buddy is a larger portable propane heater that provides heat of up to 9,000 BTU/h. So, it is more than twice as strong as the other recommended heaters.
 
-![mr heater buddy propane heater next to car](/wp-content/uploads/2023/11/mr-heater-buddy-propane-heater-next-to-car.jpg)
+![mr heater buddy propane heater next to car](/img/mr-heater-buddy-propane-heater-next-to-car.webp)
 
 Its strength makes it perfect for large cars / camper vans and even RVs. On the lowest setting, the Mr. Heater Buddy outputs 4,000 BTU/h. So, you can run it on a similar heat setting as the Mr. Heater _Little_ Buddy.
 
@@ -145,7 +145,7 @@ But using a hot water bottle is incredibly energy-efficient. If you want to save
 
 Lastly, I want to also mention diesel heaters. Diesel heaters run on diesel and usually don’t have their own tank. So, you either have to get a separate tank to supply your diesel heater, or you have to somehow drill a hole in your tank and connect your diesel heater to it.
 
-![diesel-heater-for-van-camper-rv](/wp-content/uploads/2023/11/diesel-heater-for-van-camper-rv.jpg)
+![diesel-heater-for-van-camper-rv](/img/diesel-heater-for-van-camper-rv.webp)
 
 Some camper vans have a separate diesel tank for diesel heaters. But cars usually don’t have that.
 

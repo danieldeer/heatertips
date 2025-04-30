@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: does radiant floor heating add value to your home
-  image: /wp-content/uploads/2022/10/does-radiant-floor-heating-add-value-to-your-home.jpg
+  image: /img/does-radiant-floor-heating-add-value-to-your-home.webp
 date: "2022-10-29T08:34:17+00:00"
 guid: https://heatertips.com/?p=840
 title: Does Radiant Floor Heating Add Value to Your Home?

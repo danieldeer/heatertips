@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: diesel heater amps volts multimeter measurement
-  image: /wp-content/uploads/2023/12/diesel-heater-amps-volts-multimeter-measurement.jpg
+  image: /img/diesel-heater-amps-volts-multimeter-measurement.webp
 date: "2023-12-09T15:10:30+00:00"
 guid: https://heatertips.com/?p=2277
 title: How many Amps does a Diesel Heater use?
@@ -42,7 +42,7 @@ Once the operating temperature is reached, the diesel heater senses that and shu
 
 The startup phase, in which the glow plug is turned on, usually takes 3-4 minutes. In very cold conditions it can be up to 5 minutes.
 
-![diesel heater glow plug glowing](/wp-content/uploads/2023/12/diesel-heater-glow-plug-glowing.jpg)The glow plug is responsible for the most current draw.
+![diesel heater glow plug glowing](/img/diesel-heater-glow-plug-glowing.webp)The glow plug is responsible for the most current draw.
 
 ### While Heating
 

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-put-space-heater-on-carpet
-  image: /wp-content/uploads/2022/01/can-you-put-space-heater-on-carpet.jpg
+  image: /img/can-you-put-space-heater-on-carpet.webp
 date: "2022-01-22T14:00:12+00:00"
 guid: https://heatertips.com/?p=544
 title: Can you put a Space Heater on Carpet?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to install a wood stove in your mobile home
-  image: /wp-content/uploads/2022/11/how-to-install-a-wood-stove-in-your-mobile-home.jpg
+  image: /img/how-to-install-a-wood-stove-in-your-mobile-home.webp
 date: "2022-11-08T15:15:44+00:00"
 guid: https://heatertips.com/?p=1032
 title: How to Install a Wood Stove in a Mobile Home

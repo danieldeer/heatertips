@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg
+  image: /img/are-dyson-heaters-safe.webp
 date: "2022-12-20T18:35:19+00:00"
 guid: https://heatertips.com/?p=1390
 title: Dyson Fan not Rotating (7 Fixes)
@@ -38,7 +38,7 @@ You must have skipped removing the tape around the base (which prevents your fan
 
 **Using the oscillation function on your Dyson fan while there is tape on the base body split section can damage the internal gear.** So, make sure to remove the tap before turning it on.
 
-![dyson fan split section](/wp-content/uploads/2022/12/dyson-fan-split-section.jpg)New Dyson heaters have tape on this split section
+![dyson fan split section](/img/dyson-fan-split-section.webp)New Dyson heaters have tape on this split section
 
 ### 2\. Fan is not assembled correctly
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: 5-ways-to-heat-a-garage-without-insulation
-  image: /wp-content/uploads/2019/12/5-ways-to-heat-a-garage-without-insulation.jpg
+  image: /img/5-ways-to-heat-a-garage-without-insulation.webp
 date: "2019-12-06T10:33:02+00:00"
 guid: https://heatertips.com/?p=149
 tag:
@@ -85,7 +85,7 @@ Torpedo propane heaters can heat your uninsulated garage incredibly well. They f
 
 And they look pretty cool. To me, **a torpedo heater is the ultimate man’s toy.**
 
-![propane torpedo heater to heat a garage without insulation](/wp-content/uploads/2019/12/propane-torpedo-heater-for-garage-without-insulation.jpg)credit: [Becky Stern](https://flickr.com/photos/bekathwia/6755067737/)
+![propane torpedo heater to heat a garage without insulation](/img/propane-torpedo-heater-for-garage-without-insulation.webp)credit: [Becky Stern](https://flickr.com/photos/bekathwia/6755067737/)
 
 It’s hot, dangerous, and blasts fire.
 
@@ -142,7 +142,7 @@ Here’s my recommendation:
 
 - [Mr. Heater F274830 MH18BRV Big Buddy Grey Indoor-Safe Portable RV Propane Heater (click to check the price on amazon)](https://www.amazon.com/Mr-Heater-F274830-Indoor-Safe-Portable/dp/B01DD6C4TC/ref=as_li_ss_tl?crid=N0CY2RLN14ZG&keywords=indoor+propane+heater&qid=1575624070&sprefix=indoor+propane,aps,249&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVMTBBQlM0OE40TTImZW5jcnlwdGVkSWQ9QTA2OTQwMjIxVlg4VFlSV1YwSkVMJmVuY3J5cHRlZEFkSWQ9QTAyMzg3NjZZM05WWVFKWTVIMVkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&linkCode=ll1&tag=heatertips-20&linkId=50b36ee72634d834f93d505bf3182fa0&language=en_US)
 
-![propanhe heater by mr. heater to heat a garage without insulation](/wp-content/uploads/2019/12/propane-heater-to-heat-a-garage-without-insulation.jpg)
+![propanhe heater by mr. heater to heat a garage without insulation](/img/propane-heater-to-heat-a-garage-without-insulation.webp)
 
 The best thing about the Mr. Heater propane heater is that it is very safe to run indoors. It has automatic tip-over protection for example.
 

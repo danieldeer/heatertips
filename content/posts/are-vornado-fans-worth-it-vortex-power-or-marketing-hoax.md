@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: vornado floor fans different sizes
-  image: /wp-content/uploads/2023/08/vornado-floor-fans-different-sizes.jpg
+  image: /img/vornado-floor-fans-different-sizes.webp
 date: "2023-08-28T09:23:17+00:00"
 guid: https://heatertips.com/?p=1837
 title: Are Vornado Fans Worth It? (Vortex Power or Marketing Hoax?)
@@ -41,7 +41,7 @@ That’s impossible.
 
 As an engineer, I can stand that fact. Let me do it better! So, let’s have a look. A _real_ look.
 
-![vornado fan models](/wp-content/uploads/2023/08/vornado-fan-models.png)Vornado offers tons of different fan models, from floor fans to pedestal fans. We'll check the basic working principles and marketing claims of all of them since they all work exactly the same!
+![vornado fan models](/img/vornado-fan-models.webp)Vornado offers tons of different fan models, from floor fans to pedestal fans. We'll check the basic working principles and marketing claims of all of them since they all work exactly the same!
 
 ## What’s so special about Vornado fans?
 
@@ -94,7 +94,7 @@ To be fair, the Dreo fan is a smart fan with smart home integration. So, it spen
 
 Still, if we look at energy efficiency alone, Vornado fans are indeed good.
 
-![vornado fan vortex airflow](/wp-content/uploads/2023/08/vornado-fan-vortex-airflow.png)The vortex airflow a Vornado fan creates. In practice, the airflow is never a perfect vortex (as we'll see later). But the idea is great.
+![vornado fan vortex airflow](/img/vornado-fan-vortex-airflow.webp)The vortex airflow a Vornado fan creates. In practice, the airflow is never a perfect vortex (as we'll see later). But the idea is great.
 
 ### Do Vornado fans cool better than regular fans? (Perceived efficiency)
 
@@ -157,7 +157,7 @@ While with a vortex airflow, you might be able to reach distant pockets of hot o
 
 **Vortex airflow is a nice feature, but usually, you don’t need it.**
 
-![vornado fan with box](/wp-content/uploads/2023/08/vornado-fan-with-box.jpg)
+![vornado fan with box](/img/vornado-fan-with-box.webp)
 
 ## Cooling power: Do Vornado fans really replace ACs?
 
@@ -235,7 +235,7 @@ My favorite Vornado floor fan is the [**Vornado 660** (click here to view it on 
 - **Nicole M**: “They really do cool down my 2500 square foot home about 15 degrees if not more…This is not a ‘fan,’ it moves the air around my home.”
 - **Steve**: “THIS FAN IS A GAME CHANGER! It’s 103° outside right now…74° in my MBR!!! INCREDIBLE!”
 
-![vornado 660 product image](/wp-content/uploads/2023/08/vornado-660-product-image.jpg)The Vornado 660 floor fan
+![vornado 660 product image](/img/vornado-660-product-image.webp)The Vornado 660 floor fan
 
 The Vornado 660 is the best allrounder Vornado fan. It can cool _any_ room, no matter how large it is.
 
@@ -251,7 +251,7 @@ Because it is a [pedestal fan](/are-tower-fans-better-than-pedestal-fans/) (the 
 
 So, if a corner in your room is free &  you can afford it, I highly recommend getting the Vornado 783.
 
-![vornado pedestal fan](/wp-content/uploads/2023/08/vornado-pedestal-fan.jpg)
+![vornado pedestal fan](/img/vornado-pedestal-fan.webp)
 
 Here are some reviews:
 

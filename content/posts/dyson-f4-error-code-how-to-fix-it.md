@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson-f4-error-code
-  image: /wp-content/uploads/2023/11/dyson-f4-error-code.jpg
+  image: /img/dyson-f4-error-code.webp
 date: "2023-11-26T13:39:49+00:00"
 guid: https://heatertips.com/?p=2212
 title: 'Dyson F4 Error Code: How To Fix It'
@@ -28,7 +28,7 @@ So, it could be any of these:
 1. **Sensor or Electronic Control Issues**: This involves faulty readings from sensors or glitches in the device’s electronic control system.
 1. **Mechanical Misalignments**: Post-maintenance, internal components like blades or filters might be misaligned or improperly installed.
 
-![dyson heater energy efficiency](/wp-content/uploads/2020/01/dyson-heater-efficiency.jpg)
+![dyson heater energy efficiency](/img/dyson-heater-efficiency.webp)
 
 ## Initial Troubleshooting Steps
 
@@ -50,7 +50,7 @@ If the F4 error persists, consider these potential causes and solutions:
 1. **Mechanical Misalignments or Blockages**: Realign any misaligned components, especially after cleaning or maintenance, and remove any blockages in air paths or moving parts.
 1. **Issues Post-Cleaning**: Ensure the device is completely dry before reassembling and turning it back on after cleaning. If water has entered electrical areas, it’s safest to seek professional help.
 
-![dyson hot cool dust in internal components](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)Check the internals of your Dyson fan for dust accumulation!
+![dyson hot cool dust in internal components](/img/dyson-hot-cool-heater-dust-internal-components.webp)Check the internals of your Dyson fan for dust accumulation!
 
 ## Preventative Maintenance
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater front view
-  image: /wp-content/uploads/2023/08/infrared-heater-front-view.webp
+  image: /img/infrared-heater-front-view.webp
 date: "2023-08-12T10:00:12+00:00"
 guid: https://heatertips.com/?p=1757
 title: 'Ceramic vs Infrared Heater: Which is more energy efficient?'
@@ -51,7 +51,7 @@ But, of course, this is heatertips.com, the most authentic and honest home heati
 
 So, let’s have a very close look at both ceramic heaters and infrared heaters. Let me show you exactly how ceramic heaters and infrared heaters differ so you understand _why_ you should rather get the infrared heater.
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)The Dr Infrared heater is my all-time favorite infrared heater!
+![](/img/infrared-heater-dr-infrared.webp)The Dr Infrared heater is my all-time favorite infrared heater!
 
 ## Comparison of ceramic and infrared heaters
 
@@ -142,7 +142,7 @@ Just like a hair dryer, ceramic heaters blow air over a ceramic heating element.
 
 Since ceramic heaters emit a stream of hot air, **the heat coming from a ceramic heater is very dry. It dries out your skin, hair, and plants.**
 
-![ceramic space heater back side](/wp-content/uploads/2023/08/ceramic-space-heater-back-side.webp)Looking at this ceramic heater from the back side, you can see the built-in fan.
+![ceramic space heater back side](/img/ceramic-space-heater-back-side.webp)Looking at this ceramic heater from the back side, you can see the built-in fan.
 
 Dry heat is not necessarily bad! Especially, if you live in a humid environment, dry air sucks away superfluous moisture from your home.
 
@@ -194,7 +194,7 @@ So, **even though an infrared heater emits directional & immediate heat rays, it
 
 In fact, when I hold my hand above my infrared heater, [I feel hot air rising](/blue-flame-vs-infrared-heater/). That’s why it has hot-air escape slits on top.
 
-![infrared heater hovering hand](/wp-content/uploads/2023/08/infrared-heater-hovering-hand.webp)
+![infrared heater hovering hand](/img/infrared-heater-hovering-hand.webp)
 
 ## How to optimize a ceramic vs infrared heater’s heating efficiency
 
@@ -310,7 +310,7 @@ And, in most cases, with an infrared heater, you have better options to maximize
 
 Infrared radiation just feels warm. There’s no need to trap heat.
 
-![turn thermostat down to save space heater electricity cost](/wp-content/uploads/2019/12/turn-thermostat-down-to-save-space-heater-electricity-cost.jpg)
+![turn thermostat down to save space heater electricity cost](/img/turn-thermostat-down-to-save-space-heater-electricity-cost.webp)
 
 ## Are ceramic heaters or infrared heaters better for saving energy?
 

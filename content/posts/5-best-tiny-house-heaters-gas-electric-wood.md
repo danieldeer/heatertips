@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyna-glo propane heater on wall
-  image: /wp-content/uploads/2023/11/dyna-glo-propane-heater-on-wall.jpg
+  image: /img/dyna-glo-propane-heater-on-wall.webp
 date: "2023-11-02T09:50:15+00:00"
 guid: https://heatertips.com/?p=2108
 title: 5 Best Tiny House Heaters (Gas, Electric, Wood)
@@ -51,7 +51,7 @@ With a heating power of 30,000 BTU/h, the Dyna-Glo heater can _easily_ keep your
 
 Actually, this unit is designed for up to 1,000 sq.ft. living spaces. So, it can heat spaces larger than the average tiny house (< 400 - 600 sq.ft.). But that’s an advantage: The increased heating power makes up for a lack of insulation.
 
-![dyna-glo natural gas propane heater ventless wall-mounted](/wp-content/uploads/2023/02/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.jpg)Dyna-Glo heaters output a lot of heat and are very cost-effective! Wall mounted propane heaters are the best pick for tiny houses.
+![dyna-glo natural gas propane heater ventless wall-mounted](/img/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.webp)Dyna-Glo heaters output a lot of heat and are very cost-effective! Wall mounted propane heaters are the best pick for tiny houses.
 
 And, of course, you can always adapt the heat setting using the heat knob on the heater. You can pick one of 5 heat output settings.
 
@@ -91,7 +91,7 @@ You can learn more about how infrared heaters work [here](/do-infrared-heaters-h
 
 The Dr. Infrared infrared heater requires no setup and no installation. All you need is a wall outlet to power it from.
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)The Dr. Infrared DR-998 is one of my favorite infrared heaters.
+![](/img/infrared-heater-dr-infrared.webp)The Dr. Infrared DR-998 is one of my favorite infrared heaters.
 
 Also, the heat an infrared heater outputs is just as dry as that of a wood stove. Which is an advantage in humid climates.
 
@@ -131,7 +131,7 @@ First and foremost, I hate their prices. Many Dyson Hot+Cool models are $500 and
 
 But I _love_ the value Dyson packs into their heaters. With the Dyson Hot+Cool, you not only get a 2,000 Watts heater, but also a fan with an integrated air purifier, and detailed air quality and temperature monitoring.
 
-![dyson hot cool fans air purifier](/wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg)Dyson heaters look nice and purify the air to ensure a smell-free home.
+![dyson hot cool fans air purifier](/img/are-dyson-heaters-safe.webp)Dyson heaters look nice and purify the air to ensure a smell-free home.
 
 And it’s not like Dyson just jumbles up features and creates a half-baked product. Dyson Hot+Cool fans are fundamentally good heaters, good air purifiers (with the [best air quality monitoring](/are-dyson-air-purifiers-worth-the-money/) out there), and good fans.
 

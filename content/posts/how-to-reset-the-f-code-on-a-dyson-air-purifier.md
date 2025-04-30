@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson air purifier F code
-  image: /wp-content/uploads/2023/10/dyson-air-purifier-F-code.jpg
+  image: /img/dyson-air-purifier-F-code.webp
 date: "2023-10-12T08:23:29+00:00"
 guid: https://heatertips.com/?p=2066
 title: How to Reset the “F” Code On a Dyson Air Purifier
@@ -142,7 +142,7 @@ I recommend the following replacement remote controls:
 
 With the replacement remote, you should be able to reset the “F” code by holding the power button and waiting for the countdown animation to disappear.
 
-![dyson air purifier fan replacement remote control](/wp-content/uploads/2023/10/dyson-air-purifier-fan-replacement-remote-control-1024x375.jpg)Oftentimes replacement remotes don't look as nice as the original Dyson remotes. But they get the job done and are cheaper than originals.
+![dyson air purifier fan replacement remote control](/img/dyson-air-purifier-fan-replacement-remote-control.webp)Oftentimes replacement remotes don't look as nice as the original Dyson remotes. But they get the job done and are cheaper than originals.
 
 ## Conclusion
 

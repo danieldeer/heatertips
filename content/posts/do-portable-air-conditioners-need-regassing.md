@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: do portable air conditioners need regassing
-  image: /wp-content/uploads/2022/08/do-portable-air-conditioners-need-regassing.jpg
+  image: /img/do-portable-air-conditioners-need-regassing.webp
 date: "2022-08-22T06:45:00+00:00"
 guid: https://heatertips.com/?p=605
 title: Do Portable Air Conditioners need Regassing?
@@ -67,7 +67,7 @@ I recommend you get these [**AC cleaning brushes for air filters and coil**(clic
 
 Also, to get all the dirt, grease, and oil off your coil you should invest in [**this evaporator coil cleaning foam** (click to view it on amazon)](https://www.amazon.com/Nu-Calgon-4171-75-Rinse-Evaporator-Cleaner/dp/B00DM8KQ3I?&linkCode=ll1&tag=heatertips-20&linkId=706f11397d621f8fbf3354ef557be55f&language=en_US&ref_=as_li_ss_tl).
 
-![](/wp-content/uploads/2022/08/portable-air-conditioner-coil-cleaning-foam.jpg)Air conditioner coil cleaning foam
+![](/img/portable-air-conditioner-coil-cleaning-foam.webp)Air conditioner coil cleaning foam
 
 The brushes and the cleaning foam are a great investment in the health of your portable AC (and of course, they also work for any regular AC). They can lengthen the lifespan of your AC by years!
 

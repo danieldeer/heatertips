@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can you run a space heater off a generator
-  image: /wp-content/uploads/2019/11/can-you-run-a-space-heater-off-a-generator.jpg
+  image: /img/can-you-run-a-space-heater-off-a-generator.webp
 date: "2019-11-25T08:20:44+00:00"
 guid: https://heatertips.com/?p=68
 tag:
@@ -82,7 +82,7 @@ However, **never heat in your absence**! Generators and heaters are both potenti
 
 **Start the generator before plugging in your space heater.** Most space heaters have power settings, so when you plug yours in, increase the power one at a time until you arrive at 1500W. If your space heater has no settings, just skip this step.
 
-![for safety: run space heater with generator outdoors](/wp-content/uploads/2019/11/run-space-heater-off-generator-outdoors.jpg)Image by [Gavin St. Ours](https://flickr.com/photos/gavinmusic/2961453920/)
+![for safety: run space heater with generator outdoors](/img/run-space-heater-off-generator-outdoors.webp)Image by [Gavin St. Ours](https://flickr.com/photos/gavinmusic/2961453920/)
 
 ## Alternatives to space heaters in a power outage
 

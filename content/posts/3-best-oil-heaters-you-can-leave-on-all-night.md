@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best oil heaters you can leave on all night
-  image: /wp-content/uploads/2019/12/best-oil-heaters-you-can-leave-on-all-night.jpg
+  image: /img/best-oil-heaters-you-can-leave-on-all-night.webp
 date: "2019-12-12T08:06:22+00:00"
 guid: https://heatertips.com/?p=164
 tag:
@@ -38,7 +38,7 @@ Additionally, the Pelonis heater is ETL certified which makes it a safe choice f
 - **BEST CHOICE:** [**DeLonghi TRD40615E Oil-Filled Radiator Space Heater** (click here to check the price on amazon)](https://amzn.to/3kNdfEH) \- Okay, as you can tell, I’m a fan of this brand. They produce solid and high-quality heaters for low prices and get tons of good reviews. This model is a little higher priced than the previous model, because the heating times are programmable. I would trust this heater to keep big living rooms warm. It also has an even better rating than the previous heaters.  
 The steel cover protects it from damage when it tips over and adds a lot to the overall design. A good choice if you don’t want to have an ugly heater in your bedroom.
 
-![](/wp-content/uploads/2021/11/delonghi-space-heater-for-all-night.jpg)
+![](/img/delonghi-space-heater-for-all-night.webp)
 
 ### Safety features that keep oil heater safe overnight
 
@@ -143,7 +143,7 @@ To stay warm, simply use a hot water bottle.
 
 While this works great as long as you’re alone in the room, a water bottle wouldn’t work for 2 or more persons.
 
-![hot water bottle to replace leaving an oil heater on all night ](/wp-content/uploads/2019/12/hot-water-bottle-to-replace-leaving-an-oil-heater-on-all-night.jpg)
+![hot water bottle to replace leaving an oil heater on all night ](/img/hot-water-bottle-to-replace-leaving-an-oil-heater-on-all-night.webp)
 
 ## Conclusion - Best Oil Heaters you can Leave on All Night
 

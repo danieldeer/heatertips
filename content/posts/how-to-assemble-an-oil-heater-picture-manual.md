@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how-to-assemble-an-oil-heater-manual-002
-  image: /wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-002.jpg
+  image: /img/how-to-assemble-an-oil-heater-manual-002.webp
 date: "2021-12-14T15:10:40+00:00"
 guid: https://heatertips.com/?p=511
 title: How to assemble an Oil Heater (Picture manual)
@@ -25,7 +25,7 @@ In this section, I am listing all the pictures I have taken when I assembled my 
 
 ### 1\. Unpack the oil heater package contents
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-002.jpg)Top: Big metal oil heater. Lower left: Wheels and bent metal pieces. Lower right: Metal brackets.
+![](/img/how-to-assemble-an-oil-heater-manual-002.webp)Top: Big metal oil heater. Lower left: Wheels and bent metal pieces. Lower right: Metal brackets.
 
 In the picture, you can see several things lying around. First, and most notably, you can see the big metal oil-filled radiator with a power cable attached. This piece is already fully assembled and you don’t need to worry about it.
 
@@ -35,17 +35,17 @@ Below the heater, you can see wheels (with nuts and bolts), two “brackets” (
 
 ### 2\. Place the bent metal pieces between the oil heater ribs
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-003.jpg)Place the bent metal piece behind one of the lower right columns of the oil heater. I chose the second outermost. But you can also use the outermost (which is probably better).
+![](/img/how-to-assemble-an-oil-heater-manual-003.webp)Place the bent metal piece behind one of the lower right columns of the oil heater. I chose the second outermost. But you can also use the outermost (which is probably better).
 
 Place one bent metal stick behind the bottom pipe of the oil-filled radiator in the first “opening” (column / between the ribs) behind the front side of the heater.
 
 ### 3\. Attach the wheel-bracket to the heater
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-004.jpg)Place one of the brackets onto the bent metal stick.
+![](/img/how-to-assemble-an-oil-heater-manual-004.webp)Place one of the brackets onto the bent metal stick.
 
 Stand the oil-filled upright (bottom side up) and put one of the two brackets onto both ends of the bent metal stick. The hollow side of the brackets must point away from the oil-filled radiator’s body.
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-006.jpg)Use the nut to fix the bracket to the heater. Note: Don't screw too tightly.
+![](/img/how-to-assemble-an-oil-heater-manual-006.webp)Use the nut to fix the bracket to the heater. Note: Don't screw too tightly.
 
 One end of the bent metal piece has a screw thread. This end of the bent metal stick has to be attached to the bracket using a nut that you screw down. Don’t screw it too tightly. The nut is (in my case) made of thin material and it looks very easy to break. Rather, screw the nut down until you notice a good resistance, but you can still easily unscrew it.
 
@@ -53,13 +53,13 @@ The other end of the bent metal piece has no screw thread. Since it is a bent en
 
 ### 4\. Repeat for the other side
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-008.jpg)
+![](/img/how-to-assemble-an-oil-heater-manual-008.webp)
 
 Repeat step 4 for the other bracket. This time, attach the bracket to the outermost column on the other side of the heater.
 
 ### 5\. Screw on the wheels
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-009.jpg)
+![](/img/how-to-assemble-an-oil-heater-manual-009.webp)
 
 Now use the additional nuts and bolts to connect the wheels to the outermost drilled holes on the brackets. Pay attention to the direction the wheels are facing. If you followed this guide, the heater is standing bottom side up. Therefore the wheels have to point upwards.
 
@@ -67,7 +67,7 @@ I am emphasizing this because I attached the wheels to the other side of the bra
 
 ### 6\. Turn over the oil heater and wait for the oil to settle
 
-![](/wp-content/uploads/2021/12/how-to-assemble-an-oil-heater-manual-001-1.jpg)
+![](/img/how-to-assemble-an-oil-heater-manual-001-1.webp)
 
 Now you are almost finished! Turn the heater upside once more so the wheels are facing downward. Now, you should hear oil flowing around. Because we flipped the heater upside down in the beginning, the oil is moving to its original place again. Give the oil a minute to settle.
 

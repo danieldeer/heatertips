@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: do portable air conditioners need to be vented
-  image: /wp-content/uploads/2022/08/do-portable-air-conditioners-need-to-be-vented-1.jpg
+  image: /img/do-portable-air-conditioners-need-to-be-vented-1.webp
 date: "2022-08-25T14:17:11+00:00"
 guid: https://heatertips.com/?p=620
 title: Do Portable Air Conditioners need to be Vented?

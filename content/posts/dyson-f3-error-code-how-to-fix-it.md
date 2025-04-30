@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson error code f3
-  image: /wp-content/uploads/2023/09/dyson-error-code-f3.jpg
+  image: /img/dyson-error-code-f3.webp
 date: "2023-09-30T07:57:21+00:00"
 guid: https://heatertips.com/?p=2050
 title: 'Dyson F3 Error Code: How to Fix It'
@@ -78,7 +78,7 @@ You can even soak the entire top portion of a Dyson fan in water. Give it a thor
 
 A clean Dyson fan with a new filter should have a reduced risk of getting new F3 errors. The F3 error can still return, but at least you rule out basic issues that stem from a lack of maintenance.
 
-![dyson hot cool dust in internal components](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)See how much dust accumulates inside a Dyson fan! This could be a cause of electronic issues. Disassemble your Dyson fan and clean it out.
+![dyson hot cool dust in internal components](/img/dyson-hot-cool-heater-dust-internal-components.webp)See how much dust accumulates inside a Dyson fan! This could be a cause of electronic issues. Disassemble your Dyson fan and clean it out.
 
 ## What to do about the F3 Error Code long term?
 

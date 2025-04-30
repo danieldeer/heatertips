@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: best portable air conditioners for garages
-  image: /wp-content/uploads/2022/11/best-portable-air-conditioners-for-garages.jpg
+  image: /img/best-portable-air-conditioners-for-garages.webp
 date: "2022-11-06T10:29:20+00:00"
 guid: https://heatertips.com/?p=1020
 title: 3 Best Portable Air Conditioners for Garages
@@ -102,7 +102,7 @@ And then, you can insert it into the garage door gap and seal the open rest of t
 
 You can use aluminum wrap, styrofoam, or wood to seal the gaps. Using double layers further improves the insulation!
 
-![](/wp-content/uploads/2022/11/best-portable-air-conditioners-for-garages-vent-through-garage-door.jpg)
+![](/img/best-portable-air-conditioners-for-garages-vent-through-garage-door.webp)
 
 ## How and where to install a portable AC in a garage?
 

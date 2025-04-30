@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-07-12T13:35:59+00:00"
 guid: https://heatertips.com/?p=1555
 title: 3 Best Swamp Coolers for Bedrooms
@@ -33,7 +33,7 @@ It is easy to maintain. There are many replacement parts. And it will last you f
 
 The Hessaire MC37M has more than enough power to cool down even the largest bedrooms.
 
-![hessaire swamp cooler](/wp-content/uploads/2023/07/hessaire-swamp-cooler.jpg)
+![hessaire swamp cooler](/img/hessaire-swamp-cooler.webp)
 
 Personally, this is my [all-time favorite swamp cooler](/best-swamp-cooler/). And you can use it _everywhere._ I recommended this specific model for [garages](/best-swamp-coolers-for-garages/) before. You can also easily move it to the living room, or even use it outdoors.
 

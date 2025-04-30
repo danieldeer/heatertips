@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: best propane heater mr heater
-  image: /wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg
+  image: /img/best-propane-heater-mr-heater.webp
 date: "2022-12-20T10:11:53+00:00"
 guid: https://heatertips.com/?p=1387
 title: Propane Heater keeps shutting off (7 Fixes)
@@ -41,7 +41,7 @@ The pilot light hose is the gas line that supplies the pilot light with gas. A t
 
 The thermocouple measures the temperature of the gas flame. And **_only if_ the gas flame is hot enough, it signals a gas valve to open the main gas line.**
 
-![mr heater buddy pilot light](/wp-content/uploads/2022/12/mr-heater-buddy-pilot-light.jpg)This pilot light is too small to reach the thermocouple (sitting opposite the flame)
+![mr heater buddy pilot light](/img/mr-heater-buddy-pilot-light.webp)This pilot light is too small to reach the thermocouple (sitting opposite the flame)
 
 Vice versa, if the pilot light’s flame is not hot enough, then your propane heater won’t light. Or it might light but it shuts off after some time.
 
@@ -93,7 +93,7 @@ The simplest cause is dirt or soot collecting on your thermocouple. After turnin
 
 Try running your propane heater. Does it work without shutting off now?
 
-![mr heater buddy thermocouple](/wp-content/uploads/2022/12/mr-heater-buddy-thermocouple.jpg)The thermocouple is the sensor sitting opposite the pilot light flame
+![mr heater buddy thermocouple](/img/mr-heater-buddy-thermocouple.webp)The thermocouple is the sensor sitting opposite the pilot light flame
 
 ### 3\. Thermocouple is broken or has a loose contact
 

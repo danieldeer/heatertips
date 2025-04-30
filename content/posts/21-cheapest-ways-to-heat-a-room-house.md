@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: cheapest way to heat your room or home
-  image: /wp-content/uploads/2020/01/cheapest-way-to-heat-your-room-or-home.jpg
+  image: /img/cheapest-way-to-heat-your-room-or-home.webp
 date: "2020-01-03T13:13:29+00:00"
 guid: https://heatertips.com/?p=246
 tag:
@@ -52,7 +52,7 @@ For longer heating periods, oil-filled heaters are the best choice, because they
 
 Just make sure the heater you buy comes with various [safety features](/space-heaters-you-can-leave-unattended/) like overheat protection and an automatic shut-off timer. Generally, the more safety features it has, the better.
 
-![cheapest way to heat a room infrared heater](/wp-content/uploads/2020/01/cheapest-way-to-heat-a-room-infrared-heater.jpg)In the winter months, I place this infrared heater on my desk. Then, I don't need to turn on the central heating as much.
+![cheapest way to heat a room infrared heater](/img/cheapest-way-to-heat-a-room-infrared-heater.webp)In the winter months, I place this infrared heater on my desk. Then, I don't need to turn on the central heating as much.
 
 ### 2\. Buy a smart thermostat to cost-effectively control the heat in your home
 
@@ -89,7 +89,7 @@ Paying bills on time with your credit card helps you with your credit score. Thi
 
 Of course, you shouldn’t go into debt with them. This would harm your credit score. And the interest rates would cost you even more money.
 
-![paying bills with credit cards gives you cashback which is a cheap way to heat a room](/wp-content/uploads/2020/01/credit-cards.jpg)
+![paying bills with credit cards gives you cashback which is a cheap way to heat a room](/img/credit-cards.webp)
 
 ### 4\. Make use of budget billing
 
@@ -155,7 +155,7 @@ Similarly, even though your slippers don’t produce any heat, they keep your fe
 
 The warm air is produced by your body temperature. Slippers simply prevent the warm air from escaping.
 
-![cheap ways to heat a room without electricity](/wp-content/uploads/2020/01/cheap-ways-to-heat-a-room-without-electricity.jpg)Cheap way to keep warm in a room without electricity: Wear slippers. Ugly, but effective.
+![cheap ways to heat a room without electricity](/img/cheap-ways-to-heat-a-room-without-electricity.webp)Cheap way to keep warm in a room without electricity: Wear slippers. Ugly, but effective.
 
 ### 8\. Wear warm clothing
 
@@ -242,7 +242,7 @@ Because it produces heat for such a small space, an electric blanket needs very 
 
 That’s just a tenth of the energy and therefore a significant energy-saving method.
 
-![electric blankets are very cheap to run](/wp-content/uploads/2020/01/electric-blanket.jpg)
+![electric blankets are very cheap to run](/img/electric-blanket.webp)
 
 ### 13\. Use a gas heater
 
@@ -312,7 +312,7 @@ It’s so simple to avoid this money trap: Just close the door whenever you ente
 
 If you leave your doors closed, you can also produce more heat in a shorter time.
 
-![the area you have to heat decreases when you close the door](/wp-content/uploads/2019/12/Heated-area-small.jpg)
+![the area you have to heat decreases when you close the door](/img/Heated-area-small.webp)
 
 ### 17\. Install black window curtains
 
@@ -372,7 +372,7 @@ In contrast, a regular heater would cost about $0.40 to $1.50 to heat for the sa
 
 Also, hot water bottles are cheap (compared to a wood stove or solar panels)! It costs around $10 to become a proud hot water bottle-owner. That’s a very small amount for so much value!
 
-![hot water bottle to replace leaving an oil heater on all night](/wp-content/uploads/2019/12/hot-water-bottle-to-replace-leaving-an-oil-heater-on-all-night.jpg)
+![hot water bottle to replace leaving an oil heater on all night](/img/hot-water-bottle-to-replace-leaving-an-oil-heater-on-all-night.webp)
 
 ## Conclusion - The 21 Cheapest Ways to Heat a Room
 

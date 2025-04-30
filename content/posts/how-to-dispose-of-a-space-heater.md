@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to dispose of space heater
-  image: /wp-content/uploads/2020/01/how-to-dispose-of-space-heater.jpg
+  image: /img/how-to-dispose-of-space-heater.webp
 date: "2020-01-25T09:55:40+00:00"
 guid: https://heatertips.com/?p=381
 tag:
@@ -69,7 +69,7 @@ But kerosene and diesel heaters require a direct refill within the heater. Pleas
 
 When you dispose of your fuel-powered heater, it is important that there are no fuel leftovers in it.
 
-![electric space heater](/wp-content/uploads/2020/01/electric-space-heater-on-window-sill.jpg)
+![electric space heater](/img/electric-space-heater-on-window-sill.webp)
 
 ## How to dispose of different Space Heaters
 

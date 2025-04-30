@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: are-pelonis-heaters-safe
-  image: /wp-content/uploads/2021/12/are-pelonis-heaters-safe.jpg
+  image: /img/are-pelonis-heaters-safe.webp
 date: "2021-12-27T11:12:27+00:00"
 guid: https://heatertips.com/?p=526
 title: Are Pelonis heaters safe? (A critical review)

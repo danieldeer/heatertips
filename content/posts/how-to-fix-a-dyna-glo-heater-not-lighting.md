@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyna-glo natural gas propane heater ventless wall-mounted
-  image: /wp-content/uploads/2023/02/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.jpg
+  image: /img/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.webp
 date: "2023-02-07T13:28:08+00:00"
 guid: https://heatertips.com/?p=1539
 title: How to fix a Dyna-Glo Heater not lighting
@@ -88,7 +88,7 @@ Improper burn causes toxic carbon monoxide emissions. And, on top of that, it pr
 
 So, not only does it save your life, but it also saves your money. Perfect.
 
-![propane mr heater buddy pilot light](/wp-content/uploads/2022/12/mr-heater-buddy-pilot-light.jpg)That's what the pilot light in gas heaters looks like. In this case, the flame is too short to reach the thermocouple (opposite the flame), which causes the main gas line to not open.
+![propane mr heater buddy pilot light](/img/mr-heater-buddy-pilot-light.webp)That's what the pilot light in gas heaters looks like. In this case, the flame is too short to reach the thermocouple (opposite the flame), which causes the main gas line to not open.
 
 #### Pilot light orifice clogged
 

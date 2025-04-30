@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: 5 safety tips for using a space heater in a bathroom
-  image: /wp-content/uploads/2019/12/5-safety-tips-for-using-a-space-heater-in-a-bathroom.jpg
+  image: /img/5-safety-tips-for-using-a-space-heater-in-a-bathroom.webp
 date: "2019-12-04T09:04:05+00:00"
 guid: https://heatertips.com/?p=141
 tag:
@@ -53,7 +53,7 @@ If your house is newer than that, you surely have GFCI outlets. If it’s older,
 
 **You can easily distinguish CFGI outlets from normal outlets because they have two big buttons built-in: One button says “RESET” and the other says “TEST”.**
 
-![](/wp-content/uploads/2019/12/cfgi-outlet-for-using-space-heater-in-a-bathroom.jpg)
+![](/img/cfgi-outlet-for-using-space-heater-in-a-bathroom.webp)
 
 In case you don’t have any CFGI outlets in your bathroom, don’t use a space heater!
 
@@ -153,7 +153,7 @@ However, it is really difficult to hardwire this space heater. So, I only recomm
 
 The alternative choice, and that’s the one I **recommend for most people**, is this one:
 
-![dr infrared space heater you can use in a bathroom](/wp-content/uploads/2019/12/dr-infrared-space-heater-use-in-bathroom.jpg)
+![dr infrared space heater you can use in a bathroom](/img/dr-infrared-space-heater-use-in-bathroom.webp)
 
 The [Dr Infrared Heater Portable (click here to check the price on amazon)](https://www.amazon.com/Dr-Infrared-Heater-Portable-1500-Watt/dp/B002QZ11J6/ref=as_li_ss_tl?keywords=space+heater+bathroom&pd_rd_i=B002QZ11J6&pd_rd_r=ffcb26c9-5037-402e-b29e-1f0dcceba51b&pd_rd_w=10GUr&pd_rd_wg=130CT&pf_rd_p=a6d018ad-f20b-46c9-8920-433972c7d9b7&pf_rd_r=KPX0ECVNFA378CKMRZDQ&qid=1575444403&linkCode=ll1&tag=heatertips-20&linkId=c551ac0288cf9d7aff3153817049fa02&language=en_US) will get your bathroom heating job done.
 

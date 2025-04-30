@@ -4,7 +4,7 @@ category:
   - repair
 cover:
   alt: electric kettle fix switch bimetal thermostat
-  image: /wp-content/uploads/2023/10/electric-kettle-fix-switch-bimetal-thermostat.jpg
+  image: /img/electric-kettle-fix-switch-bimetal-thermostat.webp
 date: "2023-10-25T12:16:36+00:00"
 guid: https://heatertips.com/?p=2092
 title: 'Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It'
@@ -57,7 +57,7 @@ Electric kettles rely on a steam sensor. The steam sensor detects when water boi
 
 Make sure the lid is properly closed and fix any issue that prevents you from properly closing it.
 
-![electric kettle steam hole](/wp-content/uploads/2023/10/electric-kettle-steam-hole.jpg)This is the small hole inside which the steam sensor sits. With an open lid, not enough steam enters the hole and your electric kettle keeps boiling forever.
+![electric kettle steam hole](/img/electric-kettle-steam-hole.webp)This is the small hole inside which the steam sensor sits. With an open lid, not enough steam enters the hole and your electric kettle keeps boiling forever.
 
 ### 2\. Replace Bimetal Switch
 
@@ -75,7 +75,7 @@ When the hot steam heats up this bimetallic metal piece, the two sheets of metal
 
 Some electric kettles have multiple such switches, but usually, the one controlling the boiling-point shutoff is the one inside the handle.
 
-![electric kettle unscrew handle](/wp-content/uploads/2023/10/electric-kettle-unscrew-handle.jpg)Unscrew the screws holding your electric kettle's handle together. Inside the handle sits the sensor that needs replacement.
+![electric kettle unscrew handle](/img/electric-kettle-unscrew-handle.webp)Unscrew the screws holding your electric kettle's handle together. Inside the handle sits the sensor that needs replacement.
 
 **To fix your kettle that keeps boiling, replace the boiling-point switch. Unscrew the top of the handle to uncover the black switch box. Remove the old switch by unscrewing it and disconnecting the wires.**
 
@@ -85,7 +85,7 @@ I recommend getting these [replacement bimetal switches for electric kettles (cl
 
 Alternatively, you can harvest a replacement switch from an old electric kettle that still works! Usually, they are one-size fits all.
 
-![electric kettle bimetal thermostat switch closeup](/wp-content/uploads/2023/10/electric-kettle-bimetal-thermostat-switch-closeup.jpg)The black sensor box below the switch contains the steam sensor. When the steam sensor switches, it switches the main power (I/O) off.
+![electric kettle bimetal thermostat switch closeup](/img/electric-kettle-bimetal-thermostat-switch-closeup.webp)The black sensor box below the switch contains the steam sensor. When the steam sensor switches, it switches the main power (I/O) off.
 
 ### **3\. Check and Adjust Thermostat Settings**
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to build a terracotta clay flower pot heater
-  image: /wp-content/uploads/2022/09/how-to-build-a-terracotta-clay-flower-pot-heater.jpg
+  image: /img/how-to-build-a-terracotta-clay-flower-pot-heater.webp
 date: "2022-09-30T16:42:28+00:00"
 guid: https://heatertips.com/?p=759
 title: How to Build a Terracotta Clay Pot Heater

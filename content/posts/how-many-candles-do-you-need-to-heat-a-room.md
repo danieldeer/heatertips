@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how many candles do you need to heat a room
-  image: /wp-content/uploads/2020/01/how-many-candles-do-you-need-to-heat-a-room.jpg
+  image: /img/how-many-candles-do-you-need-to-heat-a-room.webp
 date: "2020-01-19T07:32:54+00:00"
 guid: https://heatertips.com/?p=364
 tag:
@@ -76,7 +76,7 @@ I've even written my own extensively researched guide on [how to build a clay po
 
 Here’s the basic setup.
 
-![candle flowerpot room heater](/wp-content/uploads/2020/01/flowerpot-heater.jpg)
+![candle flowerpot room heater](/img/flowerpot-heater.webp)
 
 It basically works like this:
 

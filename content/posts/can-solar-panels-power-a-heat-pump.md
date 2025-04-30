@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can solar panels power a heat pump
-  image: /wp-content/uploads/2022/10/can-solar-panels-power-a-heat-pump.jpg
+  image: /img/can-solar-panels-power-a-heat-pump.webp
 date: "2022-10-28T16:22:48+00:00"
 guid: https://heatertips.com/?p=837
 title: Can Solar Panels Power a Heat Pump?

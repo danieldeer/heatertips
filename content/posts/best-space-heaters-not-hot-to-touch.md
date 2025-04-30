@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: touch-oil-filled-radiator-with-feet
-  image: /wp-content/uploads/2022/12/touch-oil-filled-radiator-with-feet.jpg
+  image: /img/touch-oil-filled-radiator-with-feet.webp
 date: "2023-01-27T11:10:00+00:00"
 guid: https://heatertips.com/?p=1510
 title: Best Space Heaters Not Hot to Touch
@@ -107,7 +107,7 @@ And propane heaters have heating elements that are powered through an open gas f
 
 **The heating element exposure level determines the surface temperature of a space heater.**
 
-![mr heater buddy propane heater burning paper](/wp-content/uploads/2023/01/mr-heater-buddy-burning-paper.jpg)Propane heaters get hot enough to burn paper! This can't happen with a Dyson Hot + Cool or with an oil-filled radiator.
+![mr heater buddy propane heater burning paper](/img/mr-heater-buddy-burning-paper.webp)Propane heaters get hot enough to burn paper! This can't happen with a Dyson Hot + Cool or with an oil-filled radiator.
 
 ## Do you really need the coldest-to-touch space heater?
 

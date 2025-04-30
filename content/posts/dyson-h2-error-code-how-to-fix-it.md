@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson h2 error code
-  image: /wp-content/uploads/2023/09/dyson-h2-error-code.jpg
+  image: /img/dyson-h2-error-code.webp
 date: "2023-09-22T09:38:17+00:00"
 guid: https://heatertips.com/?p=2036
 title: 'Dyson H2 Error Code: How to Fix It'
@@ -61,7 +61,7 @@ Here’s a step-by-step breakdown to guide you through fixing the H2 error code:
 
 By adhering to this systematic approach, you’re well on your way to resolving the H2 error code and ensuring your Dyson Hot+Cool fan operates efficiently, especially during the colder seasons.
 
-![dyson hot cool dust in internal components](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)Clean out all the dust from inside your Dyson Hot+Cool!
+![dyson hot cool dust in internal components](/img/dyson-hot-cool-heater-dust-internal-components.webp)Clean out all the dust from inside your Dyson Hot+Cool!
 
 ### Recommended Product for Dyson Hot+Cool Maintenance
 

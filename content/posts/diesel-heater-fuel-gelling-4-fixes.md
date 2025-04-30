@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel fuel gelling
-  image: /wp-content/uploads/2023/12/diesel-fuel-gelling.jpg
+  image: /img/diesel-fuel-gelling.webp
 date: "2023-12-01T10:19:51+00:00"
 guid: https://heatertips.com/?p=2251
 title: 'Diesel Heater Fuel Gelling: 4 Fixes'
@@ -33,7 +33,7 @@ Diesel anti-gel additives contain chemicals that interfere with the wax crystal 
 
 One very popular diesel anti-gel additive is [**Hot Shot's Secret Diesel Winter Anti-Gel** (click to view it on amazon)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B07ZWDX548?pd_rd_w=f1mrD&content-id=amzn1.sym.225b4624-972d-4629-9040-f1bf9923dd95%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=225b4624-972d-4629-9040-f1bf9923dd95&pf_rd_r=69MPVE22G29FTZGCB5RZ&pd_rd_wg=YATpL&pd_rd_r=01440ca9-2fed-4391-802b-95c5257ef679&pd_rd_i=B0189J5Y40&th=1&linkCode=ll1&tag=heatertips-20&linkId=aff08f38398aaa5dcf9eecc339d46f65&language=en_US&ref_=as_li_ss_tl), which reduces fuel-line freezing temperature down to -40°F(!).
 
-[![hot shots secret diesel heater anti gel additive](/wp-content/uploads/2023/11/hot-shots-secret-diesel-heater-anti-gel-additive.jpg)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B07ZWDX548?pd_rd_w=f1mrD&content-id=amzn1.sym.225b4624-972d-4629-9040-f1bf9923dd95%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=225b4624-972d-4629-9040-f1bf9923dd95&pf_rd_r=69MPVE22G29FTZGCB5RZ&pd_rd_wg=YATpL&pd_rd_r=01440ca9-2fed-4391-802b-95c5257ef679&pd_rd_i=B0189J5Y40&th=1&linkCode=ll1&tag=heatertips-20&linkId=aff08f38398aaa5dcf9eecc339d46f65&language=en_US&ref_=as_li_ss_tl)
+[![hot shots secret diesel heater anti gel additive](/img/hot-shots-secret-diesel-heater-anti-gel-additive.webp)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B07ZWDX548?pd_rd_w=f1mrD&content-id=amzn1.sym.225b4624-972d-4629-9040-f1bf9923dd95%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=225b4624-972d-4629-9040-f1bf9923dd95&pf_rd_r=69MPVE22G29FTZGCB5RZ&pd_rd_wg=YATpL&pd_rd_r=01440ca9-2fed-4391-802b-95c5257ef679&pd_rd_i=B0189J5Y40&th=1&linkCode=ll1&tag=heatertips-20&linkId=aff08f38398aaa5dcf9eecc339d46f65&language=en_US&ref_=as_li_ss_tl)
 
 #### How to Use:
 
@@ -102,7 +102,7 @@ For example, a fuel line that passes through an uninsulated part of your van / c
 
 Add some simple insulation to your fuel lines. It can be a simple insulation wrap or a special [fuel line heat sleeve](https://www.amazon.com/Shroud-Aluminized-Sleeving-3-9Inch-Stainless/dp/B096RRFMH4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1A26O5QYUDBRP&keywords=fuel%2Bline%2Binsulation&qid=1701425687&sprefix=fuel%2Bline%2Binsulation%2Caps%2C128&sr=8-3&th=1&linkCode=ll1&tag=heatertips-20&linkId=8d5e59a0ed605d8f91ff8d7c11b4cb9c&language=en_US&ref_=as_li_ss_tl), specifically made to insulate fuel lines.
 
-![fuel line heat sleeve](/wp-content/uploads/2023/12/fuel-line-heat-sleeve.jpg)Fuel line heat sleeves are _perfect_ for fuel line insulation. But they only work well if the diesel is pre-heated and it passes through a cold space. If both tank and fuel lines are located in the cold, heat sleeves won't help.
+![fuel line heat sleeve](/img/fuel-line-heat-sleeve.webp)Fuel line heat sleeves are _perfect_ for fuel line insulation. But they only work well if the diesel is pre-heated and it passes through a cold space. If both tank and fuel lines are located in the cold, heat sleeves won't help.
 
 The main downside of fuel line insulation is, in my opinion, that insulation obstructs the view of the fuel line. So, if you have transparent fuel lines, you can’t see the diesel flowing through the fuel line anymore.
 

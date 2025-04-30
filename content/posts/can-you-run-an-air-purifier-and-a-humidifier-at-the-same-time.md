@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier with humidifier
-  image: /wp-content/uploads/2023/07/air-purifier-with-humidifier.jpg
+  image: /img/air-purifier-with-humidifier.webp
 date: "2023-07-30T09:33:30+00:00"
 guid: https://heatertips.com/?p=1647
 title: Can you run an Air Purifier and a Humidifier at the same time?
@@ -142,7 +142,7 @@ If you live in a humid place, you don’t need to run a humidifier.
 
 In any (dry) place, where humidifiers make sense, it is no problem to combine them with an air purifier.
 
-![air purifier humidifier vapor](/wp-content/uploads/2023/07/air-purifier-humidifier-vapor.jpg)If too close together, your air purifier will pull in the vapor from your humidifier and absorb the water droplets. This effectively renders the humidifier useless and wears down the air purifier's filter.
+![air purifier humidifier vapor](/img/air-purifier-humidifier-vapor.webp)If too close together, your air purifier will pull in the vapor from your humidifier and absorb the water droplets. This effectively renders the humidifier useless and wears down the air purifier's filter.
 
 ## How to place an air purifier to use it together with your humidifier
 

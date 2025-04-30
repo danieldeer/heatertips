@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: bluegrass living propane heater ventless
-  image: /wp-content/uploads/2023/09/bluegrass-living-propane-heater-ventless.jpg
+  image: /img/bluegrass-living-propane-heater-ventless.webp
 date: "2023-09-08T07:07:06+00:00"
 guid: https://heatertips.com/?p=1905
 title: 'Bluegrass Living Propane Heater Review: Strong & Reliable'
@@ -53,7 +53,7 @@ It has a built-in blower and a thermostat, both of which work only with electric
 
 You can, of course, run the Bluegrass Living propane heater (as any other propane heater) without electricity in manual mode.
 
-![bluegrass living propane heater product image](/wp-content/uploads/2023/09/bluegrass-living-propane-heater-product-image.jpg)
+![bluegrass living propane heater product image](/img/bluegrass-living-propane-heater-product-image.webp)
 
 ## Where the Bluegrass Living Propane Heater Excels
 
@@ -149,7 +149,7 @@ The Bluegrass Living provides a lot of heat, a thermostat, and all the safety fe
 
 But, if you want to, you can use it like a portable propane heater.
 
-![bluegrass living propane heater blue flame oxygen depletion close up](/wp-content/uploads/2023/09/bluegrass-living-propane-heater-blue-flame-oxygen-depletion-close-up.jpg)
+![bluegrass living propane heater blue flame oxygen depletion close up](/img/bluegrass-living-propane-heater-blue-flame-oxygen-depletion-close-up.webp)
 
 ## What the Bluegrass Living Propane Heater Could Do Better
 

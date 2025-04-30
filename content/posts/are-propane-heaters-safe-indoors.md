@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater propane heater hand
-  image: /wp-content/uploads/2022/12/mr-heater-propane-heater-hand.jpg
+  image: /img/mr-heater-propane-heater-hand.webp
 date: "2022-12-17T10:32:06+00:00"
 guid: https://heatertips.com/?p=1349
 title: Are Propane Heaters safe indoors?
@@ -103,7 +103,7 @@ And on top of that, they can start a fire if they tip over a propane heater with
 
 Because of their exposed heating elements and the high temperatures, propane heaters are not safe around small children and pets.
 
-![mr heater propane heater tip over](/wp-content/uploads/2022/12/mr-heater-propane-heater-tip-over.jpg)When I tip my propane heater, it _immediately_ shuts off
+![mr heater propane heater tip over](/img/mr-heater-propane-heater-tip-over.webp)When I tip my propane heater, it _immediately_ shuts off
 
 ## How to safely use a propane heater indoors
 
@@ -155,7 +155,7 @@ That’s why I always recommend this propane heater. In my review, I included a 
 
 Check it out here: [Mr. Heater Big Buddy review (click to read it)](/recommended-products/propane-heater/)
 
-![mr heater buddy propane heater](/wp-content/uploads/2022/12/mr-heater-buddy-ventless-portable-propane-heater.jpg)
+![mr heater buddy propane heater](/img/mr-heater-buddy-ventless-portable-propane-heater.webp)
 
 ## A realistic conclusion on propane heater safety
 

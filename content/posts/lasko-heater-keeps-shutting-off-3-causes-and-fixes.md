@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: lasko ceramic heater top panel
-  image: /wp-content/uploads/2023/10/lasko-ceramic-heater-top-panel.jpg
+  image: /img/lasko-ceramic-heater-top-panel.webp
 date: "2023-10-04T09:05:35+00:00"
 guid: https://heatertips.com/?p=2054
 title: Lasko Heater Keeps Shutting Off (3 Causes and Fixes)
@@ -66,7 +66,7 @@ You should now see a squirrel cage fan, with its motor.
 
 You should see a thick layer of dust now.
 
-![lasko ceramic heater disassembled clogged with dust](/wp-content/uploads/2023/10/lasko-ceramic-heater-disassembled-clogged-with-dust.jpg)Here's what a clogged Lasko heater looks like internally. A thick layer of dust covers the heating element which sits below the blower motor. ( [source](https://www.youtube.com/watch?v=BAicWhTV7Zs&t=349s&pp=ygUfbGFza28gaGVhdGVyIGtlZXBzIHNodXR0aW5nIG9mZg%3D%3D))
+![lasko ceramic heater disassembled clogged with dust](/img/lasko-ceramic-heater-disassembled-clogged-with-dust.webp)Here's what a clogged Lasko heater looks like internally. A thick layer of dust covers the heating element which sits below the blower motor. ( [source](https://www.youtube.com/watch?v=BAicWhTV7Zs&t=349s&pp=ygUfbGFza28gaGVhdGVyIGtlZXBzIHNodXR0aW5nIG9mZg%3D%3D))
 
 #### Clean the Heating Element
 
@@ -96,7 +96,7 @@ If you can’t take off your squirrel cage, your fan blade (or whatever blower m
 
 Don’t use any chemical cleaners for any of the cleaning steps. These only harm the electronics, and, when you turn your heater on the chemical residue can turn into unhealthy gases.
 
-![lasko ceramic heater disassembled blower motor](/wp-content/uploads/2023/10/lasko-ceramic-heater-disassembled-blower-motor.jpg)Once it's cleaned, your Lasko heater should be as dust-free as the heater in the image above.
+![lasko ceramic heater disassembled blower motor](/img/lasko-ceramic-heater-disassembled-blower-motor.webp)Once it's cleaned, your Lasko heater should be as dust-free as the heater in the image above.
 
 #### Reassemble your Lasko Ceramic Heater
 

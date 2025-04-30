@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater and hot water bottle
-  image: /wp-content/uploads/2023/11/space-heater-and-hot-water-bottle.jpg
+  image: /img/space-heater-and-hot-water-bottle.webp
 date: "2023-11-21T15:28:48+00:00"
 guid: https://heatertips.com/?p=2200
 title: Space Heater or Hot Water Bottle? (9 Differences)
@@ -41,7 +41,7 @@ The 2L size offers a perfect balance of lasting warmth and convenience. While br
 
 So, choose any well-made 2L bottle for a comfortable, cozy experience.
 
-![hot water bottle](/wp-content/uploads/2023/11/hot-water-bottle.jpg)Here's my 2L hot water bottle. Love it!
+![hot water bottle](/img/hot-water-bottle.webp)Here's my 2L hot water bottle. Love it!
 
 ## Space Heater vs Hot Water Bottle: What are the differences?
 
@@ -102,7 +102,7 @@ Space heaters are ideal when the goal is to raise the overall temperature of a r
 
 In fact, I found the best way to [improve an electric oil-filled radiator’s efficiency](/how-to-improve-oil-filled-radiator-efficiency/), by directly touching it with your feet (similar to a hot water bottle).
 
-![](/wp-content/uploads/2023/11/space-heater-and-hot-water-bottle-real.jpg)
+![](/img/space-heater-and-hot-water-bottle-real.webp)
 
 #### Efficiency in Context
 

@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp cooler patio
-  image: /wp-content/uploads/2023/07/swamp-cooler-patio.jpg
+  image: /img/swamp-cooler-patio.webp
 date: "2023-07-16T15:30:38+00:00"
 guid: https://heatertips.com/?p=1564
 title: Can a Swamp Cooler run all day?
@@ -115,7 +115,7 @@ Does a swamp cooler wear down and break if it runs for too long? This depends on
 
 Moving parts always cause friction. And friction wears parts down over time. If you run your swamp cooler 24/7, at some point in time it _will_ break, guaranteed.
 
-![swamp cooler fan](/wp-content/uploads/2023/07/swamp-cooler-fan.jpg)
+![swamp cooler fan](/img/swamp-cooler-fan.webp)
 
 Let’s check how long your swamp cooler lasts if you run it continuously.
 

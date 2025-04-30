@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson big quiet air purifier standing in corner of room
-  image: /wp-content/uploads/2023/09/dyson-big-quiet-air-purifier-standing-in-corner-of-room.jpg
+  image: /img/dyson-big-quiet-air-purifier-standing-in-corner-of-room.webp
 date: "2023-09-03T08:12:57+00:00"
 guid: https://heatertips.com/?p=1873
 title: 'Dyson Big+Quiet Review: High Price, High Performance?'
@@ -34,7 +34,7 @@ In this post, we’re going to check the Dyson Big+Quiet from all angles.
 
 So, let’s have a look!
 
-![dyson big quiet air purifier official image](/wp-content/uploads/2023/09/dyson-big-quiet-air-purifier-official-image-156x300.jpg)
+![dyson big quiet air purifier official image](/img/dyson-big-quiet-air-purifier-official-image.webp)
 
 ## What’s unique about the Dyson Big+Quiet?
 
@@ -64,7 +64,7 @@ The catalyst, however, does not participate in the reaction. So, it doesn’t we
 
 I like that.
 
-![dyson air quality index lcd screen](/wp-content/uploads/2023/09/dyson-air-quality-index-lcd-screen.png)Big+Quiet LCD screen: The air quality index indicates air quality over time. In the image, you can see the air quality improving over time!
+![dyson air quality index lcd screen](/img/dyson-air-quality-index-lcd-screen.webp)Big+Quiet LCD screen: The air quality index indicates air quality over time. In the image, you can see the air quality improving over time!
 
 ### Dyson Cone Shape: Adjustable Airflow Angles
 
@@ -119,7 +119,7 @@ After all, you want an air purifier and not a fan.
 
 So, **I don’t get why Dyson advertises “cone aerodynamics”. Surely, it’s just to add more content to the sales page and justify the $1,000 price tag.**
 
-![dyson big quiet cone air outlet](/wp-content/uploads/2023/09/dyson-big-quiet-cone-air-outlet.jpg)
+![dyson big quiet cone air outlet](/img/dyson-big-quiet-cone-air-outlet.webp)
 
 ### Loudness: The Dyson Big+Quiet is _not_ quiet
 
@@ -177,7 +177,7 @@ Quite frankly, **the Dyson Big+Quiet offers the same features as other air purif
 
 Let’s have a look at [this **Coway Airmega 400 air purifier**(click here to view it on amazon)](https://www.amazon.com/Coway-Airmega-Purifier-sq-ft-White/dp/B01C9RIACG?keywords=hepa%2B13%2Bair%2Bpurifier&qid=1693724928&sprefix=hepa%2B13%2Ba%2Caps%2C176&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=676618a26c1c634c7b491b1cd46f9ba6&language=en_US&ref_=as_li_ss_tl). At half the cost of a Dyson Big+Quiet, which is still quite high for an air purifier, this Coway air purifier is probably Dyson’s most worthy competitor.
 
-![coway airmega 400 product image](/wp-content/uploads/2023/09/coway-airmega-400-product-image-226x300.jpg)
+![coway airmega 400 product image](/img/coway-airmega-400-product-image.webp)
 
 Just like the Dyson, the Coway air purifier has everything you’d ever wish for in an air purifier:
 
@@ -197,7 +197,7 @@ Since it’s a smaller air purifier, it can’t cover the same room size as the 
 
 Dyson has a variety of models, including the [Pure Cool](/are-dyson-cooling-fans-worth-it/) and the [Hot+Cool series](/are-dyson-heaters-energy-efficient-a-critical-review/). How does the Big+Quiet stack up against these?
 
-![dyson big quiet and pure cool air purifier](/wp-content/uploads/2023/09/dyson-big-quiet-and-pure-cool-air-purifier.jpg)How does the Dyson Big+Quiet compare to the Hot+Cool and Pure Cool air purifier fans?
+![dyson big quiet and pure cool air purifier](/img/dyson-big-quiet-and-pure-cool-air-purifier.webp)How does the Dyson Big+Quiet compare to the Hot+Cool and Pure Cool air purifier fans?
 
 ### Big+Quiet covers more area
 

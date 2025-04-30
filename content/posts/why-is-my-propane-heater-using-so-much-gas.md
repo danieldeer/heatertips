@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /wp-content/uploads/2022/12/propane-bottle-tank-valve.jpg
+  image: /img/propane-bottle-tank-valve.webp
 date: "2022-12-01T10:27:54+00:00"
 guid: https://heatertips.com/?p=1189
 title: Why is my Propane Heater using so much gas?
@@ -69,7 +69,7 @@ I don't recommend messing with your old gas tank because once the corrosion make
 
 The best solution is to replace the tank!
 
-![propane heater bottle connector](/wp-content/uploads/2022/12/propane-heater-bottle-connector.jpg)I hooked up a small 1-pounder bottle with my propane heater. If there's a leak in the connection, you can usually hear a [hissing sound](/propane-heater-making-noise/).
+![propane heater bottle connector](/img/propane-heater-bottle-connector.webp)I hooked up a small 1-pounder bottle with my propane heater. If there's a leak in the connection, you can usually hear a [hissing sound](/propane-heater-making-noise/).
 
 ### \#2 The hose is not connected correctly
 

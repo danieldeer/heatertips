@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: dyson hot and cool heater
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-noisy.jpg
+  image: /img/are-dyson-heaters-noisy.webp
 date: "2022-12-14T10:29:33+00:00"
 guid: https://heatertips.com/?p=1303
 title: How long can you run a Dyson Heater?
@@ -37,7 +37,7 @@ A Dyson heater contains two heating elements. One sits on either side of the hea
 
 To carry the heat out of the loop amplifier the fan sitting inside the heater’s case constantly has to blow air over the heating elements.
 
-![dyson loop amplifier](/wp-content/uploads/2022/12/dyson-loop-amplifier.jpg)The "loop amplifier" is the big circular air vent on top of a Dyson heater
+![dyson loop amplifier](/img/dyson-loop-amplifier.webp)The "loop amplifier" is the big circular air vent on top of a Dyson heater
 
 This ensures that the heating elements do not overheat. It’s like a constant cooling breeze is drawing over the heating elements.
 
@@ -141,7 +141,7 @@ The built-in thermostat constantly monitors the temperature and controls the hea
 
 The thermostat ensures that your Dyson heater never overheats your room, or any objects in your room, such as the carpet or curtains.
 
-![dyson heater thermostat](/wp-content/uploads/2020/01/dyson-heater-thermostat.jpg)
+![dyson heater thermostat](/img/dyson-heater-thermostat.webp)
 
 ## Can a Dyson heater overheat your home’s electric circuit?
 

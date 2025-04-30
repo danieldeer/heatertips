@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air-purifier-repair
-  image: /wp-content/uploads/2023/07/air-purifier-repair.jpg
+  image: /img/air-purifier-repair.webp
 date: "2023-07-31T12:14:38+00:00"
 guid: https://heatertips.com/?p=1661
 title: How to fix an Air Purifier not turning on
@@ -132,7 +132,7 @@ Simply remove the connection, either by cut or by unplugging the wires (of cours
 
 Then, use any [replacement power cord](https://www.amazon.com/Amazon-Basics-Computer-Monitor-Replacement/dp/B072BYGKZZ?crid=1IQA0SDWLSDVG&keywords=power+cord&qid=1690723692&sprefix=power+cor%2Caps%2C252&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=heatertips-20&linkId=f7fe150fe85c54bece002f67b7318af9&language=en_US&ref_=as_li_ss_tl), and cut off its female end to expose the inner wires. Solder color-matching from the replacement cord and your air purifier together.
 
-![air purifier blue brown power wires disassembly](/wp-content/uploads/2023/07/air-purifier-blue-brown-power-wires-disassembly.jpg)You can connect your replacement power cord to the exposed blue and brown wires! (as in the image)
+![air purifier blue brown power wires disassembly](/img/air-purifier-blue-brown-power-wires-disassembly.webp)You can connect your replacement power cord to the exposed blue and brown wires! (as in the image)
 
 ### \#4 Power button fault
 
@@ -207,7 +207,7 @@ But your phone’s camera picks up the infrared radiation and displays it. If yo
 
 Here’s what that looks like:
 
-![remote control infrared light through phone camera-min](/wp-content/uploads/2023/07/remote-control-infrared-light-through-phone-camera-min.jpg)Top view of my remote control: The violet light in this image is only visible through my smartphone's camera!
+![remote control infrared light through phone camera-min](/img/remote-control-infrared-light-through-phone-camera-min.webp)Top view of my remote control: The violet light in this image is only visible through my smartphone's camera!
 
 Alternative test: Some remote controls don’t use infrared. I’d say the simplest test is to just put a new battery in your remote and try.
 
@@ -261,7 +261,7 @@ A very light touch should already turn the fan with almost no resistance.
 
 If your fan does not turn by hand easily or not at all, it is very likely broken.
 
-![air purifier fan](/wp-content/uploads/2023/07/air-purifier-fan.jpg)Here's an image of the fan inside my Levoit air purifier. It is rock solid and mounted with a metal nut. It is very unlikely that something breaks here.
+![air purifier fan](/img/air-purifier-fan.webp)Here's an image of the fan inside my Levoit air purifier. It is rock solid and mounted with a metal nut. It is very unlikely that something breaks here.
 
 #### How to fix it
 
@@ -294,7 +294,7 @@ Some air purifiers have a setting to lock their touch panel controls. If your to
 
 Some air purifiers have a “lock” icon on their touch panel. Usually, the lock icon lights up when it is active.
 
-![air purifier levoit core touch panel timer](/wp-content/uploads/2023/07/air-purifier-levoit-core-touch-panel-timer.jpg)On the right-hand side of the control panel, you can see the lock sign!
+![air purifier levoit core touch panel timer](/img/air-purifier-levoit-core-touch-panel-timer.webp)On the right-hand side of the control panel, you can see the lock sign!
 
 ( My air purifier is a Levoit model, so I assume most Levoit air purifiers have it )
 

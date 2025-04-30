@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson humidify cool fan
-  image: /wp-content/uploads/2023/11/dyson-humidify-cool-fan.jpg
+  image: /img/dyson-humidify-cool-fan.webp
 date: "2023-11-11T08:49:03+00:00"
 guid: https://heatertips.com/?p=2129
 title: 'Dyson Humidify+Cool Not Humidifying: How To Fix It'
@@ -30,7 +30,7 @@ We'll also provide tips for regular maintenance to keep your Dyson running smoot
 
 **Most Common Reason:** Pump Column Clogged
 
-![dyson humidifier pump column base cap](/wp-content/uploads/2023/10/dyson-humidifier-pump-column-base-cap-1024x425.jpg)The pump column is attached to the tank lid and pumps water. The base cap is the small, flat cap thing you can take off. The filter (right side) is oftentimes clogged and needs cleaning.
+![dyson humidifier pump column base cap](/img/dyson-humidifier-pump-column-base-cap.webp)The pump column is attached to the tank lid and pumps water. The base cap is the small, flat cap thing you can take off. The filter (right side) is oftentimes clogged and needs cleaning.
 
 The pump column is a central component in your humidifier, responsible for drawing water from the tank and dispersing it into the air.
 
@@ -67,7 +67,7 @@ Maintaining your Dyson Pure Humidify+Cool is crucial for ensuring long-term perf
 1. **Frequent Manual Cleaning of the Pump Column Base Cap:** Remove and manually clean the pump column base cap every 2 to 4 weeks. Use a gentle brush or cloth to clear away any mineral deposits or buildup. This will ensure that water can flow freely, which is essential for proper humidification.
 1. **Sensor Maintenance:** Keep the humidity and air quality sensors clean. Dust and debris can cause inaccurate readings, leading to improper functioning. Gently wipe the sensors with a soft, dry cloth every few months or as specified in the user manual.
 
-![dyson humidify cool formaldehyde](/wp-content/uploads/2023/11/dyson-humidify-cool-formaldehyde.jpg)Make sure the sensor holes on the side of your Dyson Humidify+Cool's housing are clean! Some models have 4 sensor holes, some only have 2.
+![dyson humidify cool formaldehyde](/img/dyson-humidify-cool-formaldehyde.webp)Make sure the sensor holes on the side of your Dyson Humidify+Cool's housing are clean! Some models have 4 sensor holes, some only have 2.
 
 By implementing these steps, you'll not only prevent humidification issues but also extend the life of your Dyson Pure Humidify+Cool. Regular maintenance helps to ensure that your home remains a haven of clean, comfortable air.
 
@@ -93,7 +93,7 @@ With the money from selling your broken unit, you can invest in a new Dyson Humi
 - **Smart Connectivity:** Control it via your smartphone or voice commands using compatible smart home systems.
 - **Energy Efficiency:** The PH04 is designed to be energy-efficient, reducing your electricity bills over time.
 
-![](/wp-content/uploads/2023/09/dyson-pure-humidify-cool-air-purifier.jpg)
+![](/img/dyson-pure-humidify-cool-air-purifier.webp)
 
 ## Conclusion
 

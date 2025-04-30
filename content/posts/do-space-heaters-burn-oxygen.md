@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heater burns oxygen don't burn oxygen
-  image: /wp-content/uploads/2023/08/space-heater-burns-oxygen-dont-burn-oxygen.jpg
+  image: /img/space-heater-burns-oxygen-dont-burn-oxygen.webp
 date: "2023-08-19T08:37:15+00:00"
 guid: https://heatertips.com/?p=1804
 title: Do Space Heaters Burn Oxygen?
@@ -108,7 +108,7 @@ So, even though fuel-burning space heaters do burn oxygen, they are not nearly a
 
 Here’s an article about the [safest propane heater](/whats-the-safest-propane-heater/).
 
-![space heaters propane infrared oil-filled radiator](/wp-content/uploads/2023/08/space-heaters-propane-infrared-oil-filled-radiator.jpg)There are three space heaters in this picture: A propane heater (which burns oxygen), and an infrared heater and an oil-filled radiator (both of which are electric and therefore don't burn oxygen)
+![space heaters propane infrared oil-filled radiator](/img/space-heaters-propane-infrared-oil-filled-radiator.webp)There are three space heaters in this picture: A propane heater (which burns oxygen), and an infrared heater and an oil-filled radiator (both of which are electric and therefore don't burn oxygen)
 
 ## Put in practice: Using an oxygen-burning propane heater indoors
 

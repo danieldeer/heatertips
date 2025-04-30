@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: infrared space heater heating settings
-  image: /wp-content/uploads/2022/12/infrared-space-heater-heating-settings.jpg
+  image: /img/infrared-space-heater-heating-settings.webp
 date: "2022-12-11T09:25:38+00:00"
 guid: https://heatertips.com/?p=1280
 title: How to make an Infrared Heater more efficient?
@@ -58,7 +58,7 @@ For a maximum radiation spread, place your infrared heater in a corner and face 
 
 This way the heat distributes itself evenly within the room.
 
-![infrared heater placement in corner of the room](/wp-content/uploads/2022/11/infrared-heater-corner-of-room-placement.jpg)
+![infrared heater placement in corner of the room](/img/infrared-heater-corner-of-room-placement.webp)
 
 ### Place the heater facing the people in your room
 
@@ -70,7 +70,7 @@ You could also move the heater closer to you and reduce the temperature setting 
 
 This increases the _perceived_ efficiency of your heater.
 
-![infrared heater placement right in front of people](/wp-content/uploads/2022/11/infrared-heater-in-front-of-people-placement.jpg)
+![infrared heater placement right in front of people](/img/infrared-heater-in-front-of-people-placement.webp)
 
 ### Place your heater facing away from (large) windows
 
@@ -124,7 +124,7 @@ Setting your infrared heater at a high temperature will keep it running and cons
 
 Set your infrared heater at a comfortable temperature facing towards you. It will still heat you well enough.
 
-![](/wp-content/uploads/2022/12/infrared-heater-heating-settings-knob-with-arrow.jpg)
+![](/img/infrared-heater-heating-settings-knob-with-arrow.webp)
 
 ### Choose the right infrared heater size
 

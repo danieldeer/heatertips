@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr-heater-big-maxx-vented-gas-heater-attached-to-wood
-  image: /wp-content/uploads/2023/01/mr-heater-big-maxx-vented-gas-heater-attached-to-wood.jpg
+  image: /img/mr-heater-big-maxx-vented-gas-heater-attached-to-wood.webp
 date: "2023-01-29T10:10:26+00:00"
 guid: https://heatertips.com/?p=1517
 title: 3 Best Vented Gas Heaters
@@ -49,7 +49,7 @@ The heater is completely out of reach for them.
 
 I’d say the Mr. Heater Big Maxx is best for any indoor spaces in single-family homes, including living rooms, garages, and wood workshops.
 
-Heat output50,000 BTUCompatible gasNatural gas (default) and propane (conversion kit included)Best forLarge living rooms, garages, workshops, and basementsMount-typeCan be mounted to the ceiling, so it takes up no space![](/wp-content/uploads/2023/01/mr-heater-big-maxx-vented-gas-heater-building.jpg)
+Heat output50,000 BTUCompatible gasNatural gas (default) and propane (conversion kit included)Best forLarge living rooms, garages, workshops, and basementsMount-typeCan be mounted to the ceiling, so it takes up no space![](/img/mr-heater-big-maxx-vented-gas-heater-building.webp)
 
 ## 2\. The big brother: [Mr. Heater Big Maxx](https://www.amazon.com/-/de/dp/B00KRFVJ4Y?keywords=vented%2Bpropane%2Bheater&qid=1674901827&sprefix=vented%2Bpropa%2Caps%2C160&sr=8-12&th=1&linkCode=ll1&tag=heatertips-20&linkId=81f867a3ac5e68e399a3f69ff03d1eb6&language=de_DE&ref_=as_li_ss_tl) (80,000 BTU)
 
@@ -97,7 +97,7 @@ The only downside of the Rinnai heater is the case material (which is plastic). 
 
 Still, it is a great direct-vent heater. In fact, **the Rinnai heater is the best free-standing or wall-mounted direct-vent heater.**
 
-![rinnai vented propane gas heater](/wp-content/uploads/2023/01/rinnai-vented-propane-gas-heater.jpg)Heat output20,700 BTUCompatible gasPropane gasBest forRegular-sized living rooms, insulated garages, workshops and basementsMount-typeWall-mounted or free-standing
+![rinnai vented propane gas heater](/img/rinnai-vented-propane-gas-heater.webp)Heat output20,700 BTUCompatible gasPropane gasBest forRegular-sized living rooms, insulated garages, workshops and basementsMount-typeWall-mounted or free-standing
 
 ## Can you run vented gas heaters without electricity?
 

@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: do air purifiers need water
-  image: /wp-content/uploads/2023/09/do-air-purifiers-need-water.jpg
+  image: /img/do-air-purifiers-need-water.webp
 date: "2023-09-05T11:57:30+00:00"
 guid: https://heatertips.com/?p=1893
 title: Do Air Purifiers Need Water?
@@ -49,7 +49,7 @@ Air purifiers with built-in humidifiers of course need water. The water, however
 
 One example is the Dyson Pure Humidify+Cool, which is a hybrid air purifier and humidifier.
 
-![dyson pure humidify cool air purifier](/wp-content/uploads/2023/09/dyson-pure-humidify-cool-air-purifier.jpg)This Dyson Pure Humidifier and air purifier has a tank of water at the base of it. Occasionally, it needs refills.
+![dyson pure humidify cool air purifier](/img/dyson-pure-humidify-cool-air-purifier.webp)This Dyson Pure Humidifier and air purifier has a tank of water at the base of it. Occasionally, it needs refills.
 
 [Running an air purifier and a humidifier at the same time](/can-you-run-air-purifier-and-humidifier-at-the-same-time/), is, however, often not the best idea.
 
@@ -83,7 +83,7 @@ So, air washers might pick up a few dust particles here and there. But they don�
 
 “Real” air purifiers always use a HEPA filter.
 
-![sirena air washer](/wp-content/uploads/2023/09/sirena-air-washer.jpg)This "air washer", which allegedly filters air using water is largely useless and unreliable.
+![sirena air washer](/img/sirena-air-washer.webp)This "air washer", which allegedly filters air using water is largely useless and unreliable.
 
 ## Maintenance Needs for HEPA Air Purifiers
 

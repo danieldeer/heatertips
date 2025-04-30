@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: are delonghi portable air conditioners good
-  image: /wp-content/uploads/2022/09/are-delonghi-portable-air-conditioners-good.jpg
+  image: /img/are-delonghi-portable-air-conditioners-good.webp
 date: "2022-09-03T08:56:54+00:00"
 guid: https://heatertips.com/?p=695
 title: Are DeLonghi Portable Air Conditioners Good?

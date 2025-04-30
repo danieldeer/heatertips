@@ -14,12 +14,18 @@ params:
   showToc: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
+  env: production # For advanced SEO
   comments: true
   hideFooter: true
   assets:
     favicon: /favicon.ico
     disableHLJS: true
-  label.icon: "logo.png"
+  label:
+    icon: "/img/heatertips icon-min.png"
+    iconHeight: 50
+  canonifyURLs: true
+  showToc: true  # Useful for long articles
+  tocOpen: true  # Keep it open by default
 markup:
   highlight:
     codeFences: true

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: oil-filled-radiator-in-bathroom
-  image: /wp-content/uploads/2022/12/oil-filled-radiator-in-bathroom.jpg
+  image: /img/oil-filled-radiator-in-bathroom.webp
 date: "2022-12-06T16:07:06+00:00"
 guid: https://heatertips.com/?p=1224
 title: Can you use an Oil-filled Radiator in a Bathroom?
@@ -60,7 +60,7 @@ So, water won't be able to settle on your (hot) oil-filled radiator and damage a
 
 **But I'd recommend not leaving your oil-filled radiator in the bathroom after use. Then, humidity doesn't build up on the heater when the bathroom is cool again.**
 
-![air humidity with varying temperatures](/wp-content/uploads/2022/11/air-humidity-capacity-by-temperature.png)Water-holding capacity of air with increasing temperature: Hot air can holt _a lot_ more water than cold air.
+![air humidity with varying temperatures](/img/air-humidity-capacity-by-temperature.webp)Water-holding capacity of air with increasing temperature: Hot air can holt _a lot_ more water than cold air.
 
 ### \#3 Oil-filled radiators do not need ventilation
 
@@ -110,7 +110,7 @@ So, when there is even a slight current fluctuation (which can be caused by cont
 
 I'd not recommend setting up your oil-filled radiator or any space heater in your bathroom if you don't have a GFCI outlet installed.
 
-![cfgi safety outlet](/wp-content/uploads/2019/12/cfgi-outlet-for-using-space-heater-in-a-bathroom.jpg)
+![cfgi safety outlet](/img/cfgi-outlet-for-using-space-heater-in-a-bathroom.webp)
 
 ## What are the safest heaters for bathrooms?
 

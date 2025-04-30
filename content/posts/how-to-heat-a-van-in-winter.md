@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: camper-van-in-winter
-  image: /wp-content/uploads/2023/11/camper-van-in-winter.jpg
+  image: /img/camper-van-in-winter.webp
 date: "2023-11-15T09:43:27+00:00"
 guid: https://heatertips.com/?p=2157
 title: How to Heat a Van in Winter
@@ -31,7 +31,7 @@ Since vans are mostly metal, they are highly conductive to heat, which means the
 
 Insulation can be as simple as mounting cloth to the sides of your van. Any non-metallic material added to the inside walls of your van adds insulation.
 
-![car night insulation blankets](/wp-content/uploads/2023/11/car-night-insulation-blankets.jpg)Here's me "insulating" my car for a freezing night. Basically, I wrapped everything in blankets. It worked out. We didn't even need a heater.
+![car night insulation blankets](/img/car-night-insulation-blankets.webp)Here's me "insulating" my car for a freezing night. Basically, I wrapped everything in blankets. It worked out. We didn't even need a heater.
 
 But ideally, you should cover your van in fiberglass insulation. Fiberglass insulation is very similar to wool, but it’s fireproof. It traps air between the millions of fiber strands, which prevents heat from escaping your van.
 
@@ -69,7 +69,7 @@ Here comes the exciting part. After all the preparation talk, let’s find out t
 
 The best way to heat a van is a wall-mounted propane heater, such as a [Bluegrass Living propane heater](https://www.amazon.com/Bluegrass-Living-B18TPIR-BB-Feet-18-Control/dp/B082KZ4HL7?crid=3TDOXXHC0ZS6Q&keywords=wall%2Bmounted%2Bpropane%2Bheater&qid=1699953008&sprefix=wall%2Bmounted%2Bpropane%2Bheate%2Caps%2C156&sr=8-33&th=1&linkCode=ll1&tag=heatertips-20&linkId=f300cdde599dc77aaa21d43761db8091&language=en_US&ref_=as_li_ss_tl).
 
-![bluegrass living propane heater ventless](/wp-content/uploads/2023/09/bluegrass-living-propane-heater-ventless.jpg)Propane heaters output a lot of heat and require no electricity!
+![bluegrass living propane heater ventless](/img/bluegrass-living-propane-heater-ventless.webp)Propane heaters output a lot of heat and require no electricity!
 
 Wall-mounted heaters don’t take up any floor space, which is perfect for vans. And that’s, by the way, the reason I don’t often recommend other portable propane heaters for heating tiny spaces. Popular portable heaters, such as the [Mr. Heater Buddy](/are-mr-heater-buddy-heaters-any-good/) series, just take up too much space.
 
@@ -96,7 +96,7 @@ So, in summary, get a propane heater, because:
 
 A second way to heat a van in winter are diesel heaters. One example is this [8kW Vevor diesel heater](https://www.amazon.com/dp/B0CFQMRZMS?pd_rd_i=B0CFQMRZMS&pd_rd_w=ZcK0u&content-id=amzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_p=0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_r=CA6RM3HNKZTMBTKBAX0P&pd_rd_wg=m3WcA&pd_rd_r=82d87e40-e041-477e-812e-30714594069a&s=kitchen&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&th=1&linkCode=ll1&tag=heatertips-20&linkId=a30fb2f9a6a1faa8df9e746400b4485c&language=en_US&ref_=as_li_ss_tl).
 
-![diesel-heater-for-van-camper-rv](/wp-content/uploads/2023/11/diesel-heater-for-van-camper-rv.jpg)Diesel heaters consist of many parts (as you can see here)
+![diesel-heater-for-van-camper-rv](/img/diesel-heater-for-van-camper-rv.webp)Diesel heaters consist of many parts (as you can see here)
 
 The biggest advantage of diesel heaters is, in my opinion, that you can **get refills at any gas station along the road**. So, when refueling your van, you refuel your diesel heater as well. No extra stop required.
 

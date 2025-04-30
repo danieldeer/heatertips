@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: how to improve oil-filled radiator efficiency
-  image: /wp-content/uploads/2022/12/how-to-improve-oil-filled-radiator-efficiency.jpg
+  image: /img/how-to-improve-oil-filled-radiator-efficiency.webp
 date: "2022-12-02T10:42:45+00:00"
 guid: https://heatertips.com/?p=1201
 title: How to Improve Oil-filled Radiator Efficiency
@@ -70,7 +70,7 @@ I am using my own floor fan all the time. The best thing about them is that you 
 
 So, a floor fan is a great thing to have for venting and distributing heat.
 
-![floor fan standing behind oil-filled radiator](/wp-content/uploads/2022/12/floor-fan-standing-behind-oil-filled-radiator.jpg)Place a floor fan behind your oil-filled radiator to blow the heat into your room
+![floor fan standing behind oil-filled radiator](/img/floor-fan-standing-behind-oil-filled-radiator.webp)Place a floor fan behind your oil-filled radiator to blow the heat into your room
 
 ### Touch the oil-filled radiator
 
@@ -94,7 +94,7 @@ Also, you can place an oil-filled radiator next to your sofa or bed and then thr
 
 Don’t worry about the risk of fire. When you are so close to your heater, you can run it on low settings and it still provides more than enough heat.
 
-![touch oil-filled radiator with feet](/wp-content/uploads/2022/12/touch-oil-filled-radiator-with-feet.jpg)I like to put my feet against my oil-filled radiator. Feels extra warm!
+![touch oil-filled radiator with feet](/img/touch-oil-filled-radiator-with-feet.webp)I like to put my feet against my oil-filled radiator. Feels extra warm!
 
 ### Place it in the right spot
 

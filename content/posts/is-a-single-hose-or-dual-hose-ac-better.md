@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: single-hose-vs-dual-hose-portable-air-conditioner-better
-  image: /wp-content/uploads/2022/11/single-hose-vs-dual-hose-portable-air-conditioner-better.jpg
+  image: /img/single-hose-vs-dual-hose-portable-air-conditioner-better.webp
 date: "2022-11-21T14:35:58+00:00"
 guid: https://heatertips.com/?p=1098
 title: Is a Single-Hose or Dual-Hose AC Better?
@@ -39,7 +39,7 @@ If you're looking for an efficient way to cool your room, [garage](/best-portabl
 
 Single-hose portable air conditioners are less expensive, but they are less effective. Dual hose units cost more, but they cool more effectively and can also help to reduce humidity levels in a room.
 
-![how to make portable air conditioner more efficient](/wp-content/uploads/2022/03/how-to-make-portable-air-conditioner-more-efficient.jpg)Probably the most popular dual-hose portable AC: The Whynter ARC-14S
+![how to make portable air conditioner more efficient](/img/how-to-make-portable-air-conditioner-more-efficient.webp)Probably the most popular dual-hose portable AC: The Whynter ARC-14S
 
 ## Single-Hose Portable Air Conditioners
 
@@ -80,7 +80,7 @@ In spaces devoid of windows or vents, single-hose units offer a more straightfor
 
 Maintaining a single-hose air conditioner tends to be simpler than its dual-hose counterpart. For example, air filters in single-hose units are often easily accessible from the exterior, facilitating quick and convenient cleaning or replacement. This ease of maintenance can contribute to a longer lifespan for the unit if proper upkeep is observed.
 
-![portable air conditioner installed at a window viewed from an angle](/wp-content/uploads/2022/08/do-portable-air-conditioners-give-off-carbon-monoxide.jpg)Single-hose portable air conditioners are easy to install - but they are less efficient.
+![portable air conditioner installed at a window viewed from an angle](/img/do-portable-air-conditioners-give-off-carbon-monoxide.webp)Single-hose portable air conditioners are easy to install - but they are less efficient.
 
 ### Disadvantages of Single-Hose Portable Air Conditioners
 
@@ -178,7 +178,7 @@ This one is the single-best portable air conditioner. I always recommend dual-ho
 
 The Whynter ARC-14S is the best portable air conditioner for your large space requirement (up to 500 square feet). Then there are 3 fan speeds (high, medium, and low) that ensure cooling over a large area quickly and efficiently.
 
-![whynter arc-14s portable dual-hose air conditioner](/wp-content/uploads/2022/11/whynter-arc-14s-portable-dual-hose-air-conditioner-156x300.jpg)The Whynter ARC-14S: Possibly the best portable air conditioner on the market.
+![whynter arc-14s portable dual-hose air conditioner](/img/whynter-arc-14s-portable-dual-hose-air-conditioner.webp)The Whynter ARC-14S: Possibly the best portable air conditioner on the market.
 
 This award-winning device features an extendable exhaust hose that allows you to easily adjust the airflow, giving you total control over your environment. And because Whynter's industry-leading 1-year warranty backs it, you can feel confident that your investment is [safe](/are-portable-air-conditioners-safe/) and protected.
 

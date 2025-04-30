@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier levoit core and filter
-  image: /wp-content/uploads/2023/08/air-purifier-levoit-core-and-filter.jpg
+  image: /img/air-purifier-levoit-core-and-filter.webp
 date: "2023-08-05T12:38:36+00:00"
 guid: https://heatertips.com/?p=1671
 title: How to fix an Air Purifier not Collecting Dust
@@ -70,7 +70,7 @@ Or so I thought.
 
 When I checked how to replace filters, I noticed that the filter was _still sealed._
 
-![air purifier levoit core filter sealed](/wp-content/uploads/2023/08/air-purifier-levoit-core-filter-sealed.jpg)Luckily I took a picture: The filter in my new air purifier was sealed! So, obviously, it could not collect any dust!
+![air purifier levoit core filter sealed](/img/air-purifier-levoit-core-filter-sealed.webp)Luckily I took a picture: The filter in my new air purifier was sealed! So, obviously, it could not collect any dust!
 
 Surely this is to ensure the cleanliness and integrity of a new filter. At least I don’t want to buy an air purifier, not knowing if the filter inside has already been used.
 
@@ -215,7 +215,7 @@ Even though these experiments checked the effect on soil dust, it is not far-fet
 
 Use a dehumidifier in high-humidity conditions or a [humidifier](/can-you-run-air-purifier-and-humidifier-at-the-same-time/) in very dry conditions to maintain balanced indoor humidity.
 
-![air purifier with humidifier](/wp-content/uploads/2023/07/air-purifier-with-humidifier.jpg)Run your air purifier together with a humidifier in dry environments. Just make sure to place them farther apart than on the image, otherwise the air purifier will just suck in all the moisture.
+![air purifier with humidifier](/img/air-purifier-with-humidifier.webp)Run your air purifier together with a humidifier in dry environments. Just make sure to place them farther apart than on the image, otherwise the air purifier will just suck in all the moisture.
 
 To determine whether to use a humidifier or dehumidifier, check your room's moisture levels: if the air feels damp and muggy, use a dehumidifier; if it's dry and causes skin or respiratory discomfort, get a humidifier.
 

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater big maxx ceiling mounted in workshop
-  image: /wp-content/uploads/2023/11/mr-heater-big-maxx-ceiling-mounted-in-workshop.jpg
+  image: /img/mr-heater-big-maxx-ceiling-mounted-in-workshop.webp
 date: "2023-11-06T14:01:43+00:00"
 guid: https://heatertips.com/?p=2112
 title: 5 Best Wood Workshop Heaters (Gas & Electric)
@@ -57,7 +57,7 @@ All you need is a propane tank (bigger is better - I recommend 100lb) and you’
 
 The Dyna-Glo propane heater of course has a knob to adjust the heat output, so you can generate whatever temperature you desire. It’s strong enough to make your wood workshop cozy warm (as in: you can work during freezing winter just wearing a shirt), but you can of course run it at lower, more economic settings.
 
-![](/wp-content/uploads/2023/09/dyna-glo-wall-mounted-propane-heater.jpg)The best wood workshop heater is a wall-mounted Dyna-Glo propane heater. It outputs lots of heat, takes up no floor space, and is dust-safe.
+![](/img/dyna-glo-wall-mounted-propane-heater.webp)The best wood workshop heater is a wall-mounted Dyna-Glo propane heater. It outputs lots of heat, takes up no floor space, and is dust-safe.
 
 This Dyna-Glo model series comes with different BTU (heat output) ratings. I recommend the 30,000 BTU variant for moderate to large wood workshops, since it’s really strong.
 
@@ -85,7 +85,7 @@ Contrasting many other electric heaters, with the Dr. Infrared DR-998 you can ch
 
 If you don’t care about humidifiers, just pick the [regular Dr. Infrared heater](https://www.amazon.com/Infrared-Heater-Portable-Humidifier-1500-Watt/dp/B0142T7250?crid=6WJNNY5FVTGE&keywords=Dr%2BInfrared%2BHeater&qid=1699172534&sprefix=dr%2Binfrared%2Bheater%2B%2Caps%2C158&sr=8-8&th=1&linkCode=ll1&tag=heatertips-20&linkId=0460b0d25c5206b68d50ac59961f8d77&language=en_US&ref_=as_li_ss_tl) (without humidifier).
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared.webp)The Dr. Infrared heater requires is the easiest-to-setup heater in this list. Just plug it in a wall outlet, and you're set.
+![](/img/infrared-heater-dr-infrared.webp)The Dr. Infrared heater requires is the easiest-to-setup heater in this list. Just plug it in a wall outlet, and you're set.
 
 Contrasting the Dyna-Glo propane heater (my #1 recommendation for wood workshops), the Dr. Infrared outputs significantly less heat. That’s normal, since all standard wall outlet electric heaters (in the US) are limited to 1,500 Watts. That’s an equivalent of 5,120 BTU. The Dyna-Glo heater was 30,000 BTU.
 
@@ -115,7 +115,7 @@ Its main drawback is, in my opinion, the installation. You need to hard wire it 
 
 Aside from that, it’s a great heater.
 
-![comfort zone cz220 heavy-duty electric heater ceiling-mounted](/wp-content/uploads/2023/11/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.jpg)The heavy-duty electric heater Comfort Zone CZ220
+![comfort zone cz220 heavy-duty electric heater ceiling-mounted](/img/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.webp)The heavy-duty electric heater Comfort Zone CZ220
 
 You can mount it to the ceiling, so it takes up virtually no space.
 
@@ -139,7 +139,7 @@ The Mr. Heater Big Maxx is not a standalone system. It **requires access to elec
 
 It also comes in 80,000 BTU and 125,000 BTU variants, but these are usually too large for regular wood workshops.
 
-![mr heater big maxx vented gas heater](/wp-content/uploads/2023/01/mr-heater-big-maxx-vented-gas-heater.jpg)The Mr. Heater Big Maxx is the best heater for _large_ wood workshops.
+![mr heater big maxx vented gas heater](/img/mr-heater-big-maxx-vented-gas-heater.webp)The Mr. Heater Big Maxx is the best heater for _large_ wood workshops.
 
 Even though the Mr. Heater Big Maxx is a propane heater, it does not work without electricity, so it is not laid out for emergency heating.
 
@@ -165,7 +165,7 @@ And finally, the Mr. Heater Big Buddy **requires no electricity** to run, and **
 
 On top of that, the Mr. Heater Big Buddy is **dust-safe**, since it doesn’t blow air and, therefore doesn’t clog over time. And any dust settling on it quickly burns off or is carried away by the hot air rising from the Mr. Heater Buddy.
 
-![mr heater propane heater](/wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg)The Mr. Heater Big Buddy is my favorite portable propane heater.
+![mr heater propane heater](/img/best-propane-heater-mr-heater.webp)The Mr. Heater Big Buddy is my favorite portable propane heater.
 
 The Mr. Heater Buddy models come in different sizes. I find the 18,000 BTU Big Buddy model the best choice for most wood workshops, the size of a 2-3 car garage.
 

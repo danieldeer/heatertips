@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters in garage
-  image: /wp-content/uploads/2023/09/space-heaters-in-garage.jpg
+  image: /img/space-heaters-in-garage.webp
 date: "2023-09-12T09:58:00+00:00"
 guid: https://heatertips.com/?p=1927
 title: 5 Best Space Heaters for Garages
@@ -50,7 +50,7 @@ But petrol can easily catch fire. Or, tires can melt or deform if you face the i
 
 So, **while an infrared heater is the best small garage heater in most cases, it’s not the best in all cases.**
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared-276x300.webp)
+![](/img/infrared-heater-dr-infrared.webp)
 
 #### Extra-safe for Small Garages: Oil-filled Radiator
 
@@ -95,7 +95,7 @@ The Mr. Heater Big Buddy is also portable, which, combined with its strength, ma
 
 In an outage, you can bring it indoors and keep your family warm. I love it.
 
-![mr heater buddy propane heater in garage](/wp-content/uploads/2023/09/mr-heater-buddy-propane-heater-in-garage.jpg)I have the Mr. Heater Buddy model. That's the smaller version of the Big Buddy. If I could pick again, I'd pick the Big Buddy!
+![mr heater buddy propane heater in garage](/img/mr-heater-buddy-propane-heater-in-garage.webp)I have the Mr. Heater Buddy model. That's the smaller version of the Big Buddy. If I could pick again, I'd pick the Big Buddy!
 
 ### 3\. Best for Large Garages (4 or more cars)
 
@@ -117,7 +117,7 @@ But for most large household garages, the standard 50,000 BTU/h model (the one I
 
 For commercial garages, large workshops, and warehouse-size garages, you should definitely get one of the larger variants.
 
-![mr heater big maxx vented gas heater](/wp-content/uploads/2023/01/mr-heater-big-maxx-vented-gas-heater.jpg)The Mr. Heater Big Maxx is the best heater for large garages!
+![mr heater big maxx vented gas heater](/img/mr-heater-big-maxx-vented-gas-heater.webp)The Mr. Heater Big Maxx is the best heater for large garages!
 
 #### Why Vented Gas Heaters are Best for Large Garages
 
@@ -151,7 +151,7 @@ For comparison, the strongest regular electric space heaters provide only 1,500 
 
 This heater is an exception.
 
-![dyna-glo powerful 15000 watts electric space heater](/wp-content/uploads/2023/09/dyna-glo-powerful-15000-watts-electric-space-heater.jpg)The Dyna-Glo Dual Power outputs much more heat than most other regular electric space heaters!
+![dyna-glo powerful 15000 watts electric space heater](/img/dyna-glo-powerful-15000-watts-electric-space-heater.webp)The Dyna-Glo Dual Power outputs much more heat than most other regular electric space heaters!
 
 You’ll need to hardwire it into your garage’s electric circuit, on a circuit that can handle a heavy-duty circuit breaker that can withstand high amperages.
 
@@ -189,7 +189,7 @@ This way you use two portable space heaters to reach a very high overall heating
 
 You can use the portable propane heater and the portable electric space heaters recommended earlier.
 
-![propane heater mr heater buddy and oil-filled radiator space heater in garage](/wp-content/uploads/2023/09/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.jpg)You can combine your propane heater with an electric space heater (such as the oil-filled radiator in the image) to get more heating power!
+![propane heater mr heater buddy and oil-filled radiator space heater in garage](/img/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.webp)You can combine your propane heater with an electric space heater (such as the oil-filled radiator in the image) to get more heating power!
 
 ## How can you improve heating efficiency in your garage?
 

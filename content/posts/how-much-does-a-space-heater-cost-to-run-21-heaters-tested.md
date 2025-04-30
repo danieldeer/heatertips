@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how much does space heater cost to run
-  image: /wp-content/uploads/2019/12/how-much-does-space-heater-cost-to-run.jpg
+  image: /img/how-much-does-space-heater-cost-to-run.webp
 date: "2019-12-30T11:04:23+00:00"
 guid: https://heatertips.com/?p=218
 tag:
@@ -125,7 +125,7 @@ Common mistakes:
 
 ## Average Electricity Rates by State
 
-![US household electricity cost to estimate space heater expenses](/wp-content/uploads/2019/12/Average-US-household-electricty-rate-by-state-1024x770.jpg)Source: [howmuch,net](https://howmuch.net/articles/electricity-rates-by-state)
+![US household electricity cost to estimate space heater expenses](/img/Average-US-household-electricty-rate-by-state.webp)Source: [howmuch,net](https://howmuch.net/articles/electricity-rates-by-state)
 
 Using this infographic you can easily look up your electricity rates. If you’re from another country, a quick google search will do the job.
 
@@ -208,7 +208,7 @@ Here’s a small list on (what I believe) each space heater is best to use for:
 - Oil-filled heaters - for heating large rooms (rather slowly)
 - Propane heaters - for lots of instant heat (also in locations without power supply)
 
-![infrared space heaters electricity cost less than others in some occasions](/wp-content/uploads/2019/12/infrared-space-heaters-electricity-cost.jpg)
+![infrared space heaters electricity cost less than others in some occasions](/img/infrared-space-heaters-electricity-cost.webp)
 
 ## How to use a space heater efficiently to reduce electricity costs
 
@@ -311,7 +311,7 @@ You just have to do something in order to keep the heat in your room. You don’
 >
 > [greenmatch.co.uk](https://www.greenmatch.co.uk/blog/2014/08/insulation-why-is-it-important) "
 
-![turn thermostat down to save space heater electricity cost](/wp-content/uploads/2019/12/turn-thermostat-down-to-save-space-heater-electricity-cost.jpg)
+![turn thermostat down to save space heater electricity cost](/img/turn-thermostat-down-to-save-space-heater-electricity-cost.webp)
 
 ## Conclusion
 

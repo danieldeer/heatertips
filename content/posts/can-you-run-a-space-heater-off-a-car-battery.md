@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can you run a space heater off a car battery
-  image: /wp-content/uploads/2019/11/can-you-run-a-space-heater-off-a-car-battery.jpg
+  image: /img/can-you-run-a-space-heater-off-a-car-battery.webp
 date: "2019-11-29T10:48:30+00:00"
 guid: https://heatertips.com/?p=101
 tag:
@@ -68,7 +68,7 @@ But in an emergency situation, where you need to keep warm, you don’t care abo
 
 _Note_: This is just a theoretical result. We’ll cover whether it makes sense later on. There’s a lot more to keep in mind.
 
-![to run a space heater off a car battery needs lots of electrical knowledge](/wp-content/uploads/2019/11/can-you-run-a-space-heater-off-a-car-battery-power.jpg)
+![to run a space heater off a car battery needs lots of electrical knowledge](/img/can-you-run-a-space-heater-off-a-car-battery-power.webp)
 
 ## You would need an inverter and a transformer
 

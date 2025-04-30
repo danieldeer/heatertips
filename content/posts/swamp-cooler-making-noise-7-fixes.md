@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: swamp-cooler-hessaire
-  image: /wp-content/uploads/2023/01/swamp-cooler-hessaire.jpg
+  image: /img/swamp-cooler-hessaire.webp
 date: "2023-01-20T12:20:42+00:00"
 guid: https://heatertips.com/?p=1479
 title: Swamp Cooler making Noise (7 Fixes)
@@ -92,7 +92,7 @@ A humming pump is not dangerous. It is a mere inconvenience.
 
 If the fan in your swamp cooler causes a continuous humming, your best bet is to simply place it on anti-vibration pads. I recommend [these **anti-vibration pads** (click here to view them on amazon)](https://www.amazon.com/Anti-Vibration-Pads-Tread-Level/dp/B07QFPKG9V?crid=1KUMAH03QRJJC&keywords=anti+vibration+pads&qid=1674041717&sprefix=anti+vibration+pads+%2Caps%2C339&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzT1JQVU9WVVBBMVRTJmVuY3J5cHRlZElkPUEwMDIyMTcyMlFNOUdVQkZLR0E1NiZlbmNyeXB0ZWRBZElkPUEwMTI4MjgyMjBEQlVDT1o3VEdHWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkCode=ll1&tag=heatertips-20&linkId=3c13560856a1306842bcdc13398af33c&language=en_US&ref_=as_li_ss_tl). They are designed for washing machines. But they work just as well for swamp coolers (which are a lot quieter than washing machines).
 
-![anti-vibration pads](/wp-content/uploads/2023/01/anti-vibration-pads.jpg)Anti-vibration pads absorb the noise and prevent it from being carried through the floor
+![anti-vibration pads](/img/anti-vibration-pads.webp)Anti-vibration pads absorb the noise and prevent it from being carried through the floor
 
 Theoretically, you could also replace the fan in your swamp cooler. But fans usually produce little noise as long as they are intact.
 
@@ -216,7 +216,7 @@ So, you don’t _have to_ fix this issue. But, of course, you can.
 
 Usually, you will find gurgling noises in the water lines leading to the water pads. But it can also come from the water line that connects the tap (or water bucket) with your water pump.
 
-![swamp cooler water line](/wp-content/uploads/2023/01/swamp-cooler-water-distribution-line.jpg)Gurgling usually comes from the water supply line or from the water distribution lines within the swamp cooler
+![swamp cooler water line](/img/swamp-cooler-water-distribution-line.webp)Gurgling usually comes from the water supply line or from the water distribution lines within the swamp cooler
 
 #### How to test
 
@@ -290,7 +290,7 @@ In large swamp coolers (such as a roof swamp cooler, or a larger non-portable de
 
 V-belts wear down over time. When a V-belt breaks, or during the time _before_ it breaks, it can cause scratching sounds, because rubber strands separate from the main V-belt body and rub against other parts in your swamp cooler.
 
-![swamp cooler broken part](/wp-content/uploads/2023/01/swamp-cooler-broken-part.jpg)A broken part inside a swamp cooler that can cause scratching sounds
+![swamp cooler broken part](/img/swamp-cooler-broken-part.webp)A broken part inside a swamp cooler that can cause scratching sounds
 
 #### How to test
 

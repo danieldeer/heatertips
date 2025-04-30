@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier running cost electricity bill
-  image: /wp-content/uploads/2023/07/air-purifier-running-cost-electricity-bill.jpg
+  image: /img/air-purifier-running-cost-electricity-bill.webp
 date: "2023-07-26T11:32:07+00:00"
 guid: https://heatertips.com/?p=1605
 title: 'Air Purifier Running Cost: The Ultimate Guide'
@@ -37,7 +37,7 @@ Different electric devices consume different amounts of power. So, before we can
 
 My favorite, and, by far the #1 best-selling air purifier is the [Levoit Core 300S (click here to view my review)](/best-air-purifier/). It consumes 33W.
 
-![air purifier power rating label levoit core](/wp-content/uploads/2023/07/air-purifier-power-rating-label-levoit-core.jpg)The power rating of an air purifier is easy to spot on the technical-details label. There it says "Rated Power: 33W"
+![air purifier power rating label levoit core](/img/air-purifier-power-rating-label-levoit-core.webp)The power rating of an air purifier is easy to spot on the technical-details label. There it says "Rated Power: 33W"
 
 Let’s have a look at different air purifiers and their wattages:
 
@@ -77,7 +77,7 @@ Since almost all air purifiers on the market use standardized HEPA 13 filters, t
 
 But if you ever switch out the HEPA filter for a less fine-grained one, you should see a drop in power usage.
 
-![air purifier hepa filter levoit core](/wp-content/uploads/2023/07/air-purifier-hepa-filter-levoit-core.jpg)Here's a typical air purifier filter. Different filters allow for different airspeeds!
+![air purifier hepa filter levoit core](/img/air-purifier-hepa-filter-levoit-core.webp)Here's a typical air purifier filter. Different filters allow for different airspeeds!
 
 ### How Does Fan Speed Affect Power Consumption?
 
@@ -108,7 +108,7 @@ That’s quite a jump!
 
 If you flip the reasoning around, this means you can save 42.4% on your air purifier’s electricity bill by reducing the airflow setting from “High” to “Medium”.
 
-![air purifier levoit core touch panel timer](/wp-content/uploads/2023/07/air-purifier-levoit-core-touch-panel-timer.jpg)On the [Levoit Core 300 air purifier](/best-air-purifier/), you have 3 air speeds to choose from, plus night mode. I am running on air speed 1 right now.
+![air purifier levoit core touch panel timer](/img/air-purifier-levoit-core-touch-panel-timer.webp)On the [Levoit Core 300 air purifier](/best-air-purifier/), you have 3 air speeds to choose from, plus night mode. I am running on air speed 1 right now.
 
 ## Electricity consumption of air purifiers by running time
 
@@ -222,7 +222,7 @@ Or alternatively, you can do your own full calculation and factor in your exact 
 
 To get your exact electricity rate, you can check your latest electricity bill. Here’s where to lookup your electricity rate:
 
-![electricity bill electricity rate lookup](/wp-content/uploads/2023/07/electricity-bill-electricity-rate-lookup.jpg)[Sample electricity bill](https://www.eversource.com/content/residential/account-billing/manage-bill/about-your-bill/understanding-your-bill/sample-electric-bill/ct) and where to lookup your electricity rate - bill layouts differ by provider, but you should know what you’re looking for now!
+![electricity bill electricity rate lookup](/img/electricity-bill-electricity-rate-lookup.webp)[Sample electricity bill](https://www.eversource.com/content/residential/account-billing/manage-bill/about-your-bill/understanding-your-bill/sample-electric-bill/ct) and where to lookup your electricity rate - bill layouts differ by provider, but you should know what you’re looking for now!
 
 ## How Much Does an Air Purifier Cost to Run?
 
@@ -374,7 +374,7 @@ Every once in a while, instead of replacing filters, brush the dust off with a s
 
 Unfortunately, you can’t wash HEPA filters. I think some people do, but I am sure this breaks the air purification feature of your air purifier. It might still collect dust, but it won’t collect smaller microparticles after washing.
 
-![air purifier levoit core filter replacement](/wp-content/uploads/2023/07/air-purifier-levoit-core-filter-replacement.jpg)Replacing air purifier filters is incredibly easy. Just open the bottom part, and put in the new filter!
+![air purifier levoit core filter replacement](/img/air-purifier-levoit-core-filter-replacement.webp)Replacing air purifier filters is incredibly easy. Just open the bottom part, and put in the new filter!
 
 ## Conclusion
 

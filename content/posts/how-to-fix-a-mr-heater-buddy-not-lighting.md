@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: best propane heater mr heater
-  image: /wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg
+  image: /img/best-propane-heater-mr-heater.webp
 date: "2022-12-18T14:40:06+00:00"
 guid: https://heatertips.com/?p=1379
 title: How to fix a Mr. Heater Buddy not lighting
@@ -32,7 +32,7 @@ As a safety mechanism, the gas valve closes. That’s to protect you from incomp
 
 That’s the usual cause for a Mr. Heater Buddy not igniting. Let’s have a look at what can cause this problem and how to fix it.
 
-![mr heater buddy thermocouple](/wp-content/uploads/2022/12/mr-heater-buddy-thermocouple.jpg)That's the thermocouple.
+![mr heater buddy thermocouple](/img/mr-heater-buddy-thermocouple.webp)That's the thermocouple.
 
 ### Dirty pilot light opening
 
@@ -48,7 +48,7 @@ Use Q-tips and rubbing alcohol to clean the pilot light opening. You need to use
 
 After a thorough clean, try to turn on your propane heater. The pilot light should not burn blue. And you should be able to switch on the heating panels.
 
-![mr heater buddy pilot light](/wp-content/uploads/2022/12/mr-heater-buddy-pilot-light.jpg)The pilot light is the opening where the flame comes out!
+![mr heater buddy pilot light](/img/mr-heater-buddy-pilot-light.webp)The pilot light is the opening where the flame comes out!
 
 **How to prevent this in the future:** The oil in your pilot light comes from using a propane hose line without a filter.
 

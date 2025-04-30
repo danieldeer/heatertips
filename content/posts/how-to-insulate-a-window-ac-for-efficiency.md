@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: window air conditioner with window kit
-  image: /wp-content/uploads/2022/12/window-air-conditioner-with-window-kit.jpg
+  image: /img/window-air-conditioner-with-window-kit.webp
 date: "2022-12-09T10:37:17+00:00"
 guid: https://heatertips.com/?p=1266
 title: How to insulate a Window AC (for Efficiency)
@@ -92,7 +92,7 @@ And it does not look like it’s do-it-yourself insulation such as spray foam or
 
 Additionally, foam tape requires little installation work. It’s just taping something, with no skills involved.
 
-![foam tape](/wp-content/uploads/2022/12/air-conditioner-window-insulation-foam.jpg)
+![foam tape](/img/air-conditioner-window-insulation-foam.webp)
 
 ### \#4 Close outdoor shutters to minimize heat entering
 

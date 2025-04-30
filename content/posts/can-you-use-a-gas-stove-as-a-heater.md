@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: gas-stove-and-propane-heater
-  image: /wp-content/uploads/2022/12/gas-stove-and-propane-heater.jpg
+  image: /img/gas-stove-and-propane-heater.webp
 date: "2022-12-29T11:05:41+00:00"
 guid: https://heatertips.com/?p=1439
 title: Can you use a Gas Stove as a Heater?
@@ -81,7 +81,7 @@ There are two things you should constantly do:
 As long as the flame burns blue, the risk of carbon monoxide poisoning is very small. Still, open your window regularly for a few minutes just to make sure.
 - **Listen to your body.** Lack of oxygen can cause headache (small lack) and nausea (significant lack). If you notice any health-related issues, turn off your gas stove.
 
-![](/wp-content/uploads/2022/12/gas-stove-blue-flame.jpg)The flame of your gas stove always has to be blue!
+![](/img/gas-stove-blue-flame.webp)The flame of your gas stove always has to be blue!
 
 ### No tip-over protection
 
@@ -133,7 +133,7 @@ Theoretically, you can also place a pot without water on your gas stove. But dep
 
 I recommend filling it with water since it is a very good heat store.
 
-![mr heater next to gas stove](/wp-content/uploads/2022/12/mr-heater-next-to-gas-stove.jpg)Portable propane gas heaters are a much safer backup heat source than gas stoves. Always have one around!
+![mr heater next to gas stove](/img/mr-heater-next-to-gas-stove.webp)Portable propane gas heaters are a much safer backup heat source than gas stoves. Always have one around!
 
 ## What’s a better alternative to using a gas stove as a heater?
 

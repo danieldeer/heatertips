@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: evaporative-swamp-cooler-hessaire-outdoors
-  image: /wp-content/uploads/2023/01/evaporative-swamp-cooler-hessaire-outdoors.jpg
+  image: /img/evaporative-swamp-cooler-hessaire-outdoors.webp
 date: "2023-07-19T18:07:31+00:00"
 guid: https://heatertips.com/?p=1571
 title: How to fix Swamp Cooler Smell
@@ -177,7 +177,7 @@ You can wipe the entire swamp cooler’s surface with a wet cleaning cloth. Or y
 
 I like to use a vacuum for that. Of course, the standard carpet attachment doesn’t work well for that. I like to use an attachment intended for narrow spaces such as couch slits or cars.
 
-![vacuum cleaner attachments for cleaning](/wp-content/uploads/2023/07/swamp-cooler-smell-removal.jpg)
+![vacuum cleaner attachments for cleaning](/img/swamp-cooler-smell-removal.webp)
 
 Once that’s done, your swamp cooler is ready to run again! The smell is gone now.
 

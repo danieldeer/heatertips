@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel heater e10 error code
-  image: /wp-content/uploads/2023/11/diesel-heater-e10-error-code.jpg
+  image: /img/diesel-heater-e10-error-code.webp
 date: "2023-11-30T21:02:30+00:00"
 guid: https://heatertips.com/?p=2243
 title: Diesel Heater E10 Error Code (3 Causes and Fixes)
@@ -77,7 +77,7 @@ If no fuel is reaching your diesel heater, it obviously can’t start, which cau
 - **Inspect Fuel Line:** Look for any kinks, damage, or excessive length in the fuel line. A hard nylon line can resist kinks better than softer materials.  
 But a soft fuel line works just as well _if_ it has no kinks and dents.
 
-![diesel heater fuel pump](/wp-content/uploads/2023/11/diesel-heater-fuel-pump.jpg)Check the fuel pump!
+![diesel heater fuel pump](/img/diesel-heater-fuel-pump.webp)Check the fuel pump!
 
 #### How to Fix It:
 
@@ -105,7 +105,7 @@ Diesel heaters oftentimes don’t monitor the combustion process, which results 
 Ensure it’s clean and free from blockages.
 - **Air Intake Inspection:** Verify that the air intakes are clear. Restricted airflow can lead to inefficient combustion and contribute to issues with the glow plug and burning chamber.
 
-![diesel heater clogged exhaust vent](/wp-content/uploads/2023/11/diesel-heater-clogged-exhaust-vent.jpg)A clogged exhaust can look like this if something went _really_ wrong. It's unlikely to happen, but make sure all airways in your diesel heater are free.
+![diesel heater clogged exhaust vent](/img/diesel-heater-clogged-exhaust-vent.webp)A clogged exhaust can look like this if something went _really_ wrong. It's unlikely to happen, but make sure all airways in your diesel heater are free.
 
 #### How to Fix It:
 
@@ -128,7 +128,7 @@ Here are some advanced, but very useful tips to keep your diesel heater working 
 - **Battery Direct Connection:** For heaters struggling with power issues, connect the heater _directly_ to the battery using high-quality, thick-gauge wires. This bypasses any potential voltage drops from the vehicle’s wiring harness.
 - **Exhaust Backpressure Check:** Occasionally check the exhaust system for proper backpressure. Incorrect backpressure can affect combustion, leading to errors. Adjusting or replacing the exhaust silencer can rectify this issue.
 
-[![hot shots secret diesel heater anti gel additive](/wp-content/uploads/2023/11/hot-shots-secret-diesel-heater-anti-gel-additive.jpg)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=2RL97HRY6TLI&keywords=diesel%2Bfuel%2Badditive&qid=1701376936&sprefix=diesel%2Bheater%2B8kw%2Caps%2C421&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=086086b3a44ab5f19d8a7bd881f0f10b&language=en_US&ref_=as_li_ss_tl) Try [diesel anti-gel additive](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=2RL97HRY6TLI&keywords=diesel%2Bfuel%2Badditive&qid=1701376936&sprefix=diesel%2Bheater%2B8kw%2Caps%2C421&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=086086b3a44ab5f19d8a7bd881f0f10b&language=en_US&ref_=as_li_ss_tl). It will make a difference whenever it's cold.
+[![hot shots secret diesel heater anti gel additive](/img/hot-shots-secret-diesel-heater-anti-gel-additive.webp)](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=2RL97HRY6TLI&keywords=diesel%2Bfuel%2Badditive&qid=1701376936&sprefix=diesel%2Bheater%2B8kw%2Caps%2C421&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=086086b3a44ab5f19d8a7bd881f0f10b&language=en_US&ref_=as_li_ss_tl) Try [diesel anti-gel additive](https://www.amazon.com/Hot-Shots-Secret-Anti-Gel-Squeeze/dp/B0189J5Y40?crid=2RL97HRY6TLI&keywords=diesel%2Bfuel%2Badditive&qid=1701376936&sprefix=diesel%2Bheater%2B8kw%2Caps%2C421&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=heatertips-20&linkId=086086b3a44ab5f19d8a7bd881f0f10b&language=en_US&ref_=as_li_ss_tl). It will make a difference whenever it's cold.
 
 ## What to do if you can’t fix the E10 error?
 

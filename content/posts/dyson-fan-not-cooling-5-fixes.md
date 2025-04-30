@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /wp-content/uploads/2022/01/are-dyson-heaters-safe.jpg
+  image: /img/are-dyson-heaters-safe.webp
 date: "2023-08-10T09:46:34+00:00"
 guid: https://heatertips.com/?p=1715
 title: Dyson Fan not Cooling (5 Fixes)
@@ -84,7 +84,7 @@ If there are, this could be hindering airflow.
 
 Make sure the fan is turned off and unplugged while doing this.
 
-![dyson hot cool air inlet holes](/wp-content/uploads/2022/12/dyson-hot-cool-air-inlet-holes.jpg)These are the air inlet holes!
+![dyson hot cool air inlet holes](/img/dyson-hot-cool-air-inlet-holes.webp)These are the air inlet holes!
 
 ### 3\. Clogged internal parts
 
@@ -100,7 +100,7 @@ Let’s have a look at that.
 
 Don’t use water here! Water can damage the electronics.
 
-![dyson hot cool dust in internal components](/wp-content/uploads/2022/12/dyson-hot-cool-heater-dust-internal-components.jpg)Here's how much dust accumulates in a Dyson over time.
+![dyson hot cool dust in internal components](/img/dyson-hot-cool-heater-dust-internal-components.webp)Here's how much dust accumulates in a Dyson over time.
 
 ### 4\. Target temperature set too high (for Dyson Hot+Cool)
 
@@ -130,7 +130,7 @@ Here’s how Dyson describes backward airflow mode:
 
 The air isn't blowing toward you even when the fan is running.
 
-![dyson pure cool backwards airflow mode](/wp-content/uploads/2023/08/dyson-pure-cool-backwards-airflow-mode.png)The highlighted lower left button is the "backward airflow mode" button.
+![dyson pure cool backwards airflow mode](/img/dyson-pure-cool-backwards-airflow-mode.webp)The highlighted lower left button is the "backward airflow mode" button.
 
 **How to fix:** Change the fan's airflow direction mode using the remote control or the button on the fan, switching it from backward airflow mode to its regular mode.
 

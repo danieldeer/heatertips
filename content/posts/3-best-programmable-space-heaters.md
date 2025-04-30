@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best-programmable-space-heater
-  image: /wp-content/uploads/2021/12/best-programmable-space-heater.jpg
+  image: /img/best-programmable-space-heater.webp
 date: "2021-12-09T17:03:55+00:00"
 guid: https://heatertips.com/?p=507
 title: 3 Best Programmable Space Heaters
@@ -27,7 +27,7 @@ That being said, let’s have a look at my favorite programmable space heaters.
 
 - [**DeLonghi TRD40615EBK** (click here to view it on amazon)](https://amzn.to/3rtUfPv) \- This is another DeLonghi heater. Instead of a 24-hour dial system, it has a display with buttons to program a 24-hour timer and the thermostat. It’s a perfectly well-built heater capable to heat your room energy efficiently. If you want to pick one of the DeLonghi heaters, I would suggest you pick based on which way to program you to prefer. If you prefer a digital display with buttons, then go for this heater. But if you’re a little more the keep-it-simple-stupid kind of person (just like me), then go for the previous DeLonghi heater!
 
-![](/wp-content/uploads/2021/12/best-programmable-space-heater-24h-dial.jpg)My preferred heater: The DeLonghi programmable space heater with a 24 hour dial.
+![](/img/best-programmable-space-heater-24h-dial.webp)My preferred heater: The DeLonghi programmable space heater with a 24 hour dial.
 
 ## Why I chose these programmable space heaters
 

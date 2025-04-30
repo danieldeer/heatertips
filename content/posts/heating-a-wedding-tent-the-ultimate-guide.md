@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: heating-a-wedding-tent-the-ultimate-guide
-  image: /wp-content/uploads/2019/12/heating-a-wedding-tent-the-ultimate-guide.jpg
+  image: /img/heating-a-wedding-tent-the-ultimate-guide.webp
 date: "2019-12-16T09:19:49+00:00"
 guid: https://heatertips.com/?p=188
 tag:
@@ -123,7 +123,7 @@ That’s why you should stick to safer - and better looking - heaters.
 
 I recommend using patio heaters. Most of them provide around 40,000 - 50,000 BTU by getting two or three of them, you can keep your tent warm safely.
 
-![patio heaters for heating wedding tents](/wp-content/uploads/2019/12/patio-heater-for-heating-a-wedding-tent.jpg)
+![patio heaters for heating wedding tents](/img/patio-heater-for-heating-a-wedding-tent.webp)
 
 Here’s my recommendation.
 
@@ -185,7 +185,7 @@ Even if you have three patio heaters that can keep some guests warm, the heat wi
 
 Tent walls are the most important part of your tent. They block off side winds. Without side tent walls, your wedding can become chilly and some guests might even get sick the next day.
 
-![for heating a wedding tent - tent walls are very important](/wp-content/uploads/2019/12/heating-a-wedding-tent-with-floor.jpg)[Camelot Party Rentals](https://flickr.com/photos/camelotpartyrentals/5815931815/)
+![for heating a wedding tent - tent walls are very important](/img/heating-a-wedding-tent-with-floor.webp)[Camelot Party Rentals](https://flickr.com/photos/camelotpartyrentals/5815931815/)
 
 ## Do you need a floor to keep the tent warm?
 

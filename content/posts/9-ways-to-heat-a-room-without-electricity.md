@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a room without electricity
-  image: /wp-content/uploads/2022/10/how-to-heat-a-room-without-electricity.jpg
+  image: /img/how-to-heat-a-room-without-electricity.webp
 date: "2022-10-22T17:29:16+00:00"
 guid: https://heatertips.com/?p=789
 title: 9 Ways to Heat a Room without Electricity
@@ -33,7 +33,7 @@ This model is sized for large rooms and is able to keep your entire family heate
 
 **The** [**Mr. Heater propane heater**](/recommended-products/propane-heater/) **can output 18,000 BTUs per hour, which is the equivalent of 3 electric space heaters on full power.**
 
-![mr heater buddy propane heater in garage](/wp-content/uploads/2023/09/mr-heater-buddy-propane-heater-in-garage.jpg)The Mr Heater Buddy is my favorite propane heater!
+![mr heater buddy propane heater in garage](/img/mr-heater-buddy-propane-heater-in-garage.webp)The Mr Heater Buddy is my favorite propane heater!
 
 So, how long does it last?
 
@@ -81,7 +81,7 @@ The forestry department of [Utah State University](https://forestry.usu.edu/fore
 
 They are the best types of wood for heating.
 
-![are wood stove inserts worth it](/wp-content/uploads/2021/11/are-wood-stove-inserts-worth-it.jpg)Wood-burning heaters (such as this wood stove) are very reliable & outage-safe. But they require installation.
+![are wood stove inserts worth it](/img/are-wood-stove-inserts-worth-it.webp)Wood-burning heaters (such as this wood stove) are very reliable & outage-safe. But they require installation.
 
 #### Cost-efficiency of different wood types
 
@@ -133,7 +133,7 @@ You can even mix the dried materials with plant oil for more heat.
 
 Since all of that is only imaginable in emergency situations, I’ll leave it here as an anecdote and I don’t include it in the cost-efficiency analysis.
 
-![how to heat a cabin without electricity](/wp-content/uploads/2022/11/how-to-heat-a-cabin-without-electricity.jpg)These simple Nepalese wood stoves are fired with Yak dung!
+![how to heat a cabin without electricity](/img/how-to-heat-a-cabin-without-electricity.webp)These simple Nepalese wood stoves are fired with Yak dung!
 
 ### 5\. Candles
 
@@ -179,7 +179,7 @@ Have a look, if you are interested.
 
 **For heating a room without electricity, a flowerpot heater definitely works. However, the cost of heating with candles is too high and other options such as propane or wood are a lot more practical.**
 
-![how to build a terracotta clay flower pot heater](/wp-content/uploads/2022/09/how-to-build-a-terracotta-clay-flower-pot-heater.jpg)Flowerpot heaters are trending. But candles produce only little heat and are comparably expensive!
+![how to build a terracotta clay flower pot heater](/img/how-to-build-a-terracotta-clay-flower-pot-heater.webp)Flowerpot heaters are trending. But candles produce only little heat and are comparably expensive!
 
 ### 7\. Run a space heater off a generator
 

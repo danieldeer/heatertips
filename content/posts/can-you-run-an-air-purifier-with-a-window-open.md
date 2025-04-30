@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier window open
-  image: /wp-content/uploads/2023/07/air-purifier-window-open.jpg
+  image: /img/air-purifier-window-open.webp
 date: "2023-07-29T10:50:00+00:00"
 guid: https://heatertips.com/?p=1629
 title: Can you run an Air Purifier with a Window open?
@@ -86,7 +86,7 @@ In the figure below, you can see the filtration efficiency for two different fil
 
 As you can see, the filtration efficiency has a minimum at a particle size of around 0.1 microns (= 100nm).
 
-![air purifier hepa filter filtration efficiency](/wp-content/uploads/2023/07/air-purifier-hepa-filter-filtration-efficiency.png)from “Assessment of Capacity to Capture DNA Aerosols by Clean Filters for Molecular Biology Experiments” ( [source](https://www.researchgate.net/publication/325801518_Assessment_of_Capacity_to_Capture_DNA_Aerosols_by_Clean_Filters_for_Molecular_Biology_Experiments))
+![air purifier hepa filter filtration efficiency](/img/air-purifier-hepa-filter-filtration-efficiency.webp)from “Assessment of Capacity to Capture DNA Aerosols by Clean Filters for Molecular Biology Experiments” ( [source](https://www.researchgate.net/publication/325801518_Assessment_of_Capacity_to_Capture_DNA_Aerosols_by_Clean_Filters_for_Molecular_Biology_Experiments))
 
 So, the smaller the particles, the better a HEPA filter can collect them.
 
@@ -122,7 +122,7 @@ Australia has very high air quality and is mostly tagged with blue quality marke
 
 In the yellow regions, air quality surpasses the WHO air quality guideline by a factor of 2 to 3.
 
-![air quality map who particles](/wp-content/uploads/2023/07/air-quality-map-who-particles.png)
+![air quality map who particles](/img/air-quality-map-who-particles.webp)
 
 If you compare that to dark red or even violet-colored India and Southeast Asia, you can tell our air is _a lot better than theirs._
 
@@ -142,7 +142,7 @@ If you are, however, in a polluted area, I recommend turning off your air purifi
 
 If the outdoor air is polluted where you live, and you run your air purifier with a window open, essentially the following happens:
 
-![air purifier pollution open window accumulation](/wp-content/uploads/2023/07/air-purifier-pollution-open-window-accumulation.png)
+![air purifier pollution open window accumulation](/img/air-purifier-pollution-open-window-accumulation.webp)
 
 **Dirty air from the outdoors enters your room. Your air purifier collects the particles and blows the clean air outside.**
 
@@ -166,7 +166,7 @@ This approach ensures that your air purifier does not blow any clean air outdoor
 
 The guys from [smartairfilters.com](https://smartairfilters.com/en/blog/do-air-purifiers-work-window-open/) did the following pollution level measurements in their flat in Beijing.
 
-![air purifier pollution open window accumulation](/wp-content/uploads/2023/07/air-purifier-pollution-open-window-accumulation-1.png)
+![air purifier pollution open window accumulation](/img/air-purifier-pollution-open-window-accumulation-1.webp)
 
 As you can see, the red bar indicates that when your window is open, your air purifier only reduces particles by 59.6% (as compared to when it’s not running).
 

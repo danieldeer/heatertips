@@ -2,7 +2,7 @@
 author: Daniel Hirsch
 cover:
   alt: best propane heater mr heater
-  image: /wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg
+  image: /img/best-propane-heater-mr-heater.webp
 date: "2020-01-06T18:28:30+00:00"
 guid: https://heatertips.com/?page_id=301
 title: 'Best Propane Heater: My Top Pick'

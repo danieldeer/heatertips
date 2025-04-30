@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: vornado MVH vortex heater with box
-  image: /wp-content/uploads/2023/08/vornado-MVH-vortex-heater-with-box.jpg
+  image: /img/vornado-MVH-vortex-heater-with-box.webp
 date: "2023-08-30T08:10:39+00:00"
 guid: https://heatertips.com/?p=1853
 title: Are Vornado Heaters energy efficient?
@@ -51,7 +51,7 @@ Perceived energy efficiency measures how well a heater heats _you._
 
 **Vornado heaters produce a stream of hot air across the room. They heat the whole room, but within the vortex stream temperature is elevated.**
 
-![](/wp-content/uploads/2023/08/vornado-fan-vortex-airflow.png)Vornado heaters create a vortex that blows air throughout the entire room.
+![](/img/vornado-fan-vortex-airflow.webp)Vornado heaters create a vortex that blows air throughout the entire room.
 
 Vornado heaters are both able to
 
@@ -74,7 +74,7 @@ I can recommend two Vornado heater models. Let’s have a look:
 
 ### Simple & sturdy: The Vornado MVH Vortex Heater
 
-![vornado vortex space heater](/wp-content/uploads/2023/08/vornado-vortex-space-heater-260x300.jpg)
+![vornado vortex space heater](/img/vornado-vortex-space-heater.webp)
 
 This one is my personal favorite:
 
@@ -90,7 +90,7 @@ A great, solid heater.
 
 ### High-end with remote: The Vornado TAVH10
 
-![vornado tavh10 space heater](/wp-content/uploads/2023/08/vornado-tavh10-space-heater-300x293.jpg)
+![vornado tavh10 space heater](/img/vornado-tavh10-space-heater.webp)
 
 Another great Vornado heater is [this **Vornado TAVH10** (click to see it on amazon)](https://www.amazon.com/Vornado-Electric-Adjustable-Thermostat-Settings/dp/B07WZW4BQV?content-id=amzn1.sym.10e6d77b-0012-4a6b-b8f0-1618f27938ee%3Aamzn1.sym.10e6d77b-0012-4a6b-b8f0-1618f27938ee&crid=3T2TW9MVIKT53&cv_ct_cx=vornado%2Bheater&keywords=vornado%2Bheater&pd_rd_i=B07WZW4BQV&pd_rd_r=07643115-86c5-447b-9e54-7aba87b4a43d&pd_rd_w=VuoQZ&pd_rd_wg=oXQ1C&pf_rd_p=10e6d77b-0012-4a6b-b8f0-1618f27938ee&pf_rd_r=JWMNCVS4S50Q5H52BNMP&qid=1693379475&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=vornado%2Bheate%2Caps%2C188&sr=1-2-2b34d040-5c83-4b7f-ba01-15975dfb8828-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll1&tag=heatertips-20&linkId=d8148f6f96b27f7c9b85269808929513&language=en_US&ref_=as_li_ss_tl).
 
@@ -168,7 +168,7 @@ So, if you really want to get the most efficient space heater, I recommend getti
 
 My recommendation: [This **Dr. Infrared heater** (click to see my review)](/recommended-products/best-infrared-heater/).
 
-![](/wp-content/uploads/2023/08/infrared-heater-dr-infrared-276x300.webp)Infrared heaters are even more efficient than Vornado heaters. But their heat is not as comfortable to many people.
+![](/img/infrared-heater-dr-infrared.webp)Infrared heaters are even more efficient than Vornado heaters. But their heat is not as comfortable to many people.
 
 Not everybody likes how infrared heaters feel. They emit hot infrared rays that feel very “dry” (as an engineer I feel ashamed calling radiation “dry”, so sorry my dear colleagues).
 

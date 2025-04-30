@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can you run two space heaters at once
-  image: /wp-content/uploads/2022/11/can-you-run-two-space-heaters-at-once.jpg
+  image: /img/can-you-run-two-space-heaters-at-once.webp
 date: "2022-11-01T12:20:11+00:00"
 guid: https://heatertips.com/?p=861
 title: Can you Run Two Space Heaters at once? (Experiment Confirmed)

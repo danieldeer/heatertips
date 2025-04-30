@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters that don't dry the air
-  image: /wp-content/uploads/2019/12/space-heaters-that-dont-dry-the-air.jpg
+  image: /img/space-heaters-that-dont-dry-the-air.webp
 date: "2019-12-18T08:37:06+00:00"
 guid: https://heatertips.com/?p=194
 tag:
@@ -43,7 +43,7 @@ The other two heaters are great choices again. Read through the reviews. They’
 
 ### Dr Infrared Heater Dual Heating System
 
-![the dr heater infrared heater has built-in humidifier so it doesn't dry the air](/wp-content/uploads/2019/12/dr-heater-doesnt-dry-out-the-air.jpg)
+![the dr heater infrared heater has built-in humidifier so it doesn't dry the air](/img/dr-heater-doesnt-dry-out-the-air.webp)
 
 Link: [**Dr Infrared Heater Advanced Dual Heating System with Humidifier and Oscillation Fan** (click here to check the price on amazon)](https://www.amazon.com/Dr-Infrared-Heater-DR998-Oscillation/dp/B004I1CN52/ref=as_li_ss_tl?crid=3N4OXDH09D7BO&keywords=space+heater+humidifier+combo&qid=1576574106&sprefix=space+heater+humidi,aps,209&sr=8-6&linkCode=ll1&tag=heatertips-20&linkId=0627eaa5a7ce6090e36d7fc57eedcf1c&language=en_US)
 
@@ -69,7 +69,7 @@ You can even run it throughout the night:
 
 ### Wiland Space Heater with Built-In Humidifier
 
-![wiland space heaters don't dry the air](/wp-content/uploads/2019/12/wiland-space-heater-doesnt-dry-the-air.jpg)
+![wiland space heaters don't dry the air](/img/wiland-space-heater-doesnt-dry-the-air.webp)
 
 Link: [**Wiland Space Heater with built-in humidifier** (click here to check the price on amazon)](https://www.amazon.com/Humidifier-Oscillating-Thermostat-Protection-Conditioner/dp/B08L9YNKC5/ref=as_li_ss_tl?crid=2QNF0P146JHOZ&dchild=1&keywords=wiland+space+heater+with+humidifier&qid=1608634552&sprefix=wiland+,aps,298&sr=8-6&linkCode=ll1&tag=heatertips-20&linkId=e3009a261ca80264157590a8ac4ae75c&language=en_US)
 
@@ -97,7 +97,7 @@ If you are curious, here’s an article on [how infrared works](/infrared-vs-rad
 
 ### Portable Space Heater with Built-in Humidifier
 
-![](/wp-content/uploads/2020/12/61ITtpa9VGL._AC_SL1000_.jpg)
+![](/img/61ITtpa9VGL._AC_SL1000_.jpg)
 
 Link: [**Portable Space Heater with built-in humidifier** (click here to check the price on amazon)](https://www.amazon.com/Portable-Humidifier-Widespread-Oscillation-Multi-protection/dp/B08HWQTJ7K/ref=as_li_ss_tl?crid=2MY8URYMKEX2C&dchild=1&keywords=portable+space+heater+with+humidifier&qid=1608634650&sprefix=portable+space+heater+with+humidi,aps,262&sr=8-6&linkCode=ll1&tag=heatertips-20&linkId=f0cdec6de0ba8fcb3577aecbc715b50e&language=en_US)
 
@@ -158,7 +158,7 @@ Let’s quickly take a look at 4 possibilities.
 1. **Regularly air your room** \- When you’re heating your room, the inside air might become even dryer than the outside air. If you keep your room vented while heating, it helps a little for humidification.
 1. **Get a humidifier** \- Getting a humidifier is the most flexible and the best controllable method to humidify the dry air in your room. You can either get space heaters that don’t dry the air (like the ones I recommended with built-in humidifiers), or you can get a separate humidifier. A humidifier continuously evaporates water and keeps your room at a comfortable humidity.
 
-![space heaters along with humidifiers don't dry the air](/wp-content/uploads/2019/12/humidifier-to-prevent-the-air-from-getting-dry.jpg)by: [Bill Smith](https://flickr.com/photos/byzantiumbooks/39791280192/) ( [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))
+![space heaters along with humidifiers don't dry the air](/img/humidifier-to-prevent-the-air-from-getting-dry.webp)by: [Bill Smith](https://flickr.com/photos/byzantiumbooks/39791280192/) ( [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))
 
 ## Can I use a space heater along with a humidifier?
 
