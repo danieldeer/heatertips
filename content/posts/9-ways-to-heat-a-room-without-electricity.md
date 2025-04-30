@@ -47,7 +47,11 @@ On full power settings, the Mr. Heater propane heater drains a 20-pound propane 
 
 However, in emergency situations, you’ll never power the heater on full throttle. You can use it on 3 different heat settings:
 
-Propane Heater Setting**How long does propane last?**Low (4,000 BTU/h)108 hoursRegular (9,000 BTU/h)48 hoursHigh (18,000 BTU/h)24 hours
+| Propane Heater Setting | BTU/h             | Runtime (20 lb tank) |
+|------------------------|------------------|-----------------------|
+| **Low**                | 4,000 BTU/h       | 108 hours             |
+| **Regular**            | 9,000 BTU/h       | 48 hours              |
+| **High**               | 18,000 BTU/h      | 24 hours              |
 
 So, on the lowest 4,000 BTUs per hour setting, which is the equivalent of an electric space heater running on 1,100W of power, you are able to heat for a full 108h continuously.
 
