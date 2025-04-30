@@ -87,7 +87,22 @@ They are the best types of wood for heating.
 
 Here are more types of wood sorted by the heat per cord. Additionally, I researched the [cost of each wood species](http://www.segmentedturning.com/woodcosts.htm) and found which type of wood is the most cost-effective.
 
-Wood SpeciesHeat per Cord (Million BTUs)Cost per Cord (USD)Cost per Million BTU (in USD)Alder17.5$200.00$11.43Apple27$300.00$11.11Ash, Green20$350.00$17.50Aspen18.2$120.00$6.59Beech27.5$300.00$10.91Birch20.8$300.00$14.42Douglas-fir20.7$150.00$7.25Elm20$200.00$10.00Juniper21.8$300.00$13.76Larch21.8$300.00$13.76Locust27.9$300.00$10.75Maple25.5$300.00$11.76Oak26.2$300.00$11.45Pine21.1$120.00$5.69
+| Wood Species  | Heat per Cord (Million BTUs) | Cost per Cord (USD) | Cost per Million BTU (USD) |
+|---------------|-------------------------------|----------------------|-----------------------------|
+| Alder         | 17.5                          | $200.00              | $11.43                      |
+| Apple         | 27.0                          | $300.00              | $11.11                      |
+| Ash, Green    | 20.0                          | $350.00              | $17.50                      |
+| Aspen         | 18.2                          | $120.00              | $6.59                       |
+| Beech         | 27.5                          | $300.00              | $10.91                      |
+| Birch         | 20.8                          | $300.00              | $14.42                      |
+| Douglas-fir   | 20.7                          | $150.00              | $7.25                       |
+| Elm           | 20.0                          | $200.00              | $10.00                      |
+| Juniper       | 21.8                          | $300.00              | $13.76                      |
+| Larch         | 21.8                          | $300.00              | $13.76                      |
+| Locust        | 27.9                          | $300.00              | $10.75                      |
+| Maple         | 25.5                          | $300.00              | $11.76                      |
+| Oak           | 26.2                          | $300.00              | $11.45                      |
+| Pine          | 21.1                          | $120.00              | $5.69                       |
 
 As you see in the table, most sorts of common firewood such as Oak, Birch, and Beech are in the $10 - $14 per Million BTU range.
 
