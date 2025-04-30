@@ -338,11 +338,11 @@ Coway’s replacement filter costs are absolutely infuriating.
 
 One [set of non-original replacement filters](https://www.amazon.com/400-Coway-AIRMEGA-Max2-400S/dp/B083FLKPYS?keywords=coway+airmega+replacement+filter&qid=1691440460&sprefix=coway+airmega+rep%2Caps%2C213&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=heatertips-20&linkId=a0be386e1526dae36dc991da14d81b74&language=en_US&ref_=as_li_ss_tl) costs about $50.
 
-| Air Purifier Model     | Replacement Filter Cost | Source                                                                 |
-|------------------------|--------------------------|------------------------------------------------------------------------|
-| Coway Airmega 300      | $99                      | [Original](https://cowaymega.com/pages/filters)                        |
-| Coway Airmega 400      | $129                     | [Original](https://cowaymega.com/pages/filters)                        |
-| Coway Airmega ProX     | $199                     | [Original](https://cowaymega.com/pages/filters)                        |
+| Air Purifier Model     | Replacement Filter Cost |
+|------------------------|--------------------------|
+| Coway Airmega 300      | $99                      |
+| Coway Airmega 400      | $129                     |
+| Coway Airmega ProX     | $199                     |
 
 _Original_ Coway Airmega replacement filters cost up to $199. What a rip-off!
 
