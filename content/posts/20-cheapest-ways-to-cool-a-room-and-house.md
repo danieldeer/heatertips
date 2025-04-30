@@ -7,7 +7,7 @@ cover:
   image: /img/cheapest-ways-to-cool-room-house.webp
 date: "2022-09-12T10:56:01+00:00"
 guid: https://heatertips.com/?p=712
-title: 20 Cheapest Ways to Cool a Room &amp; House
+title: 20 Cheapest Ways to Cool a Room & House
 url: /cool-room-house-cheap/
 
 ---
