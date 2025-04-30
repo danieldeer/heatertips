@@ -15,8 +15,8 @@ Germany
 
 ## Contact Information
 
-E-Mail: [daniel@heatertips.com](mailto:daniel@mindinsiders.com)  
-Internet address: [heatertips.com](https://www.translate-24h.de/mindinsiders.com)
+E-Mail: [daniel@heatertips.com](mailto:daniel@heatertips.com)  
+Internet address: [heatertips.com](https://heatertips.com)
 
 ## Disclaimer
 
