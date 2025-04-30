@@ -7,7 +7,7 @@ cover:
   image: /img/how-to-heat-a-large-room.webp
 date: "2022-10-21T14:54:40+00:00"
 guid: https://heatertips.com/?p=779
-title: How to Heat a Large Room (Methods &amp; Cost)
+title: How to Heat a Large Room (Methods & Cost)
 url: /how-to-heat-a-large-room/
 
 ---
