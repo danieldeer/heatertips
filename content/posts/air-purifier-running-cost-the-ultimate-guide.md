@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
 cover:
@@ -41,7 +41,13 @@ My favorite, and, by far the #1 best-selling air purifier is the [Levoit Core 30
 
 Let’s have a look at different air purifiers and their wattages:
 
-**Air Purifier Model****How much power does it consume? (in Watts)****Room size covered (in square feet)**[Levoit Core Mini](https://www.amazon.com/LEVOIT-Purifiers-Freshener-Core-Mini/dp/B09GTRVJQM?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-3&th=1&linkCode=ll1&tag=heatertips-20&linkId=282c0a384be160c4c89e231a7310b24f&language=en_US&ref_=as_li_ss_tl)7 Watts356 sq. ft.[Levoit Core 300S](https://www.amazon.com/LEVOIT-Core-300S-Air-Purifier/dp/B08L73QL1V?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-10&th=1&linkCode=ll1&tag=heatertips-20&linkId=febb347cb3f7903c6d64565b964a5730&language=en_US&ref_=as_li_ss_tl)33 Watts1,095 sq. ft.[Levoit Core 600S](https://www.amazon.com/LEVOIT-Purifier-Allergies-Core-400S/dp/B09BJMY8HL?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-6&th=1&linkCode=ll1&tag=heatertips-20&linkId=212f1328c8d908f65e51223a1da3e216&language=en_US&ref_=as_li_ss_tl)49 Watts3,175 sq. ft.[Germ Guardian](https://www.amazon.com/GermGuardian-AC4825-Sanitizer-Allergens-Guardian/dp/B004VGIGVY?crid=2P3QM1UV4XXMV&keywords=air%2Bpurifier&qid=1690360659&sprefix=air%2Bpurifier%2Bdyson%2Caps%2C574&sr=8-24&th=1&linkCode=ll1&tag=heatertips-20&linkId=e127c506b520f2c56509db416e6cd476&language=en_US&ref_=as_li_ss_tl)55 Watts743 sq. ft.[Dyson Pure Cool TP01](https://www.amazon.com/Dyson-Pure-CoolTM-Purifying-TP01/dp/B071HMNTPM?crid=GIEEPHCLJKLZ&keywords=air+purifier+dyson&qid=1690360094&sprefix=air+purifier+dyson%2Caps%2C164&sr=8-3&linkCode=ll1&tag=heatertips-20&linkId=90bef7067b038e50361740047b40af1a&language=en_US&ref_=as_li_ss_tl)56 Watts1,500 sq. ft.
+Air Purifier Model | How much power does it consume? (in Watts) | Room size covered (in square feet)
+-- | -- | --
+[Levoit Core Mini](https://www.amazon.com/LEVOIT-Purifiers-Freshener-Core-Mini/dp/B09GTRVJQM?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-3&th=1&linkCode=ll1&tag=heatertips-20&linkId=282c0a384be160c4c89e231a7310b24f&language=en_US&ref_=as_li_ss_tl) | 7 Watts | 356 sq. ft.
+[Levoit Core 300S](https://www.amazon.com/LEVOIT-Core-300S-Air-Purifier/dp/B08L73QL1V?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-10&th=1&linkCode=ll1&tag=heatertips-20&linkId=febb347cb3f7903c6d64565b964a5730&language=en_US&ref_=as_li_ss_tl) | 33 Watts | 1,095 sq. ft.
+[Levoit Core 600S](https://www.amazon.com/LEVOIT-Purifier-Allergies-Core-400S/dp/B09BJMY8HL?crid=1HPOC2NJXZE2P&keywords=levoit%2Bair%2Bpurifier&qid=1690359736&sprefix=levoit%2Bair%2Bpurifie%2Caps%2C167&sr=8-6&th=1&linkCode=ll1&tag=heatertips-20&linkId=212f1328c8d908f65e51223a1da3e216&language=en_US&ref_=as_li_ss_tl) | 49 Watts | 3,175 sq. ft.
+[Germ Guardian](https://www.amazon.com/GermGuardian-AC4825-Sanitizer-Allergens-Guardian/dp/B004VGIGVY?crid=2P3QM1UV4XXMV&keywords=air%2Bpurifier&qid=1690360659&sprefix=air%2Bpurifier%2Bdyson%2Caps%2C574&sr=8-24&th=1&linkCode=ll1&tag=heatertips-20&linkId=e127c506b520f2c56509db416e6cd476&language=en_US&ref_=as_li_ss_tl) | 55 Watts | 743 sq. ft.
+[Dyson Pure Cool TP01](https://www.amazon.com/Dyson-Pure-CoolTM-Purifying-TP01/dp/B071HMNTPM?crid=GIEEPHCLJKLZ&keywords=air+purifier+dyson&qid=1690360094&sprefix=air+purifier+dyson%2Caps%2C164&sr=8-3&linkCode=ll1&tag=heatertips-20&linkId=90bef7067b038e50361740047b40af1a&language=en_US&ref_=as_li_ss_tl) | 56 Watts | 1,500 sq. ft.
 
 By the way: Finding the wattages of Dyson air purifiers was really hard. They are not listed anywhere and I had to dig the internet for their [technical specification](https://www.dyson.com/content/dam/dyson/countries/us/for-business-resource-library/air-treatment/dyson-pure-cool-link/tower-technical-specification/Pure%20Cool%20Link%20Tower%20Tech%20Spec%20Ex.pdf).
 
@@ -79,7 +85,12 @@ Another factor that impacts the power consumption is, of course, the fan speed. 
 
 One nice user (named Melody Reed) measured the power consumption of his Levoit Core 300S air purifier using a Kilowatt-meter and put the results in their amazon review. (Thank you!)
 
-**Airflow setting****Power consumption (in Watts)**Low27 WattsMedium32 WattsHigh47 WattsNight mode10 Watts
+Airflow setting | Power consumption (in Watts)
+--- | ---
+Low | 27 Watts
+Medium | 32 Watts
+High | 47 Watts
+Night mode | 10 Watts
 
 So, the higher the setting, the more power your air purifier consumes. Makes sense.
 
@@ -127,7 +138,14 @@ So, let’s create a complete table of air purifier electricity consumption by r
 
 The left column specifies the power consumption of the air purifier. And each column to the right lists the total electricity consumption (in Watt-hours) after running it for 1 hour, 8 hours, or 24 hours.
 
-**Electricity consumption by running time****1h****8h****24h****10 W**0.010 kWh0.080 kWh0.240 kWh**20 W**0.020 kWh0.160 kWh0.480 kWh**30 W**0.030 kWh0.240 kWh0.720 kWh**40 W**0.040 kWh0.320 kWh0.960 kWh**50 W**0.050 kWh0.400 kWh1.200 kWh**60 W**0.060 kWh0.480 kWh1.440 kWh
+Electricity consumption by running time | 1h | 8h | 24h
+--- | --- | --- | ---
+10 W | 0.010 kWh | 0.080 kWh | 0.240 kWh
+20 W | 0.020 kWh | 0.160 kWh | 0.480 kWh
+30 W | 0.030 kWh | 0.240 kWh | 0.720 kWh
+40 W | 0.040 kWh | 0.320 kWh | 0.960 kWh
+50 W | 0.050 kWh | 0.400 kWh | 1.200 kWh
+60 W | 0.060 kWh | 0.480 kWh | 1.440 kWh
 
 As you can see, the more power your air purifier consumes, and the longer you run it, the higher your total electricity consumption.
 
@@ -137,8 +155,60 @@ Since you are paying for electricity by the Kilowatt-hour, let’s have a look a
 
 Electricity prices vary a lot within the US. Here’s a table with the latest US-wide electricity rates ( [source](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)):
 
-**State****Electricity rate (in USD Cents per kWh)**Alabama14.51Alaska24.86Arizona14.3Arkansas12.31California29.78Colorado14.37Connecticut31.32Delaware16.65District of Columbia17.08Florida15.22Georgia14Hawaii42.26Idaho10.79Illinois17.86Indiana15.12Iowa14.18Kansas14.09Kentucky12.53Louisiana11.69Maine29.26Maryland16.08Massachusetts29.01Michigan18.56Minnesota15.17Mississippi14.09Missouri12.46Montana12.82Nebraska11.88Nevada17.43New Hampshire30.67New Jersey17.18New Mexico13.3New York20.47North Carolina13.22North Dakota11.7Ohio15.49Oklahoma11.83Oregon12.95Pennsylvania18.26Rhode Island26.92South Carolina14.38South Dakota12.99Tennessee12.34Texas14.49Utah10.85Vermont21.03Virginia15.27Washington11.18West Virginia14.63Wisconsin17.33Wyoming11.93**U.S. Total****16.14**
-
+State | Electricity rate (in USD Cents per kWh)
+--- | ---
+Alabama | 14.51
+Alaska | 24.86
+Arizona | 14.3
+Arkansas | 12.31
+California | 29.78
+Colorado | 14.37
+Connecticut | 31.32
+Delaware | 16.65
+District of Columbia | 17.08
+Florida | 15.22
+Georgia | 14
+Hawaii | 42.26
+Idaho | 10.79
+Illinois | 17.86
+Indiana | 15.12
+Iowa | 14.18
+Kansas | 14.09
+Kentucky | 12.53
+Louisiana | 11.69
+Maine | 29.26
+Maryland | 16.08
+Massachusetts | 29.01
+Michigan | 18.56
+Minnesota | 15.17
+Mississippi | 14.09
+Missouri | 12.46
+Montana | 12.82
+Nebraska | 11.88
+Nevada | 17.43
+New Hampshire | 30.67
+New Jersey | 17.18
+New Mexico | 13.3
+New York | 20.47
+North Carolina | 13.22
+North Dakota | 11.7
+Ohio | 15.49
+Oklahoma | 11.83
+Oregon | 12.95
+Pennsylvania | 18.26
+Rhode Island | 26.92
+South Carolina | 14.38
+South Dakota | 12.99
+Tennessee | 12.34
+Texas | 14.49
+Utah | 10.85
+Vermont | 21.03
+Virginia | 15.27
+Washington | 11.18
+West Virginia | 14.63
+Wisconsin | 17.33
+Wyoming | 11.93
+U.S. Total | 16.14
 
 The US average electricity rate is currently about $0.16 per kWh.
 
@@ -176,13 +246,72 @@ If you want to calculate your personal air purifier running cost you need:
 
 Here’s the **average air purifier running cost per US state (for a regular 33 Watts air purifier):**
 
-**States****Hourly running cost for typical 33W air purifier**Alabama0.48 centsAlaska0.82 centsArizona0.47 centsArkansas0.41 centsCalifornia0.98 centsColorado0.47 centsConnecticut1.03 centsDelaware0.55 centsDistrict of Columbia0.56 centsFlorida0.50 centsGeorgia0.46 centsHawaii1.39 centsIdaho0.36 centsIllinois0.59 centsIndiana0.50 centsIowa0.47 centsKansas0.46 centsKentucky0.41 centsLouisiana0.39 centsMaine0.97 centsMaryland0.53 centsMassachusetts0.96 centsMichigan0.61 centsMinnesota0.50 centsMississippi0.46 centsMissouri0.41 centsMontana0.42 centsNebraska0.39 centsNevada0.58 centsNew Hampshire1.01 centsNew Jersey0.57 centsNew Mexico0.44 centsNew York0.68 centsNorth Carolina0.44 centsNorth Dakota0.39 centsOhio0.51 centsOklahoma0.39 centsOregon0.43 centsPennsylvania0.60 centsRhode Island0.89 centsSouth Carolina0.47 centsSouth Dakota0.43 centsTennessee0.41 centsTexas0.48 centsUtah0.36 centsVermont0.69 centsVirginia0.50 centsWashington0.37 centsWest Virginia0.48 centsWisconsin0.57 centsWyoming0.39 cents**U.S. Total****0.53 cents**
+States | Hourly running cost for typical 33W air purifier
+--- | ---
+Alabama | 0.48 cents
+Alaska | 0.82 cents
+Arizona | 0.47 cents
+Arkansas | 0.41 cents
+California | 0.98 cents
+Colorado | 0.47 cents
+Connecticut | 1.03 cents
+Delaware | 0.55 cents
+District of Columbia | 0.56 cents
+Florida | 0.50 cents
+Georgia | 0.46 cents
+Hawaii | 1.39 cents
+Idaho | 0.36 cents
+Illinois | 0.59 cents
+Indiana | 0.50 cents
+Iowa | 0.47 cents
+Kansas | 0.46 cents
+Kentucky | 0.41 cents
+Louisiana | 0.39 cents
+Maine | 0.97 cents
+Maryland | 0.53 cents
+Massachusetts | 0.96 cents
+Michigan | 0.61 cents
+Minnesota | 0.50 cents
+Mississippi | 0.46 cents
+Missouri | 0.41 cents
+Montana | 0.42 cents
+Nebraska | 0.39 cents
+Nevada | 0.58 cents
+New Hampshire | 1.01 cents
+New Jersey | 0.57 cents
+New Mexico | 0.44 cents
+New York | 0.68 cents
+North Carolina | 0.44 cents
+North Dakota | 0.39 cents
+Ohio | 0.51 cents
+Oklahoma | 0.39 cents
+Oregon | 0.43 cents
+Pennsylvania | 0.60 cents
+Rhode Island | 0.89 cents
+South Carolina | 0.47 cents
+South Dakota | 0.43 cents
+Tennessee | 0.41 cents
+Texas | 0.48 cents
+Utah | 0.36 cents
+Vermont | 0.69 cents
+Virginia | 0.50 cents
+Washington | 0.37 cents
+West Virginia | 0.48 cents
+Wisconsin | 0.57 cents
+Wyoming | 0.39 cents
+U.S. Total | 0.53 cents
 
 As you can see, air purifiers are _incredibly_ cheap to run. In most states, you don’t even pay a cent per hour!
 
 So, let’s have a look (based on the US average electricity rate) how much running an air purifier costs for longer time periods:
 
-**Running time****Average 33W air purifier running cost**1 hour$0.018 hours$0.0424 hours$0.1330 days (8 hours per day)$1.2730 days (24 hours per day)$3.80
+Running time | Average 33W air purifier running cost
+--- | ---
+1 hour | $0.01
+8 hours | $0.04
+24 hours | $0.13
+30 days (8 hours per day) | $1.27
+30 days (24 hours per day) | $3.80
 
 Even if you [run your air purifier 24/7](/can-you-run-air-purifier-all-day/), it costs just $3.80 per month.
 

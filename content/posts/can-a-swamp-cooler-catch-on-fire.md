@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -47,7 +47,12 @@ The maximum temperature of a device depends (among a few other factors) on the p
 
 Swamp coolers are low-power devices. Naturally, they don’t run hot. None of the temperatures in the table below is high enough to start a fire.
 
-**Swamp cooler size****Maximum component temperature****Is it hot enough to catch fire?**250 Watts (big)122°Fno100 Watts (regular)104°Fno50 Watts (small)85°Fno
+Swamp cooler size | Maximum component temperature | Is it hot enough to catch fire?
+--- | --- | ---
+250 Watts (big) | 122°F | no
+100 Watts (regular) | 104°F | no
+50 Watts (small) | 85°F | no
+
 
 As you can see, even large swamp coolers are fire safe. Usually, the fan motor warms up while running, until it reaches its maximum temperature.
 

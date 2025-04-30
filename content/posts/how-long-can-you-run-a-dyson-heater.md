@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -79,7 +79,13 @@ That’s not enough to ignite anything… Or is it?
 
 Here’s a table of materials with low [ignition temperatures](https://www.tayloredge.com/reference/Science/ignition.html). I’ve only included materials with an ignition temperature below 200°F (93°C):
 
-**Material****Ignition Temperature (in °F)**Triethylborane-4°FSilane70°FPhosphorous - White93°FPhosphorous - Transparent120°F
+Material            | Ignition Temperature (in °F)  
+-- | --
+Triethylborane      | -4°F                          
+Silane              | 70°F                          
+Phosphorous - White | 93°F                          
+Phosphorous - Transparent | 120°F                   
+
 
 Triethylborane (whatever that is, I am not a chemist) ignites below room temperature. So, that’s nothing you have to worry about.
 

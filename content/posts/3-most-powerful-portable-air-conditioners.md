@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -65,7 +65,13 @@ Now that we’ve checked the 3 most powerful portable air conditioners, this sec
 
 Before I knew what the most powerful portable air conditioners are, I had to check products online. Here’s an excerpt of the most powerful portable ACs that I found (3 of them made it to the recommendations).
 
-**Model****Cooling Capacity**Honeywell HJ5CESWK015,000 BTUWhynter ARC-14S14,000 BTUBLACK+DECKER Air Conditioner14,000 BTUDe'Longhi Pinguino14,000 BTUSereneLife SLPAC12.512,000 BTU
+Model | Cooling Capacity
+-- | --
+Honeywell HJ5CESWK0 | 15,000 BTU
+Whynter ARC-14S | 14,000 BTU
+BLACK+DECKER Air Conditioner | 14,000 BTU
+De'Longhi Pinguino | 14,000 BTU
+SereneLife SLPAC12.5 | 12,000 BTU
 
 As you see, most portable air conditioners have a maximum cooling capacity of 14,000 BTU.
 
@@ -105,8 +111,15 @@ The exact wattage depends on your climate zone and the size of your room.
 
 You can assume the following corrections depending on the climate:
 
-**Climate zone****AC Wattage**1  (tropic)2250  Watts2 (hot)2000 Watts3 (warm - moderate)1750 Watts4 (mild - moderate)1500 Watts5 (mild)1250 Watts6 (cool)1000 Watts7 (cold)750 Watts
-
+Climate zone | AC Wattage
+--- | ---
+1 (tropic) | 2250 Watts
+2 (hot) | 2000 Watts
+3 (warm - moderate) | 1750 Watts
+4 (mild - moderate) | 1500 Watts
+5 (mild) | 1250 Watts
+6 (cool) | 1000 Watts
+7 (cold) | 750 Watts
 
 You can look up your exact climate zone in the [IECC climate zone map](https://basc.pnnl.gov/images/iecc-climate-zone-map) below:
 

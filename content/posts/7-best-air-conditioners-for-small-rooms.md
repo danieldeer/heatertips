@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -145,7 +145,13 @@ To refill water, you can either refill manually, or you can connect to a tap or 
 
 A good estimate for most rooms is 20 BTU per square foot. So, here’s how much cooling capacity different small room sizes need:
 
-**Room size****Cooling capacity**100 sq. ft.2,000 BTU150 sq. ft.3,000 BTU200 sq. ft.4,000 BTU250 sq. ft.5,000 BTU300 sq. ft.6,000 BTU
+Room size | Cooling capacity
+--- | ---
+100 sq. ft. | 2,000 BTU
+150 sq. ft. | 3,000 BTU
+200 sq. ft. | 4,000 BTU
+250 sq. ft. | 5,000 BTU
+300 sq. ft. | 6,000 BTU
 
 All of the air conditioners recommended in this article were either 5,000 BTU or higher. So, you will definitely find one that suits your room size.
 
@@ -215,7 +221,17 @@ In contrast, a larger room has a lower surface area to volume ratio.
 
 Let’s consider different square rooms (for ease of computation) with a ceiling height of [9 feet](https://www.homedit.com/standard-ceiling-height/) and check their volumes and surface-area-to-volume ratio:
 
-**Floor area (in square feet)****Surface area of ceiling, walls and floor (in square feet)****Room volume (in cubic feet)****Surface-area-to-volume ratio**100 sq. ft.560.00 sq. ft.900 cft0.622222150 sq. ft.740.91 sq. ft.1350 cft0.548821200 sq. ft.909.12 sq. ft.1800 cft0.505065250 sq. ft.1069.21 sq. ft.2250 cft0.475204300 sq. ft.1223.54 sq. ft.2700 cft0.453162350 sq. ft.1373.50 sq. ft.3150 cft0.436031400 sq. ft.1520.00 sq. ft.3600 cft0.422222450 sq. ft.1663.68 sq. ft.4050 cft0.410784500 sq. ft.1804.98 sq. ft.4500 cft0.401108![surface-area-to-volume ratio of rooms](/wp-content/uploads/2022/11/surface-area-to-volume-ratio-of-small-rooms.png)
+Floor area (in square feet) | Surface area of ceiling, walls and floor (in square feet) | Room volume (in cubic feet) | Surface-area-to-volume ratio
+--- | --- | --- | ---
+100 sq. ft. | 560.00 sq. ft. | 900 cft | 0.622222
+150 sq. ft. | 740.91 sq. ft. | 1350 cft | 0.548821
+200 sq. ft. | 909.12 sq. ft. | 1800 cft | 0.505065
+250 sq. ft. | 1069.21 sq. ft. | 2250 cft | 0.475204
+300 sq. ft. | 1223.54 sq. ft. | 2700 cft | 0.453162
+350 sq. ft. | 1373.50 sq. ft. | 3150 cft | 0.436031
+400 sq. ft. | 1520.00 sq. ft. | 3600 cft | 0.422222
+450 sq. ft. | 1663.68 sq. ft. | 4050 cft | 0.410784
+500 sq. ft. | 1804.98 sq. ft. | 4500 cft | 0.401108
 
 As you can see in the table, small rooms have a higher surface-area-to-volume ratio than large rooms.
 

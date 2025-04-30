@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -42,7 +42,12 @@ Now, if we have our space heater's power consumption and our region's outlet vol
 
 Also, I'll calculate the current for both the US and Europe regions because, in both regions, outlet voltage is different, i.e. 110V-120V, and 220V-230v, respectively.
 
-**Heater power****Can you use a surge protector? (US-region 120V circuit)****Can you use a surge protector? (Europe & UK - 230V circuit)****800 Watts**Yes (draws 6.66 amps)Yes (draws 3.47 amps)**1,000 Watts**Yes (draws 8.33 amps)Yes (draws 4.34 amps)**1,500 Watts**Yes (draws 12.5 amps)Yes (draws 6.52 amps)**2,000 Watts**No (draws 16.66 amps)Yes (draws 8.69 amps)
+Heater Power | Can you use a surge protector? (US-120V) | Can you use a surge protector? (EU & UK-230V)
+--- | --- | ---
+800 Watts | Yes (draws 6.66 amps) | Yes (draws 3.47 amps)
+1,000 Watts | Yes (draws 8.33 amps) | Yes (draws 4.34 amps)
+1,500 Watts | Yes (draws 12.5 amps) | Yes (draws 6.52 amps)
+2,000 Watts | No (draws 16.66 amps) | Yes (draws 8.69 amps)
 
 So, for Europe and the UK region, it's totally fine to use a 15A surge protector with your space heater.
 

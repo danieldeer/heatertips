@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -271,7 +271,12 @@ Wear a hat if it’s very cold.
 
 The table below lists the capacity (in BTUs) of different loads of heat sources. Additionally, you’ll find the cost for a full refill. And accordingly, the cost-efficiency, which measures the cost (in Dollars) to get a million BTUs of the heat source in question.
 
-**Heat Source****Cost Per Unit Of Heat (in $ per Million BTU)**Wood$11Propane$35Electricity$87Candles$142
+Heat Source | Cost Per Unit Of Heat (in $ per Million BTU)
+--- | ---
+Wood | $11
+Propane | $35
+Electricity | $87
+Candles | $142
 
 The data for more types of wood is listed in the section about wood heating further below. You can check the sort of wood that is most available in your area there.
 

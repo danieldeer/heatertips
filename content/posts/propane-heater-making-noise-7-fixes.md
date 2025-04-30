@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - repair
@@ -26,7 +26,14 @@ Let’s have a look!
 
 Before we dive into all of the fixes, here’s a quick look-up table with the noises we cover in this article.
 
-**Propane heater noise****Reason****Is it dangerous?**ClickingThermostat or protection mechanism switches heat settingnoCracklingHeater parts heat up and expandnoKnockingIncomplete propane burnyesGurglingPropane tank is overfilled and gas has no room to boilnoHummingAir trapped in gas linenoHissingPropane gas leakingyes
+Propane heater noise | Reason | Is it dangerous?
+-- | -- | --
+Clicking | Thermostat or protection mechanism switches heat setting | No
+Crackling | Heater parts heat up and expand | No
+Knocking | Incomplete propane burn | Yes
+Gurgling | Propane tank is overfilled and gas has no room to boil | No
+Humming | Air trapped in gas line | No
+Hissing | Propane gas leaking | Yes
 
 ## How to fix your propane heater making noise
 

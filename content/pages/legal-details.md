@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 date: "2019-11-18T17:29:00+00:00"
 guid: https://heatertips.com/?page_id=17
 title: Legal Details

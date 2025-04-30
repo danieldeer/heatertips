@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: best torpedo heater mr heater
   image: /wp-content/uploads/2020/01/best-torpedo-heater-mr-heater.jpg

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -215,7 +215,11 @@ In contrast, the Dreo CF714S, its closest competitor, costs around $80. The Amaz
 
 So: Sorry Vornado for comparing you with Amazon Basics. But it’s for science's sake. And for the people!
 
-**Brand****Model****Price****Wattage****Airflow (CFM)****Warranty (Years)**Vornado660$10046W1638 CFM5DreoCF714S$8048W1082 CFM1AmazonBasics version$3045W950 CFM1
+Brand | Model | Price | Wattage | Airflow (CFM) | Warranty (Years)
+--- | --- | --- | --- | --- | ---
+Vornado | 660 | $100 | 46W | 638 CFM | 5
+Dreo | CF714S | $80 | 48W | 1022 CFM | 1
+AmazonBasics | version | $30 | 45W | 950 CFM | 1
 
 When we break it down, the Vornado fan costs approximately $0.06 per CFM, while the Dreo fan costs about $0.07 per CFM. The Amazon Basics version costs the least per CFM at $0.05.
 

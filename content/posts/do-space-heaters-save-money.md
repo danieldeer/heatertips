@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - improve-efficiency
@@ -132,7 +132,13 @@ Personally, I expect average US heating bills to be significantly higher than th
 
 I’ve done the calculations for you:
 
-**Heat reduction (°F)****Minimum savings****Maximum savings**1$53.31$118.442$103.64$230.254$195.99$435.438$351.64$781.2116$573.39$1,273.87
+Heat Reduction (°F) | Minimum Savings | Maximum Savings
+--- | --- | ---
+1° | $53.31 | $118.44
+2° | $103.64 | $230.25
+4° | $195.99 | $435.43
+8° | $351.64 | $781.21
+16° | $573.39 | $1,273.87
 
 According to the table above, you obviously save more, the more you decrease your central heating bill. However, at some point reducing the temperature stops making sense.
 
@@ -148,7 +154,13 @@ Since one 1,500W costs about $54 per month to run (for an average US electricity
 
 I’ve done the calculation for you. Here’s how many space heaters you can run for the 3 cold winter months for 8 hours every day:
 
-**Heat reduction (°F)****Average savings****Amount of space heaters**1$85.8802$166.9414$315.7118$566.43316$923.635
+Heat Reduction (°F) | Average Savings | Amount of Space Heaters
+--- | --- | ---
+1° | $85.88 | 2
+2° | $166.94 | 4
+4° | $315.71 | 8
+16° | $566.43 | 16
+32° | $923.63 | 32
 
 The average central heating bill savings come from combining the minimum and maximum values from the previous table. The rightmost column tells you how many space heaters you can run based on those savings.
 

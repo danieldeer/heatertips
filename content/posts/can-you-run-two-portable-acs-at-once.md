@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - safety
@@ -56,7 +56,15 @@ Usually, portable air conditioners use a maximum power of 940 Watts - 1650 Watts
 
 I will also highlight the region (As the outlet voltage rating in the US is 120V, and 230V in the UK and Europe)
 
-**Power Consumption (Wattage)****Can you run two portable ACs Simultaneously? (US-Region 120V)****Can you run two portable ACs Simultaneously? (EU, UK-Region 230V)**1650 wattsNo (draws 27.5 amperes)Yes (draws 14.3 amperes)1,530 wattsNo (draws 25.5 amperes)Yes (draws 13.3 amperes)1,410 wattsNo (draws 23.5 amperes)Yes (draws 12.2 amperes)1,300 wattsNo (draws 21.6 amperes)Yes (draws 11.3 amperes)1,180 wattsNo (draws 19.6 amperes)Yes (draws 10.2 amperes)1,060 wattsNo (draws 17.6 amperes)Yes (draws 9.2 amperes)940 wattsNo (draws 15.66 amperes)Yes (draws 8.17 amperes)
+Power Consumption (Wattage) | Can you run two portable ACs Simultaneously? (US-Region 120V) | Can you run two portable ACs Simultaneously? (EU, UK-Region 230V)
+--- | --- | ---
+1650 watts | No (draws 27.5 amperes) | Yes (draws 14.3 amperes)
+1,530 watts | No (draws 25.5 amperes) | Yes (draws 13.3 amperes)
+1,410 watts | No (draws 23.5 amperes) | Yes (draws 12.2 amperes)
+1,300 watts | No (draws 21.6 amperes) | Yes (draws 11.3 amperes)
+1,180 watts | No (draws 19.6 amperes) | Yes (draws 10.2 amperes)
+1,060 watts | No (draws 17.6 amperes) | Yes (draws 9.2 amperes)
+940 watts | No (draws 15.66 amperes) | Yes (draws 8.17 amperes)
 
 So, It’s clear that you can’t run two portable air conditioners in the USA (110V - 120V), as both will draw more current than the circuit breaker ampere rating (15A), and your ACs would trip.
 
@@ -64,7 +72,15 @@ For Europe and the UK region (220V - 230V), you can easily run two portable ACs,
 
 ## Can you run two portable ACs at the same time on 20A Circuits?
 
-**Power Consumption (Wattage)****Can you run two portable ACs Simultaneously? (US-Region 120V)****Can you run two portable ACs Simultaneously? (EU, UK-Region 230V)**1650 wattsNo (draws 27.5 amperes)Yes (draws 14.3 amperes)1,530 wattsNo (draws 25.5 amperes)Yes (draws 13.3 amperes)1,410 wattsNo (draws 23.5 amperes)Yes (draws 12.2 amperes)1,300 wattsNo (draws 21.6 amperes)Yes (draws 11.3 amperes)1,180 wattsYes (draws 19.6 amperes)Yes (draws 10.2 amperes)1,060 wattsYes (draws 17.6 amperes)Yes (draws 9.2 amperes)940 wattsYes (draws 15.66 amperes)Yes (draws 8.17 amperes)
+Power Consumption (Wattage) | Can you run two portable ACs Simultaneously? (US-Region 120V) | Can you run two portable ACs Simultaneously? (EU, UK-Region 230V)
+--- | --- | ---
+1650 watts | No (draws 27.5 amperes) | Yes (draws 14.3 amperes)
+1,530 watts | No (draws 25.5 amperes) | Yes (draws 13.3 amperes)
+1,410 watts | No (draws 23.5 amperes) | Yes (draws 12.2 amperes)
+1,300 watts | No (draws 21.6 amperes) | Yes (draws 11.3 amperes)
+1,180 watts | Yes (draws 19.6 amperes) | Yes (draws 10.2 amperes)
+1,060 watts | Yes (draws 17.6 amperes) | Yes (draws 9.2 amperes)
+940 watts | Yes (draws 15.66 amperes) | Yes (draws 8.17 amperes)
 
 As you can see in the above table, the scenario is slightly different for a 20A circuit.
 
@@ -100,13 +116,29 @@ As we’ve discussed before, the power consumption of Portable ACs ranges betwee
 
 By dividing the cooling capacity by the power consumption, you get an efficiency rating that tells you how much BTU of cooling you get per Watt of power.
 
-**Power Consumption In Watts****Cooling Capacity (in BTU)****Efficiency (BTU per Watt)**1,650W14,000 BTU8.48 BTU / Watt1,530W13,000 BTU8.49 BTU / Watt1,410W12,000 BTU8.51 BTU / Watt1,300W11,000 BTU8.46 BTU / Watt1,180W10,000 BTU8.47 BTU / Watt1,060W9,000 BTU8.49 BTU / Watt9,40W8,000 BTU8.51 BTU / Watt
+Power Consumption In Watts | Cooling Capacity (in BTU) | Efficiency (BTU per Watt)
+--- | --- | ---
+1,650W | 14,000 BTU | 8.48 BTU / Watt
+1,530W | 13,000 BTU | 8.49 BTU / Watt
+1,410W | 12,000 BTU | 8.51 BTU / Watt
+1,300W | 11,000 BTU | 8.46 BTU / Watt
+1,180W | 10,000 BTU | 8.47 BTU / Watt
+1,060W | 9,000 BTU | 8.49 BTU / Watt
+940W | 8,000 BTU | 8.51 BTU / Watt
 
 So, the efficiency of most portable ACs ranges from 8.4 to 8.5. Now, let’s compare it with window ACs.
 
 Window ACs have less power consumption and BTU (Capacity). But are they as efficient as portable ACs? Let’s have a look!
 
-**Power Consumption (in Watts**)**Cooling Capacity (in BTU)****Efficiency (in BTU per Watt)**1100W11000 BTU10 BTU / Watt1000W10000 BTU10 BTU / Watt900W9000 BTU10 BTU / Watt800W8000 BTU10 BTU / Watt700W7000 BTU10 BTU / Watt600W6000 BTU10 BTU / Watt500W5000 BTU10 BTU / Watt
+Power Consumption (in Watts) | Cooling Capacity (in BTU) | Efficiency (in BTU per Watt)
+--- | --- | ---
+1,100W | 11,000 BTU | 10 BTU / Watt
+1,000W | 10,000 BTU | 10 BTU / Watt
+900W | 9,000 BTU | 10 BTU / Watt
+800W | 8,000 BTU | 10 BTU / Watt
+700W | 7,000 BTU | 10 BTU / Watt
+600W | 6,000 BTU | 10 BTU / Watt
+500W | 5,000 BTU | 10 BTU / Watt
 
 Now, you can see that the efficiency of portable ACs is greater than that of window ACs.
 

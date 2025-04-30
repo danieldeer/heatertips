@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -71,7 +71,12 @@ Many light sleepers have negative experiences with portable ACs due to the high 
 
 According to Purdue University’s [“Noise Sources and Their Effects”](https://www.chem.purdue.edu/chemsafety/Training/PPETrain/dblevels.htm) research, this is louder than a library, but quieter than a conversation at home. Quite good for an AC.
 
-**Loudness****Description**60dBConversation in restaurant, office, background music, Air conditioning unit at 100 ft50dBQuiet suburb, conversation at home.   Large electrical transformers at 100 ft40dBLibrary, bird calls (44 dB); lowest limit of urban ambient sound30dBQuiet rural areaNoise comparison table
+Loudness | Description
+--- | ---
+60dB | Conversation in restaurant, office, background music, Air conditioning unit at 100 ft
+50dB | Quiet suburb, conversation at home. Large electrical transformers at 100 ft
+40dB | Library, bird calls (44 dB); lowest limit of urban ambient sound
+30dB | Quiet rural area
 
 Besides the unit's quietness, DeLonghi and other leading brands such as Honeywell offer interchangeable benefits.  When shopping for a portable air conditioner, you should first identify a price range they are comfortable with. Then you should compare the quality and features of each AC to identify the one that suits their personal needs the most.
 

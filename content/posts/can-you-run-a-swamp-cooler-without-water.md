@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - safety
@@ -108,7 +108,18 @@ Also, there’s another problem: Morning dew levels differ by US regions.
 
 Ironically, in the dry and hot regions, where swamp coolers make the most sense, the average morning dew collected is the lowest.
 
-**Region****Average dew collected (in millimeters)**New York City2.5Los Angeles0.2Chicago3.0Houston4.8Miami5.5Denver1.0Phoenix0.1Seattle2.2Atlanta3.3Las Vegas0.3
+Region | Average dew collected (in millimeters)
+--- | ---
+New York City | 2.5
+Los Angeles | 0.2
+Chicago | 3.0
+Houston | 4.8
+Miami | 5.5
+Denver | 1.0
+Phoenix | 0.1
+Seattle | 2.2
+Atlanta | 3.3
+Las Vegas | 0.3
 
 Still, morning dew collection _might_ be worth it in an emergency even in the more humid regions.
 

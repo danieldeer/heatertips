@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -164,6 +164,10 @@ Swamp coolers only make sense in dry climates. Before you buy a swamp cooler for
 
 You can use [these **digital hygrometers** (click here to view them on amazon)](https://www.amazon.com/TASOGEN-Thermometer-Hygrometer-Temperature-Fahrenheit/dp/B08P3QJJZL?crid=3MNB7W5L8ZNHI&keywords=hygrometer&qid=1689167523&sprefix=hygromete%2Caps%2C201&sr=8-15&linkCode=ll1&tag=heatertips-20&linkId=75da733511e663d82a09f95dbc325565&language=en_US&ref_=as_li_ss_tl) to measure humidity around your home.
 
-**Bedroom humidity level****Does a swamp cooler make sense?**under 50%yes50 - 70%yes, but reduced efficiencyover 70%no
+Bedroom humidity level | Does a swamp cooler make sense?
+--- | ---
+under 50% | yes
+50–70% | yes, but reduced efficiency
+over 70% | no
 
 If you care for your room, clean it regularly, and don’t store any food there, there is no reason not to get a swamp cooler.

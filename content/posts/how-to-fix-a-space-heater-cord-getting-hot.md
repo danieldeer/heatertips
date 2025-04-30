@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - repair
@@ -34,7 +34,10 @@ All of them work just fine.
 
 So, let’s see how hot their cords get.
 
-**Space heater****Cord temperature (after 10 minutes)****Description**Infrared heater (800W)75.3°F (24°C)Not hot at allOil-filled radiator (2,500W)94.4°F (34.7°C)Feels warmSpace heater cord temperature measured with a Bosch laser thermometer
+Space heater | Cord temperature (after 10 minutes) | Description
+-------------|-------------------------------------|-------------
+Infrared heater (800W) | 75.3°F (24°C) | Not hot at all
+Oil-filled radiator (2,500W) | 94.4°F (34.7°C) | Feels warm
 
 As you can see, the cord of my oil-filled radiator space heater gets significantly hotter than the infrared heater’s cord.
 

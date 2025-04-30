@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -95,7 +95,13 @@ The thermostat senses the room temperature and adjusts the heat output. At  150
 
 Still, before you buy multiple space heaters, here’s my personal estimate of how many space heaters you need to heat your large room. The estimates are conservative. Buy a space heater, and see how well it heats. And if it’s not heating enough, get an additional heater.
 
-**Room size (sq ft)****Number of heaters****Monthly running cost**1501$542001$543002$1084002$1085003$162
+Room size (sq ft) | Number of heaters | Monthly running cost
+-------------------|-------------------|---------------------
+150 | 1 | $54
+200 | 1 | $54
+300 | 2 | $108
+400 | 2 | $108
+500 | 3 | $162
 
 ## How to heat a large room (with installation work required)
 
@@ -133,7 +139,12 @@ Here’s a quick table with standard quotes for different work:
 
 Cost of wood stove installation
 
-**Work****Cost**Wood stove$300 - $900(optional) Building a chimney if not present$1000 - $3000(optional) Install chimney liner for improved efficiency$700 - $2000(optional) Stove accessories$50 - $200
+Work | Cost
+-----|-----
+Wood stove | $300 - $900 (optional)
+Building a chimney if not present | $1000 - $3000 (optional)
+Install chimney liner for improved efficiency | $700 - $2000 (optional)
+Stove accessories | $50 - $200
 
 ### Cost of heating with wood
 
@@ -147,7 +158,13 @@ You can reduce your yearly wood heating cost to a fraction of said cost if you p
 
 Here’s how much you can expect to pay based on how much work you put in:
 
-**Work you do yourself****Yearly heating cost for large rooms**Nothing, everything is delivered fully prepared to your houseup to $3,000Stack and dry woodup to $2,000Chop wood, stack, and dryup to $1,500Cut large tree trunks, chop, stack, and dryup to $800Transport wood from the forest, cut, chop, stack, and dry (100% DIY)between $0 to $300
+Work you do yourself | Yearly heating cost for large rooms
+----------------------|-----------------------------------
+Nothing, everything is delivered fully prepared to your house | up to $3,000
+Stack and dry wood | up to $2,000
+Chop wood, stack, and dry | up to $1,500
+Cut large tree trunks, chop, stack, and dry | up to $800
+Transport wood from the forest, cut, chop, stack, and dry (100% DIY) | between $0 to $300
 
 This year's heating cost for our family is around $300 since we get whole tree trunks delivered and process (chop, stack, and dry) the wood ourselves.
 

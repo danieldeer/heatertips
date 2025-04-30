@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - repair
@@ -26,7 +26,17 @@ Let’s first have a look at a rough overview of all the issues causes in this a
 
 ## Summary: Reasons for a swamp cooler not blowing cold air
 
-**Reason****How to fix it**Broken fanReplace the fanClogged fan or air filterClean the fan and replace air filtersDry water padsRefill the water pads manuallyWater pump brokenReplace water pump and connect water lines tightlyWater level sensor brokenReplace the water level sensorClogged water linesClean water lines with a wire brush and vinegar or lemon juiceThermostat brokenReplace blown or broken electronic partsRipped or worn-out V-beltReplace the V-belt with a matching-size oneOtherGet a new swamp cooler
+Reason | How to fix it
+-- | --
+Broken fan | Replace the fan
+Clogged fan or air filter | Clean the fan and replace air filters
+Dry water pads | Refill the water pads manually
+Water pump broken | Replace water pump and connect water lines tightly
+Water level sensor broken | Replace the water level sensor
+Clogged water lines | Clean water lines with a wire brush and vinegar or lemon juice
+Thermostat broken | Replace blown or broken electronic parts
+Ripped or worn-out V-belt | Replace the V-belt with a matching-size one
+Other | Get a new swamp cooler
 
 ## 8 Ways to fix your Swamp Cooler not blowing cold air
 

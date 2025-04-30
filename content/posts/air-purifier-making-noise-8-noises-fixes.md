@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
   - repair
@@ -32,7 +32,17 @@ Here’s a quick summary of all the noises listed in this article and whether th
 
 Of course, you can do something about _any_ noise listed here. So, just because I tell you the noise is not dangerous, doesn’t mean you should do nothing about it.
 
-**Noise type****Is it dangerous?**Loud fan noisenoHumming noisenoCrackling noisenoWhistling noisenoScratchingyesBuzzingyesBangingyesScreechingyesWhining / squealing noiseno
+Noise type | Is it dangerous?
+--- | ---
+Loud fan noise | no
+Humming noise | no
+Crackling noise | no
+Whistling noise | no
+Scratching | yes
+Buzzing | yes
+Banging | yes
+Screeching | yes
+Whining / squealing noise | no
 
 Now, I’d suggest you find out which of these noises best fits your air purifier’s noise. Once you got it, let’s continue with the investigation!
 
@@ -102,7 +112,10 @@ Your air purifier should be quieter standing in the center of your room.
 
 I did a quick experiment on this:
 
-**Air purifier placement****Noise level (highest fan speed setting)**Center of room57dBCorner of the room (behind the bed)60dB
+Air purifier placement | Noise level (highest fan speed setting)
+--- | ---
+Center of room | 57 dB
+Corner of the room (behind the bed) | 60 dB
 
 ## 2\. Humming noise
 
@@ -116,7 +129,11 @@ Humming noise is often caused by the vibration of your air purifier fan matching
 
 For example, a typical air purifier fan rotates at the following [frequencies](https://www.danielwells.me/posts/air-purifier-rpm-audio-signal-analysis/):
 
-**Fan speed setting****Frequency**Slow10.29 Hz (617 RPM)Medium16.61 Hz (996 RPM)High33.01 Hz (1981 RPM)
+Fan speed setting | Frequency
+--- | ---
+Slow | 10.29 Hz (617 RPM)
+Medium | 16.61 Hz (996 RPM)
+High | 33.01 Hz (1981 RPM)
 
 The lowest frequency humans can hear is 20 Hz.
 

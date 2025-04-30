@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - repair
@@ -38,7 +38,12 @@ First of all, you need to buy the necessary replacement parts. But replacement p
 
 So, let’s first look up the model number of your Mr. Heater model:
 
-**Mr. Heater Model****Model Nr.**[Mr. Heater Little Buddy](https://www.amazon.com/Mr-Heater-F215100-3800-BTU-Propane/dp/B001CFRF7I?crid=36D81T6JAFPWX&keywords=mr%2Bheater%2Bhunting%2Bbuddy&qid=1695716062&sprefix=mr%2Bheater%2Bhuntin%2Caps%2C153&sr=8-7&th=1&linkCode=ll1&tag=heatertips-20&linkId=ae31039c42da9254561a837a95340cc7&language=en_US&ref_=as_li_ss_tl)MH4B[Mr. Heater Buddy](https://www.amazon.com/Mr-Heater-F232000-Indoor-Safe-Portable/dp/B002G51BZU?crid=1KFT8FC3SD56A&keywords=mr%2Bheater%2Bbuddy&qid=1695715933&sprefix=mr%2Bheater%2Bbud%2Caps%2C169&sr=8-6&th=1&linkCode=ll1&tag=heatertips-20&linkId=a0261b8c5413004641087b5e41b18980&language=en_US&ref_=as_li_ss_tl)MH9BXMr. Heater Hunting BuddyMH12B[Mr. Heater Big Buddy](https://www.amazon.com/Mr-Heater-MH18B-Portable-Propane/dp/B0002WRHE8?crid=1KFT8FC3SD56A&keywords=mr%2Bheater%2Bbuddy&qid=1695715933&sprefix=mr%2Bheater%2Bbud%2Caps%2C169&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=c7341f64b1b6e5e79a76758ae9016b7f&language=en_US&ref_=as_li_ss_tl)MH18B
+Mr. Heater Model | Model Nr.
+-- | -- | --
+[Mr. Heater Little Buddy](https://www.amazon.com/Mr-Heater-F215100-3800-BTU-Propane/dp/B001CFRF7I?crid=36D81T6JAFPWX&keywords=mr%2Bheater%2Bhunting%2Bbuddy&qid=1695716062&sprefix=mr%2Bheater%2Bhuntin%2Caps%2C153&sr=8-7&th=1&linkCode=ll1&tag=heatertips-20&linkId=ae31039c42da9254561a837a95340cc7&language=en_US&ref_=as_li_ss_tl) | MH4B
+[Mr. Heater Buddy](https://www.amazon.com/Mr-Heater-F232000-Indoor-Safe-Portable/dp/B002G51BZU?crid=1KFT8FC3SD56A&keywords=mr%2Bheater%2Bbuddy&qid=1695715933&sprefix=mr%2Bheater%2Bbud%2Caps%2C169&sr=8-6&th=1&linkCode=ll1&tag=heatertips-20&linkId=a0261b8c5413004641087b5e41b18980&language=en_US&ref_=as_li_ss_tl) | MH9BX
+Mr. Heater Hunting Buddy | MH12B
+[Mr. Heater Big Buddy](https://www.amazon.com/Mr-Heater-MH18B-Portable-Propane/dp/B0002WRHE8?crid=1KFT8FC3SD56A&keywords=mr%2Bheater%2Bbuddy&qid=1695715933&sprefix=mr%2Bheater%2Bbud%2Caps%2C169&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=c7341f64b1b6e5e79a76758ae9016b7f&language=en_US&ref_=as_li_ss_tl) | MH18B
 
 If your model is not on the list, look it up directly on the back side of your Mr. Heater unit.
 

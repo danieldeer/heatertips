@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - repair
@@ -22,7 +22,17 @@ Let’s first have a look at the all different noises that window ACs make, thei
 
 After the table, you will find a fixing guide for each noise type.
 
-**Window AC noise****Reason****Is it dangerous?**Humming noiseCompressor running or lose window setupnoRattling noiseLoose parts inside AC or in window setupnoBuzzing noiseElectronic issue or stuck moving part causes AC power supply to overloadyesScratching noiseInternal friction in compressor or fannoWhistling / Hissing noiseRefrigerant leakyesGurgling noiseAir trapped in condensate drain or refrigerantnoClicking noiseThermostat switching power settingsnoCrackling noiseParts expanding or compressing due to temperature changenoBanging / Knocking noiseCompressor or fan brokenyes
+Window AC noise | Reason | Is it dangerous?
+-- | -- | --
+Humming noise | Compressor running or loose window setup | no
+Rattling noise | Loose parts inside AC or in window setup | no
+Buzzing noise | Electronic issue or stuck moving part causes AC power supply to overload | yes
+Scratching noise | Internal friction in compressor or fan | no
+Whistling / Hissing noise | Refrigerant leak | yes
+Gurgling noise | Air trapped in condensate drain or refrigerant | no
+Clicking noise | Thermostat switching power settings | no
+Crackling noise | Parts expanding or compressing due to temperature change | no
+Banging / Knocking noise | Compressor or fan broken | yes
 
 ## Causes and fixes for a window AC making noise
 

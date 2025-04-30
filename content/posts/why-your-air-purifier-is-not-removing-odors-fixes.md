@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
   - repair
@@ -102,7 +102,14 @@ PECO filters are effective at removing odors.
 
 So, is your air purifier capable of removing odors? It all depends on the filter and air purifier type:
 
-**Air Purifier Filter Type****Can it remove odors?**HEPA FilterNo, except it’s a combined HEPA + carbon filterActivated Carbon FilterYesIonizersNoUV Light PurifiersNoOzone GeneratorsYes, but not recommended due to health risksPECO/PCO FiltersYes![odor removal effectiveness of different air purifier filters](/wp-content/uploads/2023/08/odor-removal-effectiveness-of-different-air-purifier-filters-1024x576.png)Odor removal effectiveness of different air purifier filters: Activated carbon and PECO filters are best. Ozone generators work, but can be unhealthy (hence the warning sign).
+Air Purifier Filter Type | Can it remove odors?
+-- | --
+HEPA Filter | No, except it’s a combined HEPA + carbon filter
+Activated Carbon Filter | Yes
+Ionizers | No
+UV Light Purifiers | No
+Ozone Generators | Yes, but not recommended due to health risks
+PECO/PCO Filters | Yes
 
 ### Which air purifier filter do you need for odor removal?
 

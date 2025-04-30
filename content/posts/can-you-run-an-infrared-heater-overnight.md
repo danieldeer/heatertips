@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -82,7 +82,17 @@ That’s why I couldn’t measure the temperatures even closer to the heating el
 
 Here’s the same data in table format.
 
-**Distance (in inches)****Temperature (in °F)**0 inches870°F5 inches327°F10 inches176°F15 inches133°F20 inches101°F25 inches87°F30 inches79°F35 inches74°F40 inches72°F
+Distance (in inches) | Temperature (in °F)
+--- | ---
+0 inches | 870°F
+5 inches | 327°F
+10 inches | 176°F
+15 inches | 133°F
+20 inches | 101°F
+25 inches | 87°F
+30 inches | 79°F
+35 inches | 74°F
+40 inches | 72°F
 
 ## Can infrared heating elements melt or ignite something?
 
@@ -92,7 +102,24 @@ In the table below we can see that most plastic materials start melting in the m
 
 **200°C is 392°F.**
 
-**Plastic types****Melting Point Range (℃)**Acrylic220 - 250CAB - Cellulose Acetate Butyrate170 - 240HDPE - High-Density Polyethylene210 - 270LDPE - Low-Density Polyethylene180 - 240Nylon 6 or Polyamide230 - 290Polycarbonate280 - 320Polyester PBT240 - 275PET (Amorphous)260 - 280PET (semi-crystalline)260 - 280Polypropylene (Homopolymer)200 - 280Polystyrene170 - 280PVC - Polyvinyl chloride160 - 210TPE - Thermoplastic Elastomer260 - 320melting point data from [plasticranger.com](https://plasticranger.com/melting-point-of-plastics/)
+Plastic types | Melting Point Range (℃)
+--- | ---
+Acrylic | 220 - 250
+CAB - Cellulose Acetate Butyrate | 170 - 240
+HDPE - High-Density Polyethylene | 210 - 270
+LDPE - Low-Density Polyethylene | 180 - 240
+Nylon 6 or Polyamide | 230 - 290
+Polycarbonate | 280 - 320
+Polyester PBT | 240 - 275
+PET (Amorphous) | 260 - 280
+PET (semi-crystalline) | 260 - 280
+Polypropylene (Homopolymer) | 200 - 280
+Polystyrene | 170 - 280
+PVC - Polyvinyl chloride | 160 - 210
+TPE - Thermoplastic Elastomer | 260 - 320
+
+Melting point data from [plasticranger.com](https://plasticranger.com/melting-point-of-plastics/)
+
 
 This means: **Yes, an infrared heater can potentially melt any plastic that is in very close proximity (<5 inches) to it.**
 

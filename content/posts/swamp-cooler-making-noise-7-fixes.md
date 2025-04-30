@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - repair
@@ -22,7 +22,15 @@ Quick answer: **Swamp coolers often make humming, gurgling and crackling noises.
 
 First, let’s have a look at the different noise types and whether they are dangerous or not.
 
-**Noise type****Cause****Is it dangerous?**HummingLoose installation, fan blowing, electronicsnoScreetchingIssue in power electronicsyesBuzzing noiseStuck or clogged fan, issue in power electronicsyesGurgling noiseAir in water distribution linesnoCrackling noiseParts expanding or contracting due to temperature changenoScratching noiseFan bearings brokenyesBanging noiseFan or motor brokenyes
+Noise type | Cause | Is it dangerous?
+-- | -- | --
+Humming | Loose installation, fan blowing, electronics | no
+Screeching | Issue in power electronics | yes
+Buzzing noise | Stuck or clogged fan, issue in power electronics | yes
+Gurgling noise | Air in water distribution lines | no
+Crackling noise | Parts expanding or contracting due to temperature change | no
+Scratching noise | Fan bearings broken | yes
+Banging noise | Fan or motor broken | yes
 
 ## 7 Swamp Cooler Noises and how to fix them
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
   - safety
@@ -18,7 +18,13 @@ In this article, we’re going to check which air conditioners are OK to be used
 
 Quick answer: **You should not use a single-hose portable AC when it’s smoky outside. However, you can always use dual-hose portable ACs, window ACs and split ACs, as these don’t suck in outdoor air.**
 
-**Air conditioner type****Can you use it when it’s smoky outside?**Single-hose portable ACnoEvaporative cooler (outdoor connected)noDual-hose portable ACyesWindow ACyes (ensure no ‘Fresh Air’ mode is enabled)Split ACyes
+Air Conditioner Type | Can you use it when it’s smoky outside?
+--- | ---
+Single-hose portable AC | no
+Evaporative cooler (outdoor connected) | no
+Dual-hose portable AC | yes
+Window AC | yes (ensure no ‘Fresh Air’ mode is enabled)
+Split AC | yes
 
 As you can see, you can use all air conditioner types, except single-hose portable air conditioners and outdoor-connected evaporative coolers.
 

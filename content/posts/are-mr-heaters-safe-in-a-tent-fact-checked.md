@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -28,7 +28,11 @@ To save you some time, here’s the quick result.
 
 Which Mr. Heater you can use for your tent mainly depends on the tent size. Here’s a quick summary:
 
-**Tent size****Best Mr. Heater propane heater**>2-person tent[Mr. Heater Little Buddy](https://www.amazon.com/Mr-Heater-F215100-3800-BTU-Propane/dp/B001CFRF7I?keywords=mr%2Bheater%2Blittle%2Bbuddy%2Bheater&qid=1672911400&sprefix=mr%2Bheater%2Blittle%2Caps%2C350&sr=8-3&th=1&linkCode=ll1&tag=heatertips-20&linkId=349cbae59ec6d5984983589da655ae39&language=en_US&ref_=as_li_ss_tl)>3-person tent[Mr. Heater Buddy](https://www.amazon.com/Mr-Heater-F232000-Indoor-Safe-Portable/dp/B002G51BZU?crid=J2JZWVEH7XIL&keywords=mr%2Bheater%2Bbuddy&qid=1672912015&sprefix=mr%2Bheater%2Bbudd%2Caps%2C306&sr=8-2&th=1&linkCode=ll1&tag=heatertips-20&linkId=449e94bc96436fbad3edae1d89b755d1&language=en_US&ref_=as_li_ss_tl)>5-person tent[Mr. Heater Big Buddy](https://www.amazon.com/Mr-Heater-Corporation-MH18B-Portable/dp/B07Q82MG8S?keywords=mr%2Bheater%2Bbig%2Bbuddy&qid=1672912050&sprefix=mr%2Bheater%2Bbig%2Caps%2C189&sr=8-4&th=1&linkCode=ll1&tag=heatertips-20&linkId=4ebe0418cdf828202e7619cc4d1fc240&language=en_US&ref_=as_li_ss_tl)
+Tent size | Best Mr. Heater propane heater
+-- | --
+2-person tent | [Mr. Heater Little Buddy](https://www.amazon.com/Mr-Heater-F215100-3800-BTU-Propane/dp/B001CFRF7I?keywords=mr%2Bheater%2Blittle%2Bbuddy%2Bheater&qid=1672911400&sprefix=mr%2Bheater%2Blittle%2Caps%2C350&sr=8-3&th=1&linkCode=ll1&tag=heatertips-20&linkId=349cbae59ec6d5984983589da655ae39&language=en_US&ref_=as_li_ss_tl)
+3-to-4-person tent | [Mr. Heater Buddy](https://www.amazon.com/Mr-Heater-F232000-Indoor-Safe-Portable/dp/B002G51BZU?crid=J2JZWVEH7XIL&keywords=mr%2Bheater%2Bbuddy&qid=1672912015&sprefix=mr%2Bheater%2Bbudd%2Caps%2C306&sr=8-2&th=1&linkCode=ll1&tag=heatertips-20&linkId=449e94bc96436fbad3edae1d89b755d1&language=en_US&ref_=as_li_ss_tl)
+5-person tent (or bigger) | [Mr. Heater Big Buddy](https://www.amazon.com/Mr-Heater-Corporation-MH18B-Portable/dp/B07Q82MG8S?keywords=mr%2Bheater%2Bbig%2Bbuddy&qid=1672912050&sprefix=mr%2Bheater%2Bbig%2Caps%2C189&sr=8-4&th=1&linkCode=ll1&tag=heatertips-20&linkId=4ebe0418cdf828202e7619cc4d1fc240&language=en_US&ref_=as_li_ss_tl)
 
 ## Can a Mr. Heater ignite a tent?
 
@@ -66,7 +70,12 @@ I assume that the light weight makes tent walls especially prone to fire. You co
 
 Tent walls are made of the following [materials](https://trucampers.com/what-material-are-tents-made-of/).
 
-**Material****Ignition temperature**Cotton410°F ( [210°C](https://firefighterinsider.com/temperature-cotton-burn/))Canvas410°F (210°C)Nylon624°F (329°C)Polyester842°F (450°C)
+Material | Ignition temperature
+--- | ---
+Cotton | 410°F ([210°C](https://firefighterinsider.com/temperature-cotton-burn/))
+Canvas | 410°F (210°C)
+Nylon | 624°F (329°C)
+Polyester | 842°F (450°C)
 
 These are the ignition temperatures of different materials when you ignite them through kindling.
 
@@ -100,7 +109,12 @@ This is enough to ignite or melt tent walls that are close to the Mr. Heater.
 
 The table below lists whether you can safely use your Mr. Heater in a tent or not:
 
-**Tent size****Can you use Mr. Heater?**1 person tentno2 person tentyes (Little Buddy)3 person tentyes (Buddy)5 person tentyes (Big Buddy)
+Tent size | Can you use Mr. Heater?
+-- | --
+1 person tent | no
+2 person tent | yes (Little Buddy)
+3 person tent | yes (Buddy)
+5 person tent | yes (Big Buddy)
 
 1 and 2 person tents usually don’t have enough space to run a Mr. Heater.
 

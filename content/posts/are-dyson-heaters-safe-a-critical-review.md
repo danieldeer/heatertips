@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -94,7 +94,11 @@ Due to their tower-like design and their low weight, Dyson heaters are easy to t
 
 Here’s a small table of Dyson heater weights. Personally, I think they should be heavier.
 
-**Model****Weight (in pounds)**Dyson Pure Hot + Cool HP018.6Dyson Pure Hot + Cool HP028.6Dyson Pure Cool TP017.9Various Dyson heaters and their weights
+Model | Weight (in pounds)
+--- | ---
+Dyson Pure Hot + Cool HP01 | 18.6
+Dyson Pure Hot + Cool HP02 | 8.6
+Dyson Pure Cool TP01 | 7.9
 
 Any low-weight but tall object is easy to tip over. Especially for children and animals the size of a cat or bigger.
 

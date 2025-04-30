@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -19,7 +19,15 @@ In this article, we’re going to compare window and split air conditioners. Aft
 
 ## Comparison Table: Is a Window AC or a Split AC better?
 
-**_Metric_****_Window AC_****_Split AC_****Price**$300 - $600$1,000 - $3,000**Installation cost**$313$1,000**Cooling Capacity**5,000 - 12,000 BTU/h18,000 - 30,000 BTU/h**Efficiency**highhigh**DIY installation possible**yesonly for the experienced**Noise level**69dB - 72dB50dB - 60dB**Looks**Big appliance in your window (ugly)Still a big appliance, but outside of your field of view (subtle)
+Metric | Window AC | Split AC
+-- | -- | --
+Price | $300 - $600 | $1,000 - $3,000
+Installation cost | $313 | $1,000
+Cooling Capacity | 5,000 - 12,000 BTU/h | 18,000 - 30,000 BTU/h
+Efficiency | high | high
+DIY installation possible | yes | only for the experienced
+Noise level | 69dB - 72dB | 50dB - 60dB
+Looks | Big appliance in your window (ugly) | Still a big appliance, but outside of your field of view (subtle)
 
 In short, as you can see from the values from the table, a split AC is better in terms of cooling power and low noise levels. However, it costs more.
 

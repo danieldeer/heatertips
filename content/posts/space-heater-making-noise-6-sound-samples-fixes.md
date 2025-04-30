@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - repair
@@ -190,7 +190,14 @@ Decide however you prefer.
 
 Here’s a summary of the findings:
 
-**Noise****Is it safe?**ClickingsafeHummingsafeScreechingdangerousSquealingdangerousBuzzingcould be dangerous or safe (check the “buzzing noise” section)Rattlingsafe, but annoying
+Noise | Is it safe?
+-- | --
+Clicking | safe
+Humming | safe
+Screeching | dangerous
+Squealing | dangerous
+Buzzing | could be dangerous or safe (check the “buzzing noise” section)
+Rattling | safe, but annoying
 
 ## Video: Space heater making noise
 

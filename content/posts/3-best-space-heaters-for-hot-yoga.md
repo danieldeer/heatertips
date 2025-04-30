@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -96,7 +96,14 @@ When your heater automatically shuts off due to its overheat protection, then th
 
 However, if you have no access to propane refills, you can also get an infrared heater.
 
-**Metric****Propane Heater****Infrared Heater****Oil-filled Radiator**Heat output100°F85°F85°FCost per year$15$15$15Power18,000 BTU/h5119 BTU/h5119 BTU/hPerceived HeatHighHighModerateHeat DistributionHeats whole roomHeats mostly the person in front of itHeats whole roomHeat-up time5 minutes2-3 minutes15-30 minutes
+Metric | Propane Heater | Infrared Heater | Oil-filled Radiator
+--- | --- | --- | ---
+Heat output | 100°F | 85°F | 85°F
+Cost per year | $15 | $15 | $15
+Power | 18,000 BTU/h | 5119 BTU/h | 5119 BTU/h
+Perceived Heat | High | High | Moderate
+Heat Distribution | Heats whole room | Heats mostly the person in front of it | Heats whole room
+Heat-up time | 5 minutes | 2–3 minutes | 15–30 minutes
 
 ## Cost of running propane heaters and electric space heaters
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -334,7 +334,18 @@ I told you a lot of negative and positive things about Mr. Heater Buddy heaters 
 
 I’d say this:
 
-**Location or Activity****Is a Mr. Heater Buddy good?**CabinyesRVyesIndoorsyes[High-altitude](/best-propane-heaters-for-high-altitude/) road tripyesWorkshopyesGarageyesTrekkingnoKayakingnoBikepackingnoMountaineeringno
+Location or Activity | Is a Mr. Heater Buddy good?
+--- | ---
+Cabin | yes
+RV | yes
+Indoors | yes
+High-altitude road trip | yes
+Workshop | yes
+Garage | yes
+Trekking | no
+Kayaking | no
+Bikepacking | no
+Mountaineering | no
 
 This table summarizes all the findings from this article in a “yes” or “no” answer.
 

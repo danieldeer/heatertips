@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 date: "2023-07-22T18:22:08+00:00"
@@ -46,7 +46,10 @@ Using the same electricity rate and daily usage, the monthly running cost for an
 
 For small portable air conditioners, the [running cost](/portable-air-conditioner-running-cost/) is about $25.92.
 
-**Type****Monthly running cost (8h per day usage)**Swamp cooler (350W)$15.12Air conditioner (1,200W)$51.84
+Type | Monthly running cost (8h per day usage)
+-- | --
+Swamp cooler (350W) | $15.12
+Air conditioner (1,200W) | $51.84
 
 As you can see, swamp coolers are _a lot_ cheaper to run than air conditioners.
 

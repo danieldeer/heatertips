@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -51,7 +51,29 @@ Let's round that up and set the average electricity rate to 15 cents per kilowat
 
 Here are the results:
 
-**Heater****Type****Power in W****Monthly cost in $**Lasko 106Ceramic2007.2AmazonBasics HeaterCeramic50018Bojing Portable IndoorCeramic90032.4DOUHE PortableCeramic90032.4COMLIFE HeaterCeramic120043.2Duraflame 3DInfrared150054Lifesmart EasyInfrared150054Vornado VH200Electric150054Lasko 754200Ceramic150054Dr Infrared HeaterInfrared150054De'Longhi TCH8093ERCeramic150054Honeywell HCE200WCeramic150054Lasko AW300 Air LogicCeramic150054Heat Storm HS-1500-PHX-WIFIInfrared150054DeLonghi EW7707CMOil-Filled150054Pelonis HeaterOil-Filled150054Dyson Pure Hot + CoolElectric157556.7Stiebel Eltron CKT 20EElectric200072Cadet RCP402SElectric4000144NewAir NGH500GA00 Garage HeaterElectric4800172.8Dr. Infrared DR-910FElectric10000360
+Heater | Type | Power in W | Monthly cost in $
+-------|------|------------|--------------------
+Lasko 106 | Ceramic | 2000 | 7.2
+AmazonBasics Heater | Ceramic | 500 | 18
+Bojing Portable Indoor | Ceramic | 900 | 32.4
+DOUHE Portable | Ceramic | 900 | 32.4
+COMLIFE Heater | Ceramic | 1200 | 43.2
+Duraflame 3D | Infrared | 1500 | 54
+Lifesmart Easy | Infrared | 1500 | 54
+Vornado VH200 | Electric | 1500 | 54
+Lasko 754200 | Ceramic | 1500 | 54
+Dr Infrared Heater | Infrared | 1500 | 54
+De'Longhi TCH8093ER | Ceramic | 1500 | 54
+Honeywell HCE200W | Ceramic | 1500 | 54
+Lasko AW300 Air Logic | Ceramic | 1500 | 54
+Heat Storm HS-1500-PHX-WIFI | Infrared | 1500 | 54
+DeLonghi EW7707CM | Oil-Filled | 1500 | 54
+Pelonis Heater | Oil-Filled | 1500 | 54
+Dyson Pure Hot + Cool | Electric | 1575 | 56.7
+Stiebel Eltron CKT 20E | Electric | 2000 | 72
+Cadet RCP402S | Electric | 4000 | 144
+NewAir NGH500GA00 Garage Heater | Electric | 4800 | 172.8
+Dr. Infrared DR-910F | Electric | 10000 | 360
 
 As you see, the cost to run a space heater depends only on the power consumption of it. It doesn’t matter whether it’s an infrared or oil-filled heater.
 

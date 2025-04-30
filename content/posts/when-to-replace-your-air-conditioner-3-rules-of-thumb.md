@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -122,7 +122,13 @@ A new air conditioner in 2-3 years is even more efficient than a new air conditi
 
 The [U.S. Department of Energy](https://www.nrel.gov/docs/fy13osti/56283.pdf) estimates the following _yearly_ energy savings for 15 SEER vs 13 SEER air conditioners in different climate zones:
 
-**Climate****Yearly Electricity Cost Savings (15 SEER vs 13 SEER)**Hot-Dry$82Hot-Humid$95Mixed-Humid$59Marine$11Cold$29
+Climate | Yearly Electricity Cost Savings (15 SEER vs 13 SEER)
+-- | --
+Hot-Dry | $82
+Hot-Humid | $95
+Mixed-Humid | $59
+Marine | $11
+Cold | $29
 
 Note that these are yearly savings. My conclusion:
 

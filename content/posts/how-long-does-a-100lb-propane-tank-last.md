@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -37,7 +37,7 @@ Therefore:
 
 **A 100lb propane tank contains up to 80lb of propane.**
 
-![](/wp-content/uploads/2022/12/100lb-tank-1024x576.jpg)
+![](/wp-content/uploads/2022/12/100lb-tank.jpg)
 
 ## How much energy is in a 100lb propane tank?
 
@@ -65,7 +65,35 @@ Industrial-grade [torpedo heaters](/recommended-products/torpedo-heater/) consum
 
 Because no two propane heaters are equal, I have prepared a long table of all possible BTU ratings and their respective tank capacity (in hours) below.
 
-**Heating power (in BTU/h)****Tank capacity (in hours)**3,000 BTU/h576 hours6,000 BTU/h288 hours9,000 BTU/h192 hours12,000 BTU/h144 hours15,000 BTU/h115 hours18,000 BTU/h96 hours21,000 BTU/h82 hours24,000 BTU/h72 hours27,000 BTU/h64 hours30,000 BTU/h58 hours33,000 BTU/h52 hours36,000 BTU/h48 hours39,000 BTU/h44 hours42,000 BTU/h41 hours45,000 BTU/h38 hours48,000 BTU/h36 hours51,000 BTU/h34 hours54,000 BTU/h32 hours57,000 BTU/h30 hours60,000 BTU/h29 hours70,000 BTU/h25 hours80,000 BTU/h22 hours90,000 BTU/h19 hours100,000 BTU/h17 hours110,000 BTU/h16 hours120,000 BTU/h14 hours130,000 BTU/h13 hours
+Heating power (in BTU/h) | Tank capacity (in hours)  
+------------------------ | -------------------------  
+3,000 BTU/h              | 576 hours                 
+6,000 BTU/h              | 288 hours                 
+9,000 BTU/h              | 192 hours                 
+12,000 BTU/h             | 144 hours                 
+15,000 BTU/h             | 115 hours                 
+18,000 BTU/h             | 96 hours                  
+21,000 BTU/h             | 82 hours                  
+24,000 BTU/h             | 72 hours                  
+27,000 BTU/h             | 64 hours                  
+30,000 BTU/h             | 58 hours                  
+33,000 BTU/h             | 52 hours                  
+36,000 BTU/h             | 48 hours                  
+39,000 BTU/h             | 44 hours                  
+42,000 BTU/h             | 41 hours                  
+45,000 BTU/h             | 38 hours                  
+48,000 BTU/h             | 36 hours                  
+51,000 BTU/h             | 34 hours                  
+54,000 BTU/h             | 32 hours                  
+57,000 BTU/h             | 30 hours                  
+60,000 BTU/h             | 29 hours                  
+70,000 BTU/h             | 25 hours                  
+80,000 BTU/h             | 22 hours                  
+90,000 BTU/h             | 19 hours                  
+100,000 BTU/h            | 17 hours                  
+110,000 BTU/h            | 16 hours                  
+120,000 BTU/h            | 14 hours                  
+130,000 BTU/h            | 13 hours                  
 
 As you can see, the smallest heater lasts for at least 576 hours on a 100lb propane tank. Meanwhile, the largest heater would only last for 13 hours.
 
@@ -81,7 +109,15 @@ So, a more realistic approach would be to assume 4 hours to 8 hours of continuou
 
 For the table, I assume a heater running on 9,000 BTU/h, which is enough to keep a (very) large living space or a large uninsulated cabin or RV heated:
 
-**Daily heating duration (in hours)****How long does a 100lb propane tank last? (with a 9,000 BTU/h heater)**2 hours96 days4 hours48 days6 hours32 days8 hours24 days10 hours19 days12 hours16 days24 hours8 days
+Daily heating duration (in hours) | How long does a 100lb propane tank last? (with a 9,000 BTU/h heater)  
+-------------------------------- | ---------------------------------------------------------------  
+2 hours                         | 96 days                                                    
+4 hours                         | 48 days                                                    
+6 hours                         | 32 days                                                    
+8 hours                         | 24 days                                                    
+10 hours                        | 19 days                                                    
+12 hours                        | 16 days                                                    
+24 hours                        | 8 days                                                     
 
 As you can see, your daily heating duration impacts the propane tank’s longevity _a lot._
 

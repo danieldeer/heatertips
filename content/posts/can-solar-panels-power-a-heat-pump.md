@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -47,7 +47,18 @@ The energy consumption of your heat pump (moderately sized and medium efficiency
 
 Depending on your heat pump unit’s size and efficiency, this causes the following energy requirements:
 
-**Unit size****14 SEER****16 SEER****18 SEER****20 SEER****22 SEER****1.0 tons**4,692kWh4,106kWh3,652kWh3,285kWh2,984kWh**1.5 tons**7,041kWh6,159kWh5,475kWh4,928kWh4,479kWh**2.0 tons**9,384kWh8,213kWh7,298kWh6,570kWh5,973kWh**2.5 tons**11,733kWh10,266kWh9,127kWh8,213kWh7,468kWh**3.0 tons**14,076kWh12,319kWh10,950kWh9,855kWh8,957kWh**3.5 tons**16,425kWh14,372kWh12,773kWh11,498kWh10,452kWh**4.0 tons**18,774kWh16,425kWh14,602kWh13,140kWh11,946kWh**4.5 tons**21,117kWh18,478kWh16,425kWh14,783kWh13,441kWh**5.0 tons**23,466kWh20,531kWh18,248kWh16,425kWh14,930kWh
+Unit size | 14 SEER | 16 SEER | 18 SEER | 20 SEER | 22 SEER
+--- | --- | --- | --- | --- | ---
+1.0 tons | 4,692 kWh | 4,106 kWh | 3,652 kWh | 3,285 kWh | 2,984 kWh
+1.5 tons | 7,041 kWh | 6,159 kWh | 5,475 kWh | 4,928 kWh | 4,479 kWh
+2.0 tons | 9,384 kWh | 8,213 kWh | 7,298 kWh | 6,570 kWh | 5,973 kWh
+2.5 tons | 11,733 kWh | 10,266 kWh | 9,127 kWh | 8,213 kWh | 7,468 kWh
+3.0 tons | 14,076 kWh | 12,319 kWh | 10,950 kWh | 9,855 kWh | 8,957 kWh
+3.5 tons | 16,425 kWh | 14,372 kWh | 12,773 kWh | 11,498 kWh | 10,452 kWh
+4.0 tons | 18,774 kWh | 16,425 kWh | 14,602 kWh | 13,140 kWh | 11,946 kWh
+4.5 tons | 21,117 kWh | 18,478 kWh | 16,425 kWh | 14,783 kWh | 13,441 kWh
+5.0 tons | 23,466 kWh | 20,531 kWh | 18,248 kWh | 16,425 kWh | 14,930 kWh
+
 
 ## How much Power do Solar Panels produce?
 
@@ -65,7 +76,17 @@ Now that we know how much power a heat pump uses, and how much power an average 
 
 The table below lists the required number of solar panels for different unit sizes and SEER ratings:
 
-**Unit size****14 SEER****16 SEER****18 SEER****20 SEER****22 SEER****1.0 tons**7 panels6 panels6 panels5 panels5 panels**1.5 tons**11 panels9 panels8 panels8 panels7 panels**2.0 tons**14 panels13 panels11 panels10 panels9 panels**2.5 tons**18 panels16 panels14 panels13 panels11 panels**3.0 tons**21 panels19 panels17 panels15 panels14 panels**3.5 tons**25 panels22 panels19 panels18 panels16 panels**4.0 tons**29 panels25 panels22 panels20 panels18 panels**4.5 tons**32 panels28 panels25 panels23 panels20 panels**5.0 tons**36 panels31 panels28 panels25 panels23 panels
+Unit size | 14 SEER | 16 SEER | 18 SEER | 20 SEER | 22 SEER
+--- | --- | --- | --- | --- | ---
+1.0 tons | 7 panels | 6 panels | 6 panels | 5 panels | 5 panels
+1.5 tons | 11 panels | 9 panels | 8 panels | 8 panels | 7 panels
+2.0 tons | 14 panels | 13 panels | 11 panels | 10 panels | 9 panels
+2.5 tons | 18 panels | 16 panels | 14 panels | 13 panels | 11 panels
+3.0 tons | 21 panels | 19 panels | 17 panels | 15 panels | 14 panels
+3.5 tons | 25 panels | 22 panels | 19 panels | 18 panels | 16 panels
+4.0 tons | 29 panels | 25 panels | 22 panels | 20 panels | 18 panels
+4.5 tons | 32 panels | 28 panels | 25 panels | 23 panels | 20 panels
+5.0 tons | 36 panels | 31 panels | 28 panels | 25 panels | 23 panels
 
 ## How much is the installation cost of solar panels for a heat pump?
 
@@ -83,7 +104,13 @@ To cover the cost of heat pumps, you will need to install between $1362.50 and $
 
 This assumption leads to the following results:
 
-**Heat pump size****Minimum solar panel system cost****Maximum solar panel system cost****1 ton**$1,362.50$2,142.50**2 tons**$2,725.00$4,285.00**3 tons**$4,087.50$6,427.50**4 tons**$5,450.00$8,570.00**5 tons**$6,812.50$10,712.50
+Heat pump size | Minimum solar panel system cost | Maximum solar panel system cost
+--- | --- | ---
+1 ton | $1,362.50 | $2,142.50
+2 tons | $2,725.00 | $4,285.00
+3 tons | $4,087.50 | $6,427.50
+4 tons | $5,450.00 | $8,570.00
+5 tons | $6,812.50 | $10,712.50
 
 Additionally, you can add 30-50% on top for the installation. The exact installation cost is hard to tell. You should get your phone and call 2-3 companies to get a quote! (Always tell them you’ve already called their competitors, and they are cheaper!)
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -25,7 +25,13 @@ But there’s even more to it.
 
 An average oil-filled radiator lasts at least 20 years. Here’s a table with oil heater lifespans depending on usage.
 
-**Usage situation****How long will an oil-filled radiator last?**Indoor usage (supply heat)>30 yearsBasement / Attic (rare usage)>30 yearsWorkshop / Garage (occasional usage)>20 yearsIndoor usage (main heat source)>15 yearsMobile home / RV>15 years
+Usage situation                         | How long will an oil-filled radiator last?  
+-------------------------------------- | -----------------------------------------
+Indoor usage (supply heat)             | >30 years                                 
+Basement / Attic (rare usage)         | >30 years                                 
+Workshop / Garage (occasional usage)  | >20 years                                 
+Indoor usage (main heat source)       | >15 years                                 
+Mobile home / RV                       | >15 years                                 
 
 _Table explanation:_
 

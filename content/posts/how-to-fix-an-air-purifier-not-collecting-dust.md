@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
   - repair
@@ -38,7 +38,19 @@ Let’s first have a look at the most common causes of an air purifier not colle
 
 We will take a closer look at each of the listed causes (and many more).
 
-**Cause****Do I Need to Take Action?**Filter SaturationYes, check/clean/replace the filter.Low-Quality FiltersYes, purchase genuine, high-quality filters.Incorrect Room SizeYes, adjust purifier placement or get an appropriate size purifier.Low Fan SpeedYes, increase the fan speed.Filter Still Sealed from PackagingYes, open the purifier, remove the plastic or seal from the filter, and ensure it's properly seated before use.Location of the PurifierYes, reposition the purifier to a central location.Wrong Type of FilterYes, check if the filter type is suitable for dust and replace if necessary.Humidity LevelsYes, consider adjusting indoor humidity with a humidifier or dehumidifier.Competing Air CurrentsYes, reposition other airflow-altering appliances or the purifier.Stale Air ZonesPotentially, improve room air circulation or move the purifier.Air LeakagesYes, ensure the purifier is sealed correctly and the filter is properly seated.
+Cause | Do I Need to Take Action?
+------|---------------------------------
+Filter Saturation | Yes, check/clean/replace the filter.
+Low-Quality Filters | Yes, purchase genuine, high-quality filters.
+Incorrect Room Size | Yes, adjust purifier placement or get an appropriate size purifier.
+Low Fan Speed | Yes, increase the fan speed.
+Filter Still Sealed from Packaging | Yes, open the purifier, remove the plastic or seal from the filter, and ensure it's properly seated before use.
+Location of the Purifier | Yes, reposition the purifier to a central location.
+Wrong Type of Filter | Yes, check if the filter type is suitable for dust and replace if necessary.
+Humidity Levels | Yes, consider adjusting indoor humidity with a humidifier or dehumidifier.
+Competing Air Currents | Yes, reposition other airflow-altering appliances or the purifier.
+Stale Air Zones | Potentially, improve room air circulation or move the purifier.
+Air Leakages | Yes, ensure the purifier is sealed correctly and the filter is properly seated.
 
 Let’s have a look at all of these potential causes and their fixes in more detail!
 
@@ -172,7 +184,12 @@ Different air purifiers use various filter and air purifier types like HEPA or a
 
 Some are more effective against dust than others. Here’s a quick table:
 
-**Air purifier filter type****Does it collect dust?**HEPAYes, captures 99.97% of particles ≥0.3 microns.Activated CarbonYes, but traps not all dust due to porous structure (mostly intended to capture gases).UVNo. UV filters have no physical membrane. Dust flies straight through them. Neutralizes microorganisms, not dust.Ionizing PurifiersNo. Ionizing causes particles to fall, and doesn't trap dust directly.
+Air purifier filter type | Does it collect dust?
+--------------------------|-----------------------------------------
+HEPA | Yes, captures 99.97% of particles ≥0.3 microns.
+Activated Carbon | Yes, but traps not all dust due to porous structure (mostly intended to capture gases).
+UV | No. UV filters have no physical membrane. Dust flies straight through them. Neutralizes microorganisms, not dust.
+Ionizing Purifiers | No. Ionizing causes particles to fall, and doesn't trap dust directly.
 
 As you can see, UV and ionizing air purifiers usually do nothing for dust collection. There are many air purifiers, where different filters are combined.
 

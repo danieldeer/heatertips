@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -55,7 +55,16 @@ Here’s a quick table listing all the space heater brands that won a category i
 
 Later on, you’ll find (short) sections with specific heater recommendations from each brand!
 
-**Category****Brand Name**Best OverallDysonMost Innovative (Unique Engineering)DysonBest Affordability with Unique EngineeringVornadoSafest & Highest-Quality Oil-Filled RadiatorsDeLonghiBest in Infrared HeatingDr InfraredBest in Propane HeatingMr HeaterBest Ceramic HeaterHoneywellCheapest Oil-Filled RadiatorsPelonis
+Category | Brand Name
+-- | --
+Best Overall | Dyson
+Most Innovative (Unique Engineering) | Dyson
+Best Affordability with Unique Engineering | Vornado
+Safest & Highest-Quality Oil-Filled Radiators | DeLonghi
+Best in Infrared Heating | Dr Infrared
+Best in Propane Heating | Mr Heater
+Best Ceramic Heater | Honeywell
+Cheapest Oil-Filled Radiators | Pelonis
 
 ## Full Evaluation: Finding out the Best Space Heater Brand
 

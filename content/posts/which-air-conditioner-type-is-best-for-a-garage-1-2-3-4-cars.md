@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -113,7 +113,12 @@ A portable AC will occupy the largest space and is, therefore, only suitable for
 
 To find the best-suited air conditioner cooling capacity for your garage, I [used standard garage sizes](https://garagetransformed.com/standard-garage-sizes/). Assuming you need 20 BTU per square foot, you get the following results:
 
-**Garage size****Garage Area****Cooling Capacity (BTU)****Best AC Type**1 car garage240 – 384 sq. ft.4,800 BTU - 7,680 BTUsplit or portable2 car garage440 – 624 sq. ft.8,800 BTU - 12,480 BTUsplit, window or portable3 car garage620 – 816 sq. ft.12,400 BTU - 16,320 BTUsplit or window4 car garage800 – 1056 sq. ft.16,000 BTU - 21,120 BTUsplit or window
+Garage size | Garage Area | Cooling Capacity (BTU) | Best AC Type
+-- | -- | -- | --
+1 car garage | 240 – 384 sq. ft. | 4,800 BTU - 7,680 BTU | split or portable
+2 car garage | 440 – 624 sq. ft. | 8,800 BTU - 12,480 BTU | split, window or portable
+3 car garage | 620 – 816 sq. ft. | 12,400 BTU - 16,320 BTU | split or window
+4 car garage | 800 – 1056 sq. ft. | 16,000 BTU - 21,120 BTU | split or window
 
 The AC type recommendations are based on the cooling capacity of the ACs and the available free space.
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -47,7 +47,13 @@ I have written a detailed guide on this topic: [Do Portable Air Conditioners nee
 
 ## Alternatives of Venting the Portable AC
 
-**Venting Method****Pros****Cons**Venting through the doorEasient venting method, Easy to remove and installOnly works well with sliding doorsVenting through the wallPermanent solution for ventingDrilling a hole isn’t easy, risk of damaging wires, and other objectsVenting through the drop ceilingDIY installationExcess heat could [encourage mold](/remove-mold-portable-air-conditioner/)Venting through chimneyEasy and convenient installationInvolves a risky operationVenting through dryer ventNo installation neededCan't do laundry while AC is in use
+Venting Method | Pros | Cons
+----------------|------|-----
+Venting through the door | Easiest venting method, Easy to remove and install | Only works well with sliding doors
+Venting through the wall | Permanent solution for venting | Drilling a hole isn’t easy, risk of damaging wires, and other objects
+Venting through the drop ceiling | DIY installation | Excess heat could encourage mold
+Venting through chimney | Easy and convenient installation | Involves a risky operation
+Venting through dryer vent | No installation needed | Can't do laundry while AC is in use
 
 Let’s discuss each method in detail.
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -113,7 +113,22 @@ Heaters should always fit the room size.
 
 Refer to the table below to know the heater size suitable for your room.
 
-**Heating Capacity (in BTU)****Room Area (in square feet)**5000 BTU100-150 square feet6,000 BTU150-250 square feet7,000 BTU250-300 square feet8,000 BTU300-350 square feet9,000 BTU350-400 square feet10,000 BTU400-450 square feet12,000 BTU450-550 square feet14,000 BTU550-700 square feet18,000 BTU700-1,000 square feet21,000 BTU1,000-1,200 square feet23,000 BTU1,200-1,400 square feet24,000 BTU1,400-1,500 square feet30,000 BTU1,500-2,000 square feet34,000 BTU2,000-2,500 square feet
+Heating Capacity (in BTU) | Room Area (in square feet)
+-- | --
+5,000 BTU | 100-150 square feet
+6,000 BTU | 150-250 square feet
+7,000 BTU | 250-300 square feet
+8,000 BTU | 300-350 square feet
+9,000 BTU | 350-400 square feet
+10,000 BTU | 400-450 square feet
+12,000 BTU | 450-550 square feet
+14,000 BTU | 550-700 square feet
+18,000 BTU | 700-1,000 square feet
+21,000 BTU | 1,000-1,200 square feet
+23,000 BTU | 1,200-1,400 square feet
+24,000 BTU | 1,400-1,500 square feet
+30,000 BTU | 1,500-2,000 square feet
+34,000 BTU | 2,000-2,500 square feet
 
 These ratings are recommended by [Energy Star Organization](https://www.energystar.gov/about)
 
@@ -161,7 +176,15 @@ If we assume the burning efficiency to be 90% (so, we already account for subopt
 
 I know it's getting technical, so I've done the calculation part myself.
 
-**Heating Capacity (in BTU)****Hourly gas consumption ( in Gallons)****Monthly gas consumption (in Gallons)**5000 BTU0.06 Gallons 21.6 Gallons 10,000 BTU 0.12 Gallons 43.2 Gallons 15,000 BTU0.18 Gallons64.8 Gallons 20,000 BTU0.24 Gallons86.4 Gallons25,000 BTU0.30 Gallons108 Gallons30,000 BTU0.36 Gallons129.6 Gallons40,000 BTU0.49 Gallons176.4 Gallons
+Heating Capacity (in BTU) | Hourly gas consumption (in Gallons) | Monthly gas consumption (in Gallons)
+-- | -- | --
+5,000 BTU | 0.06 Gallons | 21.6 Gallons
+10,000 BTU | 0.12 Gallons | 43.2 Gallons
+15,000 BTU | 0.18 Gallons | 64.8 Gallons
+20,000 BTU | 0.24 Gallons | 86.4 Gallons
+25,000 BTU | 0.30 Gallons | 108 Gallons
+30,000 BTU | 0.36 Gallons | 129.6 Gallons
+40,000 BTU | 0.49 Gallons | 176.4 Gallons
 
 ## How can I make my propane heater more efficient?
 

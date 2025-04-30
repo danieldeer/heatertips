@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -31,11 +31,21 @@ Then look up the power of your heaters and see in the ‘Can you run two heaters
 
 ### For 15A circuits:
 
-**Heater power****Can you run two heaters? (120V circuit)****Can you run two heaters? (230V circuit)****800 Watts**yes (draws 13.33 amps)yes (draws 7 amps)**1,000 Watts**no (draws 16.67 amps)yes (draws 8.7 amps)**1,500 Watts**no (draws 25 amps)yes (draws 13 amps)**2,000 Watts**no (draws 33.33 amps)no (draws 17.4 amps)
+Heater Power | Can you run two heaters? (120V circuit) | Can you run two heaters? (230V circuit)
+--- | --- | ---
+800 Watts | yes (draws 13.33 amps) | yes (draws 7 amps)
+1,000 Watts | no (draws 16.67 amps) | yes (draws 8.7 amps)
+1,500 Watts | no (draws 25 amps) | yes (draws 13 amps)
+2,000 Watts | no (draws 33.33 amps) | no (draws 17.4 amps)
 
 ### For 20A circuits:
 
-**Heater power****Can you run two heaters? (120V circuit)****Can you run two heaters? (230V circuit)****800 Watts**yes (draws 13.33 amps)yes (draws 7 amps)**1,000 Watts**yes (draws 16.67 amps)yes (draws 8.7 amps)**1,500 Watts**no (draws 25 amps)yes (draws 13 amps)**2,000 Watts**no (draws 33.33 amps)yes (draws 17.4 amps)
+Heater Power | Can you run two heaters? (120V circuit) | Can you run two heaters? (230V circuit)
+--- | --- | ---
+800 Watts | yes (draws 13.33 amps) | yes (draws 7 amps)
+1,000 Watts | yes (draws 16.67 amps) | yes (draws 8.7 amps)
+1,500 Watts | no (draws 25 amps) | yes (draws 13 amps)
+2,000 Watts | no (draws 33.33 amps) | yes (draws 17.4 amps)
 
 ### Recommendation: Safe space heaters you can run simultaneously on one circuit
 

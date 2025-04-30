@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -50,7 +50,11 @@ What really counts for table safety is the heat to which your table is exposed.
 
 For each space heater, I took a temperature measurement of the tabletop right in front of it (for the infrared and propane heater) and the tabletop right below it (for the oil-filled radiator).
 
-**Heater type****Tabletop temperature**Oil-filled radiator67.6°FInfrared heater112.6°FPropane heater116.4°F
+Heater type | Tabletop temperature
+--- | ---
+Oil-filled radiator | 67.6°F
+Infrared heater | 112.6°F
+Propane heater | 116.4°F
 
 As you can see, the tabletop temperatures that these space heaters cause are absolutely safe.
 

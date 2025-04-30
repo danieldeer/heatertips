@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -29,7 +29,19 @@ Each of the heaters had their weight noted on their sales page. Then, I put all 
 
 Here are the oil-filled radiator weight values that I have collected:
 
-**Heater brand****Weight**Pelonis 14A16.09 poundsKismile18.59 poundsDreo22.2 poundsDe’Longhi26.6 poundsDe’Longhi23.15 poundsAmazon Basics16.72 poundsHoneywell19.7 poundsUnbranded (700W instead of 1500W)8.64 poundsComfort Zone21 poundsAntarctic Star16.46 pounds**Average****18,9 pounds**
+Heater brand | Weight
+-------------|---------
+Pelonis 14A | 16.09 pounds
+Kismile | 18.59 pounds
+Dreo | 22.2 pounds
+De’Longhi | 26.6 pounds
+De’Longhi | 23.15 pounds
+Amazon Basics | 16.72 pounds
+Honeywell | 19.7 pounds
+Unbranded (700W instead of 1500W) | 8.64 pounds
+Comfort Zone | 21 pounds
+Antarctic Star | 16.46 pounds
+Average | 18.9 pounds
 
 The last row of the table above already depicts the average weight of the oil-filled radiator samples.
 

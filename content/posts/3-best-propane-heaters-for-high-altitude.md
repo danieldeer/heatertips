@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -83,7 +83,38 @@ There’s not much you can do about the improper burn of propane. You can’t ju
 
 Here’s a table showing you the (relative) oxygen levels with ascending altitude. I have added a column that tells you whether your propane heater will work at the corresponding altitude.
 
-**Altitude (feet)****Altitude (meters)****Relative Oxygen Levels (%)****Will a propane heater work?**0 ft0 m100.00%yes1000 ft305 m96.17%yes2000 ft610 m92.82%yes3000 ft914 m89.00%yes4000 ft1219 m85.65%yes5000 ft1524 m82.78%yes6000 ft1829 m79.43%yes7000 ft2134 m76.56%yes8000 ft2438 m73.68%yes9000 ft2743 m70.81%yes10,000 ft3048 m68.42%yes, but potentially improper burn11,000 ft3353 m65.55%yes, but potentially improper burn12,000 ft3658 m63.16%yes, but potentially improper burn13,000 ft3962 m60.77%yes, but potentially improper burn14,000 ft4267 m58.85%yes, but potentially improper burn15,000 ft4572 m56.46%yes, but potentially improper burn16,000 ft4877 m54.55%yes, but potentially improper burn17,000 ft5182 m52.63%maybe18,000 ft5486 m50.24%maybe19,000 ft5791 m48.33%maybe20,000 ft6096 m46.41%maybe21,000 ft6401 m44.98%maybe22,000 ft6706 m43.06%maybe23,000 ft7010 m41.63%unlikely24,000 ft7315 m40.19%unlikely25,000 ft7620 m38.76%unlikely26,000 ft7925 m37.32%unlikely27,000 ft8230 m35.89%unlikely28,000 ft8534 m34.45%unlikely29,000 ft8839 m33.01%unlikely
+Altitude (feet) | Altitude (meters) | Relative Oxygen Levels (%) | Will a propane heater work?
+--- | --- | --- | ---
+0 ft | 0 m | 100.00% | yes
+1000 ft | 305 m | 96.17% | yes
+2000 ft | 610 m | 92.82% | yes
+3000 ft | 914 m | 89.00% | yes
+4000 ft | 1219 m | 85.65% | yes
+5000 ft | 1524 m | 82.78% | yes
+6000 ft | 1829 m | 79.43% | yes
+7000 ft | 2134 m | 76.56% | yes
+8000 ft | 2438 m | 73.68% | yes
+9000 ft | 2743 m | 70.81% | yes
+10,000 ft | 3048 m | 68.42% | yes, but potentially improper burn
+11,000 ft | 3353 m | 65.55% | yes, but potentially improper burn
+12,000 ft | 3658 m | 63.16% | yes, but potentially improper burn
+13,000 ft | 3962 m | 60.77% | yes, but potentially improper burn
+14,000 ft | 4267 m | 58.85% | yes, but potentially improper burn
+15,000 ft | 4572 m | 56.46% | yes, but potentially improper burn
+16,000 ft | 4877 m | 54.55% | yes, but potentially improper burn
+17,000 ft | 5182 m | 52.63% | maybe
+18,000 ft | 5486 m | 50.24% | maybe
+19,000 ft | 5791 m | 48.33% | maybe
+20,000 ft | 6096 m | 46.41% | maybe
+21,000 ft | 6401 m | 44.98% | maybe
+22,000 ft | 6706 m | 43.06% | maybe
+23,000 ft | 7010 m | 41.63% | unlikely
+24,000 ft | 7315 m | 40.19% | unlikely
+25,000 ft | 7620 m | 38.76% | unlikely
+26,000 ft | 7925 m | 37.32% | unlikely
+27,000 ft | 8230 m | 35.89% | unlikely
+28,000 ft | 8534 m | 34.45% | unlikely
+29,000 ft | 8839 m | 33.01% | unlikely
 
 I have seen gas-heated showers on a Nepal trek up to around 16,000 feet. So, unless you’re going higher, there’s absolutely nothing to worry about.
 

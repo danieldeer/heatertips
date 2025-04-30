@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -67,7 +67,35 @@ Tank capacity (in hours) = Propane tank capacity (in BTU) ÷ Heating power (in B
 
 where the propane tank capacity is 345,552 BTU, which we calculated earlier.
 
-**Heating power (in BTU/h)****Tank capacity (in hours)**3,000 BTU/h115 hours6,000 BTU/h58 hours9,000 BTU/h38 hours12,000 BTU/h29 hours15,000 BTU/h23 hours18,000 BTU/h19 hours21,000 BTU/h16 hours24,000 BTU/h14 hours27,000 BTU/h13 hours30,000 BTU/h12 hours33,000 BTU/h10 hours36,000 BTU/h10 hours39,000 BTU/h9 hours42,000 BTU/h8 hours45,000 BTU/h8 hours48,000 BTU/h7 hours51,000 BTU/h7 hours54,000 BTU/h6 hours57,000 BTU/h6 hours60,000 BTU/h6 hours70,000 BTU/h5 hours80,000 BTU/h4 hours90,000 BTU/h4 hours100,000 BTU/h3 hours110,000 BTU/h3 hours120,000 BTU/h3 hours130,000 BTU/h3 hours
+Heating power (in BTU/h) | Tank capacity (in hours)  
+------------------------ | ------------------------  
+3,000 BTU/h              | 115 hours  
+6,000 BTU/h              | 58 hours  
+9,000 BTU/h              | 38 hours  
+12,000 BTU/h             | 29 hours  
+15,000 BTU/h             | 23 hours  
+18,000 BTU/h             | 19 hours  
+21,000 BTU/h             | 16 hours  
+24,000 BTU/h             | 14 hours  
+27,000 BTU/h             | 13 hours  
+30,000 BTU/h             | 12 hours  
+33,000 BTU/h             | 10 hours  
+36,000 BTU/h             | 10 hours  
+39,000 BTU/h             | 9 hours  
+42,000 BTU/h             | 8 hours  
+45,000 BTU/h             | 8 hours  
+48,000 BTU/h             | 7 hours  
+51,000 BTU/h             | 7 hours  
+54,000 BTU/h             | 6 hours  
+57,000 BTU/h             | 6 hours  
+60,000 BTU/h             | 6 hours  
+70,000 BTU/h             | 5 hours  
+80,000 BTU/h             | 4 hours  
+90,000 BTU/h             | 4 hours  
+100,000 BTU/h            | 3 hours  
+110,000 BTU/h            | 3 hours  
+120,000 BTU/h            | 3 hours  
+130,000 BTU/h            | 3 hours  
 
 According to the calculations:
 
@@ -87,7 +115,15 @@ So, how long would a regular heater last on a 20lb propane tank _realistically?_
 
 Here’s a table with how long a regular indoor heater hot enough to keep a large living room warm (9,000 BTU), lasts on a 20lb propane tank _realistically,_ depending on how much you use the heater.
 
-**Daily heating duration (in hours)****How long does a 20lb propane tank last? (with a 9,000 BTU/h heater)**2 hours19 days4 hours10 days6 hours6 days8 hours5 days10 hours4 days12 hours3 days14 hours3 days
+Daily heating duration (in hours) | How long does a 20lb propane tank last? (with a 9,000 BTU/h heater)  
+---------------------------------- | ---------------------------------------------------------------  
+2 hours                           | 19 days  
+4 hours                           | 10 days  
+6 hours                           | 6 days  
+8 hours                           | 5 days  
+10 hours                          | 4 days  
+12 hours                          | 3 days  
+14 hours                          | 3 days  
 
 A 20lb propane tank lasts for a week of heating if you use it for 4-6 hours a day.
 

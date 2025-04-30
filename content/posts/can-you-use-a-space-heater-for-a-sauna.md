@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -24,7 +24,11 @@ To get a sauna up to temperature, you need at least 2,500W of heating power. Now
 
 A sauna needs to be heated to around 180°F. Here’s how much heating power you need to get your sauna to that level:
 
-**Sauna Size****Required heat**Small (2 - 3 people)2,500WMedium (4 - 5 people)3,500WLarge (5+ people)4,500W
+Sauna Size | Required Heat
+--- | ---
+Small (2 - 3 people) | 2,500W
+Medium (4 - 5 people) | 3,500W
+Large (5+ people) | 4,500W
 
 ## What are the limitations of using a space heater for a sauna?
 

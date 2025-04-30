@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -45,7 +45,14 @@ Often these measurements are free of charge. Of course. The HVAC company wants t
 
 ### Power consumption of different heat pump sizes
 
-**House size (in square feet)****Heat pump size (in tons)****Maximum average power consumption (in Watts)**500 sq. ft.1 ton857W1,000 sq. ft.2 tons1,714W1,500 sq. ft.3 tons2,571W2,000 sq. ft.4 tons3,429W2,500 sq. ft.5 tons4,286W3,000 sq. ft.6 tons5,143W
+House size (in square feet) | Heat pump size (in tons) | Maximum average power consumption (in Watts)
+-- | -- | --
+500 sq. ft. | 1 ton | 857W
+1,000 sq. ft. | 2 tons | 1,714W
+1,500 sq. ft. | 3 tons | 2,571W
+2,000 sq. ft. | 4 tons | 3,429W
+2,500 sq. ft. | 5 tons | 4,286W
+3,000 sq. ft. | 6 tons | 5,143W
 
 Please note that the right column lists the maximum average power consumption. The maximum average power consumption is the maximum amount of power that a heat pump consumes on average. It is NOT the maximum power consumption.
 
@@ -59,7 +66,13 @@ Different size generators produce different amounts of power.
 
 Here’s a table with the most common generator types, the amount of power they produce, and their respective prices.
 
-**Generator type****Power****Cost**Small Recreational Generator< 2,000W$450 - $1600Midsized Inverter2,000W - 3,500W$800 - $2,400Large Portable Generator< 8,500W$950 - $2,000Large Inverter5,000W - 7,500W$1,400 - $1,800Home Standby< 20,000W$2,000 - $6,000
+Generator type | Power | Cost
+-- | -- | --
+Small Recreational Generator | < 2,000W | $450 - $1,600
+Midsized Inverter | 2,000W - 3,500W | $800 - $2,400
+Large Portable Generator | < 8,500W | $950 - $2,000
+Large Inverter | 5,000W - 7,500W | $1,400 - $1,800
+Home Standby | < 20,000W | $2,000 - $6,000
 
 ## Which size generator can run a heat pump?
 
@@ -71,7 +84,14 @@ Respectively, for starting, a heat pump needs 3x the power. A generator should, 
 
 Let’s have a look:
 
-**Heat pump size (in tons)****Required startup power (in Watts)****Theoretical smallest generator required**1 ton2571WMidsized Inverter (2kW - 3.5kW)2 tons5143WLarge Inverter (5kW - 7.5kW)3 tons7714WHome Standby (<20kW)4 tons10286WHome Standby (<20kW)5 tons12857WHome Standby (<20kW)6 tons15429W Home Standby (<20kW)
+Heat pump size (in tons) | Required startup power (in Watts) | Theoretical smallest generator required
+-- | -- | --
+1 ton | 2,571W | Midsized Inverter (2kW - 3.5kW)
+2 tons | 5,143W | Large Inverter (5kW - 7.5kW)
+3 tons | 7,714W | Home Standby (<20kW)
+4 tons | 10,286W | Home Standby (<20kW)
+5 tons | 12,857W | Home Standby (<20kW)
+6 tons | 15,429W | Home Standby (<20kW)
 
 As you see, for most heat pump sizes a home standby generator is required.
 

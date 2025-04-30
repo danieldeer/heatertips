@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -77,7 +77,9 @@ With a heat pump with a CoP of 3 that would be only about 1,080kWh.
 
 Here’s how many solar panels you need to cover just the heating of your home considering an average production rate of 1.8kWh per solar panel per day.
 
-**Electric Heating****Heat Pump****Whole house**19 Solar Panels7 Solar Panels**Single Room**5 Solar Panels2 Solar Panels
+Electric Heating | Heat Pump | Whole house | 19 Solar Panels | 7 Solar Panels
+--- | --- | --- | --- | ---
+Single Room | 5 Solar Panels | 2 Solar Panels
 
 The formula used in the table is (yearly energy / 1.8kWh \* 365). Feel free to plug your own yearly heating energy consumption into the formula to calculate your personal required amount of solar panels. You should be able to find your annual energy consumption on your heating bill.
 

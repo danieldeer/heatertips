@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -45,7 +45,7 @@ And since the exhaust blows fumes out, it has to suck in air as well. For that, 
 
 **The exhaust and the air intake are always outdoors.**
 
-![diesel heater air flow diagram](/wp-content/uploads/2023/12/diesel-heater-air-flow-diagram-1024x576.png)
+![diesel heater air flow diagram](/wp-content/uploads/2023/12/diesel-heater-air-flow-diagram.png)
 
 So, to sum this up:
 
@@ -97,7 +97,7 @@ Also, solving the weatherproofing and reduced energy efficiency (when the heater
 
 **The ideal diesel heater setup for indoor heating is to place the diesel heater outside and feed the hot air indoors via pipes.**
 
-![diesel heater setup for indoor heating](/wp-content/uploads/2023/12/diesel-heater-setup-for-indoor-heating-1024x576.png)This is the ideal setup for diesel heater indoor heating: Place the diesel heater outside. Connect the indoor hot air vent via a pipe to the space you want to heat. The air inlet also needs to be connected for maximum efficiency and to ensure the heater only blows clean air inside.
+![diesel heater setup for indoor heating](/wp-content/uploads/2023/12/diesel-heater-setup-for-indoor-heating.png)This is the ideal setup for diesel heater indoor heating: Place the diesel heater outside. Connect the indoor hot air vent via a pipe to the space you want to heat. The air inlet also needs to be connected for maximum efficiency and to ensure the heater only blows clean air inside.
 
 ## How to Setup the Diesel Heater for Indoor Heating
 

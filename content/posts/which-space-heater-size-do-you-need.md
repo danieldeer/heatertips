@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -69,7 +69,13 @@ Here I have already calculated some wattages for you, so you don’t need to. If
 
 Watt table
 
-**Heater power in Watts****Room size in square feet**500747501121,0001501,5002252,000300Different wattages and the room sizes they are able to heat
+Heater power in Watts | Room size in square feet
+-- | --
+500 | 75
+750 | 100
+1,000 | 150
+1,500 | 225
+2,000 | 300
 
 If your room is bigger than 300 square feet, then you should just get multiple space heaters. It is very hard to find home space heaters rated over 2000W in the US. In Europe, there are some, but it is generally not common.
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
 cover:
@@ -190,7 +190,17 @@ When considering whether the Dyson Humidify+Cool is worth its high price tag, it
 
 ### Quick Comparison
 
-**Aspect****Details****Initial Cost**High ($700 - $900)**Annual Energy**Low (Approx. $15.56/year)**Maintenance**Moderate (Filter replacement, potential repairs)**Functionality**High (Air purifier, fan, humidifier)**Space Efficiency**High (One device instead of three)**Air Quality**Beneficial (HEPA filter, UV-C light)**Smart Features**Convenient (App control, smart home integration)**Design**Attractive (Modern aesthetic)**Longevity**High (Durable, long-term value)
+| Aspect              | Details                                      |
+|---------------------|----------------------------------------------|
+| Initial Cost        | High ($700 - $900)                           |
+| Annual Energy       | Low (Approx. $15.56/year)                    |
+| Maintenance         | Moderate (Filter replacement, potential repairs) |
+| Functionality       | High (Air purifier, fan, humidifier)         |
+| Space Efficiency    | High (One device instead of three)           |
+| Air Quality         | Beneficial (HEPA filter, UV-C light)         |
+| Smart Features      | Convenient (App control, smart home integration) |
+| Design              | Attractive (Modern aesthetic)                |
+| Longevity           | High (Durable, long-term value)              |
 
 **The Dyson Humidify+Cool is a high-cost but high-value investment, especially for those prioritizing multifunctionality, improved air quality, and modern design.**
 

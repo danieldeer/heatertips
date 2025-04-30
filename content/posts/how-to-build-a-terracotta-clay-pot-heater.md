@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -105,7 +105,11 @@ There are different scenarios that determine the number of candles you need:
 
 Let’s have a look at the number of candles you need depending on the room’s size in emergency and in comfort situations.
 
-**Comfortable temperature****Emergency****Small bedroom (132 square feet)**10 candles5 candles**Average bedroom (** **224 square feet)**20 candles10 candles**Average living room (340 square feet)**30 candles15 candles
+Comfortable temperature | Emergency
+------------------------|-----------
+Small bedroom (132 sq ft) | 10 candles | 5 candles
+Average bedroom (224 sq ft) | 20 candles | 10 candles
+Average living room (340 sq ft) | 30 candles | 15 candles
 
 To calculate these values, I assumed an average candle power of 87W. I assumed that large rooms such as average living rooms require 1500W to stay comfortably warm in winter. That’s about the power an electric space heater produces on high settings.
 

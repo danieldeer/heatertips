@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 date: "2022-11-02T16:16:37+00:00"
 guid: https://heatertips.com/?page_id=849
 title: Cost-Effective Heating and Cooling Methods

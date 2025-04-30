@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -133,7 +133,12 @@ In general, you should plan $1 - $6 per night for electric heaters (accounting f
 
 ### Quick Lookup Table:
 
-**Feature****Diesel Heater****Electric Heater**Heating PowerUp to 5,000WUp to 1,500W (2,500W in Europe)Power SourceDiesel fuel + minimal electricityElectrical hookup, generator, or batteryInstallation & MaintenanceComplex setup; regular maintenance requiredNo installation; minimal maintenanceCostHigher upfront; more efficient in the long runLower upfront; cost varies with electricity source
+Feature | Diesel Heater | Electric Heater
+--- | --- | ---
+Heating Power | Up to 5,000W | Up to 1,500W (2,500W in Europe)
+Power Source | Diesel fuel + minimal electricity | Electrical hookup, generator, or battery
+Installation & Maintenance | Complex setup; regular maintenance required | No installation; minimal maintenance
+Cost | Higher upfront; more efficient in the long run | Lower upfront; cost varies with electricity source
 
 ## Conclusion
 

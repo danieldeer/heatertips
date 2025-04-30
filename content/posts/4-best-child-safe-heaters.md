@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -51,7 +51,13 @@ Surprise! The number #1 child-safe space heater is a [Dyson Hot+Cool Heater and 
 
 Let’s have a look.
 
-**Child-safe criteria****Does the Dyson Hot+Cool fulfill them?**No sharp corners / edgesyesHidden heating elementyesHidden fan bladesyesTip-over / Overheat protectionyesThick power cordyesNo off-gassingyes
+| Child-safe criteria | Does the Dyson Hot+Cool fulfill them? |
+| -- | -- |
+| No sharp corners / edges | yes |
+| Hidden heating element | yes | Hidden fan blades | yes |
+| Tip-over / Overheat protection | yes |
+| Thick power cord | yes |
+| No off-gassing | yes |
 
 Dyson Hot+Cool heaters are luxury items. Compared to other space heaters, they are on the [more expensive](/are-dyson-heaters-energy-efficient-a-critical-review/) side.
 
@@ -95,7 +101,15 @@ The Vornadobaby Tempa outputs 900 Watts of heat. That’s less than a regular sp
 
 But as a supply heater, it works great.
 
-**Child-safe criteria****Does the Vornadobaby Tempa fulfill them?**No sharp corners / edgesyesHidden heating elementyesHidden fan bladesyesTip-over / Overheat protectionyesThick power cordyesNo off-gassingyes
+Child-safe criteria | Does the Vornadobaby Tempa fulfill them?
+--- | ---
+No sharp corners / edges | yes  
+Hidden heating element | yes  
+Hidden fan blades | yes  
+Tip-over / Overheat protection | yes  
+Thick power cord | yes  
+No off-gassing | yes  
+
 
 All in all it’s a great heater. However, once your child doesn’t need this heater anymore, you likely won’t find much use for it either.
 
@@ -123,7 +137,14 @@ Even though there is a protective grid, children can put their toys or sticks th
 
 So, **the Dr Infrared HeatStyle is, overall, a child-safe heater, but I would not recommend it for children under 6 years.**
 
-**Child-safe criteria****Does the Dr Infrared HeatStyle fulfill them?**No sharp corners / edgesyesHidden heating elementpartially (heating elements are protected, but can still be accessed)Hidden fan bladesyes (works without a fan)Tip-over / Overheat protectionyesThick power cordyesNo off-gassingyes
+Child-safe criteria | Does the Dr Infrared HeatStyle fulfill them?
+--- | ---
+No sharp corners / edges | yes  
+Hidden heating element | partially (heating elements are protected, but can still be accessed)  
+Hidden fan blades | yes (works without a fan)  
+Tip-over / Overheat protection | yes  
+Thick power cord | yes  
+No off-gassing | yes  
 
 One more advantage of the Dr Infrared HeatStyle is that you can wall-mount it. So, if you can mount it high up the wall, close to the ceiling, so that it is completely inaccessible to your child, it is practically 100% child-safe.
 
@@ -151,7 +172,14 @@ Technically, oil-filled radiator are incredibly clever. But even though [oil-fil
 
 I recommend oil-filled radiators for sane children and children over the age of 6.
 
-**Child-safe criteria****Does the DeLonghi Dragon fulfill them?**No sharp corners / edgesyesHidden heating elementyesHidden fan bladesyes (doesn’t even have a fan)Tip-over / Overheat protectionyesThick power cordyesNo off-gassingyes
+Child-safe criteria | Does the DeLonghi Dragon fulfill them?
+--- | ---
+No sharp corners / edges | yes  
+Hidden heating element | yes  
+Hidden fan blades | yes (doesn’t even have a fan)  
+Tip-over / Overheat protection | yes  
+Thick power cord | yes  
+No off-gassing | yes  
 
 ## Which Heater Should You Pick for Your Child?
 

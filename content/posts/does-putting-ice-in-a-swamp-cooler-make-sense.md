@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 date: "2023-07-23T14:23:39+00:00"
@@ -88,7 +88,19 @@ I calculated how much electricity a swamp cooler consumes when you run it for 4 
 
 Here’s the result in a table:
 
-**Ice added to a 10-gallon tank****Total energy expenditure (including ice freezing and swamp cooler power consumption)****Total cost per swamp cooler-hour**0 gal.1 kWh$0.231 gal.1.28 kWh$0.292 gal.1.56 kWh$0.363 gal.1.83 kWh$0.424 gal.2.11 kWh$0.495 gal.2.39 kWh$0.556 gal.2.67 kWh$0.617 gal.2.95 kWh$0.688 gal.3.22 kWh$0.749 gal.3.50 kWh$0.8110 gal.3.78 kWh$0.87
+Ice Added to Tank (gallons) | Total Energy Expenditure (kWh) | Total Cost per Swamp Cooler-Hour
+--- | --- | ---
+0 gal. | 1 kWh | $0.23
+1 gal. | 1.28 kWh | $0.29
+2 gal. | 1.56 kWh | $0.36
+3 gal. | 1.83 kWh | $0.42
+4 gal. | 2.11 kWh | $0.49
+5 gal. | 2.39 kWh | $0.56
+6 gal. | 2.67 kWh | $0.62
+7 gal. | 2.95 kWh | $0.69
+8 gal. | 3.22 kWh | $0.75
+9 gal. | 3.50 kWh | $0.81
+10 gal. | 3.78 kWh | $0.87
 
 As you can see, the **total energy and your total electricity cost increases the more ice you add.**
 

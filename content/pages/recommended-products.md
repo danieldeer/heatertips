@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: recommended products
   image: /wp-content/uploads/2020/01/recommended-products.jpg

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 date: "2022-12-15T12:00:22+00:00"
@@ -25,9 +25,6 @@ The customers are also satisfied with its quality and it never fails to deliver 
 ## **5 Best Ventless Propane Heaters Compared**
 
 Here are the best ventless propane heaters along with their prices and ratings.
-
-**Name****Price****Rating**[**Rinnai FC824P Ventless Propane Heater**](https://www.amazon.com/Rinnai-FC824P-Vent-Free-Propane-Heater/dp/B00K86BXLQ?&linkCode=ll1&tag=heatertips-20&linkId=912aa16aff7b1ac0b9ffde1f9d09f1b1&language=de_DE&ref_=as_li_ss_tl)$9234.5/5[**Dyna-Glo 30,000 Blue Flame Ventless Propane Heater**](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?&linkCode=ll1&tag=heatertips-20&linkId=a5badb40818f3b37c9471ef50bae1722&language=en_US&ref_=as_li_ss_tl)$2084.8/5[**Mr Heater F232000 Ventless Propane Heater**](https://www.amazon.com/-/de/dp/B002G51BZU?crid=781ZRQ5LYZQP&keywords=Mr+Heater+F232000&qid=1671104861&sprefix=mr+heater+f232000%2Caps%2C152&sr=8-1&linkCode=ll1&tag=heatertips-20&linkId=7fbc8c9f8e332c033c6ba60707f4aefa&language=de_DE&ref_=as_li_ss_tl)$744/5[**Comfort Glow GCH480 Ventless Propane Heater**](https://www.amazon.com/Comfort-GCH480-Propane-Cabinet-Heater/dp/B003YR2OLE?&linkCode=ll1&tag=heatertips-20&linkId=38642144d6af4fd7e03a610008301359&language=de_DE&ref_=as_li_ss_tl)$2133.8/5[**Heat Hog Portable Propane Heater**](https://www.amazon.com/Heat-Hog-HH-09SLN-Propane-Heater/dp/B09HY3WCMM?&linkCode=ll1&tag=heatertips-20&linkId=e603a7d44b3df56aca9ede2d2768ffab&language=de_DE&ref_=as_li_ss_tl)$1193.9/5
-
 ## **\#1** [**Rinnai FC824P Ventless Propane Heater**](https://www.amazon.com/Rinnai-FC824P-Vent-Free-Propane-Heater/dp/B00K86BXLQ?&linkCode=ll1&tag=heatertips-20&linkId=912aa16aff7b1ac0b9ffde1f9d09f1b1&language=de_DE&ref_=as_li_ss_tl)
 
 ![rinnai ventless propane heater](/wp-content/uploads/2022/12/rinnai-ventless-propane-heater.jpg)
@@ -60,7 +57,13 @@ It is also one of the safest propane heaters on the market, with 99% efficiency.
 
 This heater is super quiet, which is an added benefit because you get warm air coming out of the walls with minimal noise.
 
-**Pros****Cons**It is noiselessThe MOST expensive ventless propane heaterDead simple to installSafe to use around kidsSuper efficient (99%)Comes with wall mounting equipment
+Pros | Cons
+--- | ---
+It is noiseless | The MOST expensive ventless propane heater  
+Dead simple to install |  
+Safe to use around kids |  
+Super efficient (99%) |  
+Comes with wall mounting equipment |  
 
 ## **\#2** [**Dyna-Glo 30,000 Blue Flame Ventless Propane Heater**](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?&linkCode=ll1&tag=heatertips-20&linkId=a5badb40818f3b37c9471ef50bae1722&language=en_US&ref_=as_li_ss_tl)
 
@@ -88,7 +91,11 @@ Not only is it energy-efficient, but it is also super affordable as well.
 
 The ventless heater comes in two models: a thermostat and a manual knob. The thermostat model has on-and-off cycles as well as pilot features that automatically change based on the ambient temperature. The manual knob model has 5 settings for controlling the size of the flame.
 
-**Pros****Cons**Easy on the pocketBase legs need to be bought separatelyCan be wall mounted and installed on the floorRestricted in California and CanadaComes with a manual knob and thermostat control
+Pros | Cons
+--- | ---
+Easy on the pocket | Base legs need to be bought separately  
+Can be wall mounted and installed on the floor | Restricted in California and Canada  
+Comes with a manual knob and thermostat control |  
 
 ## **\#3** [**Mr Heater F232000 Ventless Propane Heater**](https://www.amazon.com/-/de/dp/B002G51BZU?crid=781ZRQ5LYZQP&keywords=Mr+Heater+F232000&qid=1671104861&sprefix=mr+heater+f232000%2Caps%2C152&sr=8-1&linkCode=ll1&tag=heatertips-20&linkId=7fbc8c9f8e332c033c6ba60707f4aefa&language=de_DE&ref_=as_li_ss_tl)
 
@@ -117,7 +124,12 @@ _The Oxygen Depletion Sensor (ODS) and accidental tip-over safety shut-off will 
 
 One major downside is that Mr. Heater has sales restricted in Canada and Massachusetts.
 
-**Pros****Cons**AffordableDistribution restricted in Canada and MassachusettsSafety switch for tip over and low oxygen levelNot safe for kids and petsComes with a propane cylinderCan be used indoors and outdoors
+Pros | Cons
+--- | ---
+Affordable | Distribution restricted in Canada and Massachusetts  
+Safety switch for tip over and low oxygen level | Not safe for kids and pets  
+Comes with a propane cylinder |  
+Can be used indoors and outdoors |  
 
 ## **\#4** [**Comfort Glow GCH480 Propane Cabinet Heater**](https://www.amazon.com/Comfort-GCH480-Propane-Cabinet-Heater/dp/B003YR2OLE?&linkCode=ll1&tag=heatertips-20&linkId=38642144d6af4fd7e03a610008301359&language=de_DE&ref_=as_li_ss_tl)
 
@@ -140,7 +152,11 @@ Besides that, it is fairly easy to install, and with the push ignition, you can 
 
 The tank capacity is also sufficient and the customers have shared that even after multiple hours of use, [**the gas in the tank goes down fairly slowly**](/why-is-propane-heater-using-so-much-gas/).
 
-**Pros****Cons**Can be moved around because of the wheelsNot for indoor use according to the manufacturerLong heating timesSafe to use
+Pros | Cons
+--- | ---
+Can be moved around because of the wheels | Not for indoor use according to the manufacturer  
+Long heating times |  
+Safe to use |  
 
 ## **\#5** [**Heat Hog Ventless Propane Heater**](https://www.amazon.com/Heat-Hog-HH-09SLN-Propane-Heater/dp/B09HY3WCMM?&linkCode=ll1&tag=heatertips-20&linkId=e603a7d44b3df56aca9ede2d2768ffab&language=de_DE&ref_=as_li_ss_tl)
 
@@ -164,7 +180,12 @@ With it, you can even adjust the heat angle and direct it to where it is most ne
 
 It has a heating angle 33° larger than that of a standard portable propane heater. This way you get to heat a larger space.
 
-**Pros****Cons**LightweightThe customer support is not good, according to customersAffordableComes with safety switchesIdeal for indoor and outdoor use
+Pros | Cons
+--- | ---
+Lightweight | The customer support is not good, according to customers  
+Affordable |  
+Comes with safety switches |  
+Ideal for indoor and outdoor use |  
 
 ## **What Is a Ventless Propane Heater?**
 

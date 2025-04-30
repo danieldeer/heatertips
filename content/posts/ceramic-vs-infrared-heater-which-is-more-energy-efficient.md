@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -59,7 +59,15 @@ Here’s a table with all the important properties of ceramic heaters and infrar
 
 If some things are unclear, don’t worry, I’ll clarify everything in the section afterward!
 
-**Feature/Aspect****Ceramic Heaters****Infrared Heaters****Heating principle**Heats up ceramic plates to warm the air (which is good when multiple people are around)Emits focused infrared rays which heat whatever the heater is in front of the heater (ideal for individuals)**Energy Consumption**Equal: Usually 1,500 WattsEqual: Usually 1,500 Watts**Perceived Efficiency**Produces warm air (like a hairdryer)Direct radiation (feels like the sun or fireplace)**Heat-up time**10 minutes or longer depending on room sizeA few seconds**Best Placement**Areas where warm air can be trapped (e.g., under a desk, or in a small room)Wherever you need it, works everywhere (even outdoors is possible)**Distance Factor**Placing a ceramic heater closer to you increases warmth, but a lot of heat passes by youPlacing an infrared heater closer to you increases warmth exponentially (since infrared rays are more focused at a small distance)**Noise**Often have built-in fans, which create noisePerfectly silent, no noise at all
+Feature | Ceramic Heaters | Infrared Heaters
+--- | --- | ---
+Heating principle | Heats up ceramic plates to warm the air (which is good when multiple people are around) | Emits focused infrared rays which heat whatever the heater is in front of the heater (ideal for individuals)
+Energy Consumption | Equal: Usually 1,500 Watts | Equal: Usually 1,500 Watts
+Perceived Efficiency | Produces warm air (like a hairdryer) | Direct radiation (feels like the sun or fireplace)
+Heat-up time | 10 minutes or longer depending on room size | A few seconds
+Best Placement | Areas where warm air can be trapped (e.g., under a desk, or in a small room) | Wherever you need it, works everywhere (even outdoors is possible)
+Distance Factor | Placing a ceramic heater closer to you increases warmth, but a lot of heat passes by you | Placing an infrared heater closer to you increases warmth exponentially (since infrared rays are more focused at a small distance)
+Noise | Often have built-in fans, which create noise | Perfectly silent, no noise at all
 
 ## Energy efficiency vs perceived energy efficiency
 

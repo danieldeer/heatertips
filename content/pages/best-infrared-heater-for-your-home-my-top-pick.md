@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: dr heater infrared heater home
   image: /wp-content/uploads/2020/01/dr-heater-infrared-heater-home.jpg

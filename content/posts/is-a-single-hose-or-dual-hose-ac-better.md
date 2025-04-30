@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -23,7 +23,15 @@ Read on to find out!
 
 ## Comparison: Single vs Dual Hose Portable Air Conditioners
 
-**Factor****Single-Hose Portable Unit****Dual-Hose Portable Unit****Price**Affordable Slightly more expensive**Cooling Efficiency**BadGood**Maintenance**EasyEasy**Installation**SimpleSimple**Recommended Product**[**BLACK+DECKER single-hose AC** (click to view it on amazon)](https://www.amazon.com/BLACK-DECKER-BPACT08WT-Portable-Conditioner/dp/B01DLPUWHQ?crid=262UN8ECKM59V&keywords=portable%2Bair%2Bconditioner&qid=1667488465&qu=eyJxc2MiOiI4LjI4IiwicXNhIjoiOC4zMyIsInFzcCI6IjcuOTAifQ%3D%3D&sprefix=portable%2Bair%2Bconditione%2Caps%2C252&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=f8cc08ee7b4038723d3b55409d83a0d2&language=en_US&ref_=as_li_ss_tl)[**Whynter dual-hose AC** (click to view it on amazon)](https://www.amazon.com/Whynter-ARC-14S-Conditioner-Dehumidifier-Activated/dp/B0028AYQDC?crid=262UN8ECKM59V&keywords=portable+air+conditioner&qid=1667488465&qu=eyJxc2MiOiI4LjI4IiwicXNhIjoiOC4zMyIsInFzcCI6IjcuOTAifQ%3D%3D&sprefix=portable+air+conditione%2Caps%2C252&sr=8-10&linkCode=ll1&tag=heatertips-20&linkId=c0df35d37a6291479a3fc038fb573e9e&language=en_US&ref_=as_li_ss_tl)_This table shows the differences between single-hose and dual-hose portable air conditioners._
+Factor | Single-Hose Portable Unit | Dual-Hose Portable Unit
+-- | -- | --
+**Price** | Affordable | Slightly more expensive
+**Cooling Efficiency** | Bad | Good
+**Maintenance** | Easy | Easy
+**Installation** | Simple | Simple
+**Recommended Product** | [**BLACK+DECKER single-hose AC** (click to view it on amazon)](https://www.amazon.com/BLACK-DECKER-BPACT08WT-Portable-Conditioner/dp/B01DLPUWHQ?crid=262UN8ECKM59V&keywords=portable%2Bair%2Bconditioner&qid=1667488465&qu=eyJxc2MiOiI4LjI4IiwicXNhIjoiOC4zMyIsInFzcCI6IjcuOTAifQ%3D%3D&sprefix=portable%2Bair%2Bconditione%2Caps%2C252&sr=8-5&th=1&linkCode=ll1&tag=heatertips-20&linkId=f8cc08ee7b4038723d3b55409d83a0d2&language=en_US&ref_=as_li_ss_tl) | [**Whynter dual-hose AC** (click to view it on amazon)](https://www.amazon.com/Whynter-ARC-14S-Conditioner-Dehumidifier-Activated/dp/B0028AYQDC?crid=262UN8ECKM59V&keywords=portable+air+conditioner&qid=1667488465&qu=eyJxc2MiOiI4LjI4IiwicXNhIjoiOC4zMyIsInFzcCI6IjcuOTAifQ%3D%3D&sprefix=portable+air+conditione%2Caps%2C252&sr=8-10&linkCode=ll1&tag=heatertips-20&linkId=c0df35d37a6291479a3fc038fb573e9e&language=en_US&ref_=as_li_ss_tl)
+
+_This table shows the differences between single-hose and dual-hose portable air conditioners._
 
 The two main types of portable air conditioners are single-hose and dual-hose units. Both have their pros and cons, so it's important to choose the right one for your needs.
 

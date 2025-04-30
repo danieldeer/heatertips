@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
   - safety
@@ -36,7 +36,19 @@ First of all, let’s have a list at a list of pets and whether you can use an a
 
 ## Different pets and whether air purifiers are safe for them
 
-**Pet****Are Air Purifiers Safe for this Pet?**Grown dogsGenerally safe, but avoid ozone-producing purifiers.PuppiesSafe, but limit access to the purifier’s power cordCatsGenerally safe, but avoid ozone-producing purifiers. Place the air purifier on a low surface (since cats like to climb and tip-over things)BirdsUse with caution. Birds have sensitive respiratory systems. Avoid ozone and ensure good ventilation.Fish (in an aquarium)Generally safe. Ensure the purifier’s airflow doesn't disturb the water's surface tension or produce ozone.Hamsters/GerbilsGenerally safe, but ensure proper ventilation and avoid ozone-producing purifiers.Guinea PigsGenerally safe, but ensure proper ventilation and avoid ozone-producing purifiers.RabbitsGenerally safe, but ensure proper ventilation and avoid ozone-producing purifiers.Reptiles (lizards, snakes, etc.)Generally safe. Ensure proper ventilation and avoid direct airflow that could affect the habitat's temperature.Amphibians (frogs, newts, etc.)Generally safe. Ensure the purifier doesn't alter the habitat's humidity or produce ozone.Tarantulas/InsectsLimited data. Keep air purifiers at a distance and ensure no strong drafts.
+Pet | Are Air Purifiers Safe for this Pet?
+--- | ---
+Grown dogs | Generally safe, but avoid ozone-producing purifiers.
+Puppies | Safe, but limit access to the purifier’s power cord.
+Cats | Generally safe, but avoid ozone-producing purifiers. Place the air purifier on a low surface (since cats like to climb and tip-over things).
+Birds | Use with caution. Birds have sensitive respiratory systems. Avoid ozone and ensure good ventilation.
+Fish (in an aquarium) | Generally safe. Ensure the purifier’s airflow doesn't disturb the water's surface tension or produce ozone.
+Hamsters/Gerbils | Generally safe, but ensure proper ventilation and avoid ozone-producing purifiers.
+Guinea Pigs | Generally safe, but ensure proper ventilation and avoid ozone-producing purifiers.
+Rabbits | Generally safe, but ensure proper ventilation and avoid ozone-producing purifiers.
+Reptiles (lizards, snakes, etc.) | Generally safe. Ensure proper ventilation and avoid direct airflow that could affect the habitat's temperature.
+Amphibians (frogs, newts, etc.) | Generally safe. Ensure the purifier doesn't alter the habitat's humidity or produce ozone.
+Tarantulas/Insects | Limited data. Keep air purifiers at a distance and ensure no strong drafts.
 
 ## Which air purifiers you _can_ use with a pet and which you _can’t_ use
 

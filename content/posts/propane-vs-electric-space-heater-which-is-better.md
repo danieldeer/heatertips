@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -21,7 +21,12 @@ Quick answer: **Propane heaters are better than electric space heaters for rooms
 
 ## Propane vs Electric space heaters: Summary of important differences
 
-**Propane****Electric****Running cost**$35.28 (per million BTU)$87.98 (per million BTU)**Heat output**up to 30,000 BTU/hup to 5,100 BTU/h**Indoor safety**OKbetween OK (infrared heaters) and very safe (oil-filled radiators)**Running time**14 daysindefinitely
+Propane | Electric
+-- | --
+Running cost | $35.28 (per million BTU) | $87.98 (per million BTU)
+Heat output | up to 30,000 BTU/h | up to 5,100 BTU/h
+Indoor safety | OK | between OK (infrared heaters) and very safe (oil-filled radiators)
+Running time | 14 days | indefinitely
 
 Now that you know the key differences, let’s have a look at each of those in a bit more detail:
 
@@ -73,7 +78,25 @@ So, let’s have a look at different room sizes and check whether propane heater
 
 For this, I've assumed that an electric space heater produces 5,100 BTU/h of heat, whereas you can find propane heaters with up to 30,000 BTU/h of heating power.
 
-**Room size (in sq. ft.)****Can propane heaters heat it?****Can electric space heater heat it?**100 sq. ft.YesYes150 sq. ft.YesYes200 sq. ft.YesYes250 sq. ft.YesYes300 sq. ft.YesNo350 sq. ft.YesNo400 sq. ft.YesNo450 sq. ft.YesNo500 sq. ft.YesNo600 sq. ft.YesNo700 sq. ft.YesNo800 sq. ft.YesNo900 sq. ft.YesNo1000 sq. ft.YesNo1500 sq. ft.YesNo2000 sq. ft.NoNo3000 sq. ft.NoNo
+Room size (in sq. ft.) | Can propane heaters heat it? | Can electric space heater heat it?
+-- | -- | --
+100 sq. ft. | Yes | Yes
+150 sq. ft. | Yes | Yes
+200 sq. ft. | Yes | Yes
+250 sq. ft. | Yes | Yes
+300 sq. ft. | Yes | No
+350 sq. ft. | Yes | No
+400 sq. ft. | Yes | No
+450 sq. ft. | Yes | No
+500 sq. ft. | Yes | No
+600 sq. ft. | Yes | No
+700 sq. ft. | Yes | No
+800 sq. ft. | Yes | No
+900 sq. ft. | Yes | No
+1000 sq. ft. | Yes | No
+1500 sq. ft. | Yes | No
+2000 sq. ft. | No | No
+3000 sq. ft. | No | No
 
 Yes, the table above shows really large room sizes. Very few people have rooms 1000 sq. ft. and higher. But this gets the point across that **you can find a propane heater for almost any common room size.**
 

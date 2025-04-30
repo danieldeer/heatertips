@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: pelonis best oil-filled radiator
   image: /wp-content/uploads/2020/01/pelonis-best-oil-filled-radiator-e1669547469729.jpg

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -82,7 +82,17 @@ That’s how to calculate your heat pump’s power consumption!
 
 The table below lists the wattages for different energy efficiency ratings (SEER) and varying heat pump sizes.
 
-**Unit size****14 SEER****16 SEER****18 SEER****20 SEER****22 SEER****1.0 tons**857W750W667W600W545W**1.5 tons**1,286W1,125W1,000W900W818W**2.0 tons**1,714W1,500W1,333W1,200W1,091W**2.5 tons**2,143W1,875W1,667W1,500W1,364W**3.0 tons**2,571W2,250W2,000W1,800W1,636W**3.5 tons**3,000W2,625W2,333W2,100W1,909W**4.0 tons**3,429W3,000W2,667W2,400W2,182W**4.5 tons**3,857W3,375W3,000W2,700W2,455W**5.0 tons**4,286W3,750W3,333W3,000W2,727W
+Unit size | 14 SEER | 16 SEER | 18 SEER | 20 SEER | 22 SEER
+----------|---------|---------|---------|---------|---------
+1.0 tons  | 857W    | 750W    | 667W    | 600W    | 545W
+1.5 tons  | 1,286W  | 1,125W  | 1,000W  | 900W    | 818W
+2.0 tons  | 1,714W  | 1,500W  | 1,333W  | 1,200W  | 1,091W
+2.5 tons  | 2,143W  | 1,875W  | 1,667W  | 1,500W  | 1,364W
+3.0 tons  | 2,571W  | 2,250W  | 2,000W  | 1,800W  | 1,636W
+3.5 tons  | 3,000W  | 2,625W  | 2,333W  | 2,100W  | 1,909W
+4.0 tons  | 3,429W  | 3,000W  | 2,667W  | 2,400W  | 2,182W
+4.5 tons  | 3,857W  | 3,375W  | 3,000W  | 2,700W  | 2,455W
+5.0 tons  | 4,286W  | 3,750W  | 3,333W  | 3,000W  | 2,727W
 
 The power consumption of a heat pump increases with the unit size. Also, the wattage decreases for increasing efficiencies.
 
@@ -128,7 +138,17 @@ To spare yourself the calculation, just look up your personal heat pump’s runn
 
 ## How much does running a heat pump cost per year?
 
-**Unit size****14 SEER****16 SEER****18 SEER****20 SEER****22 SEER****1.0 tons**$657$575$511$460$418**1.5 tons**$986$862$767$690$627**2.0 tons**$1,314$1,150$1,022$920$836**2.5 tons**$1,643$1,437$1,278$1,150$1,045**3.0 tons**$1,971$1,725$1,533$1,380$1,254**3.5 tons**$2,300$2,012$1,789$1,610$1,463**4.0 tons**$2,628$2,300$2,044$1,840$1,672**4.5 tons**$2,957$2,587$2,300$2,070$1,881**5.0 tons**$3,285$2,874$2,555$2,300$2,090
+Unit size | 14 SEER | 16 SEER | 18 SEER | 20 SEER | 22 SEER
+----------|---------|---------|---------|---------|---------
+1.0 tons  | $657    | $575    | $511    | $460    | $418
+1.5 tons  | $986    | $862    | $767    | $690    | $627
+2.0 tons  | $1,314  | $1,150  | $1,022  | $920    | $836
+2.5 tons  | $1,643  | $1,437  | $1,278  | $1,150  | $1,045
+3.0 tons  | $1,971  | $1,725  | $1,533  | $1,380  | $1,254
+3.5 tons  | $2,300  | $2,012  | $1,789  | $1,610  | $1,463
+4.0 tons  | $2,628  | $2,300  | $2,044  | $1,840  | $1,672
+4.5 tons  | $2,957  | $2,587  | $2,300  | $2,070  | $1,881
+5.0 tons  | $3,285  | $2,874  | $2,555  | $2,300  | $2,090
 
 **An average 18 SEER 3-ton heat pump costs $1,533 to run per year. A heat pump costs between $418 and $3,285 to run per year, depending on the unit size and the energy efficiency.**
 

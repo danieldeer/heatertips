@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -91,7 +91,11 @@ In oil-filled radiators, heat accumulates, but to a tolerable point.
 
 Using a laser thermometer, I measured the surface temperatures of different space heaters.
 
-**Space Heater type****Surface Temperature in °F and °C**Oil-filled radiator158°F (70°C)Infrared heater350°F (177°C)Propane heater850°F (454°C)
+Space Heater type | Surface Temperature in °F and °C
+--- | ---
+Oil-filled radiator | 158°F (70°C)
+Infrared heater | 350°F (177°C)
+Propane heater | 850°F (454°C)
 
 As you can see, the surface temperature grows exponentially with the heating element exposure level.
 

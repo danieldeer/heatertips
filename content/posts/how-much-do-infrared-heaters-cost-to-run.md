@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -61,7 +61,60 @@ Average electricity rates
 
 Here’s a list of all US states and their current average electricity rate. The data is from the [US Energy Information Administration](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a).
 
-**State****Electricity rate (in Cents per kWh)**Alabama15.19Alaska23.59Arizona13.1Arkansas12.58California25.49Colorado14.97Connecticut25.04Delaware16.16District of Columbia15.47Florida14.21Georgia14.31Hawaii44.85Idaho11.24Illinois17.25Indiana17.15Iowa13.36Kansas15.1Kentucky13.99Louisiana14.06Maine23.06Maryland15.86Massachusetts26.28Michigan18.18Minnesota14.95Mississippi13.44Missouri12.21Montana12.46Nebraska12.03Nevada15.23New Hampshire30.44New Jersey16.42New Mexico14.68New York23.29North Carolina13.51North Dakota11.73Ohio15.25Oklahoma14.42Oregon11.91Pennsylvania17.63Rhode Island24.64South Carolina14.68South Dakota13.25Tennessee13.07Texas14.77Utah10.99Vermont21.14Virginia14.61Washington10.59West Virginia14.4Wisconsin16.19Wyoming12.01**U.S. Average****16.09**
+State                 | Electricity rate (in Cents per kWh)  
+--------------------- | -----------------------------------  
+Alabama               | 15.19  
+Alaska                | 23.59  
+Arizona               | 13.1  
+Arkansas              | 12.58  
+California            | 25.49  
+Colorado              | 14.97  
+Connecticut           | 25.04  
+Delaware              | 16.16  
+District of Columbia  | 15.47  
+Florida               | 14.21  
+Georgia               | 14.31  
+Hawaii                | 44.85  
+Idaho                 | 11.24  
+Illinois              | 17.25  
+Indiana               | 17.15  
+Iowa                  | 13.36  
+Kansas                | 15.1  
+Kentucky              | 13.99  
+Louisiana             | 14.06  
+Maine                 | 23.06  
+Maryland              | 15.86  
+Massachusetts         | 26.28  
+Michigan              | 18.18  
+Minnesota             | 14.95  
+Mississippi           | 13.44  
+Missouri              | 12.21  
+Montana               | 12.46  
+Nebraska              | 12.03  
+Nevada                | 15.23  
+New Hampshire         | 30.44  
+New Jersey            | 16.42  
+New Mexico            | 14.68  
+New York              | 23.29  
+North Carolina        | 13.51  
+North Dakota          | 11.73  
+Ohio                  | 15.25  
+Oklahoma              | 14.42  
+Oregon                | 11.91  
+Pennsylvania          | 17.63  
+Rhode Island          | 24.64  
+South Carolina        | 14.68  
+South Dakota          | 13.25  
+Tennessee             | 13.07  
+Texas                 | 14.77  
+Utah                  | 10.99  
+Vermont               | 21.14  
+Virginia              | 14.61  
+Washington            | 10.59  
+West Virginia         | 14.4  
+Wisconsin             | 16.19  
+Wyoming               | 12.01  
+**U.S. Average**      | 16.09  
 
 The [average electricity rate in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statisticshttps://ec.europa.eu/eurostat/statistics-explained/index.php?title=Electricity_price_statistics) is 25 Euro-Cents per kWh.
 
@@ -85,11 +138,25 @@ Now that we know how much power infrared heaters consume and we know your electr
 
 In this table, I calculated the running cost of an average 1,500W infrared heater using the US average electricity rate of 16 cents per kWh.
 
-**Running duration****Infrared heater running cost**1 hour$0.244 hours$0.968 hours$1.9224 hours$5.761 week (8 hours a day)$13.441 week (24 hours a day)$40.321 month (8 hours a day)$57.601 month (24 hours a day)$172.80
+Running duration        | Infrared heater running cost  
+----------------------- | ------------------------------  
+1 hour                  | $0.24  
+4 hours                 | $0.96  
+8 hours                 | $1.92  
+24 hours                | $5.76  
+1 week (8 hours a day)  | $13.44  
+1 week (24 hours a day) | $40.32  
+1 month (8 hours a day) | $57.60  
+1 month (24 hours a day)| $172.80  
 
 ### Infrared heater running cost by location
 
-**Location****Electricity rate (in $/kWh)****Hourly running cost (in $)****Monthly running cost (8h per day)**US$0.16$0.24$57.60Canada$0.12$0.18$43.20Europe$0.27$0.41$97.20UK$0.63$0.95$226.80
+Location | Electricity rate (in $/kWh) | Hourly running cost (in $) | Monthly running cost (8h per day)
+-------- | --------------------------- | -------------------------- | --------------------------------
+US       | $0.16                       | $0.24                      | $57.60
+Canada   | $0.12                       | $0.18                      | $43.20
+Europe   | $0.27                       | $0.41                      | $97.20
+UK       | $0.63                       | $0.95                      | $226.80
 
 For comparability, I converted all the electricity rates to US-Dollar.
 

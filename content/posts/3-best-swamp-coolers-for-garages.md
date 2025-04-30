@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -31,7 +31,11 @@ Here are my choices:
 
 ## Swamp cooler recommendations by garage size
 
-**Garage size****Recommended swamp cooler**small (1 or 2 cars)[**Hessaire MC18M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-Products-MC18M-Mobile-Evaporative/dp/B078HFGJ3T?crid=P3DMIMDQPUT&keywords=swamp+cooler+garage&qid=1688896786&sprefix=swamp+cooler+garag%2Caps%2C180&sr=8-16&linkCode=ll1&tag=heatertips-20&linkId=cb2fc85ab01122ecf80ead2af06e825a&language=en_US&ref_=as_li_ss_tl)regular (2, or 3 cars) (best in most cases)[**Hessaire MC37M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-MC37M-portable-Evaporative-Cooler/dp/B00MYWQL96?crid=1HTTG7U67W7R9&keywords=swamp%2Bcooler&qid=1688830020&sprefix=swamp%2Caps%2C633&sr=8-20&th=1&linkCode=ll1&tag=heatertips-20&linkId=437baae20675f3675ecf8f90bb172dc6&language=en_US&ref_=as_li_ss_tl)large (3, 4, or more cars)[Hessaire **MC61M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-MC37M-portable-Evaporative-Cooler/dp/B00LBQKTBC?crid=1HTTG7U67W7R9&keywords=swamp%2Bcooler&qid=1688830020&sprefix=swamp%2Caps%2C633&sr=8-20&th=1&linkCode=ll1&tag=heatertips-20&linkId=c48f62436b0358e40d7f1d43336629c7&language=en_US&ref_=as_li_ss_tl)
+Garage size | Recommended swamp cooler 
+-- | --
+small (1 or 2 cars) | [**Hessaire MC18M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-Products-MC18M-Mobile-Evaporative/dp/B078HFGJ3T?crid=P3DMIMDQPUT&keywords=swamp+cooler+garage&qid=1688896786&sprefix=swamp+cooler+garag%2Caps%2C180&sr=8-16&linkCode=ll1&tag=heatertips-20&linkId=cb2fc85ab01122ecf80ead2af06e825a&language=en_US&ref_=as_li_ss_tl)
+regular (2, or 3 cars) (best in most cases) | [**Hessaire MC37M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-MC37M-portable-Evaporative-Cooler/dp/B00MYWQL96?crid=1HTTG7U67W7R9&keywords=swamp%2Bcooler&qid=1688830020&sprefix=swamp%2Caps%2C633&sr=8-20&th=1&linkCode=ll1&tag=heatertips-20&linkId=437baae20675f3675ecf8f90bb172dc6&language=en_US&ref_=as_li_ss_tl)
+large (3, 4, or more cars) |[Hessaire **MC61M** (click here to view it on amazon)](https://www.amazon.com/Hessaire-MC37M-portable-Evaporative-Cooler/dp/B00LBQKTBC?crid=1HTTG7U67W7R9&keywords=swamp%2Bcooler&qid=1688830020&sprefix=swamp%2Caps%2C633&sr=8-20&th=1&linkCode=ll1&tag=heatertips-20&linkId=c48f62436b0358e40d7f1d43336629c7&language=en_US&ref_=as_li_ss_tl)
 
 Let’s have a look at each of those coolers in a bit more detail, starting the best garage swamp cooler for most cases:
 

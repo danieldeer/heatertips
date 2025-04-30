@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -69,7 +69,17 @@ So, I'm going to calculate how long does a 20lb propane tank last on different p
 
 Running duration = Propane tank's effective energy / Patio heater's capacity (BTU/h)
 
-**Patio heater heating capacity (in BTU/h)****Heating capacity of a 20lb propane tank (in hours)**10,000 BTU/h29.36 hours15,000 BTU/h19.57 hours20,000 BTU/h14.68 hours25,000 BTU/h11.74 hours30,000 BTU/h9.78 hours35,000 BTU/h8.39 hours40,000 BTU/h7.34 hours45,000 BTU/h6.52 hours50,000 BTU/h5.87 hours
+Patio heater heating capacity (in BTU/h) | Heating capacity of a 20lb propane tank (in hours)  
+---------------------------------------- | -------------------------------------------------  
+10,000 BTU/h                             | 29.36 hours  
+15,000 BTU/h                             | 19.57 hours  
+20,000 BTU/h                             | 14.68 hours  
+25,000 BTU/h                             | 11.74 hours  
+30,000 BTU/h                             | 9.78 hours  
+35,000 BTU/h                             | 8.39 hours  
+40,000 BTU/h                             | 7.34 hours  
+45,000 BTU/h                             | 6.52 hours  
+50,000 BTU/h                             | 5.87 hours  
 
 So, a 20lb propane tank would last 29.36 hours on a 10,000 BTU/h patio heater and 5.87 hours on a 50,000 BTU/h patio heater.
 
@@ -85,7 +95,17 @@ Related: [How long does a 100lb propane tank last?](/how-long-does-a-100lb-propa
 
 If I have the effective energy of each propane tank, I can easily calculate how long it will last on a 45,000 BTU/h patio heater.
 
-**Propane tank size****Effective energy of propane tanks (in BTU)****Heating capacity of the tank (in hours)**20lb293,678 BTU6.52 hours30lb440,476 BTU 9.78 hours33lb484,524 BTU10.76 hours40lb587,302 BTU13.05 hours100lb1468,256 BTU32.62 hours420lb6166,675 BTU137.03 hours330 gallon2053,30,48 BTU456.28 hours500 gallon3111,06,80 BTU691.3 hours1000 gallon6222,13,60 BTU1382.69 hours
+Propane tank size | Effective energy of propane tanks (in BTU) | Heating capacity of the tank (in hours)  
+----------------- | -------------------------------------------- | ----------------------------------------  
+20lb              | 293,678 BTU                                  | 6.52 hours  
+30lb              | 440,476 BTU                                  | 9.78 hours  
+33lb              | 484,524 BTU                                  | 10.76 hours  
+40lb              | 587,302 BTU                                  | 13.05 hours  
+100lb             | 1,468,256 BTU                                | 32.62 hours  
+420lb             | 6,166,675 BTU                                | 137.03 hours  
+330 gallon        | 20,530,048 BTU                               | 456.28 hours  
+500 gallon        | 31,110,680 BTU                               | 691.3 hours  
+1000 gallon       | 62,221,360 BTU                               | 1382.69 hours  
 
 Now, you can easily choose the propane tank size with your 45,000 BTU/h patio heater according to your requirements.
 

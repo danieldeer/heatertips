@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -83,7 +83,10 @@ In the US, a standard wall outlet supports a voltage of 110V. In Europe, a wall 
 
 With a regular 15 Amps circuit breaker, this means, a wall outlet supports the following maximum power output:
 
-**Region****Maximum power (with 15 Amps circuit breaker)**US (110V outlet)1650 WattsEurope (230V outlet)3450 Watts
+Region | Maximum power (with 15 Amps circuit breaker)
+--- | ---
+US (110V outlet) | 1650 Watts
+Europe (230V outlet) | 3450 Watts
 
 ( To calculate these values, I used this formula: Power = Voltage × Amperage )
 
@@ -178,7 +181,11 @@ So, it is almost impossible for a swamp cooler to overheat, no matter how long y
 
 Assuming an average electricity cost of [23 cents](https://www.energysage.com/local-data/electricity-cost/) per Kilowatt-hour:
 
-**Swamp cooler size****Cost for running 24 hours**250W$1.38100W$0.5550W$0.27
+Swamp cooler size | Cost for running 24 hours
+--- | ---
+250W | $1.38
+100W | $0.55
+50W | $0.27
 
 As you can see, **swamp coolers are very affordable to run all day**.
 

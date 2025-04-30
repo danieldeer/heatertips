@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -35,7 +35,12 @@ Trust me.
 
 A list of [approved wood stoves](https://www.ehow.com/info_8037683_wood-heat-resistant-types.html) is available from the U.S. Department of Housing and Urban Development (HUD). Here’s a summary:
 
-**Wood stove model****BTU rating****Possible heating area**Leyden Top Loading73,100 BTU/h2,000 square feetLopi Endeavor72,400 BTU/h1,200 to 2,000 square feetLopi Answer66,800 BTU/h750 to 1,400 square feetLopi Liberty74,300 BTU/h1,500 to 2,500 square feet
+Wood stove model | BTU rating | Possible heating area
+-----------------|------------|----------------------
+Leyden Top Loading | 73,100 BTU/h | 2,000 square feet
+Lopi Endeavor | 72,400 BTU/h | 1,200 to 2,000 square feet
+Lopi Answer | 66,800 BTU/h | 750 to 1,400 square feet
+Lopi Liberty | 74,300 BTU/h | 1,500 to 2,500 square feet
 
 ### Decide the location of the wood stove
 

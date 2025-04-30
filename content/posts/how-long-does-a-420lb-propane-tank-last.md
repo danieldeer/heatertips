@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
 cover:
@@ -54,7 +54,31 @@ Where:
 
 Given the total BTUs in the 420lb propane tank is 7,252,992 BTU (as derived earlier), let's have a look at the table:
 
-**Heating power (in BTU/h)****420 lb propane tank capacity (in hours)**3,000 BTU/h2,418 hours6,000 BTU/h1,209 hours9,000 BTU/h805 hours12,000 BTU/h604 hours15,000 BTU/h483 hours18,000 BTU/h402 hours21,000 BTU/h345 hours24,000 BTU/h302 hours27,000 BTU/h268 hours30,000 BTU/h242 hours33,000 BTU/h220 hours36,000 BTU/h201 hours39,000 BTU/h186 hours42,000 BTU/h173 hours45,000 BTU/h161 hours48,000 BTU/h151 hours51,000 BTU/h142 hours54,000 BTU/h134 hours57,000 BTU/h127 hours60,000 BTU/h121 hours90,000 BTU/h81 hours120,000 BTU/h60 hours150,000 BTU/h48 hours
+Heating power (in BTU/h) | 420 lb propane tank capacity (in hours)  
+------------------------- | ---------------------------------------  
+3,000 BTU/h               | 2,418 hours  
+6,000 BTU/h               | 1,209 hours  
+9,000 BTU/h               | 805 hours  
+12,000 BTU/h              | 604 hours  
+15,000 BTU/h              | 483 hours  
+18,000 BTU/h              | 402 hours  
+21,000 BTU/h              | 345 hours  
+24,000 BTU/h              | 302 hours  
+27,000 BTU/h              | 268 hours  
+30,000 BTU/h              | 242 hours  
+33,000 BTU/h              | 220 hours  
+36,000 BTU/h              | 201 hours  
+39,000 BTU/h              | 186 hours  
+42,000 BTU/h              | 173 hours  
+45,000 BTU/h              | 161 hours  
+48,000 BTU/h              | 151 hours  
+51,000 BTU/h              | 142 hours  
+54,000 BTU/h              | 134 hours  
+57,000 BTU/h              | 127 hours  
+60,000 BTU/h              | 121 hours  
+90,000 BTU/h              | 81 hours  
+120,000 BTU/h             | 60 hours  
+150,000 BTU/h             | 48 hours  
 
 I rounded the above figures for simplicity. As you can see, the tank capacities decrease as the heating power of the device increases, which makes sense because the more gas you draw, the shorter a 420lb propane tank lasts.
 
@@ -70,7 +94,15 @@ Though the table illustrates how long a propane tank lasts for continuous runnin
 
 The following table shows how long a 420lb propane tank lasts, if you run a 9,000 BTU/h heater for just a few hours a day:
 
-**Daily heating duration (in hours)****How long does a 420lb propane tank last? (with a 9,000 BTU/h heater)**2 hours402 days4 hours201 days6 hours134 days8 hours100 days10 hours80 days12 hours67 days24 hours34 days
+Daily heating duration (in hours) | How long does a 420lb propane tank last? (with a 9,000 BTU/h heater)  
+--------------------------------- | ---------------------------------------------------------------  
+2 hours                          | 402 days  
+4 hours                          | 201 days  
+6 hours                          | 134 days  
+8 hours                          | 100 days  
+10 hours                         | 80 days  
+12 hours                         | 67 days  
+24 hours                         | 34 days  
 
 ## How to make your 420 lb propane tank last longer
 

@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: heatertips-daniel-with-all-devices-small
   image: /wp-content/uploads/2023/08/heatertips-daniel-with-all-devices-small.webp

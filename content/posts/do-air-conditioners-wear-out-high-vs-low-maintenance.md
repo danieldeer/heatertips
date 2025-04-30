@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -33,7 +33,12 @@ Also, wind can carry dirt into the outdoor part of your air conditioner. The dir
 
 Air conditioners wear out the more you use them. Here’s a table with estimates how long _well-maintained_ ACs last for different average daily running durations:
 
-**Average daily AC running duration****How long will an air conditioner last?**2h>25 years4h>15 years8h>10 years24h>5 years
+Average Daily AC Running Duration | Estimated AC Lifespan
+--- | ---
+2 hours | > 25 years
+4 hours | > 15 years
+8 hours | > 10 years
+24 hours | > 5 years
 
 **An average AC has a lifespan of 18,250 hours.** This number is derived from the assumption that an AC used for 2h a day will last for 25 years.
 
@@ -49,7 +54,12 @@ Air conditioner refrigerant can only wear out if the air conditioner's internal 
 
 **Modern air conditioners last at least 20 years if properly cared for. Older models last anywhere from 15 to 30 years.** Actually, the longevity of an air conditioner depends more on how well you maintain it rather than the brand of the air conditioner.
 
-**Maintenance Frequency****How long will an air conditioner last?**twice a year>25 yearsyearly>20 yearsevery second year>10 yearsevery third year>5 years
+Maintenance Frequency | Estimated AC Lifespan
+--- | ---
+Twice a year | > 25 years
+Yearly | > 20 years
+Every second year | > 10 years
+Every third year | > 5 years
 
 You see that the “law of diminishing returns” applies here. Yearly maintenance is _much_ better than maintenance every second year. However, increasing maintenance frequency any further (eg. twice a year) won’t bring you a proportional increase.
 

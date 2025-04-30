@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - heater-guides
   - safety
@@ -24,7 +24,14 @@ Quick answer: **Yes, propane heaters are safe indoors! Propane heaters can emit 
 
 There are different types of propane heaters. Here's a quick summary of whether they are safe to use indoors:
 
-**Heater type****Is this propane heater safe indoors?**[Portable propane heater](/recommended-products/propane-heater/)safe[Ventless propane heater](/best-ventless-propane-heaters/)safeVented propane heatersafeTank top heaterunsafePatio heaterunsafeTorpedo heaterunsafe
+Heater type | Is this propane heater safe indoors?
+--- | ---
+[Portable propane heater](/recommended-products/propane-heater/) | safe
+[Ventless propane heater](/best-ventless-propane-heaters/) | safe
+Vented propane heater | safe
+Tank top heater | unsafe
+Patio heater | unsafe
+Torpedo heater | unsafe
 
 Portable propane heaters as well as ventless and vented propane heaters are usually designed for indoor use. They come with many safety features and don't expose any flames.
 

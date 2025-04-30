@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
 cover:
@@ -85,7 +85,12 @@ Apparently, that’s the room size a Coway air purifier can clean within 30 minu
 
 Now, let me list the coverage areas and the power consumption of a few Coway Airmega models. Something interesting is going on there:
 
-**Air Purifier model****Coverage area in 30 mins (in sq. ft.)****Power consumption (in Watts)**Coway Airmega 200M874 sq. ft.82 W (?)Coway Airmega 3001,256 sq. ft.57 WCoway Airmega 4001,560 sq. ft.66 WCoway Airmega ProX2,126 sq. ft.65 W (?)
+Air Purifier model | Coverage area in 30 mins (in sq. ft.) | Power consumption (in Watts)
+--- | --- | ---
+Coway Airmega 200M | 874 sq. ft. | 82 W
+Coway Airmega 300 | 1,256 sq. ft. | 57 W
+Coway Airmega 400 | 1,560 sq. ft. | 66 W
+Coway Airmega ProX | 2,126 sq. ft. | 65 W
 
 I’ve ordered the air purifiers by their coverage area. Now take a look at the power consumption (according to _official_ Coway specs):
 

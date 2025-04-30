@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 cover:
   alt: best propane heater mr heater
   image: /wp-content/uploads/2020/01/best-propane-heater-mr-heater.jpg

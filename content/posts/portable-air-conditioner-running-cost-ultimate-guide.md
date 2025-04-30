@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -43,7 +43,14 @@ With an average power usage of 1500W and 14 cents per Kilowatt-hour, you pay 21 
 
 Here’s a table showing you an average portable AC’s running cost for an average electricity rate, for different durations.
 
-**Duration****Running cost**1 hour$0.218 hours$1.6824 hours$5.0430 days (4h daily)$25.2030 days (8h daily)$50.4030 days (24h daily)$151.20
+Duration | Running cost
+---------|-------------
+1 hour   | $0.21
+8 hours  | $1.68
+24 hours | $5.04
+30 days (4h daily) | $25.20
+30 days (8h daily) | $50.40
+30 days (24h daily) | $151.20
 
 
 Of course, you mostly don’t use a portable AC 24 hours a day for a whole month. They are noisy. And also, you are not always at home.
@@ -62,7 +69,59 @@ The running cost of a portable AC unit depends heavily on your local electricity
 
 I collected a complete list of the [current average electricity rates](https://paylesspower.com/blog/electric-rates-by-state/) in all US states. For each state, I added the monthly cost of running an average 1500W portable AC for 4 hours a day.
 
-**State****Average electric rate****$ Monthly portable AC cost (4 hours daily usage)**Alabama14.28$25.70Alaska24.03$43.25Arizona13.21$23.78Arkansas12.19$21.94California27.02$48.64Colorado13.82$24.88Connecticut24.81$44.66Delaware14.3$25.74District Of Columbia14.76$26.57Florida13.58$24.44Georgia14.4$25.92Hawaii43.11$77.60Idaho10.29$18.52Illinois15.26$27.47Indiana15.16$27.29Iowa14.08$25.34Kansas14.12$25.42Kentucky12.81$23.06Louisiana11.97$21.55Maine25.75$46.35Maryland14.21$25.58Massachusetts23.85$42.93Michigan17.83$32.09Minnesota14.45$26.01Mississippi13.11$23.60Missouri11.95$21.51Montana11.2$20.16Nebraska11.08$19.94Nevada13.56$24.41New Hampshire23.05$41.49New Jersey17.00$30.60New Mexico12.95$23.31New York21.85$39.33North Carolina12.14$21.85North Dakota11.89$21.40Ohio13.74$24.73Oklahoma12.42$22.36Oregon11.56$20.81Pennsylvania15.2$27.36Rhode Island19.92$35.86South Carolina13.97$25.15South Dakota12.62$22.72Tennessee12.04$21.67Texas13.15$23.67Utah10.66$19.19Vermont20.49$36.88Virginia13.02$23.44Washington10.34$18.61West Virginia13.98$25.16Wisconsin16.1$28.98Wyoming11.51$20.72
+| State            | Average Electric Rate ($) | Monthly Portable AC Cost (4 hours daily usage) ($) |
+|------------------|---------------------------|---------------------------------------------------|
+| Alabama          | 14.28                     | 25.70                                             |
+| Alaska           | 24.03                     | 43.25                                             |
+| Arizona          | 13.21                     | 23.78                                             |
+| Arkansas         | 12.19                     | 21.94                                             |
+| California       | 27.02                     | 48.64                                             |
+| Colorado         | 13.82                     | 24.88                                             |
+| Connecticut      | 24.81                     | 44.66                                             |
+| Delaware         | 14.30                     | 25.74                                             |
+| District of Columbia | 14.76                  | 26.57                                             |
+| Florida          | 13.58                     | 24.44                                             |
+| Georgia          | 14.40                     | 25.92                                             |
+| Hawaii           | 43.11                     | 77.60                                             |
+| Idaho            | 10.29                     | 18.52                                             |
+| Illinois         | 15.26                     | 27.47                                             |
+| Indiana          | 15.16                     | 27.29                                             |
+| Iowa             | 14.08                     | 25.34                                             |
+| Kansas           | 14.12                     | 25.42                                             |
+| Kentucky         | 12.81                     | 23.06                                             |
+| Louisiana        | 11.97                     | 21.55                                             |
+| Maine            | 25.75                     | 46.35                                             |
+| Maryland         | 14.21                     | 25.58                                             |
+| Massachusetts    | 23.85                     | 42.93                                             |
+| Michigan         | 17.83                     | 32.09                                             |
+| Minnesota        | 14.45                     | 26.01                                             |
+| Mississippi      | 13.11                     | 23.60                                             |
+| Missouri         | 11.95                     | 21.51                                             |
+| Montana          | 11.20                     | 20.16                                             |
+| Nebraska         | 11.08                     | 19.94                                             |
+| Nevada           | 13.56                     | 24.41                                             |
+| New Hampshire    | 23.05                     | 41.49                                             |
+| New Jersey       | 17.00                     | 30.60                                             |
+| New Mexico       | 12.95                     | 23.31                                             |
+| New York         | 21.85                     | 39.33                                             |
+| North Carolina   | 12.14                     | 21.85                                             |
+| North Dakota     | 11.89                     | 21.40                                             |
+| Ohio             | 13.74                     | 24.73                                             |
+| Oklahoma         | 12.42                     | 22.36                                             |
+| Oregon           | 11.56                     | 20.81                                             |
+| Pennsylvania     | 15.20                     | 27.36                                             |
+| Rhode Island     | 19.92                     | 35.86                                             |
+| South Carolina   | 13.97                     | 25.15                                             |
+| South Dakota     | 12.62                     | 22.72                                             |
+| Tennessee        | 12.04                     | 21.67                                             |
+| Texas            | 13.15                     | 23.67                                             |
+| Utah             | 10.66                     | 19.19                                             |
+| Vermont          | 20.49                     | 36.88                                             |
+| Virginia         | 13.02                     | 23.44                                             |
+| Washington       | 10.34                     | 18.61                                             |
+| West Virginia    | 13.98                     | 25.16                                             |
+| Wisconsin        | 16.10                     | 28.98                                             |
+| Wyoming          | 11.51                     | 20.72                                             |
 
 As you can see, there are huge differences in the monthly portable AC running cost depending on the state you live in. In fact, in some states, you pay more than double other states' rates.
 
@@ -88,7 +147,11 @@ Before we look at cost optimization, let's see whether portable AC running cost 
 
 Let's have a look at the power consumption of the three most popular portable AC models:
 
-**Model****Power consumption (Watt)****Cooling Capacity (BTU)****Efficiency (BTU per Watt)**Whynter ARC-14S130014,00010.77SereneLife SLPAC81100100009.09BLACK+DECKER  BPACT08WT8008,00010.00
+Model | Power consumption (Watt) | Cooling Capacity (BTU) | Efficiency (BTU per Watt)
+-- | -- | -- | --
+Whynter ARC-14S | 1300 | 14,000 | 10.77
+SereneLife SLPAC8110 | 1000 | 9,000 | 9.09
+BLACK+DECKER BPACT08WT | 800 | 8,000 | 10.00
 
 I intentionally picked three ACs with different BTU ratings, found their wattages, and calculated the efficiency for each of them.
 
@@ -110,7 +173,11 @@ As a rule of thumb, it seems that **you can estimate the power consumption of a 
 
 Now, let's finish this section by looking at the exact running cost of the same portable air conditioners.
 
-**Model****Power consumption (Watt)****Monthly running cost (4h daily)**Whynter ARC-14S1300$21.84SereneLife SLPAC81100$18.48BLACK+DECKER  BPACT08WT800$13.44
+Model | Power consumption (Watt) | Monthly running cost (4h daily)
+-- | -- | --
+Whynter ARC-14S | 1300 | $21.84
+SereneLife SLPAC8110 | 1000 | $18.48
+BLACK+DECKER BPACT08WT | 800 | $13.44
 
 To calculate the running cost of each portable AC, I assumed the US-average electricity rate of 14 cents per Kilowatt-hour (kWh). You can see that running cost directly increases with the wattage. Wattage (as we've seen previously) directly increases with BTUs.
 

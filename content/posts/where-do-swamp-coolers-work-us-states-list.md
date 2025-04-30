@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-conditioning
 cover:
@@ -23,7 +23,58 @@ If you stick out until the end of this article, you will see why these **average
 
 But let’s have a look at the data first. Don’t take the “Does a swamp cooler work in this state”-column too seriously for now.
 
-**State****Average relative humidity****Does a swamp cooler work in this state?**Alabama68%noAlaska71%noArizona39%yesArkansas67%noCalifornia69%noColorado48%yesConnecticut66%noDelaware67%noFlorida72%noGeorgia68%noHawaii64%noIdaho55%yesIllinois71%noIndiana71%noIowa67%noKansas65%noKentucky67%noLouisiana74%noMaine72%noMaryland65%noMassachusetts67%noMichigan73%noMinnesota67%noMississippi73%noMissouri68%noMontana58%yesNebraska68%noNevada52%yesNew Hampshire69%noNew Jersey71%noNew Mexico45%yesNew York72%noNorth Carolina68%noNorth Dakota66%noOhio69%noOklahoma64%noOregon72%noPennsylvania66%noRhode Island68%noSouth Carolina68%noSouth Dakota68%noTennessee69%noTexas66%noUtah55%yesVermont68%noVirginia68%noWashington73%noWest Virginia71%noWisconsin71%noWyoming53%yes
+State | Average relative humidity | Does a swamp cooler work in this state?
+-- | -- | --
+Alabama | 68% | no
+Alaska | 71% | no
+Arizona | 39% | yes
+Arkansas | 67% | no
+California | 69% | no
+Colorado | 48% | yes
+Connecticut | 66% | no
+Delaware | 67% | no
+Florida | 72% | no
+Georgia | 68% | no
+Hawaii | 64% | no
+Idaho | 55% | yes
+Illinois | 71% | no
+Indiana | 71% | no
+Iowa | 67% | no
+Kansas | 65% | no
+Kentucky | 67% | no
+Louisiana | 74% | no
+Maine | 72% | no
+Maryland | 65% | no
+Massachusetts | 67% | no
+Michigan | 73% | no
+Minnesota | 67% | no
+Mississippi | 73% | no
+Missouri | 68% | no
+Montana | 58% | yes
+Nebraska | 68% | no
+Nevada | 52% | yes
+New Hampshire | 69% | no
+New Jersey | 71% | no
+New Mexico | 45% | yes
+New York | 72% | no
+North Carolina | 68% | no
+North Dakota | 66% | no
+Ohio | 69% | no
+Oklahoma | 64% | no
+Oregon | 72% | no
+Pennsylvania | 66% | no
+Rhode Island | 68% | no
+South Carolina | 68% | no
+South Dakota | 68% | no
+Tennessee | 69% | no
+Texas | 66% | no
+Utah | 55% | yes
+Vermont | 68% | no
+Virginia | 68% | no
+Washington | 73% | no
+West Virginia | 71% | no
+Wisconsin | 71% | no
+Wyoming | 53% | yes
 
 The humidity data in the table is based on [this source](https://www.currentresults.com/Weather/US/annual-average-humidity-by-state.php).
 
@@ -45,7 +96,58 @@ Mornings tend to be humid (you can tell because of the morning dew), while after
 
 Let’s have another look at all US states, but this time let’s check if a swamp cooler works there _in the afternoon._
 
-**State****Average relative humidity** **_in the afternoon_****Does a swamp cooler work?**Alabama52%yesAlaska64%noArizona25%yesArkansas49%yesCalifornia62%noColorado35%yesConnecticut52%yesDelaware54%yesFlorida57%yesGeorgia50%yesHawaii56%yesIdaho41%yesIllinois58%yesIndiana58%yesIowa56%yesKansas50%yesKentucky55%yesLouisiana61%noMaine61%noMaryland52%yesMassachusetts59%yesMichigan61%noMinnesota55%yesMississippi54%yesMissouri53%yesMontana45%yesNebraska53%yesNevada32%yesNew Hampshire53%yesNew Jersey59%yesNew Mexico29%yesNew York61%noNorth Carolina52%yesNorth Dakota51%yesOhio57%yesOklahoma48%yesOregon59%yesPennsylvania54%yesRhode Island57%yesSouth Carolina49%yesSouth Dakota53%yesTennessee53%yesTexas49%yesUtah43%yesVermont58%yesVirginia52%yesWashington62%noWest Virginia59%yesWisconsin58%yesWyoming43%yes
+State | Average relative humidity in the afternoon | Does a swamp cooler work?
+-- | -- | --
+Alabama | 52% | yes
+Alaska | 64% | no
+Arizona | 25% | yes
+Arkansas | 49% | yes
+California | 62% | no
+Colorado | 35% | yes
+Connecticut | 52% | yes
+Delaware | 54% | yes
+Florida | 57% | yes
+Georgia | 50% | yes
+Hawaii | 56% | yes
+Idaho | 41% | yes
+Illinois | 58% | yes
+Indiana | 58% | yes
+Iowa | 56% | yes
+Kansas | 50% | yes
+Kentucky | 55% | yes
+Louisiana | 61% | no
+Maine | 61% | no
+Maryland | 52% | yes
+Massachusetts | 59% | yes
+Michigan | 61% | no
+Minnesota | 55% | yes
+Mississippi | 54% | yes
+Missouri | 53% | yes
+Montana | 45% | yes
+Nebraska | 53% | yes
+Nevada | 32% | yes
+New Hampshire | 53% | yes
+New Jersey | 59% | yes
+New Mexico | 29% | yes
+New York | 61% | no
+North Carolina | 52% | yes
+North Dakota | 51% | yes
+Ohio | 57% | yes
+Oklahoma | 48% | yes
+Oregon | 59% | yes
+Pennsylvania | 54% | yes
+Rhode Island | 57% | yes
+South Carolina | 49% | yes
+South Dakota | 53% | yes
+Tennessee | 53% | yes
+Texas | 49% | yes
+Utah | 43% | yes
+Vermont | 58% | yes
+Virginia | 52% | yes
+Washington | 62% | no
+West Virginia | 59% | yes
+Wisconsin | 58% | yes
+Wyoming | 43% | yes
 
 As you can see in this afternoon-humidity table, **a swamp cooler works in almost any US state in the afternoon and early evening heat.**
 

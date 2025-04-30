@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
 cover:
@@ -83,7 +83,12 @@ After inserting a new HEPA filter, he measures the number of particles every day
 
 The results are:
 
-**Air purifier running time****Filter effectiveness (measured through the reduction in room particles)**0 days100%120 days90%160 days80%200 days50%
+Air purifier running time | Filter effectiveness (measured through the reduction in room particles)
+--- | ---
+0 days | 100%
+120 days | 90%
+160 days | 80%
+200 days | 50%
 
 Here’s the image with all measurements:
 

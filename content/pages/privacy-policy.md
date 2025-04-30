@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 date: "2019-11-18T11:39:24+00:00"
 guid: https://heatertips.com/?page_id=3
 title: Privacy Policy

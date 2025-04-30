@@ -1,5 +1,5 @@
 ---
-author: Sakurro
+author: Daniel Hirsch
 category:
   - air-quality
 date: "2023-08-10T11:34:24+00:00"
@@ -18,7 +18,12 @@ Coway air purifiers have a built-in pollution sensor. Based on the sensor’s re
 
 Depending on the model, the air quality indicator light changes as follows (according to the [official Coway Airmega 300 / 400 user manual](https://images-na.ssl-images-amazon.com/images/I/D1SWYNC4nwS.pdf)):
 
-**Air Quality****400S / 300S****400 / 300**GoodBlue and greenBlueModerateGreen and yellowPurpleUnhealthyYellow and pinkPinkVery UnhealthyPink and redRed
+Air Quality | 400S / 300S | 400 / 300
+--- | --- | ---
+Good | Blue and green | Blue
+Moderate | Green and yellow | Purple
+Unhealthy | Yellow and pink | Pink
+Very Unhealthy | Pink and red | Red
 
 As you can see, the 400S/300S models use two colors, while the 400/300 models use just one color.
 
@@ -32,7 +37,11 @@ The Wi-Fi indicator light indicates a working Wi-Fi connection.
 
 The light changes as follows:
 
-**Wi-Fi Light Status****Meaning**turned offWi-Fi offblinkingNot yet connected / pairingturned onWi-Fi connected
+Wi-Fi Light Status | Meaning
+--- | ---
+turned off | Wi-Fi off
+blinking | Not yet connected / pairing
+turned on | Wi-Fi connected
 
 ## 3\. Pre Wash indicator
 
@@ -40,7 +49,11 @@ The Pre Wash indicator indicates that the pre-filters need cleaning.
 
 The Pre Wash indicator can be a bit confusing. Here is how it works:
 
-**Pre Wash indicator status****Meaning**White light around the indicatorPre-filter is cleanWhite light brightness reducesPre-filter accumulates dust. The darker the white circle around the indicator, the more dust is accumulated.Red light around the indicator, “Wash” word highlighted redPre-filter is full and needs cleaning
+Pre Wash Indicator Status | Meaning
+--- | ---
+White light around the indicator | Pre-filter is clean
+White light brightness reduces | Pre-filter accumulates dust. The darker the white circle around the indicator, the more dust is accumulated
+Red light around the indicator, “Wash” word highlighted red | Pre-filter is full and needs cleaning
 
 To reset the Pre Wash indicator light after cleaning the pre-filter, press the Pre Wash button for 3 seconds.
 
@@ -50,7 +63,11 @@ To reset the Pre Wash indicator light after cleaning the pre-filter, press the P
 
 The Max2 filter replacement indicator works just like the Pre Wash indicator light.
 
-**Pre Wash indicator status****Meaning**White light around the indicatorFilter is cleanWhite light brightness reducesFilter accumulates dust. The darker the white circle around the indicator, the more dust is accumulated.Red light around the indicator, “Change” word highlighted redFilter is full and needs replacement. You can’t clean this filter since it would destroy the HEPA filtering properties of the filter.
+Pre Wash Indicator Status | Meaning
+--- | ---
+White light around the indicator | Filter is clean
+White light brightness reduces | Filter accumulates dust. The darker the white circle around the indicator, the more dust is accumulated
+Red light around the indicator, “Change” word highlighted red | Filter is full and needs replacement. You can't clean this filter since it would destroy the HEPA filtering properties of the filter.
 
 To reset the Max2 Change indicator light after replacing the Max2 filter, press the Max2 Change button for 3 seconds.
 
