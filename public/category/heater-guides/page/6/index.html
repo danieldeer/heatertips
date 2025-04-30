@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/category/heater-guides/">
+<link rel="canonical" href="https://heatertips.com/category/heater-guides/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/category/heater-guides/feed.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/category/heater-guides/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/heater-guides/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/heater-guides/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/category/heater-guides/">
+<meta property="og:url" content="https://heatertips.com/category/heater-guides/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Heater-Guides">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span class="active">🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Heater-Guides
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-buddy-heater-outdoors-balcony.webp" alt="mr heater buddy heater outdoors balcony">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-buddy-heater-outdoors-balcony.webp" alt="mr heater buddy heater outdoors balcony">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">What is the safest Propane Heater?
@@ -145,12 +169,12 @@ Based on the measurements, you can tell what is and what isn’t a safe propane 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-01-07 10:18:33 +0000 +0000'>January 7, 2023</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to What is the safest Propane Heater?" href="http://localhost:1313/whats-the-safest-propane-heater/"></a>
+  <a class="entry-link" aria-label="post link to What is the safest Propane Heater?" href="https://heatertips.com/whats-the-safest-propane-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-propane-heater-tip-over.webp" alt="mr heater propane heater tip over">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-tip-over.webp" alt="mr heater propane heater tip over">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Mr. Heaters safe in a tent? (Fact checked)
@@ -163,12 +187,12 @@ In this article, we will check whether Mr. Heaters can ignite or melt tent walls
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-01-05 09:56:45 +0000 +0000'>January 5, 2023</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Mr. Heaters safe in a tent? (Fact checked)" href="http://localhost:1313/are-mr-heaters-safe-in-a-tent/"></a>
+  <a class="entry-link" aria-label="post link to Are Mr. Heaters safe in a tent? (Fact checked)" href="https://heatertips.com/are-mr-heaters-safe-in-a-tent/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-propane-heater-tip-over.webp" alt="mr heater propane heater tip over">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-tip-over.webp" alt="mr heater propane heater tip over">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Mr. Heaters any good? (Critical Review)
@@ -184,12 +208,12 @@ However, these issues are present in all propane heaters with the same heat outp
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-01-02 12:18:15 +0000 +0000'>January 2, 2023</span>&nbsp;·&nbsp;17 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Mr. Heaters any good? (Critical Review)" href="http://localhost:1313/are-mr-heater-buddy-heaters-any-good/"></a>
+  <a class="entry-link" aria-label="post link to Are Mr. Heaters any good? (Critical Review)" href="https://heatertips.com/are-mr-heater-buddy-heaters-any-good/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/space-heater-smoking.webp" alt="space heater smoking">
+        <img loading="lazy" src="https://heatertips.com/img/space-heater-smoking.webp" alt="space heater smoking">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Space Heater Smoking (4 Fixes)&amp;nbsp;
@@ -202,12 +226,12 @@ Quick answer: Space heaters usually smoke from the heating elements, the interna
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-31 08:18:54 +0000 +0000'>December 31, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Space Heater Smoking (4 Fixes)&nbsp;" href="http://localhost:1313/space-heater-smoking-fixes/"></a>
+  <a class="entry-link" aria-label="post link to Space Heater Smoking (4 Fixes)&nbsp;" href="https://heatertips.com/space-heater-smoking-fixes/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/gas-stove-and-propane-heater.webp" alt="gas-stove-and-propane-heater">
+        <img loading="lazy" src="https://heatertips.com/img/gas-stove-and-propane-heater.webp" alt="gas-stove-and-propane-heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Gas Stove as a Heater?
@@ -220,12 +244,12 @@ In this article, we’re going to check everything you need to know about emerge
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-29 11:05:41 +0000 +0000'>December 29, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Gas Stove as a Heater?" href="http://localhost:1313/can-you-use-a-gas-stove-as-a-heater/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Gas Stove as a Heater?" href="https://heatertips.com/can-you-use-a-gas-stove-as-a-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-propane-heater-running-closeup.webp" alt="mr heater propane heater running closeup">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-running-closeup.webp" alt="mr heater propane heater running closeup">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Propane Heaters need electricity?
@@ -239,12 +263,12 @@ Quick answer: No, portable propane heaters never need electricity and work fully
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-29 08:51:06 +0000 +0000'>December 29, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Propane Heaters need electricity?" href="http://localhost:1313/do-propane-heaters-need-electricity/"></a>
+  <a class="entry-link" aria-label="post link to Do Propane Heaters need electricity?" href="https://heatertips.com/do-propane-heaters-need-electricity/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/space-heater-on-table-infrared-oil-filled-propane.webp" alt="space-heater-on-table-infrared-oil-filled-propane">
+        <img loading="lazy" src="https://heatertips.com/img/space-heater-on-table-infrared-oil-filled-propane.webp" alt="space-heater-on-table-infrared-oil-filled-propane">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you put a Space Heater on a table?
@@ -258,12 +282,12 @@ Additionally, I am going to prove that you can place your space heater on tables
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-28 09:36:39 +0000 +0000'>December 28, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you put a Space Heater on a table?" href="http://localhost:1313/can-you-put-a-space-heater-on-a-table/"></a>
+  <a class="entry-link" aria-label="post link to Can you put a Space Heater on a table?" href="https://heatertips.com/can-you-put-a-space-heater-on-a-table/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/infrared-heater-hand.webp" alt="infrared heater hand">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-hand.webp" alt="infrared heater hand">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why is Infrared hotter than visible light?
@@ -276,12 +300,12 @@ Quick answer: Infrared radiation is not hotter than visible light. Most radiator
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-27 14:40:01 +0000 +0000'>December 27, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why is Infrared hotter than visible light?" href="http://localhost:1313/why-is-infrared-hotter-than-visible-light/"></a>
+  <a class="entry-link" aria-label="post link to Why is Infrared hotter than visible light?" href="https://heatertips.com/why-is-infrared-hotter-than-visible-light/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/infrared-heater-cost.webp" alt="infrared heater cost">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-cost.webp" alt="infrared heater cost">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How much do Infrared Heaters cost to run?
@@ -294,12 +318,12 @@ We will also check whether a thermostat will really help reduce infrared heater 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-27 09:17:57 +0000 +0000'>December 27, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How much do Infrared Heaters cost to run?" href="http://localhost:1313/how-much-do-infrared-heaters-cost-to-run/"></a>
+  <a class="entry-link" aria-label="post link to How much do Infrared Heaters cost to run?" href="https://heatertips.com/how-much-do-infrared-heaters-cost-to-run/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/wood-stove-fire.webp" alt="wood-stove-fire">
+        <img loading="lazy" src="https://heatertips.com/img/wood-stove-fire.webp" alt="wood-stove-fire">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Wood Stove not getting hot (12 Fixes)
@@ -313,19 +337,28 @@ Quick answer: A wood stove usually does not get hot because of an insufficient o
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-25 11:59:25 +0000 +0000'>December 25, 2022</span>&nbsp;·&nbsp;16 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Wood Stove not getting hot (12 Fixes)" href="http://localhost:1313/wood-stove-not-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to Wood Stove not getting hot (12 Fixes)" href="https://heatertips.com/wood-stove-not-getting-hot/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/category/heater-guides/page/5/">
+    <a class="prev" href="https://heatertips.com/category/heater-guides/page/5/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/category/heater-guides/page/7/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/heater-guides/page/7/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -372,6 +405,18 @@ Quick answer: A wood stove usually does not get hot because of an insufficient o
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

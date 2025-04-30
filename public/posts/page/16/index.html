@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Posts - HeaterTips">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/">
+<link rel="canonical" href="https://heatertips.com/posts/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/posts/feed.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/posts/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/posts/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/posts/">
+<meta property="og:url" content="https://heatertips.com/posts/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Posts">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -79,7 +79,7 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Posts",
-      "item": "http://localhost:1313/posts/"
+      "item": "https://heatertips.com/posts/"
     }
   ]
 }
@@ -88,7 +88,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -97,40 +101,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -138,7 +162,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a></div>
   <h1>
     Posts
   </h1>
@@ -146,7 +170,7 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-long-do-oil-filled-radiators-last.webp" alt="oil-filled radiator">
+        <img loading="lazy" src="https://heatertips.com/img/how-long-do-oil-filled-radiators-last.webp" alt="oil-filled radiator">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How Long do Oil-Filled Radiators Last?
@@ -160,12 +184,12 @@ Quick answer: An oil-filled radiator lasts at least 20&#43; years. If it is not 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-16 16:14:40 +0000 +0000'>November 16, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How Long do Oil-Filled Radiators Last?" href="http://localhost:1313/how-long-do-oil-filled-radiators-last/"></a>
+  <a class="entry-link" aria-label="post link to How Long do Oil-Filled Radiators Last?" href="https://heatertips.com/how-long-do-oil-filled-radiators-last/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/do-air-conditioners-wear-out.webp" alt="do-air-conditioners-wear-out">
+        <img loading="lazy" src="https://heatertips.com/img/do-air-conditioners-wear-out.webp" alt="do-air-conditioners-wear-out">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Air Conditioners Wear Out? (High vs Low Maintenance)
@@ -177,12 +201,12 @@ Quick answer: Yes, air conditioners wear out. You can expect an air conditioner 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-15 12:09:24 +0000 +0000'>November 15, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Air Conditioners Wear Out? (High vs Low Maintenance)" href="http://localhost:1313/do-air-conditioners-wear-out/"></a>
+  <a class="entry-link" aria-label="post link to Do Air Conditioners Wear Out? (High vs Low Maintenance)" href="https://heatertips.com/do-air-conditioners-wear-out/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-propane-heaters-for-high-altitude.webp" alt="best-propane-heaters-for-high-altitude">
+        <img loading="lazy" src="https://heatertips.com/img/best-propane-heaters-for-high-altitude.webp" alt="best-propane-heaters-for-high-altitude">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">3 Best Propane Heaters for High Altitude
@@ -194,12 +218,12 @@ In this article, we’re going to check the best propane heaters for high altitu
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-14 17:30:37 +0000 +0000'>November 14, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 3 Best Propane Heaters for High Altitude" href="http://localhost:1313/best-propane-heaters-for-high-altitude/"></a>
+  <a class="entry-link" aria-label="post link to 3 Best Propane Heaters for High Altitude" href="https://heatertips.com/best-propane-heaters-for-high-altitude/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/cheap-ways-to-cool-a-garage.webp" alt="cheap-ways-to-cool-a-garage">
+        <img loading="lazy" src="https://heatertips.com/img/cheap-ways-to-cool-a-garage.webp" alt="cheap-ways-to-cool-a-garage">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">14 Cheapest Ways to Cool a Garage
@@ -211,12 +235,12 @@ Quick answer: The cheapest way to cool a garage is a floor or ceiling fan. Insul
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-13 15:56:28 +0000 +0000'>November 13, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 14 Cheapest Ways to Cool a Garage" href="http://localhost:1313/cheapest-ways-to-cool-a-garage/"></a>
+  <a class="entry-link" aria-label="post link to 14 Cheapest Ways to Cool a Garage" href="https://heatertips.com/cheapest-ways-to-cool-a-garage/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-remove-smell-in-a-portable-ac.webp" alt="how-to-remove-smell-in-a-portable-ac">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-remove-smell-in-a-portable-ac.webp" alt="how-to-remove-smell-in-a-portable-ac">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Remove Smell in a Portable AC
@@ -230,12 +254,12 @@ How to remove portable AC smell Identifying the cause of the smell is sometimes 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-13 12:06:19 +0000 +0000'>November 13, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Remove Smell in a Portable AC" href="http://localhost:1313/how-to-remove-smell-in-portable-ac/"></a>
+  <a class="entry-link" aria-label="post link to How to Remove Smell in a Portable AC" href="https://heatertips.com/how-to-remove-smell-in-portable-ac/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.webp" alt="can-you-use-a-portable-air-conditioner-when-its-smoky-outside">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-use-a-portable-air-conditioner-when-its-smoky-outside.webp" alt="can-you-use-a-portable-air-conditioner-when-its-smoky-outside">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Portable AC when it’s Smoky outside?
@@ -248,12 +272,12 @@ Quick answer: You should not use a single-hose portable AC when it’s smoky out
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-13 08:31:19 +0000 +0000'>November 13, 2022</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Portable AC when it’s Smoky outside?" href="http://localhost:1313/can-you-use-portable-ac-when-smoky-outside/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Portable AC when it’s Smoky outside?" href="https://heatertips.com/can-you-use-portable-ac-when-smoky-outside/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-heat-a-cabin-without-electricity.webp" alt="how to heat a cabin without electricity">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-heat-a-cabin-without-electricity.webp" alt="how to heat a cabin without electricity">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Heat a Cabin without Electricity (5 Methods)
@@ -266,12 +290,12 @@ The 5 Best Methods to Heat a Cabin without Electricity Let’s take a look at 5 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-12 10:38:30 +0000 +0000'>November 12, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Heat a Cabin without Electricity (5 Methods)" href="http://localhost:1313/how-to-heat-a-cabin-without-electricity/"></a>
+  <a class="entry-link" aria-label="post link to How to Heat a Cabin without Electricity (5 Methods)" href="https://heatertips.com/how-to-heat-a-cabin-without-electricity/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/which-air-conditioner-type-is-best-for-garage.webp" alt="which air conditioner type is best for garage">
+        <img loading="lazy" src="https://heatertips.com/img/which-air-conditioner-type-is-best-for-garage.webp" alt="which air conditioner type is best for garage">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Which Air Conditioner Type is Best for a Garage? (1,2,3,4 cars)
@@ -284,12 +308,12 @@ Quick answer: Mini-split ACs are the best type of air conditioner for garages. T
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-10 09:45:52 +0000 +0000'>November 10, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Which Air Conditioner Type is Best for a Garage? (1,2,3,4 cars)" href="http://localhost:1313/which-air-conditione-type-is-best-for-garage/"></a>
+  <a class="entry-link" aria-label="post link to Which Air Conditioner Type is Best for a Garage? (1,2,3,4 cars)" href="https://heatertips.com/which-air-conditione-type-is-best-for-garage/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-vent-a-portable-air-conditioner-in-a-room-without-a-window.webp" alt="how to vent a portable air conditioner in a room without a window">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-vent-a-portable-air-conditioner-in-a-room-without-a-window.webp" alt="how to vent a portable air conditioner in a room without a window">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Vent a Portable AC Without a Window?
@@ -301,12 +325,12 @@ Quick answer: You can vent a portable air conditioner without a window by using 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-08 16:44:55 +0000 +0000'>November 8, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Vent a Portable AC Without a Window?" href="http://localhost:1313/how-to-vent-portable-ac-without-window/"></a>
+  <a class="entry-link" aria-label="post link to How to Vent a Portable AC Without a Window?" href="https://heatertips.com/how-to-vent-portable-ac-without-window/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-install-a-wood-stove-in-your-mobile-home.webp" alt="how to install a wood stove in your mobile home">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-install-a-wood-stove-in-your-mobile-home.webp" alt="how to install a wood stove in your mobile home">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Install a Wood Stove in a Mobile Home
@@ -319,19 +343,28 @@ Optionally, add tiles to the walls surrounding your wood stove.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-08 15:15:44 +0000 +0000'>November 8, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Install a Wood Stove in a Mobile Home" href="http://localhost:1313/how-to-install-a-wood-stove-in-a-mobile-home/"></a>
+  <a class="entry-link" aria-label="post link to How to Install a Wood Stove in a Mobile Home" href="https://heatertips.com/how-to-install-a-wood-stove-in-a-mobile-home/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/posts/page/15/">
+    <a class="prev" href="https://heatertips.com/posts/page/15/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/posts/page/17/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/posts/page/17/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -378,6 +411,18 @@ Optionally, add tiles to the walls surrounding your wood stove.
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

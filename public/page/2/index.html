@@ -2,7 +2,7 @@
 <html lang="en" dir="auto">
 
 <head>
-	<meta name="generator" content="Hugo 0.146.7"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+	<meta name="generator" content="Hugo 0.146.7"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -10,18 +10,18 @@
 
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="Daniel Hirsch">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="https://heatertips.com/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/feed.xml">
-<link rel="alternate" type="application/json" href="http://localhost:1313/index.json">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/feed.xml">
+<link rel="alternate" type="application/json" href="https://heatertips.com/index.json">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/">
 <noscript>
     <style>
         #theme-toggle,
@@ -61,7 +61,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/">
+<meta property="og:url" content="https://heatertips.com/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource">
   <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—we’ve got you covered. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
@@ -77,9 +77,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HeaterTips",
-  "url": "http://localhost:1313/",
+  "url": "https://heatertips.com/",
   "description": "Home Heating and Cooling Guides and Reviews",
-  "logo": "http://localhost:1313/favicon.ico",
+  "logo": "https://heatertips.com/favicon.ico",
   "sameAs": [
       
   ]
@@ -89,7 +89,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -98,40 +102,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -196,7 +220,7 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/vornadobaby-tempa-child-safe-lockable-space-heater.webp" alt="vornadobaby tempa child-safe lockable space heater">
+        <img loading="lazy" src="https://heatertips.com/img/vornadobaby-tempa-child-safe-lockable-space-heater.webp" alt="vornadobaby tempa child-safe lockable space heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">4 Best Child-Safe Heaters
@@ -210,12 +234,12 @@ In this article, we’ll have a look at space heaters that are very safe for chi
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-28 09:55:36 +0000 +0000'>November 28, 2023</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 4 Best Child-Safe Heaters" href="http://localhost:1313/best-child-safe-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 4 Best Child-Safe Heaters" href="https://heatertips.com/best-child-safe-heaters/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/dyson-f4-error-code.webp" alt="dyson-f4-error-code">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-f4-error-code.webp" alt="dyson-f4-error-code">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson F4 Error Code: How To Fix It
@@ -227,12 +251,12 @@ Quick answer: If your Dyson shows an F4 error, first try power cycling and check
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-26 13:39:49 +0000 +0000'>November 26, 2023</span>&nbsp;·&nbsp;5 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson F4 Error Code: How To Fix It" href="http://localhost:1313/fix-dyson-f4-error-code/"></a>
+  <a class="entry-link" aria-label="post link to Dyson F4 Error Code: How To Fix It" href="https://heatertips.com/fix-dyson-f4-error-code/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/space-heater-and-hot-water-bottle.webp" alt="space heater and hot water bottle">
+        <img loading="lazy" src="https://heatertips.com/img/space-heater-and-hot-water-bottle.webp" alt="space heater and hot water bottle">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Space Heater or Hot Water Bottle? (9 Differences)
@@ -246,12 +270,12 @@ I’ve spent so much time &amp; effort writing about heaters and telling people 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-21 15:28:48 +0000 +0000'>November 21, 2023</span>&nbsp;·&nbsp;13 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Space Heater or Hot Water Bottle? (9 Differences)" href="http://localhost:1313/space-heater-or-hot-water-bottle-9-differences/"></a>
+  <a class="entry-link" aria-label="post link to Space Heater or Hot Water Bottle? (9 Differences)" href="https://heatertips.com/space-heater-or-hot-water-bottle-9-differences/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-buddy-propane-heater-on-car-seat.webp" alt="mr heater buddy propane heater on car seat">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-buddy-propane-heater-on-car-seat.webp" alt="mr heater buddy propane heater on car seat">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Best Car Camping Heaters for Winter
@@ -265,12 +289,12 @@ And for those freezing cold nights, all you think about is “why didn’t I bri
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-19 09:19:20 +0000 +0000'>November 19, 2023</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Best Car Camping Heaters for Winter" href="http://localhost:1313/best-car-camping-heaters-for-winter/"></a>
+  <a class="entry-link" aria-label="post link to Best Car Camping Heaters for Winter" href="https://heatertips.com/best-car-camping-heaters-for-winter/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/camper-van-in-winter.webp" alt="camper-van-in-winter">
+        <img loading="lazy" src="https://heatertips.com/img/camper-van-in-winter.webp" alt="camper-van-in-winter">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to Heat a Van in Winter
@@ -283,12 +307,12 @@ So, even though I don’t drive a van around myself, I experienced quite a few n
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-15 09:43:27 +0000 +0000'>November 15, 2023</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to Heat a Van in Winter" href="http://localhost:1313/how-to-heat-a-van-in-winter/"></a>
+  <a class="entry-link" aria-label="post link to How to Heat a Van in Winter" href="https://heatertips.com/how-to-heat-a-van-in-winter/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/dyson-drip-tray-overflow-error.webp" alt="dyson drip tray overflow error">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-drip-tray-overflow-error.webp" alt="dyson drip tray overflow error">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Drip Tray Overflow Error: How to Fix It
@@ -302,12 +326,12 @@ In this article, we’re having a look at what the error means, where it comes f
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-12 14:51:31 +0000 +0000'>November 12, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Drip Tray Overflow Error: How to Fix It" href="http://localhost:1313/fix-dyson-drip-tray-overflow-error/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Drip Tray Overflow Error: How to Fix It" href="https://heatertips.com/fix-dyson-drip-tray-overflow-error/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Humidify&#43;Cool Not Humidifying: How To Fix It
@@ -321,12 +345,12 @@ One of the most common causes for the humidification not working is a clogged pu
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-11 08:49:03 +0000 +0000'>November 11, 2023</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Not Humidifying: How To Fix It" href="http://localhost:1313/fix-dyson-humidify-cool-not-humidifying/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Not Humidifying: How To Fix It" href="https://heatertips.com/fix-dyson-humidify-cool-not-humidifying/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
+        <img loading="lazy" src="https://heatertips.com/img/dyson-humidify-cool-fan.webp" alt="dyson humidify cool fan">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Humidify&#43;Cool Fans: Are They Worth It?
@@ -339,7 +363,7 @@ In this article, we’re going to have a critical look at Dyson Humidify&#43;Coo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-09 10:00:35 +0000 +0000'>November 9, 2023</span>&nbsp;·&nbsp;12 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Fans: Are They Worth It?" href="http://localhost:1313/are-dyson-humidify-cool-fans-worth-it/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Humidify&#43;Cool Fans: Are They Worth It?" href="https://heatertips.com/are-dyson-humidify-cool-fans-worth-it/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -354,12 +378,12 @@ Whether you require a permanent, powerful solution or a portable, occasional boo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-07 10:55:48 +0000 +0000'>November 7, 2023</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 4 Best Basement Heaters (Gas & Electric)" href="http://localhost:1313/best-basement-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 4 Best Basement Heaters (Gas & Electric)" href="https://heatertips.com/best-basement-heaters/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-big-maxx-ceiling-mounted-in-workshop.webp" alt="mr heater big maxx ceiling mounted in workshop">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-big-maxx-ceiling-mounted-in-workshop.webp" alt="mr heater big maxx ceiling mounted in workshop">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">5 Best Wood Workshop Heaters (Gas &amp; Electric)
@@ -372,19 +396,28 @@ So, an ideal wood workshop heater can handle dust exposure, is fire-safe, and ou
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-11-06 14:01:43 +0000 +0000'>November 6, 2023</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 5 Best Wood Workshop Heaters (Gas & Electric)" href="http://localhost:1313/best-wood-workshop-heaters/"></a>
+  <a class="entry-link" aria-label="post link to 5 Best Wood Workshop Heaters (Gas & Electric)" href="https://heatertips.com/best-wood-workshop-heaters/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/">
+    <a class="prev" href="https://heatertips.com/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/page/3/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/page/3/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -431,6 +464,18 @@ So, an ideal wood workshop heater can handle dust exposure, is fire-safe, and ou
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

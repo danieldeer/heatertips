@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Repair on HeaterTips</title>
-    <link>http://localhost:1313/category/repair/</link>
+    <link>https://heatertips.com/category/repair/</link>
     <description>Recent content in Repair on HeaterTips</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 09 Dec 2023 15:10:30 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/category/repair/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heatertips.com/category/repair/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How many Amps does a Diesel Heater use?</title>
-      <link>http://localhost:1313/how-many-amps-does-a-diesel-heater-use/</link>
+      <link>https://heatertips.com/how-many-amps-does-a-diesel-heater-use/</link>
       <pubDate>Sat, 09 Dec 2023 15:10:30 +0000</pubDate>
-      <guid>http://localhost:1313/how-many-amps-does-a-diesel-heater-use/</guid>
+      <guid>https://heatertips.com/how-many-amps-does-a-diesel-heater-use/</guid>
       <description>&lt;p&gt;I did an experiment, measuring the amperage of my diesel heater. This post is about the results.&lt;/p&gt;
 &lt;p&gt;When you look for diesel heater amperages online, you don’t get any good answers. One website I found said that “diesel heater draws 1 amp per hour”. As an electrical engineer, hearing this hurts my brain. Severely.&lt;/p&gt;
 &lt;p&gt;That’s as if I say that my car uses 100 horsepower per hour. It’s just a nonsensical use of the unit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diesel Heater E08 Error Code: How to Fix It</title>
-      <link>http://localhost:1313/fix-diesel-heater-e08-error-code/</link>
+      <link>https://heatertips.com/fix-diesel-heater-e08-error-code/</link>
       <pubDate>Sun, 03 Dec 2023 10:06:30 +0000</pubDate>
-      <guid>http://localhost:1313/fix-diesel-heater-e08-error-code/</guid>
+      <guid>https://heatertips.com/fix-diesel-heater-e08-error-code/</guid>
       <description>&lt;p&gt;Your (chinese) diesel heater shows an E08 error code? No problem. The E08 error code is usually simple to fix requires no tools and no disassembly, and takes under 5 minutes.&lt;/p&gt;
 &lt;p&gt;In this article, we’re having a look at the most common reasons and fixes for the E08 error.&lt;/p&gt;
 &lt;p&gt;If you follow this article closely, you will be able to resolve the error code within the next few minutes.&lt;/p&gt;
@@ -29,27 +29,27 @@
     </item>
     <item>
       <title>Dyson F4 Error Code: How To Fix It</title>
-      <link>http://localhost:1313/fix-dyson-f4-error-code/</link>
+      <link>https://heatertips.com/fix-dyson-f4-error-code/</link>
       <pubDate>Sun, 26 Nov 2023 13:39:49 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-f4-error-code/</guid>
+      <guid>https://heatertips.com/fix-dyson-f4-error-code/</guid>
       <description>&lt;p&gt;Encountering the F4 error on your Dyson appliance can be a cause for concern, but it’s often a problem you can solve yourself. This guide will provide you with a clear understanding of what the F4 error means for different Dyson models and the steps you can take to fix it.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;If your Dyson shows an F4 error, first try power cycling and checking for any obvious blockages or misalignments.&lt;/strong&gt; If the problem continues, it could indicate a motor or sensor issue, in which case you should contact Dyson support, especially if your device is still under the 2-year warranty. If not, consider replacing it with a newer model.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dyson Drip Tray Overflow Error: How to Fix It</title>
-      <link>http://localhost:1313/fix-dyson-drip-tray-overflow-error/</link>
+      <link>https://heatertips.com/fix-dyson-drip-tray-overflow-error/</link>
       <pubDate>Sun, 12 Nov 2023 14:51:31 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-drip-tray-overflow-error/</guid>
+      <guid>https://heatertips.com/fix-dyson-drip-tray-overflow-error/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Symptom:&lt;/strong&gt; Dyson Humidify+Cool shows a “Drip Tray Overflow” error after activating humidification.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;http://localhost:1313/are-dyson-humidify-cool-fans-worth-it/&#34;&gt;Dyson Pure Humidify+Cool&lt;/a&gt; is a combined humidifier, air purifier, and fan. When it works, it’s great. But the Humidify+Cool units encounter errors much more frequently than other Dyson fans, since they work with water.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://heatertips.com/are-dyson-humidify-cool-fans-worth-it/&#34;&gt;Dyson Pure Humidify+Cool&lt;/a&gt; is a combined humidifier, air purifier, and fan. When it works, it’s great. But the Humidify+Cool units encounter errors much more frequently than other Dyson fans, since they work with water.&lt;/p&gt;
 &lt;p&gt;The “Drip Tray Overflow” error is a common issue in Dyson Humidify+Cool fans that affects the device’s humidifying functionality.&lt;/p&gt;
 &lt;p&gt;In this article, we’re having a look at what the error means, where it comes from, and how to fix it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dyson Humidify&#43;Cool Not Humidifying: How To Fix It</title>
-      <link>http://localhost:1313/fix-dyson-humidify-cool-not-humidifying/</link>
+      <link>https://heatertips.com/fix-dyson-humidify-cool-not-humidifying/</link>
       <pubDate>Sat, 11 Nov 2023 08:49:03 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-humidify-cool-not-humidifying/</guid>
+      <guid>https://heatertips.com/fix-dyson-humidify-cool-not-humidifying/</guid>
       <description>&lt;p&gt;Today, we&amp;rsquo;re focusing on a problem that many owners of the Dyson Pure Humidify+Cool have encountered: the unit not humidifying properly.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s a frustrating issue, especially considering the investment you make in a Dyson product.&lt;/p&gt;
 &lt;p&gt;This guide is designed to help you diagnose and fix the problem quickly and efficiently.&lt;/p&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>Dyson Deep Clean Cycle Not Working: How To Fix It</title>
-      <link>http://localhost:1313/fix-dyson-deep-clean-cycle-not-working/</link>
+      <link>https://heatertips.com/fix-dyson-deep-clean-cycle-not-working/</link>
       <pubDate>Sun, 29 Oct 2023 11:53:25 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-deep-clean-cycle-not-working/</guid>
+      <guid>https://heatertips.com/fix-dyson-deep-clean-cycle-not-working/</guid>
       <description>&lt;p&gt;The deep clean cycle on Dyson humidifiers is known to have several problems. For some, it won’t start, other times, it keeps stopping, and sometimes the timer is stuck and not counting down.&lt;/p&gt;
 &lt;p&gt;Any of these problems make a full deep clean cycle impossible.&lt;/p&gt;
 &lt;p&gt;In this article, we’re going to check out several different solutions for your Dyson humidifier’s deep clean cycle not working.&lt;/p&gt;
@@ -68,18 +68,18 @@
     </item>
     <item>
       <title>Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It</title>
-      <link>http://localhost:1313/fix-electric-kettle-keeps-boiling-doesnt-shut-off/</link>
+      <link>https://heatertips.com/fix-electric-kettle-keeps-boiling-doesnt-shut-off/</link>
       <pubDate>Wed, 25 Oct 2023 12:16:36 +0000</pubDate>
-      <guid>http://localhost:1313/fix-electric-kettle-keeps-boiling-doesnt-shut-off/</guid>
+      <guid>https://heatertips.com/fix-electric-kettle-keeps-boiling-doesnt-shut-off/</guid>
       <description>&lt;p&gt;Your electric kettle keeps boiling and doesn’t shut off? This is both frustrating and dangerous.&lt;/p&gt;
 &lt;p&gt;But don’t worry - you’ve landed in the right place. In this comprehensive guide, we’ll have a look at &lt;em&gt;why&lt;/em&gt; your kettle keeps boiling (there are just 4 possible reasons) and how to fix each of the causes.&lt;/p&gt;
 &lt;p&gt;While writing this article, I discovered that kettles are actually incredibly easy to fix. At most, you’re going to need a screwdriver and a replacement switch (which costs just a few dollars).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heat Storm Heater Not Working: How to Fix It</title>
-      <link>http://localhost:1313/fix-heat-storm-heater-not-working/</link>
+      <link>https://heatertips.com/fix-heat-storm-heater-not-working/</link>
       <pubDate>Sun, 22 Oct 2023 07:13:28 +0000</pubDate>
-      <guid>http://localhost:1313/fix-heat-storm-heater-not-working/</guid>
+      <guid>https://heatertips.com/fix-heat-storm-heater-not-working/</guid>
       <description>&lt;p&gt;Your heat storm heater is not working? It doesn’t turn on? Or it turns on, but the fan doesn’t blow? Or it turns on, but shuts off on its own after some time?&lt;/p&gt;
 &lt;p&gt;In this article, I’ll show you simple fixes for these scenarios.&lt;/p&gt;
 &lt;p&gt;Hi, I am Daniel, an electrical engineer who did electronic repairs professionally in the past.&lt;/p&gt;
@@ -87,9 +87,9 @@
     </item>
     <item>
       <title>Dyson Wrong Air Quality / Temperature: How to Fix It</title>
-      <link>http://localhost:1313/fix-dyson-wrong-air-quality-temperature/</link>
+      <link>https://heatertips.com/fix-dyson-wrong-air-quality-temperature/</link>
       <pubDate>Thu, 19 Oct 2023 11:24:57 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-wrong-air-quality-temperature/</guid>
+      <guid>https://heatertips.com/fix-dyson-wrong-air-quality-temperature/</guid>
       <description>&lt;p&gt;Your Dyson fan suddenly shows wrong air quality reports and / or a wrong temperature?&lt;/p&gt;
 &lt;p&gt;Oftentimes, the air quality report shows a 999 value and the temperature shows 0°C (or °K).&lt;/p&gt;
 &lt;p&gt;Or the air quality report and temperature are stuck at a certain value, or they don’t show values at all.&lt;/p&gt;
@@ -97,9 +97,9 @@
     </item>
     <item>
       <title>Dyson Fan Warning Triangle (5 Fixes)</title>
-      <link>http://localhost:1313/dyson-fan-warning-triangle-error-fixes/</link>
+      <link>https://heatertips.com/dyson-fan-warning-triangle-error-fixes/</link>
       <pubDate>Tue, 17 Oct 2023 12:14:19 +0000</pubDate>
-      <guid>http://localhost:1313/dyson-fan-warning-triangle-error-fixes/</guid>
+      <guid>https://heatertips.com/dyson-fan-warning-triangle-error-fixes/</guid>
       <description>&lt;p&gt;When your Dyson fan shows a warning triangle with an exclamation mark, something is wrong.&lt;/p&gt;
 &lt;p&gt;Aside from the warning triangle, your Dyson fan does not give you any further information about the issue, and no instructions on what to do now.&lt;/p&gt;
 &lt;p&gt;In this article, we’ll have a quick look at the warning triangle error, what causes it, and what you should do about it.&lt;/p&gt;
@@ -107,9 +107,9 @@
     </item>
     <item>
       <title>Dyson F2 Error Code: How to Fix It</title>
-      <link>http://localhost:1313/fix-dyson-f2-error-code/</link>
+      <link>https://heatertips.com/fix-dyson-f2-error-code/</link>
       <pubDate>Sun, 15 Oct 2023 08:09:32 +0000</pubDate>
-      <guid>http://localhost:1313/fix-dyson-f2-error-code/</guid>
+      <guid>https://heatertips.com/fix-dyson-f2-error-code/</guid>
       <description>&lt;p&gt;The F2 error code on Dyson fans is simple to fix once you know what causes it.&lt;/p&gt;
 &lt;p&gt;Interestingly, Dyson doesn’t seem to know what causes the error. I do.&lt;/p&gt;
 &lt;p&gt;Here’s the reason for your Dyson fan showing the F2 error:&lt;/p&gt;
@@ -122,18 +122,18 @@
     </item>
     <item>
       <title>How to Reset the “F” Code On a Dyson Air Purifier</title>
-      <link>http://localhost:1313/how-to-reset-the-f-code-on-a-dyson-air-purifier/</link>
+      <link>https://heatertips.com/how-to-reset-the-f-code-on-a-dyson-air-purifier/</link>
       <pubDate>Thu, 12 Oct 2023 08:23:29 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-reset-the-f-code-on-a-dyson-air-purifier/</guid>
+      <guid>https://heatertips.com/how-to-reset-the-f-code-on-a-dyson-air-purifier/</guid>
       <description>&lt;p&gt;Every few months, your Dyson air purifier will show an F code with three blinking lights next to it.&lt;/p&gt;
 &lt;p&gt;The “F” code stands for “Filter” and signals you to replace your air purifier’s filter.&lt;/p&gt;
 &lt;p&gt;Dyson recommends to do this every 6-12 months. Based on the time passed since you last replaced the filter (or since you bought the air purifier), and the filter’s airflow resistance, Dyson can determine when a filter replacement is due.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Electric Heater E1 Error: How to Fix It</title>
-      <link>http://localhost:1313/how-to-fix-electric-heater-e1-error/</link>
+      <link>https://heatertips.com/how-to-fix-electric-heater-e1-error/</link>
       <pubDate>Mon, 09 Oct 2023 10:12:08 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-electric-heater-e1-error/</guid>
+      <guid>https://heatertips.com/how-to-fix-electric-heater-e1-error/</guid>
       <description>&lt;p&gt;Your electric heater displays an E1 error code and you don’t know what to do? Worst of all, it stopped heating altogether and you can’t get it to run anymore?&lt;/p&gt;
 &lt;p&gt;Don’t worry. The E1 error is usually simple to fix.&lt;/p&gt;
 &lt;p&gt;Hi, my name is Daniel, I am an electrical engineer, and in the past, I repaired electronics professionally.&lt;/p&gt;
@@ -144,9 +144,9 @@
     </item>
     <item>
       <title>Lasko Heater Keeps Shutting Off (3 Causes and Fixes)</title>
-      <link>http://localhost:1313/lasko-heater-keeps-shutting-off/</link>
+      <link>https://heatertips.com/lasko-heater-keeps-shutting-off/</link>
       <pubDate>Wed, 04 Oct 2023 09:05:35 +0000</pubDate>
-      <guid>http://localhost:1313/lasko-heater-keeps-shutting-off/</guid>
+      <guid>https://heatertips.com/lasko-heater-keeps-shutting-off/</guid>
       <description>&lt;p&gt;Lasko ceramic heaters are very reliable. All the more surprising it is when your Lasko heater suddenly shuts off on its own. And after turning it back on, it doesn’t take long until it shuts off again.&lt;/p&gt;
 &lt;p&gt;What is happening here?&lt;/p&gt;
 &lt;p&gt;Luckily, the issue is, in most cases, very simple to fix.&lt;/p&gt;
@@ -155,9 +155,9 @@
     </item>
     <item>
       <title>Dyson F3 Error Code: How to Fix It</title>
-      <link>http://localhost:1313/dyson-f3-error-code-fix/</link>
+      <link>https://heatertips.com/dyson-f3-error-code-fix/</link>
       <pubDate>Sat, 30 Sep 2023 07:57:21 +0000</pubDate>
-      <guid>http://localhost:1313/dyson-f3-error-code-fix/</guid>
+      <guid>https://heatertips.com/dyson-f3-error-code-fix/</guid>
       <description>&lt;p&gt;Owning a Dyson Pure+Cool or a Humidify+Cool fan has its fair share of perks, from enjoying a cool breeze to breathing cleaner air.&lt;/p&gt;
 &lt;p&gt;But when the F3 error code comes up, your Dyson Fan suddenly stops despite all seeming well.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;ve been scratching your head over this, you&amp;rsquo;re not alone: Nobody really knows what causes the F3 error.&lt;/p&gt;
@@ -165,9 +165,9 @@
     </item>
     <item>
       <title>Mr. Heater Ceramic Burner Tile Replacement (in 6 Steps)</title>
-      <link>http://localhost:1313/mr-heater-ceramic-burner-tile-replacement/</link>
+      <link>https://heatertips.com/mr-heater-ceramic-burner-tile-replacement/</link>
       <pubDate>Thu, 28 Sep 2023 10:01:52 +0000</pubDate>
-      <guid>http://localhost:1313/mr-heater-ceramic-burner-tile-replacement/</guid>
+      <guid>https://heatertips.com/mr-heater-ceramic-burner-tile-replacement/</guid>
       <description>&lt;p&gt;During the chilly months, a reliable portable heater like Mr. Heater can be a true lifesaver, radiating warmth and making indoor spaces comfortable and cozy.&lt;/p&gt;
 &lt;p&gt;However, like all appliances, Mr. Heater units have components that may wear over time, and one such crucial component is the ceramic burner tile.&lt;/p&gt;
 &lt;p&gt;The burner tile is prone to cracking due to the constant heating and cooling cycles it undergoes.&lt;/p&gt;
@@ -175,9 +175,9 @@
     </item>
     <item>
       <title>Air Purifier Keeps Shutting Off (7 Reasons &amp; Fixes)</title>
-      <link>http://localhost:1313/fix-air-purifier-keeps-shutting-off/</link>
+      <link>https://heatertips.com/fix-air-purifier-keeps-shutting-off/</link>
       <pubDate>Mon, 25 Sep 2023 08:20:47 +0000</pubDate>
-      <guid>http://localhost:1313/fix-air-purifier-keeps-shutting-off/</guid>
+      <guid>https://heatertips.com/fix-air-purifier-keeps-shutting-off/</guid>
       <description>&lt;p&gt;Air purifiers are great for keeping the air in your living space fresh and clean. All the more annoying it is when your air purifier keeps shutting off on its own.&lt;/p&gt;
 &lt;p&gt;In this article, we’ll have a look at 7 common reasons and how to fix them.&lt;/p&gt;
 &lt;p&gt;Luckily, the troubleshooting is not difficult and for most fixes, you don’t need any electronics knowledge.&lt;/p&gt;
@@ -185,9 +185,9 @@
     </item>
     <item>
       <title>Dyson H2 Error Code: How to Fix It</title>
-      <link>http://localhost:1313/dyson-h2-error-code-fix/</link>
+      <link>https://heatertips.com/dyson-h2-error-code-fix/</link>
       <pubDate>Fri, 22 Sep 2023 09:38:17 +0000</pubDate>
-      <guid>http://localhost:1313/dyson-h2-error-code-fix/</guid>
+      <guid>https://heatertips.com/dyson-h2-error-code-fix/</guid>
       <description>&lt;p&gt;Encountering the H2 error code on your Dyson Hot+Cool fan can be a cause for concern, but don’t worry.&lt;/p&gt;
 &lt;p&gt;This code indicates an overheating issue, often fixable with some straightforward troubleshooting.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s delve into the most common cause of this error and the steps to fix it.&lt;/p&gt;
@@ -196,19 +196,19 @@
     </item>
     <item>
       <title>Electric Fireplace Not Working: Tried &amp; Tested Fixes</title>
-      <link>http://localhost:1313/electric-fireplace-not-working/</link>
+      <link>https://heatertips.com/electric-fireplace-not-working/</link>
       <pubDate>Tue, 19 Sep 2023 07:47:26 +0000</pubDate>
-      <guid>http://localhost:1313/electric-fireplace-not-working/</guid>
+      <guid>https://heatertips.com/electric-fireplace-not-working/</guid>
       <description>&lt;p&gt;Your electric fireplace is not working? In this article, we’ll try to get your heater working again.&lt;/p&gt;
-&lt;p&gt;Recently, I’ve been writing several in-depth articles on &lt;a href=&#34;http://localhost:1313/space-heater-not-blowing-hot-air/&#34;&gt;heater repairs&lt;/a&gt;. And the issues in electric heaters are always the same.&lt;/p&gt;
+&lt;p&gt;Recently, I’ve been writing several in-depth articles on &lt;a href=&#34;https://heatertips.com/space-heater-not-blowing-hot-air/&#34;&gt;heater repairs&lt;/a&gt;. And the issues in electric heaters are always the same.&lt;/p&gt;
 &lt;p&gt;Usually, it’s either a power supply issue, a thermostat issue, or a blown part in the electronics.&lt;/p&gt;
 &lt;p&gt;Electric fireplaces are a bit special. They are a lot bulkier than regular heaters. And they come with some additional features, such as the moving lights, which also can stop working.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Fix an Infrared Heater Not Working</title>
-      <link>http://localhost:1313/how-to-fix-an-infrared-heater-not-working/</link>
+      <link>https://heatertips.com/how-to-fix-an-infrared-heater-not-working/</link>
       <pubDate>Sun, 17 Sep 2023 07:11:43 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-an-infrared-heater-not-working/</guid>
+      <guid>https://heatertips.com/how-to-fix-an-infrared-heater-not-working/</guid>
       <description>&lt;p&gt;Your infrared heater suddenly stopped working and you have no idea how to troubleshoot it?&lt;/p&gt;
 &lt;p&gt;Then this article is for you!&lt;/p&gt;
 &lt;p&gt;Hi, my name is Daniel, I am an electrical engineer and I’ve worked in an electronics manufacturing plant before! So, I know electronics both theoretically and practically.&lt;/p&gt;
@@ -217,9 +217,9 @@
     </item>
     <item>
       <title>How to Fix Space Heater Smell (Plastic, Burning)</title>
-      <link>http://localhost:1313/how-to-fix-space-heater-smell/</link>
+      <link>https://heatertips.com/how-to-fix-space-heater-smell/</link>
       <pubDate>Tue, 15 Aug 2023 10:41:40 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-space-heater-smell/</guid>
+      <guid>https://heatertips.com/how-to-fix-space-heater-smell/</guid>
       <description>&lt;p&gt;After turning on a new space heater or a space heater that was long unused, it is very common to notice strange smells.&lt;/p&gt;
 &lt;p&gt;Some space heaters smell like something’s burning. Others give off plastic smells.&lt;/p&gt;
 &lt;p&gt;In this article, we’re going to check where your space heater smell comes from, whether it is dangerous, and, of course, how to eliminate the smell.&lt;/p&gt;
@@ -227,9 +227,9 @@
     </item>
     <item>
       <title>How to fix a Space Heater Cord getting Hot</title>
-      <link>http://localhost:1313/how-to-fix-a-space-heater-cord-getting-hot/</link>
+      <link>https://heatertips.com/how-to-fix-a-space-heater-cord-getting-hot/</link>
       <pubDate>Mon, 14 Aug 2023 13:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-space-heater-cord-getting-hot/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-space-heater-cord-getting-hot/</guid>
       <description>&lt;p&gt;Your space heater’s power cord is getting hot and you have no idea whether you should worry about it?&lt;/p&gt;
 &lt;p&gt;In this guide, we are going to check your space heater’s cord together.&lt;/p&gt;
 &lt;p&gt;My name is Daniel, I am an electrical engineer, and I have two space heaters at hand of which I am going to check cord temperatures.&lt;/p&gt;
@@ -237,9 +237,9 @@
     </item>
     <item>
       <title>Space Heater making Noise (6 Sound Samples &amp; Fixes)</title>
-      <link>http://localhost:1313/space-heater-making-noise-fixes/</link>
+      <link>https://heatertips.com/space-heater-making-noise-fixes/</link>
       <pubDate>Sun, 13 Aug 2023 10:05:09 +0000</pubDate>
-      <guid>http://localhost:1313/space-heater-making-noise-fixes/</guid>
+      <guid>https://heatertips.com/space-heater-making-noise-fixes/</guid>
       <description>&lt;p&gt;I’ve already talked quite a bunch about space heaters and other devices making noise on this website.&lt;/p&gt;
 &lt;p&gt;But I am not really satisfied. After all, I can describe all the sounds space heaters make, but you still can’t be sure whether the sound your space heater is making is safe or needs repair.&lt;/p&gt;
 &lt;p&gt;In this article, I want to take a different approach.&lt;/p&gt;
@@ -247,29 +247,29 @@
     </item>
     <item>
       <title>Dyson Fan not Cooling (5 Fixes)</title>
-      <link>http://localhost:1313/dyson-fan-not-cooling-fixes/</link>
+      <link>https://heatertips.com/dyson-fan-not-cooling-fixes/</link>
       <pubDate>Thu, 10 Aug 2023 09:46:34 +0000</pubDate>
-      <guid>http://localhost:1313/dyson-fan-not-cooling-fixes/</guid>
+      <guid>https://heatertips.com/dyson-fan-not-cooling-fixes/</guid>
       <description>&lt;p&gt;A Dyson fan not cooling (anymore) can be very frustrating. After all, Dyson fans are not cheap.&lt;/p&gt;
 &lt;p&gt;In this article, we’re going to have a quick look at the 5 most common issues with a Dyson fan not cooling.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;A Dyson fan is usually not cooling because of blocked airways (air filter, air inlet holes). Also, check the set target temperature, and ensure your Dyson cooling fan does not run in backward airflow mode.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Fix a Coway Air Purifier not working (Repair Guide)</title>
-      <link>http://localhost:1313/how-to-fix-a-coway-air-purifier-not-working/</link>
+      <link>https://heatertips.com/how-to-fix-a-coway-air-purifier-not-working/</link>
       <pubDate>Wed, 09 Aug 2023 07:57:07 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-coway-air-purifier-not-working/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-coway-air-purifier-not-working/</guid>
       <description>&lt;p&gt;Experiencing problems with your Coway air purifier? Whether it&amp;rsquo;s an indicator light, fan issue, or connectivity problem, we&amp;rsquo;ve got you covered.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s your comprehensive guide to troubleshooting the most common issues with Coway air purifiers.&lt;/p&gt;
-&lt;p&gt;Coway air purifiers are &lt;a href=&#34;http://localhost:1313/are-coway-airmega-air-purifiers-worth-it/&#34;&gt;incredibly overpriced&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Coway air purifiers are &lt;a href=&#34;https://heatertips.com/are-coway-airmega-air-purifiers-worth-it/&#34;&gt;incredibly overpriced&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So, a Coway air purifier not working is annoying and can also cut a huge hole in your wallet.&lt;/p&gt;
 &lt;p&gt;You probably don’t want to spend another $200 - $500 (or even up to $1,000 depending on the model) for a new Coway air purifier.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why your Air Purifier is not Removing Odors (&#43; Fixes)</title>
-      <link>http://localhost:1313/air-purifier-not-removing-odors-fixes/</link>
+      <link>https://heatertips.com/air-purifier-not-removing-odors-fixes/</link>
       <pubDate>Sun, 06 Aug 2023 13:39:35 +0000</pubDate>
-      <guid>http://localhost:1313/air-purifier-not-removing-odors-fixes/</guid>
+      <guid>https://heatertips.com/air-purifier-not-removing-odors-fixes/</guid>
       <description>&lt;p&gt;Your air purifier does not remove odors and you don’t know why? In this article, we’re going to check all the possible reasons and how to fix them.&lt;/p&gt;
 &lt;p&gt;Having clean and fresh air is important for your well-being. And air purifiers are supposed to remove odors. Or are they?&lt;/p&gt;
 &lt;p&gt;( There will be a surprising answer to this question - not all air purifiers can remove odors )&lt;/p&gt;
@@ -277,10 +277,10 @@
     </item>
     <item>
       <title>How to fix an Air Purifier not Collecting Dust</title>
-      <link>http://localhost:1313/how-to-fix-an-air-purifier-not-collecting-dust/</link>
+      <link>https://heatertips.com/how-to-fix-an-air-purifier-not-collecting-dust/</link>
       <pubDate>Sat, 05 Aug 2023 12:38:36 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-an-air-purifier-not-collecting-dust/</guid>
-      <description>&lt;p&gt;Your air purifier is not collecting dust, even though you already run it for a &lt;a href=&#34;http://localhost:1313/can-you-run-air-purifier-all-day/&#34;&gt;long time&lt;/a&gt;?&lt;/p&gt;
+      <guid>https://heatertips.com/how-to-fix-an-air-purifier-not-collecting-dust/</guid>
+      <description>&lt;p&gt;Your air purifier is not collecting dust, even though you already run it for a &lt;a href=&#34;https://heatertips.com/can-you-run-air-purifier-all-day/&#34;&gt;long time&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;In this article, we’re going to check all the possible causes of this.&lt;/p&gt;
 &lt;p&gt;And before we take the deep dive: Not all air purifiers have to collect dust. Dust is, in the end, just the particles that are visible to the eye.&lt;/p&gt;
 &lt;p&gt;Air purifiers filter much smaller particles than that!&lt;/p&gt;
@@ -288,9 +288,9 @@
     </item>
     <item>
       <title>Air Purifier making Noise (8 Noises &#43; Fixes)</title>
-      <link>http://localhost:1313/air-purifier-making-noise-fixes/</link>
+      <link>https://heatertips.com/air-purifier-making-noise-fixes/</link>
       <pubDate>Fri, 04 Aug 2023 12:59:15 +0000</pubDate>
-      <guid>http://localhost:1313/air-purifier-making-noise-fixes/</guid>
+      <guid>https://heatertips.com/air-purifier-making-noise-fixes/</guid>
       <description>&lt;p&gt;Your air purifier is making some noise and you wonder whether that noise is normal or not?&lt;/p&gt;
 &lt;p&gt;Then, you’re in the right place!&lt;/p&gt;
 &lt;p&gt;In this article, we’re going to check the different noises air purifiers can produce and what you can do about them.&lt;/p&gt;
@@ -298,9 +298,9 @@
     </item>
     <item>
       <title>How to fix an Air Purifier not turning on</title>
-      <link>http://localhost:1313/how-to-fix-an-air-purifier-not-turning-on/</link>
+      <link>https://heatertips.com/how-to-fix-an-air-purifier-not-turning-on/</link>
       <pubDate>Mon, 31 Jul 2023 12:14:38 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-an-air-purifier-not-turning-on/</guid>
+      <guid>https://heatertips.com/how-to-fix-an-air-purifier-not-turning-on/</guid>
       <description>&lt;p&gt;Here’s my complete guide on how to troubleshoot and fix an air purifier not turning on.&lt;/p&gt;
 &lt;p&gt;Air purifiers are very simple devices. There’s not much that can break if it does not turn on.&lt;/p&gt;
 &lt;p&gt;So, they are relatively simple to repair.&lt;/p&gt;
@@ -309,9 +309,9 @@
     </item>
     <item>
       <title>How to fix Swamp Cooler Smell</title>
-      <link>http://localhost:1313/how-to-fix-swamp-cooler-smell/</link>
+      <link>https://heatertips.com/how-to-fix-swamp-cooler-smell/</link>
       <pubDate>Wed, 19 Jul 2023 18:07:31 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-swamp-cooler-smell/</guid>
+      <guid>https://heatertips.com/how-to-fix-swamp-cooler-smell/</guid>
       <description>&lt;p&gt;How to fix swamp cooler smell. Swamp coolers are the ultimate breeding ground for bacteria and bad odors.&lt;/p&gt;
 &lt;p&gt;All the dust that comes in from the outside collects on the air filters and the wet water pads.&lt;/p&gt;
 &lt;p&gt;After a few days in the summer heat, the smell is inevitable.&lt;/p&gt;
@@ -320,9 +320,9 @@
     </item>
     <item>
       <title>How to fix a Dyna-Glo Heater not lighting</title>
-      <link>http://localhost:1313/how-to-fix-a-dyna-glo-heater-not-lighting/</link>
+      <link>https://heatertips.com/how-to-fix-a-dyna-glo-heater-not-lighting/</link>
       <pubDate>Tue, 07 Feb 2023 13:28:08 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-dyna-glo-heater-not-lighting/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-dyna-glo-heater-not-lighting/</guid>
       <description>&lt;p&gt;Only a few parts can cause a Dyna-Glo heater not lighting. Typically, they are the parts that ignite and measure the pilot light.&lt;/p&gt;
 &lt;p&gt;Luckily, a Dyna-Glo heater not lighting is usually easy to fix.&lt;/p&gt;
 &lt;p&gt;Let’s look at all the possible problems and how you can fix them.&lt;/p&gt;
@@ -331,71 +331,71 @@
     </item>
     <item>
       <title>How to fix a Vornado Heater not working</title>
-      <link>http://localhost:1313/how-to-fix-a-vornado-heater-not-working/</link>
+      <link>https://heatertips.com/how-to-fix-a-vornado-heater-not-working/</link>
       <pubDate>Sun, 05 Feb 2023 10:14:43 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-vornado-heater-not-working/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-vornado-heater-not-working/</guid>
       <description>&lt;p&gt;Your Vornado Heater is not working and you don’t know why? In this article, we’re going to check everything you can do to fix it.&lt;/p&gt;
 &lt;p&gt;Unfortunately, the official Vornado website is not helpful at all. All you get is a “troubleshooting” document that tells you to turn the heater off and on. Not helpful at all.&lt;/p&gt;
 &lt;p&gt;Another tip you get in the document is to not use your heater with a Ground Fault Circuit Interrupter (GFCI) safety wall outlet… which is, in my opinion, pointless advice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix a Honeywell Space Heater not working</title>
-      <link>http://localhost:1313/how-to-fix-a-honeywell-space-heater-not-working/</link>
+      <link>https://heatertips.com/how-to-fix-a-honeywell-space-heater-not-working/</link>
       <pubDate>Wed, 01 Feb 2023 09:09:53 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-honeywell-space-heater-not-working/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-honeywell-space-heater-not-working/</guid>
       <description>&lt;p&gt;Your Honeywell space heater is not working? In this article, we’re troubleshooting and fixing your Honeywell space heater using just a few targeted questions.&lt;/p&gt;
 &lt;p&gt;This article covers all of the most-used Honeywell space heaters, including the Honeywell tower space heaters (Slim and HeatGenius) and the smaller Honeywell heaters (the 360-degree and UberHeat).&lt;/p&gt;
 &lt;p&gt;Don’t worry if you have a different Honeywell heater. Most Honeywell heaters work just the same internally. So, you can follow this guide regardless!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evaporative Cooler not turning on (7 Fixes)</title>
-      <link>http://localhost:1313/evaporative-cooler-not-turning-on/</link>
+      <link>https://heatertips.com/evaporative-cooler-not-turning-on/</link>
       <pubDate>Wed, 25 Jan 2023 12:06:19 +0000</pubDate>
-      <guid>http://localhost:1313/evaporative-cooler-not-turning-on/</guid>
+      <guid>https://heatertips.com/evaporative-cooler-not-turning-on/</guid>
       <description>&lt;p&gt;Your evaporative cooler is not turning on? In this article, you’re getting a complete list of things you should inspect before you declare your evaporative cooler dead.&lt;/p&gt;
 &lt;p&gt;We’re going to check the most common issues and their fixes. And along the way, you’re going to learn a bunch about the inner workings of your cooler.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;An evaporative cooler won’t turn on if it does not receive electric power. This could be due to a broken wall outlet, power cord, or blown fuse. But broken parts such as blown electronics, water damage, or an empty water tank can also stop your evaporative cooler from turning on.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swamp Cooler not Blowing Cold Air (8 Fixes)</title>
-      <link>http://localhost:1313/swamp-cooler-not-blowing-cold-air/</link>
+      <link>https://heatertips.com/swamp-cooler-not-blowing-cold-air/</link>
       <pubDate>Mon, 23 Jan 2023 11:43:20 +0000</pubDate>
-      <guid>http://localhost:1313/swamp-cooler-not-blowing-cold-air/</guid>
+      <guid>https://heatertips.com/swamp-cooler-not-blowing-cold-air/</guid>
       <description>&lt;p&gt;Your swamp cooler is not blowing cold air? In this article, I guide you through fixing your swamp cooler.&lt;/p&gt;
 &lt;p&gt;To do that, we’re going to check the different possible reasons why your swamp cooler is not blowing cold air. For each cause, I list a way to test for this cause and one or more methods to fix it.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;A swamp cooler is not blowing cold air when the fan does not blow air or when the water pads are not soaked. Possible causes include a broken fan, clogged air filters, a broken water pump, or clogged water lines. Usually, cleaning the clogged parts, replacing air filters, and checking the connection points of the water lines solves the issue.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swamp Cooler making Noise (7 Fixes)</title>
-      <link>http://localhost:1313/swamp-cooler-making-noise-fixes/</link>
+      <link>https://heatertips.com/swamp-cooler-making-noise-fixes/</link>
       <pubDate>Fri, 20 Jan 2023 12:20:42 +0000</pubDate>
-      <guid>http://localhost:1313/swamp-cooler-making-noise-fixes/</guid>
+      <guid>https://heatertips.com/swamp-cooler-making-noise-fixes/</guid>
       <description>&lt;p&gt;Your swamp cooler is making noise? In this article, we’re going to cover the most common noise types, including humming, screeching, buzzing, and more.&lt;/p&gt;
 &lt;p&gt;For each noise, you’re going to learn where it comes from and how you can fix it.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Swamp coolers often make humming, gurgling and crackling noises. These are expected. You can reduce these normal noises with anti-vibration pads. Screeching, buzzing, scratching and banging noises are signs of unlubricated parts, loose parts, or faulty electronics. You can fix these noises with silicone lubricant, by tightening the parts in place, or by replacing the noisy parts.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Window AC making Noise (9 Fixes)</title>
-      <link>http://localhost:1313/window-ac-making-noise-fixes/</link>
+      <link>https://heatertips.com/window-ac-making-noise-fixes/</link>
       <pubDate>Tue, 17 Jan 2023 10:46:58 +0000</pubDate>
-      <guid>http://localhost:1313/window-ac-making-noise-fixes/</guid>
+      <guid>https://heatertips.com/window-ac-making-noise-fixes/</guid>
       <description>&lt;p&gt;Your window AC is making noise? In this article, we’ll cover all the different noise types in window ACs. For each noise, we check whether it is dangerous, the cause for the noise, and, of course, how to fix it (if necessary).&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Window AC noises are usually&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;not dangerous.&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;But scratching, whistling or banging noises indicate larger failures in your window AC which you have to address. The most common cause for window AC noises is broken parts in the compressor or fan, such as broken bearings or broken brackets which allow the fan or compressor to jump around in your window AC.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Space Heater Smoking (4 Fixes)&amp;nbsp;</title>
-      <link>http://localhost:1313/space-heater-smoking-fixes/</link>
+      <link>https://heatertips.com/space-heater-smoking-fixes/</link>
       <pubDate>Sat, 31 Dec 2022 08:18:54 +0000</pubDate>
-      <guid>http://localhost:1313/space-heater-smoking-fixes/</guid>
+      <guid>https://heatertips.com/space-heater-smoking-fixes/</guid>
       <description>&lt;p&gt;Your space heater is smoking? Immediately unplug it from the wall outlet! Then, grab a tea (or whatever you like) and make yourself comfortable.&lt;/p&gt;
 &lt;p&gt;After reading this article, you will know &lt;em&gt;exactly&lt;/em&gt; what to do about your smoking space heater. We will check whether you should get a new one, and if not, how to fix the most likely causes of your space heater smoking.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Space heaters usually smoke from the heating elements, the internal power electronics, the power cord, or the case. Smoking heating elements usually indicate dust. Clean them with rubbing alcohol. If smoke comes out the inside, then check the electronics for blown parts and replace them. Similarly, check your power cord for issues and replace it if necessary.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wood Stove not getting hot (12 Fixes)</title>
-      <link>http://localhost:1313/wood-stove-not-getting-hot/</link>
+      <link>https://heatertips.com/wood-stove-not-getting-hot/</link>
       <pubDate>Sun, 25 Dec 2022 11:59:25 +0000</pubDate>
-      <guid>http://localhost:1313/wood-stove-not-getting-hot/</guid>
+      <guid>https://heatertips.com/wood-stove-not-getting-hot/</guid>
       <description>&lt;p&gt;Your wood stove is not getting hot? In this article, we’re going to check the most common reasons and ways to fix them.&lt;/p&gt;
 &lt;p&gt;After reading this article, you will know exactly how to get your wood stove as hot as you need it to be!&lt;/p&gt;
 &lt;p&gt;You will know exactly what to do and &lt;em&gt;why.&lt;/em&gt;&lt;/p&gt;
@@ -403,18 +403,18 @@
     </item>
     <item>
       <title>Propane Heater making Noise (7 Fixes)</title>
-      <link>http://localhost:1313/propane-heater-making-noise/</link>
+      <link>https://heatertips.com/propane-heater-making-noise/</link>
       <pubDate>Thu, 22 Dec 2022 12:56:10 +0000</pubDate>
-      <guid>http://localhost:1313/propane-heater-making-noise/</guid>
+      <guid>https://heatertips.com/propane-heater-making-noise/</guid>
       <description>&lt;p&gt;Your propane heater is making noises and you don’t know how to fix it, or if the noise is normal? In this article, we’re going to check all of the common propane heater noises!&lt;/p&gt;
 &lt;p&gt;After reading this article, you’ll know exactly where your heater’s noise comes from and whether you can do anything about it.&lt;/p&gt;
 &lt;p&gt;For each noise listed, you’ll find a way to test for and fix the respective noise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dyson Fan not Rotating (7 Fixes)</title>
-      <link>http://localhost:1313/dyson-fan-not-rotating/</link>
+      <link>https://heatertips.com/dyson-fan-not-rotating/</link>
       <pubDate>Tue, 20 Dec 2022 18:35:19 +0000</pubDate>
-      <guid>http://localhost:1313/dyson-fan-not-rotating/</guid>
+      <guid>https://heatertips.com/dyson-fan-not-rotating/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s frustrating to find out that your Dyson fan is no longer rotating. Obviously, how would you circulate the air in your room without this feature?&lt;/p&gt;
 &lt;p&gt;Your Dyson fan may have stopped oscillating for several reasons. And usually, the issue is relatively easy to fix.&lt;/p&gt;
 &lt;p&gt;Therefore, I will share with you the most common reasons why your Dyson fan isn&amp;rsquo;t oscillating, along with troubleshooting and fixing instructions.&lt;/p&gt;
@@ -422,27 +422,27 @@
     </item>
     <item>
       <title>Propane Heater keeps shutting off (7 Fixes)</title>
-      <link>http://localhost:1313/propane-heater-keeps-shutting-off/</link>
+      <link>https://heatertips.com/propane-heater-keeps-shutting-off/</link>
       <pubDate>Tue, 20 Dec 2022 10:11:53 +0000</pubDate>
-      <guid>http://localhost:1313/propane-heater-keeps-shutting-off/</guid>
+      <guid>https://heatertips.com/propane-heater-keeps-shutting-off/</guid>
       <description>&lt;p&gt;Your propane heater turns on but keeps shutting off? After reading this article, you will know what to do to fix your propane heater.&lt;/p&gt;
 &lt;p&gt;I’ve listed the most common causes for your propane heater not staying lit along with an explanation, and a way to test for and fix each cause.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Propane heaters usually keep shutting off and don’t stay lit because of a dirty pilot light or thermocouple. A thorough cleaning of your pilot light with rubbing alcohol and a Q-tip should fix it. Also, ensure your gas line has no kinks and you don’t move it while heating. If this doesn’t work, a triggered safety mechanism such as tip-over protection or overheat protection could be the cause.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix a Mr. Heater Buddy not lighting</title>
-      <link>http://localhost:1313/how-to-fix-a-mr-heater-buddy-not-lighting/</link>
+      <link>https://heatertips.com/how-to-fix-a-mr-heater-buddy-not-lighting/</link>
       <pubDate>Sun, 18 Dec 2022 14:40:06 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-mr-heater-buddy-not-lighting/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-mr-heater-buddy-not-lighting/</guid>
       <description>&lt;p&gt;Your Mr. Heater Buddy is not lighting? Fixing a Mr. Heater that does not turn on is usually simple.&lt;/p&gt;
 &lt;p&gt;In this article, you’re going to learn how to get your Mr. Heater running again.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;You can fix your Mr. Heater Buddy not lighting by cleaning the pilot light opening with a Q-tip and rubbing alcohol. Also, firmly smack your Mr. Heater 5-10 times. If gas comes out of the pilot light opening, but your heater does not spark, use a lighter to ignite the gas. Replace the igniter in the long run.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix a Dyson Heater not turning on</title>
-      <link>http://localhost:1313/how-to-fix-a-dyson-heater-not-turning-on/</link>
+      <link>https://heatertips.com/how-to-fix-a-dyson-heater-not-turning-on/</link>
       <pubDate>Wed, 14 Dec 2022 12:15:20 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-dyson-heater-not-turning-on/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-dyson-heater-not-turning-on/</guid>
       <description>&lt;p&gt;Your Dyson heater is not turning on? In this article, I am going to guide you through different possible causes. For each cause, you’re going to learn how to test and fix it!&lt;/p&gt;
 &lt;p&gt;When you are looking for a solution on Dyson’s official website, all you’re getting is this text&lt;/p&gt;
 &lt;blockquote&gt;
@@ -452,18 +452,18 @@
     </item>
     <item>
       <title>How to Fix a Dyson Heater not Blowing Hot Air</title>
-      <link>http://localhost:1313/how-to-fix-a-dyson-heater-not-blowing-hot-air/</link>
+      <link>https://heatertips.com/how-to-fix-a-dyson-heater-not-blowing-hot-air/</link>
       <pubDate>Tue, 13 Dec 2022 12:25:51 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-a-dyson-heater-not-blowing-hot-air/</guid>
+      <guid>https://heatertips.com/how-to-fix-a-dyson-heater-not-blowing-hot-air/</guid>
       <description>&lt;p&gt;Your Dyson heater is not blowing hot air? The usual cause for this is blocked airways, issues with the thermostat, or a broken part in the electronic circuitry.&lt;/p&gt;
 &lt;p&gt;In this article, you will find each of the most common causes as well as instructions on how to inspect and test and fix the respective cause.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Your Dyson heater usually does not blow hot air if the airways are blocked with dust, dirt, and moisture. You can fix this by dry-brushing the internal parts using a toothbrush. Also, clean all of the air inlet holes in the case of the heater. Set your thermostat properly. And inspect the electronic circuitry if it still does not work.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix a Window Air Conditioner not Cooling</title>
-      <link>http://localhost:1313/how-to-fix-window-air-conditioner-not-cooling/</link>
+      <link>https://heatertips.com/how-to-fix-window-air-conditioner-not-cooling/</link>
       <pubDate>Mon, 05 Dec 2022 13:49:46 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-window-air-conditioner-not-cooling/</guid>
+      <guid>https://heatertips.com/how-to-fix-window-air-conditioner-not-cooling/</guid>
       <description>&lt;p&gt;Your window air conditioner is not cooling? In this article, I am listing all of the possible reasons!&lt;/p&gt;
 &lt;p&gt;I’ll tell you &lt;em&gt;exactly&lt;/em&gt; how to test each cause and how to fix it.&lt;/p&gt;
 &lt;p&gt;The list is sorted by issue frequency. So, the most common reasons are listed first.&lt;/p&gt;
@@ -471,52 +471,52 @@
     </item>
     <item>
       <title>Why is my Oil-filled Radiator not getting hot? (6 Fixes)</title>
-      <link>http://localhost:1313/oil-filled-radiator-not-getting-hot/</link>
+      <link>https://heatertips.com/oil-filled-radiator-not-getting-hot/</link>
       <pubDate>Sat, 03 Dec 2022 09:47:06 +0000</pubDate>
-      <guid>http://localhost:1313/oil-filled-radiator-not-getting-hot/</guid>
+      <guid>https://heatertips.com/oil-filled-radiator-not-getting-hot/</guid>
       <description>&lt;p&gt;Your oil-filled radiator doesn’t get hot? I&amp;rsquo;m going to share some of the potential causes of why your oil-filled radiator is not getting hot so that you can check and fix those problems and get your heater running again&lt;/p&gt;
 &lt;p&gt;Quick Answer: &lt;strong&gt;Oil-filled radiators stop heating because of a broken thermostat. Also, the thermostat can cut off the heating if the room is already warm. Furthermore, oil-filled radiators will not start and get hot if the power supply and extension cord are faulty.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to fix a Portable AC not turning on</title>
-      <link>http://localhost:1313/how-to-fix-portable-ac-not-turning-on/</link>
+      <link>https://heatertips.com/how-to-fix-portable-ac-not-turning-on/</link>
       <pubDate>Sat, 05 Nov 2022 11:04:33 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-portable-ac-not-turning-on/</guid>
+      <guid>https://heatertips.com/how-to-fix-portable-ac-not-turning-on/</guid>
       <description>&lt;p&gt;Your portable AC won’t turn on? Here’s how to fix it.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;To fix a portable AC not turning on, check fuses and circuit breakers. Ensure the wall outlet is powered. Check clogged air filters and the drain pan. Check for internal ice buildup and verify that compressor and ducts are sealed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Don’t worry! For each of those causes, I’ll tell you exactly how to check it and which steps to take to fix it. Let’s go one by one.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why does your Portable Air Conditioner Collect no Water?</title>
-      <link>http://localhost:1313/portable-air-conditioner-collects-no-water/</link>
+      <link>https://heatertips.com/portable-air-conditioner-collects-no-water/</link>
       <pubDate>Fri, 23 Sep 2022 14:24:27 +0000</pubDate>
-      <guid>http://localhost:1313/portable-air-conditioner-collects-no-water/</guid>
+      <guid>https://heatertips.com/portable-air-conditioner-collects-no-water/</guid>
       <description>&lt;p&gt;Why does your portable air conditioner collect no water? In this article, we’re checking 5 possible reasons and how to fix them!&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Your portable air conditioner collects no water because it is either broken or the water tank leaks. Low air humidity is also a potential cause. Another cause is that your portable AC is an evaporative cooler, which does not collect water.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Let’s have a look at each of those reasons.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Fix a Portable Air Conditioner not Cooling</title>
-      <link>http://localhost:1313/how-to-fix-portable-air-conditioner-not-cooling/</link>
+      <link>https://heatertips.com/how-to-fix-portable-air-conditioner-not-cooling/</link>
       <pubDate>Mon, 19 Sep 2022 08:32:37 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-fix-portable-air-conditioner-not-cooling/</guid>
+      <guid>https://heatertips.com/how-to-fix-portable-air-conditioner-not-cooling/</guid>
       <description>&lt;p&gt;How to fix a portable air conditioner not cooling? In this article, we’re checking the 6 most common causes, how to test your portable AC for them, and how to repair each of the causes.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;Place your portable AC in a room that suits its size. Insulate the hose and window kit using aluminum wrap and HVAC tape. Clean clogged air filters and the evaporator coil. Then, drain the water tank. Finally, make sure your portable air conditioner is set to cooling mode.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Space Heater not Blowing Hot Air (How to fix it)</title>
-      <link>http://localhost:1313/space-heater-not-blowing-hot-air/</link>
+      <link>https://heatertips.com/space-heater-not-blowing-hot-air/</link>
       <pubDate>Fri, 21 Jan 2022 10:46:26 +0000</pubDate>
-      <guid>http://localhost:1313/space-heater-not-blowing-hot-air/</guid>
+      <guid>https://heatertips.com/space-heater-not-blowing-hot-air/</guid>
       <description>&lt;p&gt;Your space heater is not blowing hot air and you don’t know how to fix it? In this article, we are going to go through potential causes. Don’t worry, it’s not going to be too technical.&lt;/p&gt;
 &lt;p&gt;And after reading this, you will know exactly how you can fix your issue.&lt;/p&gt;
 &lt;p&gt;Quick answer: &lt;strong&gt;When a space heater blows cold air or no air at all, it is usually due to a hardware failure. Some part of the electronic circuitry is likely broken. If your space heater does not blow air at all, it is likely that either the fan is broken or it does not receive enough power. Usually, fixing a space heater yourself is not worth it and dangerous. Instead, just buy a new one.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Space Heater keeps shutting off (5 reasons and how to fix it)</title>
-      <link>http://localhost:1313/space-heater-keeps-shutting-off/</link>
+      <link>https://heatertips.com/space-heater-keeps-shutting-off/</link>
       <pubDate>Sat, 20 Nov 2021 10:37:17 +0000</pubDate>
-      <guid>http://localhost:1313/space-heater-keeps-shutting-off/</guid>
+      <guid>https://heatertips.com/space-heater-keeps-shutting-off/</guid>
       <description>&lt;p&gt;When a space heater keeps shutting off, you often don’t know what to do. However, troubleshooting the issue is not too hard. You can find out the reason for the repeated shutoffs even if you are an electronics layman.&lt;/p&gt;
 &lt;p&gt;In this article, I am going to guide you through 5 different causes of your problem and I am going to present you a potential solution for every case. So, without wasting too much time, let’s get right into it and have a look.&lt;/p&gt;</description>
     </item>

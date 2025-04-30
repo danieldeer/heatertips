@@ -2,7 +2,7 @@
 <html lang="en" dir="auto">
 
 <head>
-	<meta name="generator" content="Hugo 0.146.7"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+	<meta name="generator" content="Hugo 0.146.7"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -10,18 +10,18 @@
 
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="Daniel Hirsch">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="https://heatertips.com/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/feed.xml">
-<link rel="alternate" type="application/json" href="http://localhost:1313/index.json">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/feed.xml">
+<link rel="alternate" type="application/json" href="https://heatertips.com/index.json">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/">
 <noscript>
     <style>
         #theme-toggle,
@@ -61,7 +61,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/">
+<meta property="og:url" content="https://heatertips.com/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource">
   <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—we’ve got you covered. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
@@ -77,9 +77,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HeaterTips",
-  "url": "http://localhost:1313/",
+  "url": "https://heatertips.com/",
   "description": "Home Heating and Cooling Guides and Reviews",
-  "logo": "http://localhost:1313/favicon.ico",
+  "logo": "https://heatertips.com/favicon.ico",
   "sameAs": [
       
   ]
@@ -89,7 +89,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -98,40 +102,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -196,7 +220,7 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/can-you-use-a-propane-heater-in-an-rv.webp" alt="can-you-use-a-propane-heater-in-an-rv">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-use-a-propane-heater-in-an-rv.webp" alt="can-you-use-a-propane-heater-in-an-rv">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can You Use a Propane Heater in an RV?
@@ -209,12 +233,12 @@ Quick answer: Yes, you can use a propane heater in an RV. However, the heater mu
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-08 09:33:26 +0000 +0000'>November 8, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can You Use a Propane Heater in an RV?" href="http://localhost:1313/can-you-use-a-propane-heater-in-an-rv/"></a>
+  <a class="entry-link" aria-label="post link to Can You Use a Propane Heater in an RV?" href="https://heatertips.com/can-you-use-a-propane-heater-in-an-rv/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-portable-air-conditioners-for-garages.webp" alt="best portable air conditioners for garages">
+        <img loading="lazy" src="https://heatertips.com/img/best-portable-air-conditioners-for-garages.webp" alt="best portable air conditioners for garages">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">3 Best Portable Air Conditioners for Garages
@@ -226,12 +250,12 @@ Quick answer: The best portable air conditioner for garages is the Whynter ARC-1
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-06 10:29:20 +0000 +0000'>November 6, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 3 Best Portable Air Conditioners for Garages" href="http://localhost:1313/best-portable-air-conditioners-for-garage/"></a>
+  <a class="entry-link" aria-label="post link to 3 Best Portable Air Conditioners for Garages" href="https://heatertips.com/best-portable-air-conditioners-for-garage/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-fix-portable-ac-not-turning-on.webp" alt="how to fix portable ac not turning on">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-fix-portable-ac-not-turning-on.webp" alt="how to fix portable ac not turning on">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Portable AC not turning on
@@ -244,12 +268,12 @@ Don’t worry! For each of those causes, I’ll tell you exactly how to check it
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-05 11:04:33 +0000 +0000'>November 5, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Portable AC not turning on" href="http://localhost:1313/how-to-fix-portable-ac-not-turning-on/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Portable AC not turning on" href="https://heatertips.com/how-to-fix-portable-ac-not-turning-on/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/most-powerful-portable-air-conditioners.webp" alt="most powerful portable air conditioners">
+        <img loading="lazy" src="https://heatertips.com/img/most-powerful-portable-air-conditioners.webp" alt="most powerful portable air conditioners">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">3 Most Powerful Portable Air Conditioners
@@ -262,12 +286,12 @@ Quick answer: The most powerful portable air conditioner is a 15,000 BTU AC by H
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-04 14:15:24 +0000 +0000'>November 4, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 3 Most Powerful Portable Air Conditioners" href="http://localhost:1313/most-powerful-portable-air-conditioners/"></a>
+  <a class="entry-link" aria-label="post link to 3 Most Powerful Portable Air Conditioners" href="https://heatertips.com/most-powerful-portable-air-conditioners/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/can-you-run-two-space-heaters-at-once.webp" alt="can you run two space heaters at once">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-run-two-space-heaters-at-once.webp" alt="can you run two space heaters at once">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you Run Two Space Heaters at once? (Experiment Confirmed)
@@ -280,12 +304,12 @@ Quick answer: On regular US 120V wall outlets you can run two space heaters at o
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-11-01 12:20:11 +0000 +0000'>November 1, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you Run Two Space Heaters at once? (Experiment Confirmed)" href="http://localhost:1313/can-you-run-two-space-heaters-at-once/"></a>
+  <a class="entry-link" aria-label="post link to Can you Run Two Space Heaters at once? (Experiment Confirmed)" href="https://heatertips.com/can-you-run-two-space-heaters-at-once/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/difference-between-window-ac-and-split-ac.webp" alt="difference between window ac and split ac">
+        <img loading="lazy" src="https://heatertips.com/img/difference-between-window-ac-and-split-ac.webp" alt="difference between window ac and split ac">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">What’s the Difference between a Window vs Split AC?
@@ -297,12 +321,12 @@ Quick answer: Window ACs are window-mounted, low-cost, but noisy. Split ACs are 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-31 11:34:13 +0000 +0000'>October 31, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to What’s the Difference between a Window vs Split AC?" href="http://localhost:1313/whats-the-difference-between-window-ac-and-split-ac/"></a>
+  <a class="entry-link" aria-label="post link to What’s the Difference between a Window vs Split AC?" href="https://heatertips.com/whats-the-difference-between-window-ac-and-split-ac/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-space-heaters-for-hot-yoga.webp" alt="best space heaters for hot yoga">
+        <img loading="lazy" src="https://heatertips.com/img/best-space-heaters-for-hot-yoga.webp" alt="best space heaters for hot yoga">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">3 Best Space Heaters for Hot Yoga
@@ -314,12 +338,12 @@ does not auto shut-off heats to the desired temperature Quick answer: The best s
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-30 13:19:54 +0000 +0000'>October 30, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 3 Best Space Heaters for Hot Yoga" href="http://localhost:1313/best-space-heaters-for-hot-yoga/"></a>
+  <a class="entry-link" aria-label="post link to 3 Best Space Heaters for Hot Yoga" href="https://heatertips.com/best-space-heaters-for-hot-yoga/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/does-radiant-floor-heating-add-value-to-your-home.webp" alt="does radiant floor heating add value to your home">
+        <img loading="lazy" src="https://heatertips.com/img/does-radiant-floor-heating-add-value-to-your-home.webp" alt="does radiant floor heating add value to your home">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Does Radiant Floor Heating Add Value to Your Home?
@@ -332,12 +356,12 @@ Radiant floor heating adds value to your home in the following ways:
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-29 08:34:17 +0000 +0000'>October 29, 2022</span>&nbsp;·&nbsp;14 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Does Radiant Floor Heating Add Value to Your Home?" href="http://localhost:1313/does-radiant-floor-heating-add-value-to-home/"></a>
+  <a class="entry-link" aria-label="post link to Does Radiant Floor Heating Add Value to Your Home?" href="https://heatertips.com/does-radiant-floor-heating-add-value-to-home/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/can-solar-panels-power-a-heat-pump.webp" alt="can solar panels power a heat pump">
+        <img loading="lazy" src="https://heatertips.com/img/can-solar-panels-power-a-heat-pump.webp" alt="can solar panels power a heat pump">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Solar Panels Power a Heat Pump?
@@ -349,12 +373,12 @@ Quick answer: Yes, you need 17 solar panels to run an average 3-ton heat pump. D
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-28 16:22:48 +0000 +0000'>October 28, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Solar Panels Power a Heat Pump?" href="http://localhost:1313/can-solar-panels-power-heat-pump/"></a>
+  <a class="entry-link" aria-label="post link to Can Solar Panels Power a Heat Pump?" href="https://heatertips.com/can-solar-panels-power-heat-pump/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
+        <img loading="lazy" src="https://heatertips.com/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Do Space Heaters Emit Carbon Monoxide?
@@ -367,19 +391,28 @@ In this article, we’re shedding light on what type of space heaters can emit c
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-10-27 10:26:29 +0000 +0000'>October 27, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Do Space Heaters Emit Carbon Monoxide?" href="http://localhost:1313/do-space-heaters-emit-carbon-monoxide/"></a>
+  <a class="entry-link" aria-label="post link to Do Space Heaters Emit Carbon Monoxide?" href="https://heatertips.com/do-space-heaters-emit-carbon-monoxide/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/page/16/">
+    <a class="prev" href="https://heatertips.com/page/16/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/page/18/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/page/18/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -426,6 +459,18 @@ In this article, we’re shedding light on what type of space heaters can emit c
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

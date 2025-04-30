@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -9,17 +9,17 @@
 <meta name="keywords" content="">
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/category/heater-guides/">
+<link rel="canonical" href="https://heatertips.com/category/heater-guides/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/category/heater-guides/feed.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/category/heater-guides/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/category/heater-guides/feed.xml">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/category/heater-guides/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +59,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/category/heater-guides/">
+<meta property="og:url" content="https://heatertips.com/category/heater-guides/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Heater-Guides">
   <meta property="og:description" content="Home Heating and Cooling Guides and Reviews">
@@ -73,7 +73,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -82,40 +86,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span class="active">🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -123,7 +147,7 @@
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header"><div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/category/">Category</a></div>
+<header class="page-header"><div class="breadcrumbs"><a href="https://heatertips.com/">Home</a>&nbsp;»&nbsp;<a href="https://heatertips.com/category/">Category</a></div>
   <h1>
     Heater-Guides
   </h1>
@@ -131,7 +155,7 @@
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-wood-stove-fans-worth-it.webp" alt="are-wood-stove-fans-worth-it">
+        <img loading="lazy" src="https://heatertips.com/img/are-wood-stove-fans-worth-it.webp" alt="are-wood-stove-fans-worth-it">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Wood Stove Fans worth it?
@@ -143,12 +167,12 @@ Quick answer: Wood stove fans are worth it, but only for smaller rooms. They wil
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-28 10:57:17 +0000 +0000'>January 28, 2022</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Wood Stove Fans worth it?" href="http://localhost:1313/are-wood-stove-fans-worth-it/"></a>
+  <a class="entry-link" aria-label="post link to Are Wood Stove Fans worth it?" href="https://heatertips.com/are-wood-stove-fans-worth-it/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-long-can-you-leave-a-space-heater-on.webp" alt="how-long-can-you-leave-a-space-heater-on">
+        <img loading="lazy" src="https://heatertips.com/img/how-long-can-you-leave-a-space-heater-on.webp" alt="how-long-can-you-leave-a-space-heater-on">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How long can you leave a Space Heater on?
@@ -160,12 +184,12 @@ Quick answer: All quality space heaters theoretically are safe to run 24h a day.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-25 12:11:20 +0000 +0000'>January 25, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How long can you leave a Space Heater on?" href="http://localhost:1313/how-long-can-you-leave-space-heater-on/"></a>
+  <a class="entry-link" aria-label="post link to How long can you leave a Space Heater on?" href="https://heatertips.com/how-long-can-you-leave-space-heater-on/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/can-you-put-space-heater-on-carpet.webp" alt="can-you-put-space-heater-on-carpet">
+        <img loading="lazy" src="https://heatertips.com/img/can-you-put-space-heater-on-carpet.webp" alt="can-you-put-space-heater-on-carpet">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you put a Space Heater on Carpet?
@@ -178,12 +202,12 @@ Many websites online suggest to never put a space heater on a carpet. A quick se
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-22 14:00:12 +0000 +0000'>January 22, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you put a Space Heater on Carpet?" href="http://localhost:1313/can-you-put-a-space-heater-on-carpet/"></a>
+  <a class="entry-link" aria-label="post link to Can you put a Space Heater on Carpet?" href="https://heatertips.com/can-you-put-a-space-heater-on-carpet/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/space-heater-not-blowing-hot-air.webp" alt="space-heater-not-blowing-hot-air">
+        <img loading="lazy" src="https://heatertips.com/img/space-heater-not-blowing-hot-air.webp" alt="space-heater-not-blowing-hot-air">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Space Heater not Blowing Hot Air (How to fix it)
@@ -196,12 +220,12 @@ Quick answer: When a space heater blows cold air or no air at all, it is usually
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-21 10:46:26 +0000 +0000'>January 21, 2022</span>&nbsp;·&nbsp;13 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Space Heater not Blowing Hot Air (How to fix it)" href="http://localhost:1313/space-heater-not-blowing-hot-air/"></a>
+  <a class="entry-link" aria-label="post link to Space Heater not Blowing Hot Air (How to fix it)" href="https://heatertips.com/space-heater-not-blowing-hot-air/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-noisy.webp" alt="dyson hot and cool heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Dyson heaters noisy? (A critical review)
@@ -213,12 +237,12 @@ Quick answer: Yes, Dyson heaters can get noisy. The Dyson Pure Hot &#43; Cool mo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-15 10:11:54 +0000 +0000'>January 15, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Dyson heaters noisy? (A critical review)" href="http://localhost:1313/are-dyson-heaters-noisy/"></a>
+  <a class="entry-link" aria-label="post link to Are Dyson heaters noisy? (A critical review)" href="https://heatertips.com/are-dyson-heaters-noisy/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Dyson Heaters safe? (A Critical Review)
@@ -231,12 +255,12 @@ In this article, we’re going to explore the answers to these questions. As an 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-09 11:45:51 +0000 +0000'>January 9, 2022</span>&nbsp;·&nbsp;9 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Dyson Heaters safe? (A Critical Review)" href="http://localhost:1313/are-dyson-heaters-safe/"></a>
+  <a class="entry-link" aria-label="post link to Are Dyson Heaters safe? (A Critical Review)" href="https://heatertips.com/are-dyson-heaters-safe/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-pelonis-heaters-energy-efficient.webp" alt="are-pelonis-heaters-energy-efficient">
+        <img loading="lazy" src="https://heatertips.com/img/are-pelonis-heaters-energy-efficient.webp" alt="are-pelonis-heaters-energy-efficient">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Pelonis Heaters energy efficient?
@@ -248,12 +272,12 @@ Quick answer: Yes, technically, Pelonis heaters are 100% energy efficient. The r
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-01-01 15:41:54 +0000 +0000'>January 1, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Pelonis Heaters energy efficient?" href="http://localhost:1313/are-pelonis-heaters-energy-efficient/"></a>
+  <a class="entry-link" aria-label="post link to Are Pelonis Heaters energy efficient?" href="https://heatertips.com/are-pelonis-heaters-energy-efficient/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-pelonis-heaters-safe.webp" alt="are-pelonis-heaters-safe">
+        <img loading="lazy" src="https://heatertips.com/img/are-pelonis-heaters-safe.webp" alt="are-pelonis-heaters-safe">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Pelonis heaters safe? (A critical review)
@@ -266,12 +290,12 @@ In this article, we find out whether Pelonis heaters are as safe as other brands
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2021-12-27 11:12:27 +0000 +0000'>December 27, 2021</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Pelonis heaters safe? (A critical review)" href="http://localhost:1313/are-pelonis-heaters-safe/"></a>
+  <a class="entry-link" aria-label="post link to Are Pelonis heaters safe? (A critical review)" href="https://heatertips.com/are-pelonis-heaters-safe/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/how-to-assemble-an-oil-heater-manual-002.webp" alt="how-to-assemble-an-oil-heater-manual-002">
+        <img loading="lazy" src="https://heatertips.com/img/how-to-assemble-an-oil-heater-manual-002.webp" alt="how-to-assemble-an-oil-heater-manual-002">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to assemble an Oil Heater (Picture manual)
@@ -284,12 +308,12 @@ Quick answer: Assembling an oil heater is simple. First, attach the wheels to th
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2021-12-14 15:10:40 +0000 +0000'>December 14, 2021</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to assemble an Oil Heater (Picture manual)" href="http://localhost:1313/how-to-assemble-an-oil-heater/"></a>
+  <a class="entry-link" aria-label="post link to How to assemble an Oil Heater (Picture manual)" href="https://heatertips.com/how-to-assemble-an-oil-heater/"></a>
 </article>
 
 <article class="post-entry tag-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-programmable-space-heater.webp" alt="best-programmable-space-heater">
+        <img loading="lazy" src="https://heatertips.com/img/best-programmable-space-heater.webp" alt="best-programmable-space-heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">3 Best Programmable Space Heaters
@@ -301,19 +325,28 @@ There’s one thing all 3 best programmable space heaters have in common: They a
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2021-12-09 17:03:55 +0000 +0000'>December 9, 2021</span>&nbsp;·&nbsp;11 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to 3 Best Programmable Space Heaters" href="http://localhost:1313/best-programmable-space-heater/"></a>
+  <a class="entry-link" aria-label="post link to 3 Best Programmable Space Heaters" href="https://heatertips.com/best-programmable-space-heater/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/category/heater-guides/page/11/">
+    <a class="prev" href="https://heatertips.com/category/heater-guides/page/11/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/category/heater-guides/page/13/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/category/heater-guides/page/13/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -360,6 +393,18 @@ There’s one thing all 3 best programmable space heaters have in common: They a
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

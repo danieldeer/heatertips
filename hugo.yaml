@@ -8,21 +8,21 @@ taxonomies:
 params:
   description: Home Heating and Cooling Guides and Reviews
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   showShareButtons: true
   showReadingTime: true
-  showToc: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
   env: production # For advanced SEO
   comments: true
-  hideFooter: true
+  hideFooter: false
   assets:
     favicon: /favicon.ico
     disableHLJS: true
   label:
-    icon: "/img/heatertips icon-min.png"
+    icon: "/img/heatertips icon-min.webp"
     iconHeight: 50
+    text: ""
   canonifyURLs: true
   showToc: true  # Useful for long articles
   tocOpen: true  # Keep it open by default
@@ -45,21 +45,21 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: '🛒 Recommended Products'
-      url: /recommended-products/
+    - name: About
+      url: /about/
       weight: 1
-    - name: 🔒 Safety
-      url: /category/safety/
-      weight: 2
     - name: 🔥 Heating
       url: /category/heater-guides/
       weight: 2
     - name: ❄️ Cooling & Air Purificationn
       url: /category/air-conditioning/
       weight: 3
+    - name: 🔒 Safety
+      url: /category/safety/
+      weight: 4
     - name: 🔧 Repair Guides
       url: /category/repair/
-      weight: 4
+      weight: 5
     - name: "\U0001F50D Search"
       url: /search/
-      weight: 5
+      weight: 6

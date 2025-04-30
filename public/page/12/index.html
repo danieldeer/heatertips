@@ -2,7 +2,7 @@
 <html lang="en" dir="auto">
 
 <head>
-	<meta name="generator" content="Hugo 0.146.7"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+	<meta name="generator" content="Hugo 0.146.7"><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -10,18 +10,18 @@
 
 <meta name="description" content="Home Heating and Cooling Guides and Reviews">
 <meta name="author" content="Daniel Hirsch">
-<link rel="canonical" href="http://localhost:1313/">
+<link rel="canonical" href="https://heatertips.com/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6330bae568fb8548cd5ae396c8d8ff700d4fc0f161c35971ab47e9c5bf9a2e17.css" integrity="sha256-YzC65Wj7hUjNWuOWyNj/cA1PwPFhw1lxq0fpxb&#43;aLhc=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://heatertips.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://heatertips.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://heatertips.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://heatertips.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://heatertips.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/feed.xml">
-<link rel="alternate" type="application/json" href="http://localhost:1313/index.json">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/">
+<link rel="alternate" type="application/rss+xml" href="https://heatertips.com/feed.xml">
+<link rel="alternate" type="application/json" href="https://heatertips.com/index.json">
+<link rel="alternate" hreflang="en" href="https://heatertips.com/">
 <noscript>
     <style>
         #theme-toggle,
@@ -61,7 +61,7 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
-<meta property="og:url" content="http://localhost:1313/">
+<meta property="og:url" content="https://heatertips.com/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource">
   <meta property="og:description" content="Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—we’ve got you covered. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
@@ -77,9 +77,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "HeaterTips",
-  "url": "http://localhost:1313/",
+  "url": "https://heatertips.com/",
   "description": "Home Heating and Cooling Guides and Reviews",
-  "logo": "http://localhost:1313/favicon.ico",
+  "logo": "https://heatertips.com/favicon.ico",
   "sameAs": [
       
   ]
@@ -89,7 +89,11 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -98,40 +102,60 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="http://localhost:1313/img/heatertips%20icon-min.png" alt="" aria-label="logo"
+            <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
+                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/recommended-products/" title="🛒 Recommended Products">
-                    <span>🛒 Recommended Products</span>
+                <a href="https://heatertips.com/about/" title="About">
+                    <span>About</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/category/heater-guides/" title="🔥 Heating">
+                <a href="https://heatertips.com/category/heater-guides/" title="🔥 Heating">
                     <span>🔥 Heating</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
+                <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/category/repair/" title="🔧 Repair Guides">
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/repair/" title="🔧 Repair Guides">
                     <span>🔧 Repair Guides</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="🔍 Search">
+                <a href="https://heatertips.com/search/" title="🔍 Search">
                     <span>🔍 Search</span>
                 </a>
             </li>
@@ -196,7 +220,7 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/infrared-heater-hand.webp" alt="infrared heater hand">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-hand.webp" alt="infrared heater hand">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Why is Infrared hotter than visible light?
@@ -209,12 +233,12 @@ Quick answer: Infrared radiation is not hotter than visible light. Most radiator
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-27 14:40:01 +0000 +0000'>December 27, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Why is Infrared hotter than visible light?" href="http://localhost:1313/why-is-infrared-hotter-than-visible-light/"></a>
+  <a class="entry-link" aria-label="post link to Why is Infrared hotter than visible light?" href="https://heatertips.com/why-is-infrared-hotter-than-visible-light/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/infrared-heater-cost.webp" alt="infrared heater cost">
+        <img loading="lazy" src="https://heatertips.com/img/infrared-heater-cost.webp" alt="infrared heater cost">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How much do Infrared Heaters cost to run?
@@ -227,12 +251,12 @@ We will also check whether a thermostat will really help reduce infrared heater 
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-27 09:17:57 +0000 +0000'>December 27, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How much do Infrared Heaters cost to run?" href="http://localhost:1313/how-much-do-infrared-heaters-cost-to-run/"></a>
+  <a class="entry-link" aria-label="post link to How much do Infrared Heaters cost to run?" href="https://heatertips.com/how-much-do-infrared-heaters-cost-to-run/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/wood-stove-fire.webp" alt="wood-stove-fire">
+        <img loading="lazy" src="https://heatertips.com/img/wood-stove-fire.webp" alt="wood-stove-fire">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Wood Stove not getting hot (12 Fixes)
@@ -246,12 +270,12 @@ Quick answer: A wood stove usually does not get hot because of an insufficient o
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-25 11:59:25 +0000 +0000'>December 25, 2022</span>&nbsp;·&nbsp;16 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Wood Stove not getting hot (12 Fixes)" href="http://localhost:1313/wood-stove-not-getting-hot/"></a>
+  <a class="entry-link" aria-label="post link to Wood Stove not getting hot (12 Fixes)" href="https://heatertips.com/wood-stove-not-getting-hot/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Propane Heater making Noise (7 Fixes)
@@ -264,12 +288,12 @@ For each noise listed, you’ll find a way to test for and fix the respective no
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-22 12:56:10 +0000 +0000'>December 22, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Propane Heater making Noise (7 Fixes)" href="http://localhost:1313/propane-heater-making-noise/"></a>
+  <a class="entry-link" aria-label="post link to Propane Heater making Noise (7 Fixes)" href="https://heatertips.com/propane-heater-making-noise/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
+        <img loading="lazy" src="https://heatertips.com/img/are-dyson-heaters-safe.webp" alt="dyson hot cool fans air purifier">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Dyson Fan not Rotating (7 Fixes)
@@ -283,12 +307,12 @@ Quick answer: Dyson heaters usually don’t rotate if there’s still tape on yo
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-20 18:35:19 +0000 +0000'>December 20, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="http://localhost:1313/dyson-fan-not-rotating/"></a>
+  <a class="entry-link" aria-label="post link to Dyson Fan not Rotating (7 Fixes)" href="https://heatertips.com/dyson-fan-not-rotating/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
+        <img loading="lazy" src="https://heatertips.com/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Propane Heater keeps shutting off (7 Fixes)
@@ -301,12 +325,12 @@ Quick answer: Propane heaters usually keep shutting off and don’t stay lit bec
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-20 10:11:53 +0000 +0000'>December 20, 2022</span>&nbsp;·&nbsp;10 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Propane Heater keeps shutting off (7 Fixes)" href="http://localhost:1313/propane-heater-keeps-shutting-off/"></a>
+  <a class="entry-link" aria-label="post link to Propane Heater keeps shutting off (7 Fixes)" href="https://heatertips.com/propane-heater-keeps-shutting-off/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
+        <img loading="lazy" src="https://heatertips.com/img/do-space-heaters-emit-carbon-monoxide.webp" alt="propane tank top heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can Ventless Heaters cause Carbon Monoxide Poisoning?
@@ -318,12 +342,12 @@ Quick answer: Yes, you can theoretically get carbon monoxide poisoning from a ve
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-19 11:09:07 +0000 +0000'>December 19, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can Ventless Heaters cause Carbon Monoxide Poisoning?" href="http://localhost:1313/can-ventless-heaters-cause-carbon-monoxide-poisoning/"></a>
+  <a class="entry-link" aria-label="post link to Can Ventless Heaters cause Carbon Monoxide Poisoning?" href="https://heatertips.com/can-ventless-heaters-cause-carbon-monoxide-poisoning/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
+        <img loading="lazy" src="https://heatertips.com/img/best-propane-heater-mr-heater.webp" alt="best propane heater mr heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">How to fix a Mr. Heater Buddy not lighting
@@ -336,12 +360,12 @@ Quick answer: You can fix your Mr. Heater Buddy not lighting by cleaning the pil
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-18 14:40:06 +0000 +0000'>December 18, 2022</span>&nbsp;·&nbsp;7 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to How to fix a Mr. Heater Buddy not lighting" href="http://localhost:1313/how-to-fix-a-mr-heater-buddy-not-lighting/"></a>
+  <a class="entry-link" aria-label="post link to How to fix a Mr. Heater Buddy not lighting" href="https://heatertips.com/how-to-fix-a-mr-heater-buddy-not-lighting/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
+        <img loading="lazy" src="https://heatertips.com/img/mr-heater-propane-heater-hand.webp" alt="mr heater propane heater hand">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Are Propane Heaters safe indoors?
@@ -354,12 +378,12 @@ After checking all of these “scary” aspects of propane heaters, you’re goi
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-17 10:32:06 +0000 +0000'>December 17, 2022</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Are Propane Heaters safe indoors?" href="http://localhost:1313/are-propane-heaters-safe-indoors/"></a>
+  <a class="entry-link" aria-label="post link to Are Propane Heaters safe indoors?" href="https://heatertips.com/are-propane-heaters-safe-indoors/"></a>
 </article>
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="http://localhost:1313/img/surge-protector-space-heater.webp" alt="surge protector space heater">
+        <img loading="lazy" src="https://heatertips.com/img/surge-protector-space-heater.webp" alt="surge protector space heater">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Can you use a Surge Protector with a Space Heater?
@@ -372,19 +396,28 @@ In this article, I’m going to tell you if you should use a surge protector wit
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2022-12-16 15:33:30 +0000 +0000'>December 16, 2022</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;Daniel Hirsch</footer>
-  <a class="entry-link" aria-label="post link to Can you use a Surge Protector with a Space Heater?" href="http://localhost:1313/can-you-use-a-surge-protector-with-a-space-heater/"></a>
+  <a class="entry-link" aria-label="post link to Can you use a Surge Protector with a Space Heater?" href="https://heatertips.com/can-you-use-a-surge-protector-with-a-space-heater/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="prev" href="http://localhost:1313/page/11/">
+    <a class="prev" href="https://heatertips.com/page/11/">
       «&nbsp;Prev&nbsp;
     </a>
-    <a class="next" href="http://localhost:1313/page/13/">Next&nbsp;&nbsp;»
+    <a class="next" href="https://heatertips.com/page/13/">Next&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
     </main>
     
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -431,6 +464,18 @@ In this article, I’m going to tell you if you should use a surge protector wit
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>
