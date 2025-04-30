@@ -45,21 +45,24 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: About
+    - name: Home
       url: /about/
       weight: 1
+    - name: About
+      url: /about/
+      weight: 2
     - name: 🔥 Heating
       url: /category/heater-guides/
-      weight: 2
-    - name: ❄️ Cooling & Air Purificationn
-      url: /category/air-conditioning/
       weight: 3
+    - name: ❄️ Air Conditioning
+      url: /category/air-conditioning/
+      weight: 4
     - name: 🔒 Safety
       url: /category/safety/
-      weight: 4
-    - name: 🔧 Repair Guides
-      url: /category/repair/
       weight: 5
+    - name: 🔧 Repair
+      url: /category/repair/
+      weight: 6
     - name: "\U0001F50D Search"
       url: /search/
-      weight: 6
+      weight: 7
