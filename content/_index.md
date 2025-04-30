@@ -6,12 +6,6 @@ title: 🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling R
 
 Welcome to your **#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips**! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - **I’ve got you covered**. Below you’ll find a couple of hand-picked guides to start with!
 
-On HeaterTips, you get **honest, cost-effective, and technically solid recommendations** on heating and cooling your home!
-
-Everything you read on this page is backed by my **own experiments** which I perform in my **home lab**, studies, and my own experience using heaters, air conditioners, and air purifiers.
-
-I don't care about product brands, marketing, design, and all of that stuff. I simply recommend what works.
-
 ---
 
 ## 🏆 Recommended Products

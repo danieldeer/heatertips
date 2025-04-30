@@ -46,7 +46,7 @@ outputFormats:
 menu:
   main:
     - name: Home
-      url: /about/
+      url: /
       weight: 1
     - name: About
       url: /about/
