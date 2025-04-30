@@ -23,7 +23,7 @@ Please note that we base this review on the [**Dyson Hot + Cool heaters** (click
 
 Dyson heaters are loud. It is hard to describe the loudness of a Dyson heater in text, so let’s have a look at two videos where the noise of Dyson heaters becomes apparent.
 
-{{< youtube R1dQDnzsDUk >}}&ab\_channel=wiseoldconsumer
+{{< youtube R1dQDnzsDUk >}}
 
 In this first video, you can hear how loud a Dyson Hot + Cool AM05 is. I found a comment under the video very interesting where one user writes
 
@@ -31,7 +31,7 @@ In this first video, you can hear how loud a Dyson Hot + Cool AM05 is. I found a
 
 Of course, the people wanting to buy a heater because it is noisy are the exception. So, let’s have a look at another video to deepen our impression of the Dyson heater noise.
 
-{{< youtube j-o8Kl7FuYI >}}&ab\_channel=Unsharpen
+{{< youtube j-o8Kl7FuYI >}}
 
 In this video, you can hear the noise level of a Dyson fan on different settings. The video starts with the Dyson fan turned on on the lowest airflow setting. Then with time, the guy in the video increases the airflow setting to the maximum. By the way: If you can’t hear anything, turn up the volume.
 

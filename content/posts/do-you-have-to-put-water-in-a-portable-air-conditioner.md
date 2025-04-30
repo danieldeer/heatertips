@@ -32,7 +32,7 @@ For your portable space heater maintenance, I recommend [AC cleaning brushes (cl
 
 Here’s a simple video you can follow:
 
-{{< youtube 2Vqz93uNYZY >}}&ab\_channel=AndrewW
+{{< youtube 2Vqz93uNYZY >}}
 
 But before you leave, keep reading! One puzzle piece is missing. Why did you think that you have to put water in a portable air conditioner? It might be because you fell victim to a marketing scam.
 

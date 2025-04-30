@@ -52,7 +52,7 @@ Speaking of silence, Dyson claims their fans are [70% quieter](https://www.lb.dy
 
 In truth, however, this is only a marketing claim with no solid foundation. Here’s a video that shows you that Dyson fans are loud:
 
-{{< youtube j-o8Kl7FuYI >}}&ab\_channel=Unsharpen
+{{< youtube j-o8Kl7FuYI >}}
 
 People even complain about Dyson fan noise. Here’s a quote:
 

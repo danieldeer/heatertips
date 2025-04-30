@@ -108,7 +108,7 @@ A wood stove fan only distributes the heat _a little_.
 
 In the video below, the channel “Stands Out” compares the cubic-feet-per-minute (CFM) ratings of different wood stove fans.
 
-{{< youtube 0ooodoTUk-o >}}&ab\_channel=StandsOut
+{{< youtube 0ooodoTUk-o >}}
 
 The result of the experiment is that most wood stove fans push 75 to 125 CFM of air. That’s not a lot. Later, we’ll see a better alternative to wood stove fans with a CFM rating of 4650!
 

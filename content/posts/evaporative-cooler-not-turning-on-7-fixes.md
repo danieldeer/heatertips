@@ -122,10 +122,6 @@ I recommend having a professional fix your wall outlet. But if you’re familiar
 
 You can buy replacement wall outlets in any hardware store, or, of course also online.
 
-Use this video to follow along:
-
-{{< youtube KhwClKlh\_G8 >}}&ab\_channel=ShaunBranigan
-
 Before you get to fix your wall outlet, you can run your evaporative cooler off another wall outlet!
 
 ### 3\. Tripped circuit breaker or blown fuse

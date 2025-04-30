@@ -237,7 +237,7 @@ Also, nested pot heaters are harder to set up.
 
 An engineered pot heater is a type of flowerpot heater that involves lots of technical design. Here’s an example:
 
-{{< youtube lfQ3e1is4F4 >}}&ab\_channel=desertsun02
+{{< youtube lfQ3e1is4F4 >}}
 
 Engineered pot heaters like this one look very promising. And they have a few advantages, such as directed heat flow, larger heat output due to a ventilation system, and improved safety.
 

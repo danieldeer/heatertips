@@ -207,7 +207,7 @@ Then you need to replace it by soldering. If you are familiar with soldering: Gr
 
 Else, I recommend this video for learning:
 
-{{< youtube VxMV6wGS3NY >}}&ab\_channel=GreatScott%21
+{{< youtube VxMV6wGS3NY >}}
 
 ## The trouble-free method to fix a broken heater
 

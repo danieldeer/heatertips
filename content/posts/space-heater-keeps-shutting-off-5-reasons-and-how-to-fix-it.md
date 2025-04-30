@@ -94,12 +94,6 @@ Simply plug your space heater in another wall outlet and check if it is running 
 
 You can hire an electrician to get the loose contact in your power supply fixed. This shouldn’t be too expensive. If you are someone who likes to fix stuff on his own, look up how to install wall outlets online and see if any of the contacts in your wall outlet are loose.
 
-I found this video very helpful:
-
-{{< youtube KhwClKlh\_G8 >}}&ab\_channel=ShaunBranigan
-
-How to replace an electrical outlet - You can use this video to check if your wall outlet is properly installed.
-
 ## Your space heater stands on an uneven or too soft surface
 
 Most space heaters have built-in tip-over protection. Tip-over protection is a security feature that automatically shuts off the heater when it tips over. A heater that tips over, for example, because of a pet or a child running against it, is a serious fire threat for your home.

@@ -148,7 +148,7 @@ Coway doesn’t publicize its filter test data. But if we believe their marketin
 
 Replacing filters on a Coway air purifier is easy:
 
-{{< youtube qwsjqNO7ETk >}}&ab\_channel=HouseFresh
+{{< youtube qwsjqNO7ETk >}}
 
 ### Wi-Fi Connectivity and App Issues
 

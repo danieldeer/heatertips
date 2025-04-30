@@ -86,7 +86,7 @@ To fix a faulty wall outlet, first, get a [replacement outlet](https://www.amazo
 
 Then, follow this video to replace the outlet:
 
-{{< youtube B16l7RurJuQ >}}&ab\_channel=TheRenderQ
+{{< youtube B16l7RurJuQ >}}
 
 If you are not comfortable replacing the outlet, you can hire a technician to do it for you. But honestly, it’s not too hard. And I’d say anyone who wants to do it can do it themselves.
 
@@ -120,9 +120,9 @@ Fixing a broken power cord is a bit annoying since power cord replacements requi
 
 I tried disassembling my [Levoit Core 300](/best-air-purifier/) and found out that simply removing the screws is not enough. For a Levoit air purifier, you additionally have to use a kitchen knife to disassemble the air purifier.
 
-See this video for instructions.
+Refer to this video for instructions:
 
-{{< youtube 6wxHpUVcGFc >}}&ab\_channel=ChristopherThomas
+{{< youtube 6wxHpUVcGFc >}}
 
 Of course, this is different for every model. So, if you have a different air purifier, try to unscrew all the screws you see. And if that doesn’t suffice, look up disassembly instructions for your specific model online.
 

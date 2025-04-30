@@ -5,7 +5,7 @@ category:
 cover:
   alt: dyson heater efficiency
   image: /img/dyson-heater-efficiency.webp
-date: "2020-01-14T20:13:09+00:00"
+date: "2025-04-30T19:30:09+00:00"
 guid: https://heatertips.com/?p=349
 tag:
   - efficiency
@@ -75,7 +75,7 @@ Here’s something another reviewer said:
 
 Dyson heaters are not as quiet as they advertise to be. But there’s a cool info video about the air multiplier technology. I liked it a lot.
 
-{{< youtube SKwL\_0G3dOg >}}&ab\_channel=Dyson
+{{< youtube Ha1z4juJbYc >}}
 
 As you can see in the video, Dyson’s favorite aspect of the air multiplier technology is that it has no blades. So, you can’t cut your fingers and it’s absolutely pet safe.
 
