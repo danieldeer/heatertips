@@ -156,11 +156,7 @@ The contents of our pages have been created with the utmost care. However, we ca
 
 <body class="" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -170,35 +166,20 @@ The contents of our pages have been created with the utmost care. However, we ca
     <nav class="nav">
         <div class="logo">
             <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
+                <img src="https://heatertips.com/img/heatertips%20icon-min.png" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://heatertips.com/about/" title="About">
-                    <span>About</span>
+                <a href="https://heatertips.com/recommended-products/" title="🛒 Recommended Products">
+                    <span>🛒 Recommended Products</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
                 </a>
             </li>
             <li>
@@ -209,11 +190,6 @@ The contents of our pages have been created with the utmost care. However, we ca
             <li>
                 <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
                 </a>
             </li>
             <li>
@@ -272,8 +248,8 @@ Kiefernweg 17<br>
 36110 Schlitz<br>
 Germany</p>
 <h2 id="contact-information">Contact Information<a hidden class="anchor" aria-hidden="true" href="#contact-information">#</a></h2>
-<p>E-Mail: <a href="mailto:daniel@heatertips.com">daniel@heatertips.com</a><br>
-Internet address: <a href="https://www.translate-24h.de/heatertips.com">heatertips.com</a></p>
+<p>E-Mail: <a href="mailto:daniel@mindinsiders.com">daniel@heatertips.com</a><br>
+Internet address: <a href="https://www.translate-24h.de/mindinsiders.com">heatertips.com</a></p>
 <h2 id="disclaimer">Disclaimer<a hidden class="anchor" aria-hidden="true" href="#disclaimer">#</a></h2>
 <h3 id="accountability-for-content">Accountability for content<a hidden class="anchor" aria-hidden="true" href="#accountability-for-content">#</a></h3>
 <p>The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents’ accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this matter, please note that we are not obliged to monitor the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per §§ 8 to 10 of the Telemedia Act (TMG).</p>
@@ -361,15 +337,6 @@ Internet address: <a href="https://www.translate-24h.de/heatertips.com">heatert
 </article>
     </main>
     
-<footer class="footer">
-        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
-
-    <span>
-        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
-        Created by
-        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
-    </span>
-</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -416,18 +383,6 @@ Internet address: <a href="https://www.translate-24h.de/heatertips.com">heatert
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 <script>

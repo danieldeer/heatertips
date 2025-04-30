@@ -88,11 +88,7 @@
 
 <body class="list" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -102,35 +98,20 @@
     <nav class="nav">
         <div class="logo">
             <a href="https://heatertips.com/" accesskey="h" title="HeaterTips (Alt + H)">
-                <img src="https://heatertips.com/img/heatertips%20icon-min.webp" alt="" aria-label="logo"
+                <img src="https://heatertips.com/img/heatertips%20icon-min.png" alt="" aria-label="logo"
                     height="50">HeaterTips</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="https://heatertips.com/about/" title="About">
-                    <span>About</span>
+                <a href="https://heatertips.com/recommended-products/" title="🛒 Recommended Products">
+                    <span>🛒 Recommended Products</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
+                    <span>🔒 Safety</span>
                 </a>
             </li>
             <li>
@@ -141,11 +122,6 @@
             <li>
                 <a href="https://heatertips.com/category/air-conditioning/" title="❄️ Cooling &amp; Air Purificationn">
                     <span>❄️ Cooling &amp; Air Purificationn</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://heatertips.com/category/safety/" title="🔒 Safety">
-                    <span>🔒 Safety</span>
                 </a>
             </li>
             <li>
@@ -170,19 +146,34 @@
 
 <article class="post-entry"> 
 <figure class="entry-cover">
-        <img loading="lazy" src="https://heatertips.com/img/heatertips-daniel-with-all-devices.webp" alt="heatertips-daniel-with-all-devices-small">
+        <img loading="lazy" src="https://heatertips.com/img/heatertips-daniel-with-all-devices-small.webp" alt="heatertips-daniel-with-all-devices-small">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Meet Daniel
     </h2>
   </header>
   <div class="entry-content">
-    <p>Hi, I am Daniel, an electrical engineer. For heatertips.com I research cost-effective heating and air conditioning methods, debunk myths, and explain what really works.
+    <p>I am Daniel, a 27-year-old electrical engineer (working as a Software Engineer in the space industry). I have a loving girlfriend and enjoy being out in nature, going on runs, cycling, or even climbing. Although, I do the latter way to rarely.
 I’ve been blogging about home heating and air conditioning on this website since 2019 now. There have been many emotional ups and downs. Sustaining a website in the age of AI is certainly a challenge. But since writing became a daily habit for me, I view heatertips as a passion project.
 ...</p>
   </div>
   <footer class="entry-footer"><span title='2023-12-10 14:46:36 +0000 +0000'>December 10, 2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Daniel Hirsch</footer>
   <a class="entry-link" aria-label="post link to Meet Daniel" href="https://heatertips.com/about/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Cost-Effective Heating and Cooling Methods
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>On HeaterTips, you get honest, cost-effective, and technically solid recommendations on heating and cooling your home!
+Hi, my name is Daniel. Everything you read on this page is backed by my own experiments which I perform in my home lab, studies, and my own experience using heaters, air conditioners, and air purifiers.
+I don’t care about product brands, marketing, design, and all of that stuff. I just recommend what works and what is reasonable for you.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-11-02 16:16:37 +0000 +0000'>November 2, 2022</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Daniel Hirsch</footer>
+  <a class="entry-link" aria-label="post link to Cost-Effective Heating and Cooling Methods" href="https://heatertips.com/cost-effective-heating-and-cooling-methods/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -256,6 +247,28 @@ Here’s the short version: The best infrared heater in terms of quality, price,
 </article>
 
 <article class="post-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="https://heatertips.com/img/recommended-products.webp" alt="recommended products">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Recommended Products
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I am writing honest cost-effective heating and cooling articles for this website for many years now.
+With time, I noticed a few products, which I always come back to and that I always recommend.
+And here they are:
+Recommended Products Electric space heaters:
+Best Infrared Heater Best Oil-filled Radiator Gas-based space heaters:
+Best Propane Heater Best Torpedo Heater Air Conditioners:
+Best Portable Air Conditioners These are the best heating and cooling products you can get. No fancy marketing, no ads. Just what really works.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2020-01-06 18:13:14 +0000 +0000'>January 6, 2020</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Daniel Hirsch</footer>
+  <a class="entry-link" aria-label="post link to Recommended Products" href="https://heatertips.com/recommended-products/"></a>
+</article>
+
+<article class="post-entry"> 
   <header class="entry-header">
     <h2 class="entry-hint-parent">Cookie Privacy Policy
     </h2>
@@ -307,15 +320,6 @@ We use your data to provide and improve the Service. By using the Service, you a
 </article>
     </main>
     
-<footer class="footer">
-        <span>&copy; 2025 <a href="https://heatertips.com/">HeaterTips</a></span> · 
-
-    <span>
-        <a href="/legal-details">Legal Details</a> · <a href="/privacy-policy/">Privacy Policy</a> · <a href="/cookie-privacy-policy">Cookie Privacy Policy</a> · 
-        Created by
-        <a href="https://hirschdaniel.com">Daniel Hirsch</a>
-    </span>
-</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
@@ -362,18 +366,6 @@ We use your data to provide and improve the Service. By using the Service, you a
             mybutton.style.opacity = "0";
         }
     };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
 
 </script>
 </body>
