@@ -4,13 +4,19 @@ title: 🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling R
 
 ---
 
-Welcome to your **#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips**! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs—**we’ve got you covered**. Below you’ll find hand-picked guides, in-depth comparisons, and DIY fixes that actually work.
+Welcome to your **#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips**! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - **I’ve got you covered**. Below you’ll find a couple of hand-picked guides to start with!
+
+On HeaterTips, you get **honest, cost-effective, and technically solid recommendations** on heating and cooling your home!
+
+Everything you read on this page is backed by my **own experiments** which I perform in my **home lab**, studies, and my own experience using heaters, air conditioners, and air purifiers.
+
+I don't care about product brands, marketing, design, and all of that stuff. I simply recommend what works.
 
 ---
 
 ## 🏆 Recommended Products
 
-**Struggling to choose the right appliance?** These expert recommendations help you get the best value for your money:
+**Struggling to choose the right appliance?** Here are my go-to product recommendations:
 
 - 🔥 [Best Oil-filled Radiators](/recommended-products/oil-filled-radiator/)
 - 🌞 [Best Infrared Heaters](/recommended-products/best-infrared-heater/)
@@ -20,13 +26,11 @@ Welcome to your **#1 resource for space heaters, air conditioners, purifiers, an
 - 🔇 [Quietest AC Units](/quietest-portable-air-conditioners/)
 - 🧼 [Top Air Purifiers for Small Rooms](/best-air-purifiers-for-small-rooms/)
 
-👉 [View all recommended products »](/category/heater-guides/)
-
 ---
 
 ## 💡 Save Energy & Money
 
-Cut your bills without cutting comfort:
+Stop wasting energy and start saving money. Here are a couple of useful methods to improve your heater's or your AC's efficiency:
 
 - 💸 [How Much Does a Space Heater Cost to Run?](/space-heater-electricity-cost-a-look-at-the-costs-of-21-different-models/)
 - 🔌 [Make Your Oil Heater More Efficient](/how-to-improve-oil-filled-radiator-efficiency/)
@@ -63,7 +67,7 @@ Your health and safety come first—**always**:
 
 ---
 
-## 🔍 Not Sure What You Need?
+## 🔍 Can't find What You Need?
 
 No problem. Try our powerful site search to find the perfect guide:
 
@@ -71,7 +75,7 @@ No problem. Try our powerful site search to find the perfect guide:
 
 ---
 
-## 📬 Stay Updated
+## 📬 Check our Latest Posts
 
-We’re constantly testing new devices and updating our guides. Bookmark this page and check back often to stay ahead of the seasons!
+I am constantly testing new devices and updating all guides. Here are my latest posts:
 
