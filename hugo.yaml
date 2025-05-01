@@ -18,6 +18,8 @@ params:
   hideFooter: false
   assets:
     favicon: /favicon.ico
+    favicon16x16: /heatertips-favicon-16x16.png
+    favicon32x32: /heatertips-favicon-32x32.png
     disableHLJS: true
   label:
     icon: "/img/heatertips icon-min.webp"
