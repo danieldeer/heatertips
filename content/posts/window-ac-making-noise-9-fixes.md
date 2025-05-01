@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: window AC at bottom of window
-  image: /img/window-AC-at-bottom-of-window.webp
+  image: img/window-AC-at-bottom-of-window.webp
 date: "2023-01-17T10:46:58+00:00"
 guid: https://heatertips.com/?p=1468
 title: Window AC making Noise (9 Fixes)

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how-to-assemble-an-oil-heater-manual-002
-  image: /img/how-to-assemble-an-oil-heater-manual-002.webp
+  image: img/how-to-assemble-an-oil-heater-manual-002.webp
 date: "2021-12-14T15:10:40+00:00"
 guid: https://heatertips.com/?p=511
 title: How to assemble an Oil Heater (Picture manual)

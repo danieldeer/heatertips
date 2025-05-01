@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater cost
-  image: /img/infrared-heater-cost.webp
+  image: img/infrared-heater-cost.webp
 date: "2022-12-27T09:17:57+00:00"
 guid: https://heatertips.com/?p=1417
 title: How much do Infrared Heaters cost to run?

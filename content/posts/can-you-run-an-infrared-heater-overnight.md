@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: infrared-heater-next-to-bed
-  image: /img/infrared-heater-next-to-bed.webp
+  image: img/infrared-heater-next-to-bed.webp
 date: "2022-12-11T08:34:50+00:00"
 guid: https://heatertips.com/?p=1272
 title: Can you run an Infrared Heater overnight?

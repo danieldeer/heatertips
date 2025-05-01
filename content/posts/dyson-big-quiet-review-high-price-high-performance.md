@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson big quiet air purifier standing in corner of room
-  image: /img/dyson-big-quiet-air-purifier-standing-in-corner-of-room.webp
+  image: img/dyson-big-quiet-air-purifier-standing-in-corner-of-room.webp
 date: "2023-09-03T08:12:57+00:00"
 guid: https://heatertips.com/?p=1873
 title: 'Dyson Big+Quiet Review: High Price, High Performance?'

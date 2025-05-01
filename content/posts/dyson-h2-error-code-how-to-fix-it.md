@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson h2 error code
-  image: /img/dyson-h2-error-code.webp
+  image: img/dyson-h2-error-code.webp
 date: "2023-09-22T09:38:17+00:00"
 guid: https://heatertips.com/?p=2036
 title: 'Dyson H2 Error Code: How to Fix It'

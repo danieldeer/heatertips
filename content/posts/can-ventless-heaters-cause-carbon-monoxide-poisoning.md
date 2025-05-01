@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: propane tank top heater
-  image: /img/do-space-heaters-emit-carbon-monoxide.webp
+  image: img/do-space-heaters-emit-carbon-monoxide.webp
 date: "2022-12-19T11:09:07+00:00"
 guid: https://heatertips.com/?p=1384
 title: Can Ventless Heaters cause Carbon Monoxide Poisoning?

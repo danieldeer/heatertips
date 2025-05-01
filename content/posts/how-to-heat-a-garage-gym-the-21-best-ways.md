@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: garage gym heat
-  image: /img/garage-gym-heat.webp
+  image: img/garage-gym-heat.webp
 date: "2020-01-06T17:28:27+00:00"
 guid: https://heatertips.com/?p=271
 tag:

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space-heater-on-table-infrared-oil-filled-propane
-  image: /img/space-heater-on-table-infrared-oil-filled-propane.webp
+  image: img/space-heater-on-table-infrared-oil-filled-propane.webp
 date: "2022-12-28T09:36:39+00:00"
 guid: https://heatertips.com/?p=1429
 title: Can you put a Space Heater on a table?

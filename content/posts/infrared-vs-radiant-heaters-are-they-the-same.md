@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared or radiant heater
-  image: /img/infrared-or-radiant-heater.webp
+  image: img/infrared-or-radiant-heater.webp
 date: "2019-11-22T11:57:55+00:00"
 guid: https://heatertips.com/?p=35
 tag:

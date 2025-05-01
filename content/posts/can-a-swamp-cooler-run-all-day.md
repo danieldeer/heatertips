@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp cooler patio
-  image: /img/swamp-cooler-patio.webp
+  image: img/swamp-cooler-patio.webp
 date: "2023-07-16T15:30:38+00:00"
 guid: https://heatertips.com/?p=1564
 title: Can a Swamp Cooler run all day?

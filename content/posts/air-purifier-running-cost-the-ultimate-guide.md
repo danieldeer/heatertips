@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier running cost electricity bill
-  image: /img/air-purifier-running-cost-electricity-bill.webp
+  image: img/air-purifier-running-cost-electricity-bill.webp
 date: "2023-07-26T11:32:07+00:00"
 guid: https://heatertips.com/?p=1605
 title: 'Air Purifier Running Cost: The Ultimate Guide'

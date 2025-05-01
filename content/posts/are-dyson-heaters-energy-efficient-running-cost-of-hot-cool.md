@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyson heater efficiency
-  image: /img/dyson-heater-efficiency.webp
+  image: img/dyson-heater-efficiency.webp
 date: "2025-04-30T19:30:09+00:00"
 guid: https://heatertips.com/?p=349
 tag:

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to dispose of space heater
-  image: /img/how-to-dispose-of-space-heater.webp
+  image: img/how-to-dispose-of-space-heater.webp
 date: "2020-01-25T09:55:40+00:00"
 guid: https://heatertips.com/?p=381
 tag:

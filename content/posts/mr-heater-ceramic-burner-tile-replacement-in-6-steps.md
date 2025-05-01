@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: mr heater buddy ceramic burner tile
-  image: /img/mr-heater-buddy-ceramic-burner-tile.webp
+  image: img/mr-heater-buddy-ceramic-burner-tile.webp
 date: "2023-09-28T10:01:52+00:00"
 guid: https://heatertips.com/?p=2042
 title: Mr. Heater Ceramic Burner Tile Replacement (in 6 Steps)

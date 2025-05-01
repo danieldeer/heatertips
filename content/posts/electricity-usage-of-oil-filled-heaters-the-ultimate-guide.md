@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: oil heater electricity usage and power consumption
-  image: /img/oil-heater-electricity-usage-and-power-consumption.webp
+  image: img/oil-heater-electricity-usage-and-power-consumption.webp
 date: "2020-01-13T20:44:21+00:00"
 guid: https://heatertips.com/?p=345
 tag:

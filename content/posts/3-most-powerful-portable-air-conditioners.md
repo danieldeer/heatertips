@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: most powerful portable air conditioners
-  image: /img/most-powerful-portable-air-conditioners.webp
+  image: img/most-powerful-portable-air-conditioners.webp
 date: "2022-11-04T14:15:24+00:00"
 guid: https://heatertips.com/?p=920
 title: 3 Most Powerful Portable Air Conditioners

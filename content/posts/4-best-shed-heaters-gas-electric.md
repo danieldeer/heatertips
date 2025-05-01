@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane heater mr heater buddy and oil-filled radiator space heater in garage
-  image: /img/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.webp
+  image: img/propane-heater-mr-heater-buddy-and-oil-filled-radiator-space-heater-in-garage.webp
 date: "2023-09-15T07:59:43+00:00"
 guid: https://heatertips.com/?p=1949
 title: 4 Best Shed Heaters (Gas & Electric)

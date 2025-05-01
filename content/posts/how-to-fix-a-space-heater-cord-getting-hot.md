@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared space heater power cord temperature measurement
-  image: /img/infrared-space-heater-power-cord-temperature-measurement.webp
+  image: img/infrared-space-heater-power-cord-temperature-measurement.webp
 date: "2023-08-14T13:45:00+00:00"
 guid: https://heatertips.com/?p=1787
 title: How to fix a Space Heater Cord getting Hot

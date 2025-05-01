@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can you run space heater off solar panel
-  image: /img/can-you-run-space-heater-off-solar-panel.webp
+  image: img/can-you-run-space-heater-off-solar-panel.webp
 date: "2022-10-24T16:18:59+00:00"
 guid: https://heatertips.com/?p=796
 title: Can you run a Space Heater off a Solar Panel?

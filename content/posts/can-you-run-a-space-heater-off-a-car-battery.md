@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can you run a space heater off a car battery
-  image: /img/can-you-run-a-space-heater-off-a-car-battery.webp
+  image: img/can-you-run-a-space-heater-off-a-car-battery.webp
 date: "2019-11-29T10:48:30+00:00"
 guid: https://heatertips.com/?p=101
 tag:

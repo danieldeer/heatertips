@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: best propane heater mr heater
-  image: /img/best-propane-heater-mr-heater.webp
+  image: img/best-propane-heater-mr-heater.webp
 date: "2022-12-20T10:11:53+00:00"
 guid: https://heatertips.com/?p=1387
 title: Propane Heater keeps shutting off (7 Fixes)

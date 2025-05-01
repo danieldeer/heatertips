@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater big maxx ceiling mounted in workshop
-  image: /img/mr-heater-big-maxx-ceiling-mounted-in-workshop.webp
+  image: img/mr-heater-big-maxx-ceiling-mounted-in-workshop.webp
 date: "2023-11-06T14:01:43+00:00"
 guid: https://heatertips.com/?p=2112
 title: 5 Best Wood Workshop Heaters (Gas & Electric)

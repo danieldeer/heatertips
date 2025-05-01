@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-use-a-propane-heater-in-an-rv
-  image: /img/can-you-use-a-propane-heater-in-an-rv.webp
+  image: img/can-you-use-a-propane-heater-in-an-rv.webp
 date: "2022-11-08T09:33:26+00:00"
 guid: https://heatertips.com/?p=1029
 title: Can You Use a Propane Heater in an RV?

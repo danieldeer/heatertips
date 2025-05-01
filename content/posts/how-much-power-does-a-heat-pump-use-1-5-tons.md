@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how much power does a heat pump use
-  image: /img/how-much-power-does-a-heat-pump-use.webp
+  image: img/how-much-power-does-a-heat-pump-use.webp
 date: "2022-10-26T17:10:15+00:00"
 guid: https://heatertips.com/?p=807
 title: How Much Power Does a Heat Pump use? (1-5 Tons)

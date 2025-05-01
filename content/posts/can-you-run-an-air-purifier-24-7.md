@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier levoit core top panel view
-  image: /img/air-purifier-levoit-core-top-panel-view.webp
+  image: img/air-purifier-levoit-core-top-panel-view.webp
 date: "2023-07-27T11:31:30+00:00"
 guid: https://heatertips.com/?p=1609
 title: Can you run an Air Purifier 24/7?

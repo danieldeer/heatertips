@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier removing odors
-  image: /img/air-purifier-removing-odors.webp
+  image: img/air-purifier-removing-odors.webp
 date: "2023-08-06T13:39:35+00:00"
 guid: https://heatertips.com/?p=1679
 title: Why your Air Purifier is not Removing Odors (+ Fixes)

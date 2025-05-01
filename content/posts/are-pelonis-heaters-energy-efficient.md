@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: are-pelonis-heaters-energy-efficient
-  image: /img/are-pelonis-heaters-energy-efficient.webp
+  image: img/are-pelonis-heaters-energy-efficient.webp
 date: "2022-01-01T15:41:54+00:00"
 guid: https://heatertips.com/?p=530
 title: Are Pelonis Heaters energy efficient?

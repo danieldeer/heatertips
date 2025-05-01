@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater and hot water bottle
-  image: /img/space-heater-and-hot-water-bottle.webp
+  image: img/space-heater-and-hot-water-bottle.webp
 date: "2023-11-21T15:28:48+00:00"
 guid: https://heatertips.com/?p=2200
 title: Space Heater or Hot Water Bottle? (9 Differences)

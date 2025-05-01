@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-run-two-portable-air-conditioners-simultaneously
-  image: /img/can-you-run-two-portable-air-conditioners-simultaneously.webp
+  image: img/can-you-run-two-portable-air-conditioners-simultaneously.webp
 date: "2022-11-28T17:22:19+00:00"
 guid: https://heatertips.com/?p=1173
 title: Can you run two Portable ACs at once?

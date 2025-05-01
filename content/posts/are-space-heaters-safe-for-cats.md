@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: are space heaters safe for cats
-  image: /img/are-space-heaters-safe-for-cats.webp
+  image: img/are-space-heaters-safe-for-cats.webp
 date: "2019-11-30T16:43:08+00:00"
 guid: https://heatertips.com/?p=108
 tag:

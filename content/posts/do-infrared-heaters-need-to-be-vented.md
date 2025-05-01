@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared-heater-in-front-of-window
-  image: /img/infrared-heater-in-front-of-window.webp
+  image: img/infrared-heater-in-front-of-window.webp
 date: "2022-12-12T10:52:07+00:00"
 guid: https://heatertips.com/?p=1287
 title: Do Infrared Heaters need to be vented?

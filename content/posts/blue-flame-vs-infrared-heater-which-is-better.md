@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater running closeup
-  image: /img/mr-heater-propane-heater-running-closeup.webp
+  image: img/mr-heater-propane-heater-running-closeup.webp
 date: "2023-01-10T12:01:32+00:00"
 guid: https://heatertips.com/?p=1464
 title: 'Blue Flame vs Infrared Heater: Which is better?'

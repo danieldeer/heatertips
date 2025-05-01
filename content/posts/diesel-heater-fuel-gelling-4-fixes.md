@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel fuel gelling
-  image: /img/diesel-fuel-gelling.webp
+  image: img/diesel-fuel-gelling.webp
 date: "2023-12-01T10:19:51+00:00"
 guid: https://heatertips.com/?p=2251
 title: 'Diesel Heater Fuel Gelling: 4 Fixes'

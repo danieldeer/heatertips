@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /img/propane-bottle-tank-valve.webp
+  image: img/propane-bottle-tank-valve.webp
 date: "2022-12-14T15:50:51+00:00"
 guid: https://heatertips.com/?p=1312
 title: How long does a Propane Tank last on a Patio Heater?

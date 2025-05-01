@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heater explosion
-  image: /img/space-heater-explosion.webp
+  image: img/space-heater-explosion.webp
 date: "2023-08-26T12:58:20+00:00"
 guid: https://heatertips.com/?p=1832
 title: Can Space Heaters explode?

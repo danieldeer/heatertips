@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyson hot cool replacement remote
-  image: /img/dyson-hot-cool-replacement-remote.webp
+  image: img/dyson-hot-cool-replacement-remote.webp
 date: "2023-08-17T13:49:30+00:00"
 guid: https://heatertips.com/?p=1796
 title: How to use a Dyson Hot + Cool without the Remote

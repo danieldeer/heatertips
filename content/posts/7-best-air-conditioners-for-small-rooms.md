@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: best air conditioners for small rooms
-  image: /img/best-air-conditioners-for-small-rooms.webp
+  image: img/best-air-conditioners-for-small-rooms.webp
 date: "2022-11-20T10:49:27+00:00"
 guid: https://heatertips.com/?p=1091
 title: 7 Best Air Conditioners for Small Rooms

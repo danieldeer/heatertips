@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can portable air conditioners run 24-7
-  image: /img/can-portable-air-conditioners-run-24-7.webp
+  image: img/can-portable-air-conditioners-run-24-7.webp
 date: "2022-09-29T15:16:30+00:00"
 guid: https://heatertips.com/?p=752
 title: Can Portable Air Conditioners Run 24/7?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel vs propane heater
-  image: /img/diesel-vs-propane-heater.webp
+  image: img/diesel-vs-propane-heater.webp
 date: "2023-11-29T06:51:17+00:00"
 guid: https://heatertips.com/?p=2232
 title: 'Diesel vs Propane Heater: Which To Pick? (5 Differences)'

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: air purifier levoit pets dogs
-  image: /img/air-purifier-levoit-pets-dogs.webp
+  image: img/air-purifier-levoit-pets-dogs.webp
 date: "2023-08-10T08:24:48+00:00"
 guid: https://heatertips.com/?p=1710
 title: Are Air Purifiers Safe for Pets? (Dogs, Cats, Birds, etc.)

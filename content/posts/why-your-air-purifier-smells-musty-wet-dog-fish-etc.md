@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier removing odors
-  image: /img/air-purifier-removing-odors.webp
+  image: img/air-purifier-removing-odors.webp
 date: "2023-08-07T10:43:51+00:00"
 guid: https://heatertips.com/?p=1684
 title: Why your Air Purifier Smells (Musty, Wet Dog, Fish, etc.)

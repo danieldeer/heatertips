@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air-purifier-repair
-  image: /img/air-purifier-repair.webp
+  image: img/air-purifier-repair.webp
 date: "2023-07-31T12:14:38+00:00"
 guid: https://heatertips.com/?p=1661
 title: How to fix an Air Purifier not turning on

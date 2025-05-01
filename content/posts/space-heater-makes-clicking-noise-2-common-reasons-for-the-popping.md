@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater makes clicking noise
-  image: /img/space-heater-makes-clicking-noise.webp
+  image: img/space-heater-makes-clicking-noise.webp
 date: "2019-12-20T11:24:15+00:00"
 guid: https://heatertips.com/?p=203
 tag:

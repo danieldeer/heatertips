@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: cheapest ways to cool room house
-  image: /img/cheapest-ways-to-cool-room-house.webp
+  image: img/cheapest-ways-to-cool-room-house.webp
 date: "2022-09-12T10:56:01+00:00"
 guid: https://heatertips.com/?p=712
 title: 20 Cheapest Ways to Cool a Room & House

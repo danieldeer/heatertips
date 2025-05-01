@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier levoit core thumbs up
-  image: /img/air-purifier-levoit-core-thumbs-up.webp
+  image: img/air-purifier-levoit-core-thumbs-up.webp
 date: "2023-07-25T20:40:06+00:00"
 guid: https://heatertips.com/?p=1597
 title: 'Best Air Purifier: My Top Pick'

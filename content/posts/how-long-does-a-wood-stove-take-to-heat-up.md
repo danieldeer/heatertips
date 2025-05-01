@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how-long-does-wood-stove-take-to-heat-up
-  image: /img/how-long-does-wood-stove-take-to-heat-up.webp
+  image: img/how-long-does-wood-stove-take-to-heat-up.webp
 date: "2021-11-23T14:23:15+00:00"
 guid: https://heatertips.com/?p=495
 title: How long does a Wood Stove take to heat up?

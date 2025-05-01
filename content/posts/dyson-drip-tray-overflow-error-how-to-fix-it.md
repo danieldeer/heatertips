@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson drip tray overflow error
-  image: /img/dyson-drip-tray-overflow-error.webp
+  image: img/dyson-drip-tray-overflow-error.webp
 date: "2023-11-12T14:51:31+00:00"
 guid: https://heatertips.com/?p=2148
 title: 'Dyson Drip Tray Overflow Error: How to Fix It'

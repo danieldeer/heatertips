@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: swamp-cooler-hessaire
-  image: /img/swamp-cooler-hessaire.webp
+  image: img/swamp-cooler-hessaire.webp
 date: "2023-01-20T12:20:42+00:00"
 guid: https://heatertips.com/?p=1479
 title: Swamp Cooler making Noise (7 Fixes)

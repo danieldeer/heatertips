@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: do-air-conditioners-wear-out
-  image: /img/do-air-conditioners-wear-out.webp
+  image: img/do-air-conditioners-wear-out.webp
 date: "2022-11-15T12:09:24+00:00"
 guid: https://heatertips.com/?p=1065
 title: Do Air Conditioners Wear Out? (High vs Low Maintenance)

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a room without electricity
-  image: /img/how-to-heat-a-room-without-electricity.webp
+  image: img/how-to-heat-a-room-without-electricity.webp
 date: "2022-10-22T17:29:16+00:00"
 guid: https://heatertips.com/?p=789
 title: 9 Ways to Heat a Room without Electricity

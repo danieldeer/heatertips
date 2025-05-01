@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: evaporative-swamp-cooler-hessaire-outdoors
-  image: /img/evaporative-swamp-cooler-hessaire-outdoors.webp
+  image: img/evaporative-swamp-cooler-hessaire-outdoors.webp
 date: "2023-07-19T18:07:31+00:00"
 guid: https://heatertips.com/?p=1571
 title: How to fix Swamp Cooler Smell

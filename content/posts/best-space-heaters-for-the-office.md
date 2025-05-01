@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: vornado space heater in the office
-  image: /img/vornado-space-heater-in-the-office.webp
+  image: img/vornado-space-heater-in-the-office.webp
 date: "2023-08-24T08:54:13+00:00"
 guid: https://heatertips.com/?p=1815
 title: Best Space Heaters for the Office

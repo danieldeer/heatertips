@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifiers levoit blueair coway
-  image: /img/air-purifiers-levoit-blueair-coway.webp
+  image: img/air-purifiers-levoit-blueair-coway.webp
 date: "2023-09-09T09:10:56+00:00"
 guid: https://heatertips.com/?p=1911
 title: 5 Best Air Purifiers for Small Rooms

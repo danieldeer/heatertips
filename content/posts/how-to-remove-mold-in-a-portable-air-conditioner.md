@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: remove mold portable air conditioner
-  image: /img/remove-mold-portable-air-conditioner.webp
+  image: img/remove-mold-portable-air-conditioner.webp
 date: "2022-09-09T10:29:14+00:00"
 guid: https://heatertips.com/?p=701
 title: How to Remove Mold in a Portable Air Conditioner

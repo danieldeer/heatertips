@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how do convection heaters work 2
-  image: /img/how-do-convection-heaters-work-2.webp
+  image: img/how-do-convection-heaters-work-2.webp
 date: "2020-01-21T07:21:19+00:00"
 guid: https://heatertips.com/?p=371
 tag:

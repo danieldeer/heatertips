@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how-much-does-an-oil-filled-radiator-weigh
-  image: /img/how-much-does-an-oil-filled-radiator-weigh.webp
+  image: img/how-much-does-an-oil-filled-radiator-weigh.webp
 date: "2021-12-01T16:05:15+00:00"
 guid: https://heatertips.com/?p=503
 title: How much does an Oil-filled Radiator weigh?

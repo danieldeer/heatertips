@@ -4,7 +4,7 @@ category:
   - repair
 cover:
   alt: diesel heater e08 error code
-  image: /img/diesel-heater-e08-error-code.webp
+  image: img/diesel-heater-e08-error-code.webp
 date: "2023-12-03T10:06:30+00:00"
 guid: https://heatertips.com/?p=2268
 title: 'Diesel Heater E08 Error Code: How to Fix It'

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best-programmable-space-heater
-  image: /img/best-programmable-space-heater.webp
+  image: img/best-programmable-space-heater.webp
 date: "2021-12-09T17:03:55+00:00"
 guid: https://heatertips.com/?p=507
 title: 3 Best Programmable Space Heaters

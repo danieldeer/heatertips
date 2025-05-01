@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: candle-burning
-  image: /img/candle-burning.webp
+  image: img/candle-burning.webp
 date: "2022-12-08T20:52:37+00:00"
 guid: https://heatertips.com/?p=1253
 title: Can Candles cause Carbon Monoxide Poisoning?

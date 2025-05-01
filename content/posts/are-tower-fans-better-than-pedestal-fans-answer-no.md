@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: tower fan vs pedestal fan
-  image: /img/tower-fan-vs-pedestal-fan.webp
+  image: img/tower-fan-vs-pedestal-fan.webp
 date: "2023-08-11T10:01:47+00:00"
 guid: https://heatertips.com/?p=1744
 title: 'Are Tower Fans better than Pedestal Fans? (Answer: NO)'

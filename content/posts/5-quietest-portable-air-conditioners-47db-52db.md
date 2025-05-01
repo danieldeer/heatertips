@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: quietest-portable-air-conditioners
-  image: /img/quietest-portable-air-conditioners.webp
+  image: img/quietest-portable-air-conditioners.webp
 date: "2022-11-22T14:07:22+00:00"
 guid: https://heatertips.com/?p=1103
 title: 5 Quietest Portable Air Conditioners (47dB - 52dB)

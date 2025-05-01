@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: nuwave oxypure air purifier
-  image: /img/nuwave-oxypure-air-purifier.webp
+  image: img/nuwave-oxypure-air-purifier.webp
 date: "2023-09-04T06:39:50+00:00"
 guid: https://heatertips.com/?p=1884
 title: 'Nuwave OxyPure Review: Exceptional Filtration, Poor Monitoring'

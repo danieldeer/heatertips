@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: how-to-prevent-portable-air-conditioner-hose-from-falling-out
-  image: /img/how-to-prevent-portable-air-conditioner-hose-from-falling-out-1.webp
+  image: img/how-to-prevent-portable-air-conditioner-hose-from-falling-out-1.webp
 date: "2022-02-25T11:46:38+00:00"
 guid: https://heatertips.com/?p=566
 title: How to keep a Portable Air Conditioner Hose from falling out

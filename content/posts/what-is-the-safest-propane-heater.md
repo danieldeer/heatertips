@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater buddy heater outdoors balcony
-  image: /img/mr-heater-buddy-heater-outdoors-balcony.webp
+  image: img/mr-heater-buddy-heater-outdoors-balcony.webp
 date: "2023-01-07T10:18:33+00:00"
 guid: https://heatertips.com/?p=1457
 title: What is the safest Propane Heater?

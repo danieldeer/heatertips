@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: electric fireplace disassembled open back side motor exposed-min
-  image: /img/electric-fireplace-disassembled-open-back-side-motor-exposed-min.webp
+  image: img/electric-fireplace-disassembled-open-back-side-motor-exposed-min.webp
 date: "2023-09-19T07:47:26+00:00"
 guid: https://heatertips.com/?p=1987
 title: 'Electric Fireplace Not Working: Tried & Tested Fixes'

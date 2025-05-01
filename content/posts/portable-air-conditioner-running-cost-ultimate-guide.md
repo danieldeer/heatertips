@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: portable air conditioner running cost
-  image: /img/portable-air-conditioner-running-cost-1.webp
+  image: img/portable-air-conditioner-running-cost-1.webp
 date: "2022-08-29T13:27:11+00:00"
 guid: https://heatertips.com/?p=676
 title: Portable Air Conditioner Running Cost (Ultimate Guide)

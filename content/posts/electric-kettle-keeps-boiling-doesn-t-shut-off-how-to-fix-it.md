@@ -4,7 +4,7 @@ category:
   - repair
 cover:
   alt: electric kettle fix switch bimetal thermostat
-  image: /img/electric-kettle-fix-switch-bimetal-thermostat.webp
+  image: img/electric-kettle-fix-switch-bimetal-thermostat.webp
 date: "2023-10-25T12:16:36+00:00"
 guid: https://heatertips.com/?p=2092
 title: 'Electric Kettle Keeps Boiling / Doesn’t Shut Off: How to Fix It'

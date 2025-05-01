@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson big quiet and pure cool air purifier
-  image: /img/dyson-big-quiet-and-pure-cool-air-purifier.webp
+  image: img/dyson-big-quiet-and-pure-cool-air-purifier.webp
 date: "2023-09-01T09:50:22+00:00"
 guid: https://heatertips.com/?p=1858
 title: Are Dyson Air Purifiers Worth the Money?

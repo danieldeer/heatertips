@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heater vs electric blanket
-  image: /img/space-heater-vs-electric-blanket.webp
+  image: img/space-heater-vs-electric-blanket.webp
 date: "2020-01-17T10:18:24+00:00"
 guid: https://heatertips.com/?p=356
 tag:

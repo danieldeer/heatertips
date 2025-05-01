@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-use-portable-air-conditioner-with-extension-cord
-  image: /img/can-you-use-portable-air-conditioner-with-extension-cord.webp
+  image: img/can-you-use-portable-air-conditioner-with-extension-cord.webp
 date: "2022-02-18T09:52:05+00:00"
 guid: https://heatertips.com/?p=562
 title: Can you use an Extension Cord with a Portable Air Conditioner?

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space heater smoking
-  image: /img/space-heater-smoking.webp
+  image: img/space-heater-smoking.webp
 date: "2022-12-31T08:18:54+00:00"
 guid: https://heatertips.com/?p=1448
 title: Space Heater Smoking (4 Fixes)&nbsp;

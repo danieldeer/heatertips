@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: window air conditioner
-  image: /img/window-air-conditioner.webp
+  image: img/window-air-conditioner.webp
 date: "2022-12-08T21:17:48+00:00"
 guid: https://heatertips.com/?p=1258
 title: How to make a Window AC more efficient (9 Methods)

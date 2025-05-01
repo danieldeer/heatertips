@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /img/swamp-cooler-hessaire.webp
+  image: img/swamp-cooler-hessaire.webp
 date: "2023-07-24T15:17:46+00:00"
 guid: https://heatertips.com/?p=1591
 title: 'Best Swamp Cooler: My Top Pick'

@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: single-hose-vs-dual-hose-portable-air-conditioner-better
-  image: /img/single-hose-vs-dual-hose-portable-air-conditioner-better.webp
+  image: img/single-hose-vs-dual-hose-portable-air-conditioner-better.webp
 date: "2022-11-21T14:35:58+00:00"
 guid: https://heatertips.com/?p=1098
 title: Is a Single-Hose or Dual-Hose AC Better?

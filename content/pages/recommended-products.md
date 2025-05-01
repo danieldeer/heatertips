@@ -2,7 +2,7 @@
 author: Daniel Hirsch
 cover:
   alt: recommended products
-  image: /img/recommended-products.webp
+  image: img/recommended-products.webp
 date: "2020-01-06T18:13:14+00:00"
 guid: https://heatertips.com/?page_id=284
 title: Recommended Products

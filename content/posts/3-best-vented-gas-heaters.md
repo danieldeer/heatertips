@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr-heater-big-maxx-vented-gas-heater-attached-to-wood
-  image: /img/mr-heater-big-maxx-vented-gas-heater-attached-to-wood.webp
+  image: img/mr-heater-big-maxx-vented-gas-heater-attached-to-wood.webp
 date: "2023-01-29T10:10:26+00:00"
 guid: https://heatertips.com/?p=1517
 title: 3 Best Vented Gas Heaters

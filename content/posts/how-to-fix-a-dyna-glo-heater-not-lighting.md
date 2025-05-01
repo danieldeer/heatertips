@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyna-glo natural gas propane heater ventless wall-mounted
-  image: /img/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.webp
+  image: img/dyna-glo-natural-gas-propane-heater-ventless-wall-mounted.webp
 date: "2023-02-07T13:28:08+00:00"
 guid: https://heatertips.com/?p=1539
 title: How to fix a Dyna-Glo Heater not lighting

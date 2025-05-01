@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: camper-van-in-winter
-  image: /img/camper-van-in-winter.webp
+  image: img/camper-van-in-winter.webp
 date: "2023-11-15T09:43:27+00:00"
 guid: https://heatertips.com/?p=2157
 title: How to Heat a Van in Winter

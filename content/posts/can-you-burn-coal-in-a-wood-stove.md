@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can-you-burn-coal-in-a-wood-stove
-  image: /img/can-you-burn-coal-in-a-wood-stove.webp
+  image: img/can-you-burn-coal-in-a-wood-stove.webp
 date: "2022-12-02T13:05:29+00:00"
 guid: https://heatertips.com/?p=1207
 title: Can you burn Coal in a Wood Stove?

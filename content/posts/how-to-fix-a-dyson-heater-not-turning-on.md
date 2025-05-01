@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /img/are-dyson-heaters-safe.webp
+  image: img/are-dyson-heaters-safe.webp
 date: "2022-12-14T12:15:20+00:00"
 guid: https://heatertips.com/?p=1307
 title: How to fix a Dyson Heater not turning on

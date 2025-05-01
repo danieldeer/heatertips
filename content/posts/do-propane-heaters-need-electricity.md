@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater running closeup
-  image: /img/mr-heater-propane-heater-running-closeup.webp
+  image: img/mr-heater-propane-heater-running-closeup.webp
 date: "2022-12-29T08:51:06+00:00"
 guid: https://heatertips.com/?p=1435
 title: Do Propane Heaters need electricity?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater buddy propane heater on car seat
-  image: /img/mr-heater-buddy-propane-heater-on-car-seat.webp
+  image: img/mr-heater-buddy-propane-heater-on-car-seat.webp
 date: "2023-11-19T09:19:20+00:00"
 guid: https://heatertips.com/?p=2162
 title: Best Car Camping Heaters for Winter

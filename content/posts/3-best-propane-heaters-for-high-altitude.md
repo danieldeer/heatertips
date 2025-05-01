@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best-propane-heaters-for-high-altitude
-  image: /img/best-propane-heaters-for-high-altitude.webp
+  image: img/best-propane-heaters-for-high-altitude.webp
 date: "2022-11-14T17:30:37+00:00"
 guid: https://heatertips.com/?p=1060
 title: 3 Best Propane Heaters for High Altitude

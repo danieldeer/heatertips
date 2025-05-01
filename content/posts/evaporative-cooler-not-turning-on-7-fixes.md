@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: evaporative-swamp-cooler-hessaire-outdoors
-  image: /img/evaporative-swamp-cooler-hessaire-outdoors.webp
+  image: img/evaporative-swamp-cooler-hessaire-outdoors.webp
 date: "2023-01-25T12:06:19+00:00"
 guid: https://heatertips.com/?p=1502
 title: Evaporative Cooler not turning on (7 Fixes)

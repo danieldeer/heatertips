@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: do air purifiers need water
-  image: /img/do-air-purifiers-need-water.webp
+  image: img/do-air-purifiers-need-water.webp
 date: "2023-09-05T11:57:30+00:00"
 guid: https://heatertips.com/?p=1893
 title: Do Air Purifiers Need Water?

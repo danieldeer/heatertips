@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: vornado floor fans different sizes
-  image: /img/vornado-floor-fans-different-sizes.webp
+  image: img/vornado-floor-fans-different-sizes.webp
 date: "2023-08-28T09:23:17+00:00"
 guid: https://heatertips.com/?p=1837
 title: Are Vornado Fans Worth It? (Vortex Power or Marketing Hoax?)

@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: use window air conditioner without window
-  image: /img/use-window-air-conditioner-without-window.webp
+  image: img/use-window-air-conditioner-without-window.webp
 date: "2022-09-19T11:04:41+00:00"
 guid: https://heatertips.com/?p=722
 title: Can You Use a Window Air Conditioner without a Window?

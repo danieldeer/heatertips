@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /img/swamp-cooler-hessaire.webp
+  image: img/swamp-cooler-hessaire.webp
 date: "2023-07-12T13:35:59+00:00"
 guid: https://heatertips.com/?p=1555
 title: 3 Best Swamp Coolers for Bedrooms

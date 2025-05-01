@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best space heaters under 50$
-  image: /img/best-space-heaters-under-50.webp
+  image: img/best-space-heaters-under-50.webp
 date: "2020-01-02T12:11:21+00:00"
 guid: https://heatertips.com/?p=233
 title: "Best Space Heaters Under $50: A Complete Guide to the Cheapest Ones \uFEFF"

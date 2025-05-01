@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: are dyson cooling fans worth it
-  image: /img/are-dyson-cooling-fans-worth-it.webp
+  image: img/are-dyson-cooling-fans-worth-it.webp
 date: "2022-09-29T14:54:36+00:00"
 guid: https://heatertips.com/?p=746
 title: Are Dyson Cooling Fans Worth It?

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot and cool heater
-  image: /img/are-dyson-heaters-noisy.webp
+  image: img/are-dyson-heaters-noisy.webp
 date: "2022-12-13T12:25:51+00:00"
 guid: https://heatertips.com/?p=1298
 title: How to Fix a Dyson Heater not Blowing Hot Air

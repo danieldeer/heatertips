@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: mr heater propane heater hand
-  image: /img/mr-heater-propane-heater-hand.webp
+  image: img/mr-heater-propane-heater-hand.webp
 date: "2022-12-22T12:56:10+00:00"
 guid: https://heatertips.com/?p=1394
 title: Propane Heater making Noise (7 Fixes)

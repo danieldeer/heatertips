@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /img/are-dyson-heaters-safe.webp
+  image: img/are-dyson-heaters-safe.webp
 date: "2022-12-20T18:35:19+00:00"
 guid: https://heatertips.com/?p=1390
 title: Dyson Fan not Rotating (7 Fixes)

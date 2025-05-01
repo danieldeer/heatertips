@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: what-is-the-safest-space-heater
-  image: /img/what-is-the-safest-space-heater.webp
+  image: img/what-is-the-safest-space-heater.webp
 date: "2022-02-07T12:35:20+00:00"
 guid: https://heatertips.com/?p=558
 title: What is the Safest Space Heater?

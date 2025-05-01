@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier coway airmega 400
-  image: /img/air-purifier-coway-airmega-400.webp
+  image: img/air-purifier-coway-airmega-400.webp
 date: "2023-08-09T07:57:07+00:00"
 guid: https://heatertips.com/?p=1695
 title: How to Fix a Coway Air Purifier not working (Repair Guide)

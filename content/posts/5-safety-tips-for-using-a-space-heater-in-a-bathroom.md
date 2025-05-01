@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: 5 safety tips for using a space heater in a bathroom
-  image: /img/5-safety-tips-for-using-a-space-heater-in-a-bathroom.webp
+  image: img/5-safety-tips-for-using-a-space-heater-in-a-bathroom.webp
 date: "2019-12-04T09:04:05+00:00"
 guid: https://heatertips.com/?p=141
 tag:

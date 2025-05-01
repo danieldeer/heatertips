@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: swamp-cooler-hessaire
-  image: /img/swamp-cooler-hessaire.webp
+  image: img/swamp-cooler-hessaire.webp
 date: "2023-01-23T11:43:20+00:00"
 guid: https://heatertips.com/?p=1492
 title: Swamp Cooler not Blowing Cold Air (8 Fixes)

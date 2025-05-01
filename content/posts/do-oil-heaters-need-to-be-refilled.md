@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: do-oil-heaters-need-to-be-refilled
-  image: /img/do-oil-heaters-need-to-be-refilled.webp
+  image: img/do-oil-heaters-need-to-be-refilled.webp
 date: "2021-11-27T09:39:19+00:00"
 guid: https://heatertips.com/?p=498
 title: Do Oil Heaters need to be refilled?

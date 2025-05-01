@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to keep heat in a room without a door
-  image: /img/how-to-keep-heat-in-a-room-without-a-door.webp
+  image: img/how-to-keep-heat-in-a-room-without-a-door.webp
 date: "2019-12-25T11:03:57+00:00"
 guid: https://heatertips.com/?p=211
 tag:

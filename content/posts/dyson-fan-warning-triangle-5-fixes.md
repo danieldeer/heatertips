@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson fan warning triangle sign error
-  image: /img/dyson-fan-warning-triangle-sign-error.webp
+  image: img/dyson-fan-warning-triangle-sign-error.webp
 date: "2023-10-17T12:14:19+00:00"
 guid: https://heatertips.com/?p=2076
 title: Dyson Fan Warning Triangle (5 Fixes)

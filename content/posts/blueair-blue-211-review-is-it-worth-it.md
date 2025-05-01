@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: blueair blue pure 211 angled view
-  image: /img/blueair-blue-pure-211-angled-view.webp
+  image: img/blueair-blue-pure-211-angled-view.webp
 date: "2023-09-10T08:55:41+00:00"
 guid: https://heatertips.com/?p=1919
 title: 'Blueair Blue 211+ Review: Is It Worth It?'

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can you run a space heater off a generator
-  image: /img/can-you-run-a-space-heater-off-a-generator.webp
+  image: img/can-you-run-a-space-heater-off-a-generator.webp
 date: "2019-11-25T08:20:44+00:00"
 guid: https://heatertips.com/?p=68
 tag:

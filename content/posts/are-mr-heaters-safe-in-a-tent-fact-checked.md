@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater propane heater tip over
-  image: /img/mr-heater-propane-heater-tip-over.webp
+  image: img/mr-heater-propane-heater-tip-over.webp
 date: "2023-01-05T09:56:45+00:00"
 guid: https://heatertips.com/?p=1455
 title: Are Mr. Heaters safe in a tent? (Fact checked)

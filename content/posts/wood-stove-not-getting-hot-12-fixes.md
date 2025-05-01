@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: wood-stove-fire
-  image: /img/wood-stove-fire.webp
+  image: img/wood-stove-fire.webp
 date: "2022-12-25T11:59:25+00:00"
 guid: https://heatertips.com/?p=1402
 title: Wood Stove not getting hot (12 Fixes)

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson error code f3
-  image: /img/dyson-error-code-f3.webp
+  image: img/dyson-error-code-f3.webp
 date: "2023-09-30T07:57:21+00:00"
 guid: https://heatertips.com/?p=2050
 title: 'Dyson F3 Error Code: How to Fix It'

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters that don't dry the air
-  image: /img/space-heaters-that-dont-dry-the-air.webp
+  image: img/space-heaters-that-dont-dry-the-air.webp
 date: "2019-12-18T08:37:06+00:00"
 guid: https://heatertips.com/?p=194
 tag:

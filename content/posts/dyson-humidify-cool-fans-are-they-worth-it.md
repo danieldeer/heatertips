@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: dyson humidify cool fan
-  image: /img/dyson-humidify-cool-fan.webp
+  image: img/dyson-humidify-cool-fan.webp
 date: "2023-11-09T10:00:35+00:00"
 guid: https://heatertips.com/?p=2119
 title: 'Dyson Humidify+Cool Fans: Are They Worth It?'

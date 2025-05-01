@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: best propane heater mr heater
-  image: /img/best-propane-heater-mr-heater.webp
+  image: img/best-propane-heater-mr-heater.webp
 date: "2022-12-18T14:40:06+00:00"
 guid: https://heatertips.com/?p=1379
 title: How to fix a Mr. Heater Buddy not lighting

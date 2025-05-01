@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson hot cool fans air purifier
-  image: /img/are-dyson-heaters-safe.webp
+  image: img/are-dyson-heaters-safe.webp
 date: "2023-08-10T09:46:34+00:00"
 guid: https://heatertips.com/?p=1715
 title: Dyson Fan not Cooling (5 Fixes)

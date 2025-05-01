@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: how-long-can-you-leave-a-space-heater-on
-  image: /img/how-long-can-you-leave-a-space-heater-on.webp
+  image: img/how-long-can-you-leave-a-space-heater-on.webp
 date: "2022-01-25T12:11:20+00:00"
 guid: https://heatertips.com/?p=547
 title: How long can you leave a Space Heater on?

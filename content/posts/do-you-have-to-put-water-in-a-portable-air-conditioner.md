@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: do-you-have-to-put-water-in-a-portable-air-conditioner
-  image: /img/do-you-have-to-put-water-in-a-portable-air-conditioner.webp
+  image: img/do-you-have-to-put-water-in-a-portable-air-conditioner.webp
 date: "2022-08-24T08:27:13+00:00"
 guid: https://heatertips.com/?p=616
 title: Do you have to put Water in a Portable Air Conditioner?

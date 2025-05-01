@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: infrared-heater-heating-element-temperature-measurement
-  image: /img/infrared-heater-heating-element-temperature-measurement.webp
+  image: img/infrared-heater-heating-element-temperature-measurement.webp
 date: "2022-12-15T11:43:43+00:00"
 guid: https://heatertips.com/?p=1319
 title: Are Infrared Heaters safe indoors?

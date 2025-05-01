@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: vornado space heater repair
-  image: /img/vornado-space-heater-repair.webp
+  image: img/vornado-space-heater-repair.webp
 date: "2023-02-05T10:14:43+00:00"
 guid: https://heatertips.com/?p=1534
 title: How to fix a Vornado Heater not working

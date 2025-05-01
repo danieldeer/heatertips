@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: infrared space heater heating settings
-  image: /img/infrared-space-heater-heating-settings.webp
+  image: img/infrared-space-heater-heating-settings.webp
 date: "2022-12-11T09:25:38+00:00"
 guid: https://heatertips.com/?p=1280
 title: How to make an Infrared Heater more efficient?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: touch-oil-filled-radiator-with-feet
-  image: /img/touch-oil-filled-radiator-with-feet.webp
+  image: img/touch-oil-filled-radiator-with-feet.webp
 date: "2023-01-27T11:10:00+00:00"
 guid: https://heatertips.com/?p=1510
 title: Best Space Heaters Not Hot to Touch

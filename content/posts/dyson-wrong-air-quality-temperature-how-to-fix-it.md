@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson air quality temperature sensor problem 999
-  image: /img/dyson-air-quality-temperature-sensor-problem-999.webp
+  image: img/dyson-air-quality-temperature-sensor-problem-999.webp
 date: "2023-10-19T11:24:57+00:00"
 guid: https://heatertips.com/?p=2079
 title: 'Dyson Wrong Air Quality / Temperature: How to Fix It'

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: e1 error code electric heater
-  image: /img/e1-error-code-electric-heater.webp
+  image: img/e1-error-code-electric-heater.webp
 date: "2023-10-09T10:12:08+00:00"
 guid: https://heatertips.com/?p=2059
 title: 'Electric Heater E1 Error: How to Fix It'

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: what size generator can run a heat pump
-  image: /img/what-size-generator-can-run-a-heat-pump.webp
+  image: img/what-size-generator-can-run-a-heat-pump.webp
 date: "2022-10-25T18:14:42+00:00"
 guid: https://heatertips.com/?p=800
 title: What Size Generator can run a Heat Pump?

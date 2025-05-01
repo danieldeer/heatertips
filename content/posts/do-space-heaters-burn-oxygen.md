@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heater burns oxygen don't burn oxygen
-  image: /img/space-heater-burns-oxygen-dont-burn-oxygen.webp
+  image: img/space-heater-burns-oxygen-dont-burn-oxygen.webp
 date: "2023-08-19T08:37:15+00:00"
 guid: https://heatertips.com/?p=1804
 title: Do Space Heaters Burn Oxygen?

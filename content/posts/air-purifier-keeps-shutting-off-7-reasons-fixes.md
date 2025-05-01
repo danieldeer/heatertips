@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air-purifier-repair
-  image: /img/air-purifier-repair.webp
+  image: img/air-purifier-repair.webp
 date: "2023-09-25T08:20:47+00:00"
 guid: https://heatertips.com/?p=2040
 title: Air Purifier Keeps Shutting Off (7 Reasons & Fixes)

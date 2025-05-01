@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson humidify deep clean cycle stuck problem
-  image: /img/dyson-humidify-deep-clean-cycle-stuck-problem.webp
+  image: img/dyson-humidify-deep-clean-cycle-stuck-problem.webp
 date: "2023-10-29T11:53:25+00:00"
 guid: https://heatertips.com/?p=2102
 title: 'Dyson Deep Clean Cycle Not Working: How To Fix It'

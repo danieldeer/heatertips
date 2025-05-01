@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier levoit core and filter
-  image: /img/air-purifier-levoit-core-and-filter.webp
+  image: img/air-purifier-levoit-core-and-filter.webp
 date: "2023-08-05T12:38:36+00:00"
 guid: https://heatertips.com/?p=1671
 title: How to fix an Air Purifier not Collecting Dust

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a room without a heater
-  image: /img/how-to-heat-a-room-without-a-heater.webp
+  image: img/how-to-heat-a-room-without-a-heater.webp
 date: "2022-10-19T13:44:58+00:00"
 guid: https://heatertips.com/?p=770
 title: How to Heat a Room Without a Heater

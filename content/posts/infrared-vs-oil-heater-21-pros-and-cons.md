@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared vs oil heater
-  image: /img/infrared-vs-oil-heater.webp
+  image: img/infrared-vs-oil-heater.webp
 date: "2020-01-04T13:06:37+00:00"
 guid: https://heatertips.com/?p=261
 tag:

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space heater making noise sound recording
-  image: /img/space-heater-making-noise-sound-recording.webp
+  image: img/space-heater-making-noise-sound-recording.webp
 date: "2023-08-13T10:05:09+00:00"
 guid: https://heatertips.com/?p=1771
 title: Space Heater making Noise (6 Sound Samples & Fixes)

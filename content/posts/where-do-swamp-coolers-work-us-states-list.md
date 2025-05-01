@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: swamp-cooler-hessaire
-  image: /img/swamp-cooler-hessaire.webp
+  image: img/swamp-cooler-hessaire.webp
 date: "2023-07-18T10:00:27+00:00"
 guid: https://heatertips.com/?p=1568
 title: Where do Swamp Coolers work? (US States List)

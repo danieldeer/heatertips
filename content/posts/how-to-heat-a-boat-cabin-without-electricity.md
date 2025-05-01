@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how-to-heat-a-boat-cabin
-  image: /img/how-to-heat-a-boat-cabin.webp
+  image: img/how-to-heat-a-boat-cabin.webp
 date: "2019-12-09T09:56:09+00:00"
 guid: https://heatertips.com/?p=161
 tag:

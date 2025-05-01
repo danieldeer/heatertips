@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: vornado MVH vortex heater with box
-  image: /img/vornado-MVH-vortex-heater-with-box.webp
+  image: img/vornado-MVH-vortex-heater-with-box.webp
 date: "2023-08-30T08:10:39+00:00"
 guid: https://heatertips.com/?p=1853
 title: Are Vornado Heaters energy efficient?

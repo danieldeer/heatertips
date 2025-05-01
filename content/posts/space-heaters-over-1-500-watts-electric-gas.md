@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyna-glo powerful 15000 watts electric space heater
-  image: /img/dyna-glo-powerful-15000-watts-electric-space-heater.webp
+  image: img/dyna-glo-powerful-15000-watts-electric-space-heater.webp
 date: "2023-12-11T09:25:20+00:00"
 guid: https://heatertips.com/?p=2326
 title: Space Heaters Over 1,500 Watts (Electric, Gas)

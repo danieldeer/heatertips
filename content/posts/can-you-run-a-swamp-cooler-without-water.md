@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: swamp cooler wet water pads
-  image: /img/swamp-cooler-wet-water-pads.webp
+  image: img/swamp-cooler-wet-water-pads.webp
 date: "2023-07-23T08:51:49+00:00"
 guid: https://heatertips.com/?p=1578
 title: Can you run a Swamp Cooler without water?

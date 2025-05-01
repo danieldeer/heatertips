@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: air purifier levoit core top panel view
-  image: /img/air-purifier-levoit-core-top-panel-view.webp
+  image: img/air-purifier-levoit-core-top-panel-view.webp
 date: "2023-08-04T12:59:15+00:00"
 guid: https://heatertips.com/?p=1668
 title: Air Purifier making Noise (8 Noises + Fixes)

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: What Space Heaters are safe for Birds
-  image: /img/What-Space-Heaters-are-safe-for-Birds.webp
+  image: img/What-Space-Heaters-are-safe-for-Birds.webp
 date: "2019-11-24T13:17:32+00:00"
 guid: https://heatertips.com/?p=59
 tag:

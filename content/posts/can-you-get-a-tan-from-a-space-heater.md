@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can you get a tan from a space heater
-  image: /img/can-you-get-a-tan-from-a-space-heater.webp
+  image: img/can-you-get-a-tan-from-a-space-heater.webp
 date: "2019-11-27T10:06:01+00:00"
 guid: https://heatertips.com/?p=85
 tag:

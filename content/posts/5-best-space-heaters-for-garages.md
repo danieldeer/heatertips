@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters in garage
-  image: /img/space-heaters-in-garage.webp
+  image: img/space-heaters-in-garage.webp
 date: "2023-09-12T09:58:00+00:00"
 guid: https://heatertips.com/?p=1927
 title: 5 Best Space Heaters for Garages

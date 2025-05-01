@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: window air conditioner
-  image: /img/window-air-conditioner.webp
+  image: img/window-air-conditioner.webp
 date: "2022-12-05T13:49:46+00:00"
 guid: https://heatertips.com/?p=1217
 title: How to fix a Window Air Conditioner not Cooling

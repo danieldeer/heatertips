@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: dyson hot and cool heater
-  image: /img/are-dyson-heaters-noisy.webp
+  image: img/are-dyson-heaters-noisy.webp
 date: "2022-12-14T10:29:33+00:00"
 guid: https://heatertips.com/?p=1303
 title: How long can you run a Dyson Heater?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: heating-a-wedding-tent-the-ultimate-guide
-  image: /img/heating-a-wedding-tent-the-ultimate-guide.webp
+  image: img/heating-a-wedding-tent-the-ultimate-guide.webp
 date: "2019-12-16T09:19:49+00:00"
 guid: https://heatertips.com/?p=188
 tag:

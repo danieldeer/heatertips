@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: 5-ways-to-heat-a-garage-without-insulation
-  image: /img/5-ways-to-heat-a-garage-without-insulation.webp
+  image: img/5-ways-to-heat-a-garage-without-insulation.webp
 date: "2019-12-06T10:33:02+00:00"
 guid: https://heatertips.com/?p=149
 tag:

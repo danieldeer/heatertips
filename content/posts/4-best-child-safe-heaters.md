@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: vornadobaby tempa child-safe lockable space heater
-  image: /img/vornadobaby-tempa-child-safe-lockable-space-heater.webp
+  image: img/vornadobaby-tempa-child-safe-lockable-space-heater.webp
 date: "2023-11-28T09:55:36+00:00"
 guid: https://heatertips.com/?p=2215
 title: 4 Best Child-Safe Heaters

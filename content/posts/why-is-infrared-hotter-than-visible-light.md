@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater hand
-  image: /img/infrared-heater-hand.webp
+  image: img/infrared-heater-hand.webp
 date: "2022-12-27T14:40:01+00:00"
 guid: https://heatertips.com/?p=1425
 title: Why is Infrared hotter than visible light?

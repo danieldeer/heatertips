@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: space heaters electricity cost money
-  image: /img/space-heaters-electricity-cost-money.webp
+  image: img/space-heaters-electricity-cost-money.webp
 date: "2022-10-18T16:00:51+00:00"
 guid: https://heatertips.com/?p=763
 title: Do Space Heaters Save Money?

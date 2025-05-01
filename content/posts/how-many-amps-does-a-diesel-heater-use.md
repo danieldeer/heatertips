@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: diesel heater amps volts multimeter measurement
-  image: /img/diesel-heater-amps-volts-multimeter-measurement.webp
+  image: img/diesel-heater-amps-volts-multimeter-measurement.webp
 date: "2023-12-09T15:10:30+00:00"
 guid: https://heatertips.com/?p=2277
 title: How many Amps does a Diesel Heater use?

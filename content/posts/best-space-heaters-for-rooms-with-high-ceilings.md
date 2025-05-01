@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared space heater for room with high ceiling
-  image: /img/infrared-space-heater-for-room-with-high-ceiling.webp
+  image: img/infrared-space-heater-for-room-with-high-ceiling.webp
 date: "2023-08-22T07:56:43+00:00"
 guid: https://heatertips.com/?p=1810
 title: Best Space Heaters for Rooms with High Ceilings

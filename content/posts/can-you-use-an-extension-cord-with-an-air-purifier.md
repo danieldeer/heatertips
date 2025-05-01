@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: air purifier extension cord
-  image: /img/air-purifier-extension-cord.webp
+  image: img/air-purifier-extension-cord.webp
 date: "2023-08-09T09:15:16+00:00"
 guid: https://heatertips.com/?p=1702
 title: Can you use an Extension Cord with an Air Purifier?

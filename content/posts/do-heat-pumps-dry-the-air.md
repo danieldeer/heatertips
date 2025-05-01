@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: do heat pumps dry the air
-  image: /img/do-heat-pumps-dry-the-air.webp
+  image: img/do-heat-pumps-dry-the-air.webp
 date: "2022-11-23T15:49:37+00:00"
 guid: https://heatertips.com/?p=1111
 title: Do Heat Pumps dry the air?

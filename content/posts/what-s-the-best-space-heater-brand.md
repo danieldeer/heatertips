@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters propane infrared oil-filled radiator
-  image: /img/space-heaters-propane-infrared-oil-filled-radiator.webp
+  image: img/space-heaters-propane-infrared-oil-filled-radiator.webp
 date: "2023-09-19T11:20:41+00:00"
 guid: https://heatertips.com/?p=1994
 title: What’s the Best Space Heater Brand?

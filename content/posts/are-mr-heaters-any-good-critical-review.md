@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater propane heater tip over
-  image: /img/mr-heater-propane-heater-tip-over.webp
+  image: img/mr-heater-propane-heater-tip-over.webp
 date: "2023-01-02T12:18:15+00:00"
 guid: https://heatertips.com/?p=1452
 title: Are Mr. Heaters any good? (Critical Review)

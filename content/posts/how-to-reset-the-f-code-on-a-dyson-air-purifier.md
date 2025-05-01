@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson air purifier F code
-  image: /img/dyson-air-purifier-F-code.webp
+  image: img/dyson-air-purifier-F-code.webp
 date: "2023-10-12T08:23:29+00:00"
 guid: https://heatertips.com/?p=2066
 title: How to Reset the “F” Code On a Dyson Air Purifier

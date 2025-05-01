@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier with humidifier
-  image: /img/air-purifier-with-humidifier.webp
+  image: img/air-purifier-with-humidifier.webp
 date: "2023-07-30T09:33:30+00:00"
 guid: https://heatertips.com/?p=1647
 title: Can you run an Air Purifier and a Humidifier at the same time?

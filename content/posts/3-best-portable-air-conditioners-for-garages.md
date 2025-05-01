@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: best portable air conditioners for garages
-  image: /img/best-portable-air-conditioners-for-garages.webp
+  image: img/best-portable-air-conditioners-for-garages.webp
 date: "2022-11-06T10:29:20+00:00"
 guid: https://heatertips.com/?p=1020
 title: 3 Best Portable Air Conditioners for Garages

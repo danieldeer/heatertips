@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how much does space heater cost to run
-  image: /img/how-much-does-space-heater-cost-to-run.webp
+  image: img/how-much-does-space-heater-cost-to-run.webp
 date: "2019-12-30T11:04:23+00:00"
 guid: https://heatertips.com/?p=218
 tag:

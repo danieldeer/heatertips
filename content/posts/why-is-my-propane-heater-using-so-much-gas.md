@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /img/propane-bottle-tank-valve.webp
+  image: img/propane-bottle-tank-valve.webp
 date: "2022-12-01T10:27:54+00:00"
 guid: https://heatertips.com/?p=1189
 title: Why is my Propane Heater using so much gas?

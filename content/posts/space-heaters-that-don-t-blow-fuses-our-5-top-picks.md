@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters that don't blow fuses
-  image: /img/space-heaters-that-dont-blow-fuses.webp
+  image: img/space-heaters-that-dont-blow-fuses.webp
 date: "2019-12-13T18:18:54+00:00"
 guid: https://heatertips.com/?p=171
 tag:

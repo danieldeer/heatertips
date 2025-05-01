@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: how-to-remove-smell-in-a-portable-ac
-  image: /img/how-to-remove-smell-in-a-portable-ac.webp
+  image: img/how-to-remove-smell-in-a-portable-ac.webp
 date: "2022-11-13T12:06:19+00:00"
 guid: https://heatertips.com/?p=1051
 title: How to Remove Smell in a Portable AC

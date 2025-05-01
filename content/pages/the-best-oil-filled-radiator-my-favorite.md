@@ -2,7 +2,7 @@
 author: Daniel Hirsch
 cover:
   alt: pelonis best oil-filled radiator
-  image: /img/pelonis-best-oil-filled-radiator-e1669547469729.webp
+  image: img/pelonis-best-oil-filled-radiator-e1669547469729.webp
 date: "2020-01-06T18:26:39+00:00"
 guid: https://heatertips.com/?page_id=298
 title: 'The Best Oil-Filled Radiator: My favorite!'

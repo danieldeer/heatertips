@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: gas-stove-and-propane-heater
-  image: /img/gas-stove-and-propane-heater.webp
+  image: img/gas-stove-and-propane-heater.webp
 date: "2022-12-29T11:05:41+00:00"
 guid: https://heatertips.com/?p=1439
 title: Can you use a Gas Stove as a Heater?

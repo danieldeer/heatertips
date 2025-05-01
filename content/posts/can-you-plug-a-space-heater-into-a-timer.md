@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: can you plug a space heater into a timer
-  image: /img/can-you-plug-a-space-heater-into-a-timer.webp
+  image: img/can-you-plug-a-space-heater-into-a-timer.webp
 date: "2019-11-27T20:42:41+00:00"
 guid: https://heatertips.com/?p=93
 tag:

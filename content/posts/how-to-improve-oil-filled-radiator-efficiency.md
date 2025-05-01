@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: how to improve oil-filled radiator efficiency
-  image: /img/how-to-improve-oil-filled-radiator-efficiency.webp
+  image: img/how-to-improve-oil-filled-radiator-efficiency.webp
 date: "2022-12-02T10:42:45+00:00"
 guid: https://heatertips.com/?p=1201
 title: How to Improve Oil-filled Radiator Efficiency

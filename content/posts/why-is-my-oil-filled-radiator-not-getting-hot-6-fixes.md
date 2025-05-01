@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: oil-filled radiator temperature measurement
-  image: /img/oil-filled-radiator-temperature-measurement.webp
+  image: img/oil-filled-radiator-temperature-measurement.webp
 date: "2022-12-03T09:47:06+00:00"
 guid: https://heatertips.com/?p=1210
 title: Why is my Oil-filled Radiator not getting hot? (6 Fixes)

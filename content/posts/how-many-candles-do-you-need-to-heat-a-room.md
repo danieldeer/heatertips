@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how many candles do you need to heat a room
-  image: /img/how-many-candles-do-you-need-to-heat-a-room.webp
+  image: img/how-many-candles-do-you-need-to-heat-a-room.webp
 date: "2020-01-19T07:32:54+00:00"
 guid: https://heatertips.com/?p=364
 tag:

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: electric vs diesel heaters for RVs
-  image: /img/electric-vs-diesel-heaters-for-RVs.webp
+  image: img/electric-vs-diesel-heaters-for-RVs.webp
 date: "2023-12-02T09:32:30+00:00"
 guid: https://heatertips.com/?p=2255
 title: 'Diesel vs Electric RV Heaters: Which to Pick?'

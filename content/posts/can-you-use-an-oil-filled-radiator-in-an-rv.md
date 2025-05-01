@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: rv camper mobile home
-  image: /img/rv-camper-mobile-home.webp
+  image: img/rv-camper-mobile-home.webp
 date: "2022-12-07T10:15:16+00:00"
 guid: https://heatertips.com/?p=1232
 title: Can you use an Oil-filled Radiator in an RV?

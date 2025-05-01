@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson-f4-error-code
-  image: /img/dyson-f4-error-code.webp
+  image: img/dyson-f4-error-code.webp
 date: "2023-11-26T13:39:49+00:00"
 guid: https://heatertips.com/?p=2212
 title: 'Dyson F4 Error Code: How To Fix It'

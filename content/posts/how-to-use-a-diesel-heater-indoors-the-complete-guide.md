@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel heater hot air exhaust
-  image: /img/diesel-heater-hot-air-exhaust.webp
+  image: img/diesel-heater-hot-air-exhaust.webp
 date: "2023-12-12T13:19:29+00:00"
 guid: https://heatertips.com/?p=2329
 title: 'How to Use a Diesel Heater Indoors: The Complete Guide'

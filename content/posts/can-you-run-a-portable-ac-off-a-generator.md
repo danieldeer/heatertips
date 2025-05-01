@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: can you run a portable air conditioner off a generator
-  image: /img/can-you-run-a-portable-air-conditioner-off-a-generator.webp
+  image: img/can-you-run-a-portable-air-conditioner-off-a-generator.webp
 date: "2022-09-16T14:47:52+00:00"
 guid: https://heatertips.com/?p=715
 title: Can you run a Portable AC off a Generator?

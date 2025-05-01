@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel heater e10 error code
-  image: /img/diesel-heater-e10-error-code.webp
+  image: img/diesel-heater-e10-error-code.webp
 date: "2023-11-30T21:02:30+00:00"
 guid: https://heatertips.com/?p=2243
 title: Diesel Heater E10 Error Code (3 Causes and Fixes)

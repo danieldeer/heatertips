@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: are-wood-stove-fans-worth-it
-  image: /img/are-wood-stove-fans-worth-it.webp
+  image: img/are-wood-stove-fans-worth-it.webp
 date: "2022-01-28T10:57:17+00:00"
 guid: https://heatertips.com/?p=550
 title: Are Wood Stove Fans worth it?

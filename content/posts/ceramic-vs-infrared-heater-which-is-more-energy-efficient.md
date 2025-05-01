@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater front view
-  image: /img/infrared-heater-front-view.webp
+  image: img/infrared-heater-front-view.webp
 date: "2023-08-12T10:00:12+00:00"
 guid: https://heatertips.com/?p=1757
 title: 'Ceramic vs Infrared Heater: Which is more energy efficient?'

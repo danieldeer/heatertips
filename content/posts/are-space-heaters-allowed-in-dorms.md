@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: are space heaters allowed in dorms
-  image: /img/are-space-heaters-allowed-in-dorms.webp
+  image: img/are-space-heaters-allowed-in-dorms.webp
 date: "2019-12-02T07:28:50+00:00"
 guid: https://heatertips.com/?p=119
 title: Are Space Heaters allowed in Dorms?

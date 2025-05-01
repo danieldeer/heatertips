@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: infrared heater front view
-  image: /img/infrared-heater-front-view.webp
+  image: img/infrared-heater-front-view.webp
 date: "2023-12-06T09:48:56+00:00"
 guid: https://heatertips.com/?p=2273
 title: 4 Best Fanless Heaters

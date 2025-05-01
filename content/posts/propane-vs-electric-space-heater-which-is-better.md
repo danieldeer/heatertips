@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane vs electric heater
-  image: /img/propane-vs-electric-heater.webp
+  image: img/propane-vs-electric-heater.webp
 date: "2022-12-16T12:12:58+00:00"
 guid: https://heatertips.com/?p=1331
 title: 'Propane vs Electric Space Heater: Which is better?'

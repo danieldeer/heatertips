@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: propane bottle tank valve
-  image: /img/propane-bottle-tank-valve.webp
+  image: img/propane-bottle-tank-valve.webp
 date: "2022-11-30T13:31:32+00:00"
 guid: https://heatertips.com/?p=1186
 title: How long does a 100lb propane tank last?

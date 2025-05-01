@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared heater fix repair
-  image: /img/infrared-heater-fix-repair.webp
+  image: img/infrared-heater-fix-repair.webp
 date: "2023-09-17T07:11:43+00:00"
 guid: https://heatertips.com/?p=1967
 title: How to Fix an Infrared Heater Not Working

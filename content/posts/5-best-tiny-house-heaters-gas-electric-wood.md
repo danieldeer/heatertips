@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: dyna-glo propane heater on wall
-  image: /img/dyna-glo-propane-heater-on-wall.webp
+  image: img/dyna-glo-propane-heater-on-wall.webp
 date: "2023-11-02T09:50:15+00:00"
 guid: https://heatertips.com/?p=2108
 title: 5 Best Tiny House Heaters (Gas, Electric, Wood)

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: honeywell space heater repair how to fix
-  image: /img/honeywell-space-heater-repair-how-to-fix.webp
+  image: img/honeywell-space-heater-repair-how-to-fix.webp
 date: "2023-02-01T09:09:53+00:00"
 guid: https://heatertips.com/?p=1525
 title: How to fix a Honeywell Space Heater not working

@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier window open
-  image: /img/air-purifier-window-open.webp
+  image: img/air-purifier-window-open.webp
 date: "2023-07-29T10:50:00+00:00"
 guid: https://heatertips.com/?p=1629
 title: Can you run an Air Purifier with a Window open?

@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: do portable air conditioners need regassing
-  image: /img/do-portable-air-conditioners-need-regassing.webp
+  image: img/do-portable-air-conditioners-need-regassing.webp
 date: "2022-08-22T06:45:00+00:00"
 guid: https://heatertips.com/?p=605
 title: Do Portable Air Conditioners need Regassing?

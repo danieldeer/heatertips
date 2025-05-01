@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters made in the usa
-  image: /img/space-heaters-made-in-the-usa.webp
+  image: img/space-heaters-made-in-the-usa.webp
 date: "2023-08-25T10:26:39+00:00"
 guid: https://heatertips.com/?p=1824
 title: Are any Space Heaters made in the USA?

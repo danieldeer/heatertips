@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: how to make a portable air conditioner more efficient
-  image: /img/how-to-make-a-portable-air-conditioner-more-efficient.webp
+  image: img/how-to-make-a-portable-air-conditioner-more-efficient.webp
 date: "2022-03-15T08:08:08+00:00"
 guid: https://heatertips.com/?p=581
 title: How to make a Portable Air Conditioner More Efficient?

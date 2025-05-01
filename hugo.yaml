@@ -25,6 +25,9 @@ params:
     icon: "/img/heatertips icon-min.webp"
     iconHeight: 50
     text: ""
+  cover:
+    responsiveImages: true
+    linkFullImages: false
   canonifyURLs: true
   showToc: true  # Useful for long articles
   tocOpen: true  # Keep it open by default

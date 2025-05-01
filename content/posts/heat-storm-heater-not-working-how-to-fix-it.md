@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: heat storm infrared heater
-  image: /img/heat-storm-infrared-heater.webp
+  image: img/heat-storm-infrared-heater.webp
 date: "2023-10-22T07:13:28+00:00"
 guid: https://heatertips.com/?p=2087
 title: 'Heat Storm Heater Not Working: How to Fix It'

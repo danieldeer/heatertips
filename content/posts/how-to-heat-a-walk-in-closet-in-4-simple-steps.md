@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to heat a walk in closet
-  image: /img/how-to-heat-a-walk-in-closet.webp
+  image: img/how-to-heat-a-walk-in-closet.webp
 date: "2020-01-23T07:30:33+00:00"
 guid: https://heatertips.com/?p=376
 title: How to Heat a Walk-in Closet (In 4 Simple Steps)

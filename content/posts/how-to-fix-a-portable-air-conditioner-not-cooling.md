@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: how to fix portable air conditioner not cooling
-  image: /img/how-to-fix-portable-air-conditioner-not-cooling.webp
+  image: img/how-to-fix-portable-air-conditioner-not-cooling.webp
 date: "2022-09-19T08:32:37+00:00"
 guid: https://heatertips.com/?p=719
 title: How to Fix a Portable Air Conditioner not Cooling

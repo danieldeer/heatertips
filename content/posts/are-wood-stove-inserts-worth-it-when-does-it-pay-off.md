@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: are-wood-stove-inserts-worth-it
-  image: /img/are-wood-stove-inserts-worth-it.webp
+  image: img/are-wood-stove-inserts-worth-it.webp
 date: "2021-11-15T15:15:59+00:00"
 guid: https://heatertips.com/?p=481
 title: Are wood stove inserts worth it? (When does it pay off?)

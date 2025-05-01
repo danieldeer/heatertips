@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: electric fireplace free standing
-  image: /img/electric-fireplace-free-standing.webp
+  image: img/electric-fireplace-free-standing.webp
 date: "2023-09-18T12:31:49+00:00"
 guid: https://heatertips.com/?p=1982
 title: Are Electric Fireplaces Energy Efficient?

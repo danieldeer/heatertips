@@ -4,7 +4,7 @@ category:
   - air-quality
 cover:
   alt: air purifier coway airmega 400
-  image: /img/air-purifier-coway-airmega-400.webp
+  image: img/air-purifier-coway-airmega-400.webp
 date: "2023-08-08T10:40:15+00:00"
 guid: https://heatertips.com/?p=1687
 title: Are Coway Airmega Air Purifiers worth it? (Critical Review)

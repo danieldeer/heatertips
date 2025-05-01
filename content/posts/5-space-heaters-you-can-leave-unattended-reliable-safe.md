@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: space heaters you can leave unattended safe and reliable
-  image: /img/space-heaters-you-can-leave-unattended-safe-and-reliable.webp
+  image: img/space-heaters-you-can-leave-unattended-safe-and-reliable.webp
 date: "2019-12-03T10:13:40+00:00"
 guid: https://heatertips.com/?p=124
 tag:

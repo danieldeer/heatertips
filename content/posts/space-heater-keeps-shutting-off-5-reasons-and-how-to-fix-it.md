@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: space-heater-keeps-shutting-off
-  image: /img/space-heater-keeps-shutting-off.webp
+  image: img/space-heater-keeps-shutting-off.webp
 date: "2021-11-20T10:37:17+00:00"
 guid: https://heatertips.com/?p=489
 title: Space Heater keeps shutting off (5 reasons and how to fix it)

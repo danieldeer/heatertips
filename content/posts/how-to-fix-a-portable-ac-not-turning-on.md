@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: how to fix portable ac not turning on
-  image: /img/how-to-fix-portable-ac-not-turning-on.webp
+  image: img/how-to-fix-portable-ac-not-turning-on.webp
 date: "2022-11-05T11:04:33+00:00"
 guid: https://heatertips.com/?p=1007
 title: How to fix a Portable AC not turning on

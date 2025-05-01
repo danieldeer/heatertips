@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: dyson humidify cool fan
-  image: /img/dyson-humidify-cool-fan.webp
+  image: img/dyson-humidify-cool-fan.webp
 date: "2023-11-11T08:49:03+00:00"
 guid: https://heatertips.com/?p=2129
 title: 'Dyson Humidify+Cool Not Humidifying: How To Fix It'

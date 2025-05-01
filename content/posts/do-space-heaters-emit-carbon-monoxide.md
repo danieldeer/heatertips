@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: propane tank top heater
-  image: /img/do-space-heaters-emit-carbon-monoxide.webp
+  image: img/do-space-heaters-emit-carbon-monoxide.webp
 date: "2022-10-27T10:26:29+00:00"
 guid: https://heatertips.com/?p=811
 title: Do Space Heaters Emit Carbon Monoxide?

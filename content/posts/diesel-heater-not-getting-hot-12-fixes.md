@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: diesel heater hot air exhaust
-  image: /img/diesel-heater-hot-air-exhaust.webp
+  image: img/diesel-heater-hot-air-exhaust.webp
 date: "2023-11-30T09:58:55+00:00"
 guid: https://heatertips.com/?p=2236
 title: Diesel Heater Not Getting Hot (12 Fixes)

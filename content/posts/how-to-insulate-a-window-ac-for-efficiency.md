@@ -5,7 +5,7 @@ category:
   - improve-efficiency
 cover:
   alt: window air conditioner with window kit
-  image: /img/window-air-conditioner-with-window-kit.webp
+  image: img/window-air-conditioner-with-window-kit.webp
 date: "2022-12-09T10:37:17+00:00"
 guid: https://heatertips.com/?p=1266
 title: How to insulate a Window AC (for Efficiency)

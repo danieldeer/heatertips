@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: mr heater buddy heater outdoors balcony
-  image: /img/mr-heater-buddy-heater-outdoors-balcony.webp
+  image: img/mr-heater-buddy-heater-outdoors-balcony.webp
 date: "2023-02-03T11:00:15+00:00"
 guid: https://heatertips.com/?p=1531
 title: Best Vented Propane Heater without Electricity

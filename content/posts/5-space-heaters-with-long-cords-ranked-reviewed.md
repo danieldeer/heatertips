@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: space heaters with long cords
-  image: /img/space-heaters-with-long-cords.webp
+  image: img/space-heaters-with-long-cords.webp
 date: "2019-12-14T12:44:29+00:00"
 guid: https://heatertips.com/?p=178
 tag:

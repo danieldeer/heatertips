@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: cheapest way to heat your room or home
-  image: /img/cheapest-way-to-heat-your-room-or-home.webp
+  image: img/cheapest-way-to-heat-your-room-or-home.webp
 date: "2020-01-03T13:13:29+00:00"
 guid: https://heatertips.com/?p=246
 tag:

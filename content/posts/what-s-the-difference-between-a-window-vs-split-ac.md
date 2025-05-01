@@ -4,7 +4,7 @@ category:
   - air-conditioning
 cover:
   alt: difference between window ac and split ac
-  image: /img/difference-between-window-ac-and-split-ac.webp
+  image: img/difference-between-window-ac-and-split-ac.webp
 date: "2022-10-31T11:34:13+00:00"
 guid: https://heatertips.com/?p=853
 title: What’s the Difference between a Window vs Split AC?

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: can a space heater dehumidify room
-  image: /img/can-a-space-heater-dehumidify-room.webp
+  image: img/can-a-space-heater-dehumidify-room.webp
 date: "2019-11-27T08:11:28+00:00"
 guid: https://heatertips.com/?p=79
 tag:

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: oil-filled-radiator-in-bathroom
-  image: /img/oil-filled-radiator-in-bathroom.webp
+  image: img/oil-filled-radiator-in-bathroom.webp
 date: "2022-12-06T16:07:06+00:00"
 guid: https://heatertips.com/?p=1224
 title: Can you use an Oil-filled Radiator in a Bathroom?

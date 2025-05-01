@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: how to get heat upstairs
-  image: /img/how-to-get-heat-upstairs.webp
+  image: img/how-to-get-heat-upstairs.webp
 date: "2020-01-12T12:04:56+00:00"
 guid: https://heatertips.com/?p=338
 tag:

@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: best oil heaters you can leave on all night
-  image: /img/best-oil-heaters-you-can-leave-on-all-night.webp
+  image: img/best-oil-heaters-you-can-leave-on-all-night.webp
 date: "2019-12-12T08:06:22+00:00"
 guid: https://heatertips.com/?p=164
 tag:

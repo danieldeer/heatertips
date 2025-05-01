@@ -2,7 +2,7 @@
 author: Daniel Hirsch
 cover:
   alt: dr heater infrared heater home
-  image: /img/dr-heater-infrared-heater-home.webp
+  image: img/dr-heater-infrared-heater-home.webp
 date: "2020-01-06T18:23:58+00:00"
 guid: https://heatertips.com/?page_id=295
 title: 'Best Infrared Heater for your Home: My Top Pick'

@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: infrared heater front view
-  image: /img/infrared-heater-front-view.webp
+  image: img/infrared-heater-front-view.webp
 date: "2023-08-15T10:41:40+00:00"
 guid: https://heatertips.com/?p=1792
 title: How to Fix Space Heater Smell (Plastic, Burning)

@@ -5,7 +5,7 @@ category:
   - safety
 cover:
   alt: mr heater propane heater hand
-  image: /img/mr-heater-propane-heater-hand.webp
+  image: img/mr-heater-propane-heater-hand.webp
 date: "2022-12-17T10:32:06+00:00"
 guid: https://heatertips.com/?p=1349
 title: Are Propane Heaters safe indoors?

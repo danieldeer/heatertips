@@ -4,7 +4,7 @@ category:
   - heater-guides
 cover:
   alt: bluegrass living propane heater ventless
-  image: /img/bluegrass-living-propane-heater-ventless.webp
+  image: img/bluegrass-living-propane-heater-ventless.webp
 date: "2023-09-08T07:07:06+00:00"
 guid: https://heatertips.com/?p=1905
 title: 'Bluegrass Living Propane Heater Review: Strong & Reliable'

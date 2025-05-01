@@ -5,7 +5,7 @@ category:
   - repair
 cover:
   alt: lasko ceramic heater top panel
-  image: /img/lasko-ceramic-heater-top-panel.webp
+  image: img/lasko-ceramic-heater-top-panel.webp
 date: "2023-10-04T09:05:35+00:00"
 guid: https://heatertips.com/?p=2054
 title: Lasko Heater Keeps Shutting Off (3 Causes and Fixes)
