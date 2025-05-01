@@ -6,7 +6,7 @@ category:
 cover:
   alt: can-i-use-an-extension-cord-with-space-heater
   image: img/can-i-use-an-extension-cord-with-space-heater.webp
-date: "2019-11-20T08:46:30+00:00"
+date: "2025-05-01T10:28:00+00:00"
 guid: https://heatertips.com/?p=28
 tag:
   - extension-cord
@@ -15,25 +15,18 @@ title: Can I use an Extension Cord with a Space Heater?
 url: /can-i-use-an-extension-cord-with-a-space-heater/
 
 ---
-**🆕 Updated April 17, 2025** \- All recommended extension cords and power strips are up-to-date and safe for use with space heaters!
 
 In this article, we’re going to cover exactly whether you can use an extension cord with your space heater and what you have to be cautious of.
 
 Question: Can I use an extension cord with a space heater?
 
-Answer: **Usually, you should not use an extension cord with your space heater. Most extension cords can not handle the high currents space heaters draw. Especially small, low-quality extension cords can easily catch fire. However, if you absolutely need an extension cord, then you should get a heavy-duty cord.**
+Answer: **You should avoid using an extension cord with your space heater. But if you have to, use a heavy-duty extension cord. Also, if possible, operate your space heater at a low to moderate heat setting in order.**
 
-### 🔄 2025 Update: What’s New This Year?
+New fire statistics show that over 80% of portable heater fires in homes are still caused by misuse of power strips or thin cords (source: [NFPA, 2022](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/heating-equipment)).
 
-The risks of using the wrong extension cord with a space heater remain the same in 2025 — but more brands now offer **modern space heaters with lower power settings (750W)** and built-in safety features. If you're using an extension cord, we strongly recommend:
+The core reason those accidents happen is that people use poor quality extension cords, which quickly overheat and melt down.
 
-- **Using only UL-listed, 12-gauge heavy-duty cords**
-- **Limiting heater output to 750W or “Eco mode”**
-- **Never leaving the heater unattended**
-
-Also, **new fire statistics show that over 80% of portable heater fires in homes are still caused by misuse of power strips or thin cords** (source: \[ [NFPA, 2022](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/heating-equipment)\]).
-
-Let's first have a look at some cords that you can safely use with space heaters if you _absolutely_ need to. After that we'll cover why other (cheaply made) extension cords are not safe to use.
+There are extension cords specifically made for high wattages, as consumed by space heaters. Let's have a look at them:
 
 ## Safe heavy-duty extension cords for space heaters
 
@@ -42,6 +35,8 @@ If you absolutely need to use an extension cord with your space heater, for exam
 These cords are designed to handle the current that high-power devices draw.
 
 I recommend and trust [**this POWTECH heavy-duty extension cord** (click here to see it on amazon)](https://amzn.to/3BJupuv).
+
+![powtech heavy duty extension cord](/img/powtech-heavy-duty-extension-cord.webp)
 
 Please note that it is only 25 feet long!
 
