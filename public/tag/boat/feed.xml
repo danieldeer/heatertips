@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Boat on HeaterTips</title>
-    <link>https://heatertips.com/tag/boat/</link>
+    <link>http://localhost:1313/tag/boat/</link>
     <description>Recent content in Boat on HeaterTips</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 09 Dec 2019 09:56:09 +0000</lastBuildDate>
-    <atom:link href="https://heatertips.com/tag/boat/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tag/boat/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Heat a Boat Cabin (Without Electricity)</title>
-      <link>https://heatertips.com/how-to-heat-a-boat-cabin/</link>
+      <link>http://localhost:1313/how-to-heat-a-boat-cabin/</link>
       <pubDate>Mon, 09 Dec 2019 09:56:09 +0000</pubDate>
-      <guid>https://heatertips.com/how-to-heat-a-boat-cabin/</guid>
+      <guid>http://localhost:1313/how-to-heat-a-boat-cabin/</guid>
       <description>&lt;p&gt;How to heat a boat cabin and what’s the best heater to use in a boat cabin?&lt;/p&gt;
 &lt;p&gt;That question first got me thinking when I was on a boat trip on the Rhine river in Germany in the springtime and all the passengers shivered throughout the tour: There was no heater on the boat.&lt;/p&gt;
 &lt;p&gt;But why is heating a boat cabin important? By heating a boat, you not only feel more comfortable, but you also benefit some technical aspects of the boat: Heat protects the water and sewage system and the engine compartment from freezing.&lt;/p&gt;</description>
