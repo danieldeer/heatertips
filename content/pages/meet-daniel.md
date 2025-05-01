@@ -1,9 +1,9 @@
 ---
 author: Daniel Hirsch
 cover:
-  alt: heatertips-daniel-with-all-devices-small
+  alt: the author sitting on the floor with space heaters, an air conditioner, a fan, and an air purifier
   image: img/heatertips-daniel-with-all-devices.webp
-date: "2023-12-10T14:46:36+00:00"
+date: "2024-04-30T14:46:36+00:00"
 guid: https://heatertips.com/?page_id=2306
 title: Meet Daniel
 showToc: false
