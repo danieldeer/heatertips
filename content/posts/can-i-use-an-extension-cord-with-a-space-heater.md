@@ -4,9 +4,9 @@ category:
   - heater-guides
   - safety
 cover:
-  alt: can-i-use-an-extension-cord-with-space-heater
+  alt: an extension cord lying on the floor
   image: img/can-i-use-an-extension-cord-with-space-heater.webp
-date: "2025-05-01T10:28:00+00:00"
+date: "2025-04-30T10:39:22+00:00"
 guid: https://heatertips.com/?p=28
 tag:
   - extension-cord
