@@ -140,15 +140,13 @@ Also, **always use the space heater in your presence.** This will avoid dangerou
 
 If you run your extension cord with too much power (e.g. a space heater that draws 1500 watts), here’s what usually happens:
 
-**Your cable heats up.** Generally, the thinner your cable is, the hotter it will become. The reason is that with a thin cable, the amount of “current per diameter” increases.
+**Your power cord heats up.** Generally, the thinner your cable is, the hotter it will become. The reason is that with a thin cable, the amount of “current per diameter” increases.
 
 Pressing a lot of current through a thin cable causes a big number of electrons to bump into the metal atoms of your extension cord. The atoms will then start wiggling around which causes heat.
 
 Sadly, lots of the extension cords that look thick aren’t suited for high-power applications. Some extension cord manufacturers just use a lot of insulation to make it look thick and save money with thin copper wires.
 
 A thick cable usually stays cool, because there’s more space for the current to travel.
-
-warms up
 
 **Your fuse melts or your safety switch is triggered.** Obviously, if you draw too much power from your house’s power supply, the fuse will melt in order to protect your power supply from more damage.
 
