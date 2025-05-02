@@ -110,7 +110,7 @@ And please note: This calculation is assumes physically ideal circumstances. The
 
 So, in practice, the cost is even higher than that!
 
-![energy to run swamp cooler with ice added](/wp-content/uploads/2023/07/energy-to-run-swamp-cooler-with-ice-added.png)As you can see, total energy consumption rises the more water you freeze for your swamp cooler.
+![energy to run swamp cooler with ice added](img/energy-to-run-swamp-cooler-with-ice-added.webp)As you can see, total energy consumption rises the more water you freeze for your swamp cooler.
 
 ## Can you even put ice in a Swamp Cooler?
 

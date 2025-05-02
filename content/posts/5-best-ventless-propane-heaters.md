@@ -27,7 +27,7 @@ The customers are also satisfied with its quality and it never fails to deliver 
 Here are the best ventless propane heaters along with their prices and ratings.
 ## **\#1** [**Rinnai FC824P Ventless Propane Heater**](https://www.amazon.com/Rinnai-FC824P-Vent-Free-Propane-Heater/dp/B00K86BXLQ?&linkCode=ll1&tag=heatertips-20&linkId=912aa16aff7b1ac0b9ffde1f9d09f1b1&language=de_DE&ref_=as_li_ss_tl)
 
-![rinnai ventless propane heater](/wp-content/uploads/2022/12/rinnai-ventless-propane-heater.jpg)
+![rinnai ventless propane heater](img/rinnai-ventless-propane-heater.webp)
 
 **Key Features:**
 
@@ -67,7 +67,7 @@ Comes with wall mounting equipment |
 
 ## **\#2** [**Dyna-Glo 30,000 Blue Flame Ventless Propane Heater**](https://www.amazon.com/Dyna-Glo-Liquid-Propane-Flame-Heater/dp/B07YBRDHT9?&linkCode=ll1&tag=heatertips-20&linkId=a5badb40818f3b37c9471ef50bae1722&language=en_US&ref_=as_li_ss_tl)
 
-![](/wp-content/uploads/2022/12/dyna-glow-ventless-propane-heater.jpg)
+![](img/dyna-glow-ventless-propane-heater.webp)
 
 **Key Features:**
 
@@ -99,7 +99,7 @@ Comes with a manual knob and thermostat control |
 
 ## **\#3** [**Mr Heater F232000 Ventless Propane Heater**](https://www.amazon.com/-/de/dp/B002G51BZU?crid=781ZRQ5LYZQP&keywords=Mr+Heater+F232000&qid=1671104861&sprefix=mr+heater+f232000%2Caps%2C152&sr=8-1&linkCode=ll1&tag=heatertips-20&linkId=7fbc8c9f8e332c033c6ba60707f4aefa&language=de_DE&ref_=as_li_ss_tl)
 
-![](/wp-content/uploads/2022/12/mr-heater-buddy-ventless-portable-propane-heater.jpg)
+![](img/mr-heater-buddy-ventless-portable-propane-heater.webp)
 
 **Key Features:**
 
@@ -133,7 +133,7 @@ Can be used indoors and outdoors |
 
 ## **\#4** [**Comfort Glow GCH480 Propane Cabinet Heater**](https://www.amazon.com/Comfort-GCH480-Propane-Cabinet-Heater/dp/B003YR2OLE?&linkCode=ll1&tag=heatertips-20&linkId=38642144d6af4fd7e03a610008301359&language=de_DE&ref_=as_li_ss_tl)
 
-![](/wp-content/uploads/2022/12/comfort-glow-propane-heater.jpg)
+![](img/comfort-glow-propane-heater.webp)
 
 **Key Features:**
 
@@ -160,7 +160,7 @@ Safe to use |
 
 ## **\#5** [**Heat Hog Ventless Propane Heater**](https://www.amazon.com/Heat-Hog-HH-09SLN-Propane-Heater/dp/B09HY3WCMM?&linkCode=ll1&tag=heatertips-20&linkId=e603a7d44b3df56aca9ede2d2768ffab&language=de_DE&ref_=as_li_ss_tl)
 
-![](/wp-content/uploads/2022/12/heat-hot-propane-heater.jpg)
+![](img/heat-hot-propane-heater.webp)
 
 **Key Features:**
 

@@ -98,7 +98,7 @@ Swamp cooler parts last up to [50,000 hours of usage](/can-a-swamp-cooler-run-al
 
 A swamp cooler doesn’t break easily. I've found a single example of a broken fan in a swamp cooler. I guess, something got in the inside.
 
-![swamp cooler broken fan part](/wp-content/uploads/2023/01/swamp-cooler-broken-part.jpg)
+![swamp cooler broken fan part](img/swamp-cooler-broken-part.webp)
 
 Air Conditioner:
 
@@ -196,7 +196,7 @@ In some cases, if a window option is not available, you can also install your po
 
 Here's how a full installation looks like:
 
-![do portable air conditioners give off carbon monoxide](/wp-content/uploads/2022/08/do-portable-air-conditioners-give-off-carbon-monoxide.jpg)
+![do portable air conditioners give off carbon monoxide](img/do-portable-air-conditioners-give-off-carbon-monoxide.webp)
 
 #### Swamp Cooler
 

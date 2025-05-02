@@ -22,7 +22,7 @@ The ideal heater for a basement is a mini-split heat pump. My recommendation is 
 
 You should consider it if you’re spending significant amounts of time in your basement.
 
-![](/wp-content/uploads/2023/11/pioneer-mini-split-heat-pump-air-conditioner.jpg)A mini-split heat pump is the most energy-efficient heater for a basement. But it requires some installation.
+![](img/pioneer-mini-split-heat-pump-air-conditioner.webp)A mini-split heat pump is the most energy-efficient heater for a basement. But it requires some installation.
 
 #### Key Features:
 
@@ -58,7 +58,7 @@ The [Dyna-Glo Heater (click to view it on amazon)](https://www.amazon.com/Dyna-G
 
 It’s an ideal choice for those who may face power outages during winter storms or for those seeking a heating solution with a low initial investment.
 
-![dyna-glo propane heater on wall mount](/wp-content/uploads/2023/11/dyna-glo-propane-heater-on-wall.jpg)The Dyna-Glo propane heater can heat any basement to any temperature, even without electricity!
+![dyna-glo propane heater on wall mount](img/dyna-glo-propane-heater-on-wall.webp)The Dyna-Glo propane heater can heat any basement to any temperature, even without electricity!
 
 #### **Key Features:**
 
@@ -99,7 +99,7 @@ The [**Comfort Zone CZ220** (click to see it on amazon)](https://www.amazon.com/
 
 Originally, the Comfort Zone CZ220 is a garage & workshop heater, so it's a very sturdy and industrial-looking heater.
 
-![comfort zone cz220 heavy-duty electric heater ceiling-mounted](/wp-content/uploads/2023/11/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.jpg)The Comfort Zone is the strongest electric basement heater in this list. But it requires installation by a professional.
+![comfort zone cz220 heavy-duty electric heater ceiling-mounted](img/comfort-zone-cz220-heavy-duty-electric-heater-ceiling-mounted.webp)The Comfort Zone is the strongest electric basement heater in this list. But it requires installation by a professional.
 
 #### **Key Features:**
 
@@ -138,7 +138,7 @@ The [**Heat Storm HS-1500-PHX** (click to view it on amazon)](https://www.amazon
 
 Infrared heaters immediately [heat objects directly in front of them](/do-infrared-heaters-heat-the-air/), which in turn, emit convectional heat, which heats up the whole room. So, an infrared heater turns you into a heat source. And they make you feel very warm.
 
-![heat storm infrared heater](/wp-content/uploads/2023/10/heat-storm-infrared-heater.jpg)The Heat Storm infrared heater is the simplest of all basement heaters. Just plug it into the wall outlet, and start heating.
+![heat storm infrared heater](img/heat-storm-infrared-heater.webp)The Heat Storm infrared heater is the simplest of all basement heaters. Just plug it into the wall outlet, and start heating.
 
 #### **Key Features:**
 
