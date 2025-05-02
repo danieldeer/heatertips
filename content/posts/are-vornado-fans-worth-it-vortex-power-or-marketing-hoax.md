@@ -205,7 +205,7 @@ Buying one good fan and using it for a decade is always better than buying a new
 
 **Vornado fans are high-quality products, are solidly built and last you a long time.**
 
-# Price: Are Vornado fans worth the money?
+## Price: Are Vornado fans worth the money?
 
 A Vornado fan, specifically a Vornado 660, will set you back around $100 as of my last check.
 
