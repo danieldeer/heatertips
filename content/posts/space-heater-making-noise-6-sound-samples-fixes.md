@@ -36,7 +36,7 @@ For each space heater noise, I included a sound recording!
 
 **Clicking noise sound recording:**
 
-{{< audio src="/img/clicking-min.mp3" >}}
+{{< audio src="/clicking-min.mp3" >}}
 
 **Explanation:**
 
@@ -58,7 +58,7 @@ Humming noise in a space heater is usually safe.
 
 **Humming noise sound recording:**
 
-{{< audio src="/img/humming-min.mp3" >}}
+{{< audio src="/humming-min.mp3" >}}
 
 **Explanation:**
 
@@ -78,7 +78,7 @@ Screeching noise is usually not safe and indicates a problem in the heater’s e
 
 **Screeching noise sound recording:**
 
-{{< audio src="/img/screeching-min.mp3" >}}
+{{< audio src="/screeching-min.mp3" >}}
 
 **Explanation:**
 
@@ -98,7 +98,7 @@ Squealing noises indicate an electric failure and possibly a broken heating elem
 
 **Squealing noise sound recording:**
 
-{{< audio src="/img/squealing-min.mp3" >}}
+{{< audio src="/squealing-min.mp3" >}}
 
 **Explanation:**
 
@@ -112,7 +112,7 @@ A space heater making a buzzing noise can be either safe or unsafe to use.
 
 **Buzzing noise sound recording:**
 
-{{< audio src="/img/buzzing-min.mp3" >}}
+{{< audio src="/buzzing-min.mp3" >}}
 
 **Explanation:**
 
@@ -138,7 +138,7 @@ Rattling noises usually come from loose moving parts in your space heater.
 
 **Rattling noise sound recording:**
 
-{{< audio src="/img/rattling-min.mp3" >}}
+{{< audio src="/rattling-min.mp3" >}}
 
 **Explanation:**
 
