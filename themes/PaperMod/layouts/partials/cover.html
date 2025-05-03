@@ -39,7 +39,7 @@
                         {{- end }}
                         {{- printf "%s %dw" ($cover.Permalink) ($cover.Width) }}'
                 src="{{ $cover.Permalink }}"
-                sizes="(max-width: 480px) 360px, (max-width: 768px) 480px, 720px"
+                sizes="(min-width: 768px) 720px, 100vw"
                 width="{{ $cover.Width }}" height="{{ $cover.Height }}"
                 alt="{{ $alt }}">
         {{- else }}{{/* Unprocessable image or responsive images disabled */}}
