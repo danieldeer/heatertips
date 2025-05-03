@@ -44,7 +44,7 @@ That’s quite something. But it’s _a lot_ more cost-effective than using expe
 
 #### Best Usage Scenarios for Diesel Heaters
 
-1. **Cold Climates:** If you’re traveling to really cold places, a diesel heater will keep your RV cozy and warm. You only need to make sure the diesel fuel is prepared for the cold weather. Otherwise, it thickens up which is called “fuel gelling”. Check out this guide on [how to reduce diesel fuel gelling](/fix-diesel-heater-gelling/).
+1. **Cold Climates:** If you’re traveling to really cold places, a diesel heater will keep your RV cozy and warm. You only need to make sure the diesel fuel is prepared for the cold weather. Otherwise, it thickens up which is called “fuel gelling”. Check out this guide on [how to reduce diesel fuel gelling](/fix-diesel-heater-fuel-gelling/).
 1. **Off-Grid Adventures:** When you’re out in nature away from campgrounds or RV parks, these heaters are great because they only need a small amount of electricity to start the diesel combustion process. Aside from that, you can consider diesel heaters _offgrid-friendly._
 1. **Long Trips:** For long road trips or full-time RV living, diesel heaters give you a lot of heat for a longer time without needing a refill.  
 Also, storing heat energy is very simple. Just carry an additional diesel tank with you. There’s no need for expensive battery packs etc.
