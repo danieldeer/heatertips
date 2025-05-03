@@ -38,7 +38,7 @@ As I mentioned above, carbon monoxide is made by fuel-burning devices such as ca
 
 As such, we are aware that many devices we use at home produce carbon monoxide. This is why furnaces have vents, gas stoves have a hood, and generators are used outside the house.
 
-It’s only normal to imagine that your air conditioner works the same way as these other devices, especially when you see the smoke coming out of the hose. Also, when people hear that air conditioners use [refrigerant](/how-does-a-portable-air-conditioner-work/?swcfpc=1) (which is either gaseous or liquid) to carry the air around the AC, they imagine this gas is harmful or can leak into the house.
+It’s only normal to imagine that your air conditioner works the same way as these other devices, especially when you see the smoke coming out of the hose. Also, when people hear that air conditioners use [refrigerant](/how-does-a-portable-air-conditioner-work/) (which is either gaseous or liquid) to carry the air around the AC, they imagine this gas is harmful or can leak into the house.
 
 However, the refrigerant used in ACs is made of [hydrofluorocarbons](https://www.ccacoalition.org/en/slcps/hydrofluorocarbons-hfcs#:~:text=WHAT%20are%20Hydrofluorocarbons%3F,that%20Deplete%20the%20Ozone%20Layer.) (HFCs), not fuel, and they are completely harmless. Second, there is no way this gas can leak out unless you drop the AC and damage the components, in which case it can't work anymore.
 

@@ -84,7 +84,7 @@ I recommend [this **SereneLife SLPAC8 Portable Air Conditioner** (click here to 
 
 That said, a window air conditioner is usually more efficient than a portable AC. This is because the entire backside of a window AC is used to expel heat, compared to only a small circle on a portable AC.
 
-In other words, you must run a portable AC longer and [use more power](/portable-air-conditioner-running-cost/?swcfpc=1) in the long run. But other than that, it’s the perfect alternative when you don’t have a window.
+In other words, you must run a portable AC longer and [use more power](/portable-air-conditioner-running-cost/) in the long run. But other than that, it’s the perfect alternative when you don’t have a window.
 
 ## Final Thoughts
 
