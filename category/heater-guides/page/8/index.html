@@ -59,6 +59,16 @@
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N78T9M8810"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N78T9M8810');
+</script>
 <meta property="og:url" content="https://heatertips.com/category/heater-guides/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Heater-Guides">
@@ -414,117 +424,6 @@ In this article, we’re going to check all you need to know about oil-filled ra
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
-<script>
-
-
-
-(() => {
-
-  const tid = "G-N78T9M8810"; 
-
-  function serialize(input) {
-    const output = {};
-    for (const key in input) {
-      if (input[key] != null) {
-        output[key] = input[key];
-      }
-    }
-    return (new URLSearchParams(output)).toString();
-  }
-
-  
-  
-  
-  
-
-  
-  
-  
-
-  const get = (name, init) => localStorage[name] || (init && set(name, init()));
-  const set = (name, value) => localStorage[name] = value;
-
-  const createID = () => Math.floor(Math.random() * 2147483647) + 1;
-  const getTime = () => Math.floor(Date.now() / 1000);
-
-  const _p = createID(); 
-
-  let _s = 1; 
-
-  const CLIENT_ID = "ga_cid";
-  const SESSION_ID = "ga_sid";
-  const SESSION_COUNT = "ga_sct";
-
-  const seg = get(SESSION_ID) ? 1 : 0; 
-
-  function track(en, params = {}) {
-    
-    const _fv = get(CLIENT_ID) ? null : 1;
-
-    
-    const cid = get(CLIENT_ID, () => createID() + "." + getTime());
-
-    
-    const _ss = get(SESSION_ID) ? null : 1;
-
-    
-    const sid = get(SESSION_ID, getTime);
-
-    
-    const sct = _ss 
-      ? set(SESSION_COUNT, parseInt(get(SESSION_COUNT, () => "0")) + 1) 
-      : get(SESSION_COUNT); 
-
-    const data = serialize({
-      v: 2, 
-      tid,  
-      _p,   
-      cid,  
-      ul: (navigator.language || "").toLowerCase(), 
-      sr: (screen.width + "x" + screen.height),     
-      _s: _s++, 
-      sid,      
-      sct,      
-      seg,      
-      dl: document.location.origin + document.location.pathname + document.location.search, 
-      dr: document.referrer,
-      dt: document.title,
-      en,  
-      _fv, 
-      _ss, 
-      _dbg: 1, 
-
-      
-      ...Object.fromEntries(
-        Object.entries(params).map(([key, value]) => [`ep.${key}`, value])
-      )
-    });
-
-    const url = "https://www.google-analytics.com/g/collect";
-
-    
-    if (navigator.sendBeacon) {
-      navigator.sendBeacon(url + "?" + data);
-    } else {
-      fetch(url + "?" + data, {
-        method: "POST",
-        keepalive: true
-      });
-    }
-  }
-
-  
-  track("page_view");
-
-  window.track = track;
-
-})();
-
-</script>
-
-
-<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/heater-tip.js"></script>
-
 
 <script>
     let menu = document.getElementById('menu')
