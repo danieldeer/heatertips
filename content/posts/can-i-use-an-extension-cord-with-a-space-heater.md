@@ -19,7 +19,7 @@ url: /can-i-use-an-extension-cord-with-a-space-heater/
 
 In this article, we’re going to cover exactly whether you can use an extension cord with your space heater and what you have to be cautious of.
 
-Quick aswer: **You should avoid using an extension cord with your space heater. But if you have to, use a heavy-duty extension cord. Also, if possible, operate your space heater at a low to moderate heat setting in order.**
+Quick aswer: **You should avoid using an extension cord with your space heater. But if you have to, use a heavy-duty extension cord. Also, if possible, operate your space heater at a low to moderate heat setting to reduce the load on the power cord.**
 
 New fire statistics show that over 80% of portable heater fires in homes are still caused by misuse of power strips or thin cords (source: [NFPA, 2022](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/heating-equipment)).
 
