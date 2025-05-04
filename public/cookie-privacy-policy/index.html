@@ -62,6 +62,16 @@ We use cookies for basic analytics purposes to understand how our site is used a
 </noscript><link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N78T9M8810"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-N78T9M8810');
+</script>
 <meta property="og:url" content="https://heatertips.com/cookie-privacy-policy/">
   <meta property="og:site_name" content="HeaterTips">
   <meta property="og:title" content="Cookie Privacy Policy">
@@ -72,7 +82,7 @@ How We Use Cookies We use cookies for basic analytics purposes to understand how
   <meta property="og:type" content="article">
     <meta property="article:section" content="pages">
     <meta property="article:published_time" content="2019-11-18T17:30:20+00:00">
-    <meta property="article:modified_time" content="2025-04-30T12:00:08+02:00">
+    <meta property="article:modified_time" content="2025-05-04T16:18:25+02:00">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Cookie Privacy Policy">
 <meta name="twitter:description" content="This is the Cookie Policy for heatertips, accessible from heatertips.com
@@ -116,7 +126,7 @@ We use cookies for basic analytics purposes to understand how our site is used a
   "wordCount" : "242",
   "inLanguage": "en",
   "datePublished": "2019-11-18T17:30:20Z",
-  "dateModified": "2025-04-30T12:00:08+02:00",
+  "dateModified": "2025-05-04T16:18:25+02:00",
   "author":{
     "@type": "Person",
     "name": "Daniel Hirsch"
@@ -226,7 +236,7 @@ We use cookies for basic analytics purposes to understand how our site is used a
     <h1 class="post-title entry-hint-parent">
       Cookie Privacy Policy
     </h1>
-    <div class="post-meta"><span title='2019-11-18 17:30:20 +0000 +0000'>November 18, 2019</span>&nbsp;·&nbsp;<span title='Last updated 2025-04-30 12:00:08 +0200 CEST'>Last updated on April 30, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Daniel Hirsch
+    <div class="post-meta"><span title='2019-11-18 17:30:20 +0000 +0000'>November 18, 2019</span>&nbsp;·&nbsp;<span title='Last updated 2025-05-04 16:18:25 +0200 CEST'>Last updated on May 4, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;Daniel Hirsch
 
 </div>
   </header> <div class="toc">
@@ -361,117 +371,6 @@ For more information, visit the <a href="https://developers.google.com/fonts/faq
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
-<script>
-
-
-
-(() => {
-
-  const tid = "G-N78T9M8810"; 
-
-  function serialize(input) {
-    const output = {};
-    for (const key in input) {
-      if (input[key] != null) {
-        output[key] = input[key];
-      }
-    }
-    return (new URLSearchParams(output)).toString();
-  }
-
-  
-  
-  
-  
-
-  
-  
-  
-
-  const get = (name, init) => localStorage[name] || (init && set(name, init()));
-  const set = (name, value) => localStorage[name] = value;
-
-  const createID = () => Math.floor(Math.random() * 2147483647) + 1;
-  const getTime = () => Math.floor(Date.now() / 1000);
-
-  const _p = createID(); 
-
-  let _s = 1; 
-
-  const CLIENT_ID = "ga_cid";
-  const SESSION_ID = "ga_sid";
-  const SESSION_COUNT = "ga_sct";
-
-  const seg = get(SESSION_ID) ? 1 : 0; 
-
-  function track(en, params = {}) {
-    
-    const _fv = get(CLIENT_ID) ? null : 1;
-
-    
-    const cid = get(CLIENT_ID, () => createID() + "." + getTime());
-
-    
-    const _ss = get(SESSION_ID) ? null : 1;
-
-    
-    const sid = get(SESSION_ID, getTime);
-
-    
-    const sct = _ss 
-      ? set(SESSION_COUNT, parseInt(get(SESSION_COUNT, () => "0")) + 1) 
-      : get(SESSION_COUNT); 
-
-    const data = serialize({
-      v: 2, 
-      tid,  
-      _p,   
-      cid,  
-      ul: (navigator.language || "").toLowerCase(), 
-      sr: (screen.width + "x" + screen.height),     
-      _s: _s++, 
-      sid,      
-      sct,      
-      seg,      
-      dl: document.location.origin + document.location.pathname + document.location.search, 
-      dr: document.referrer,
-      dt: document.title,
-      en,  
-      _fv, 
-      _ss, 
-      _dbg: 1, 
-
-      
-      ...Object.fromEntries(
-        Object.entries(params).map(([key, value]) => [`ep.${key}`, value])
-      )
-    });
-
-    const url = "https://www.google-analytics.com/g/collect";
-
-    
-    if (navigator.sendBeacon) {
-      navigator.sendBeacon(url + "?" + data);
-    } else {
-      fetch(url + "?" + data, {
-        method: "POST",
-        keepalive: true
-      });
-    }
-  }
-
-  
-  track("page_view");
-
-  window.track = track;
-
-})();
-
-</script>
-
-
-<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/heater-tip.js"></script>
-
 
 <script>
     let menu = document.getElementById('menu')
