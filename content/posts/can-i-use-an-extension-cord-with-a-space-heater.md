@@ -19,7 +19,7 @@ url: /can-i-use-an-extension-cord-with-a-space-heater/
 
 In this article, we’re going to cover exactly whether you can use an extension cord with your space heater and what you have to be cautious of.
 
-Quick aswer: **You should avoid using an extension cord with your space heater. But if you have to, use a heavy-duty extension cord. Also, if possible, operate your space heater at a low to moderate heat setting to reduce the load on the power cord.**
+Quick answer: **You should avoid using an extension cord with your space heater. But if you have to, use a heavy-duty extension cord. Also, if possible, operate your space heater at a low to moderate heat setting to reduce the load on the power cord.**
 
 New fire statistics show that over 80% of portable heater fires in homes are still caused by misuse of power strips or thin cords (source: [NFPA, 2022](https://www.nfpa.org/education-and-research/research/nfpa-research/fire-statistical-reports/heating-equipment)).
 
@@ -35,7 +35,7 @@ These cords are designed to handle the current that high-power devices draw.
 
 I recommend and trust [**this POWTECH heavy-duty extension cord** (click here to see it on amazon)](https://amzn.to/3BJupuv).
 
-![powtech heavy duty extension cord](/img/powtech-heavy-duty-extension-cord.jpg)
+![A thick, heavy-duty POWTECH extension cord suitable for high-wattage heaters](/img/powtech-heavy-duty-extension-cord.jpg)
 
 Please note that it is only 25 feet long!
 
@@ -89,7 +89,7 @@ When it comes to space heaters, efficiency is really important: You want to get 
 
 Heaters rely on having a strong power source that supplies them with lots of energy. If you interpose a long extension cord between your space heater and your wall plug, you effectively increase the resistance for the flowing current.
 
-The nature of our modern power supplies is that they increase the power as needed. When you plug in an extension cord, power supply essentially has to increase the power in order to reach the space heater.
+The nature of our modern power supplies is that they increase the power as needed. When resistance increases due to a long or thin extension cord, the voltage drops. Since power = voltage × current and heaters attempt to maintain power, the current increases — leading to overheating.
 
 Even though this is just a tiny effect, extension cords might increase your electric bill in the long run.
 
@@ -101,7 +101,9 @@ Remember: Your space heater will draw 1500W, no matter what.
 
 Power equals voltage multiplied by current. This means that the current has to increase.
 
-These higher currents can cause a fire! This is one of the main reasons you should never use extension cords.  
+These higher currents can cause a fire! This is one of the main reasons you should only ever use heavy-duty extension cords that can handle the high power consumption.
+
+Using the wrong extension cord can cause overheating and even melting. If you’re experiencing a hot or soft power cord, read [How to Fix a Space Heater Cord Getting Hot](/how-to-fix-a-space-heater-cord-getting-hot/) to understand what’s going wrong and how to fix it safely.
 
 ## Can I use a Power Strip with a Space Heater?
 
@@ -162,3 +164,5 @@ Additionally, people can fall over the cable and tip over the space heater. And 
 However, if there’s no other option for you, you should definitely limit your space heater’s power demand to 750W or 1000W. Lots of modern space heaters have this capability.
 
 Even though heating your room will take a little longer, this is a much safer approach than running your heater at full power.
+
+If you're also wondering whether surge protectors are a safer alternative to extension cords for space heaters, check out [Can You Use a Surge Protector with a Space Heater?](/can-you-use-a-surge-protector-with-a-space-heater/) for a detailed explanation of the risks and recommendations.
