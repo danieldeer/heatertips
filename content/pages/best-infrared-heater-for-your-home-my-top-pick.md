@@ -7,6 +7,7 @@ date: "2020-01-06T18:23:58+00:00"
 guid: https://heatertips.com/?page_id=295
 title: 'Best Infrared Heater for your Home: My Top Pick'
 url: /recommended-products/best-infrared-heater/
+description: "The Dr Heater DR-968 is the single best infrared heater you can get. You get your money's worth with high reliability, quality and lots of heating power."
 
 ---
 What’s the best infrared heater? I tried, tested and researched several infrared heaters and came to a conclusion.

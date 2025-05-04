@@ -7,6 +7,7 @@ date: "2020-01-06T18:28:30+00:00"
 guid: https://heatertips.com/?page_id=301
 title: 'Best Propane Heater: My Top Pick'
 url: /recommended-products/propane-heater/
+description: "The Mr. Heater propane heater can produce heat equivalent to 3 average 1,500W space heaters and lasts up to 5 days on the lowest setting."
 
 ---
 **The Mr. Heater propane heater can produce heat equivalent to 3 average 1,500W space heaters and lasts up to 5 days on the lowest setting.**

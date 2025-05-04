@@ -7,6 +7,7 @@ date: "2020-01-06T18:26:39+00:00"
 guid: https://heatertips.com/?page_id=298
 title: 'The Best Oil-Filled Radiator: My favorite!'
 url: /recommended-products/oil-filled-radiator/
+description: "Here's the best oil-filled radiator you can get. After months of research, this oil heater is by far the best one I found, so let me share it with you."
 
 ---
 I’ve been recommending one oil-filled radiator model over and over on this website. I am just convinced that this one is by far the best value-for-money deal you can currently get.

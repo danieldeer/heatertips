@@ -1,7 +1,7 @@
 ---
 author: Daniel Hirsch
 title: Best Space Heaters, Air Conditioners & Purifiers – Save Energy & Stay Comfortable
-description: "Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips"
+description: "Helpful portable heating and cooling reviews & guides. Everything you need to know about heater and AC maintenance at home"
 
 ---
 

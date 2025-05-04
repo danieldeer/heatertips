@@ -4,6 +4,7 @@ date: "2019-11-18T11:39:24+00:00"
 guid: https://heatertips.com/?page_id=3
 title: Privacy Policy
 url: /privacy-policy/
+description: "Here's heatertips privacy policy to find out how we treat your data. Additionally, you find contact information here in case you have questions."
 
 ---
 Effective date: November 18, 2019

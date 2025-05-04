@@ -8,6 +8,7 @@ guid: https://heatertips.com/?page_id=2306
 title: Meet Daniel
 showToc: false
 url: /about/
+description: "I am Daniel, a 27-year-old electrical engineer. I have been blogging on HeaterTips since 2019. I view heatertips as a passion project."
 
 ---
 Hi, I am Daniel, an electrical engineer. For heatertips.com I research cost-effective heating and air conditioning methods, debunk myths, and explain what really works.

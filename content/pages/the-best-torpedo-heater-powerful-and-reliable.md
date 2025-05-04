@@ -7,6 +7,7 @@ date: "2020-01-06T18:29:41+00:00"
 guid: https://heatertips.com/?page_id=303
 title: 'The Best Torpedo Heater: Powerful and Reliable'
 url: /recommended-products/torpedo-heater/
+description: "The best torpedo heater is the Mr. Heater MH60QFAV. It is able to keep up the temperature of any room."
 
 ---
 When it comes to buying a torpedo heater, you should get a suitable model right away. Usually, when you try to get a cheap torpedo heater, you are disappointed by what you receive. Therefore, I recommend getting a known and popular product right away.
