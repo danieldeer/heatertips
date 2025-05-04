@@ -1,4 +1,5 @@
 ---
+description: "Yes, solar panels can heat a house. You need to install 19 solar panels to power electric heating, or 7 solar panels for a heat pump."
 author: Daniel Hirsch
 category:
   - heater-guides

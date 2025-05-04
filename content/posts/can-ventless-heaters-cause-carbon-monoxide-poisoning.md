@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can theoretically get carbon monoxide poisoning from a ventless heater. However, it is unlikely if you vent your room regularly."
 author: Daniel Hirsch
 category:
   - heater-guides

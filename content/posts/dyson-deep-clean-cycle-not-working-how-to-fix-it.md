@@ -1,4 +1,5 @@
 ---
+description: "To fix the Dyson deep clean cycle, clean the pump column base cap to improve water flow into the pump, or replace the pump entirely."
 author: Daniel Hirsch
 category:
   - air-quality

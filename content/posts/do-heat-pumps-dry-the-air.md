@@ -1,4 +1,5 @@
 ---
+description: "No, heat pumps do not dry the air. They reduce the air's relative humidity, making it feel dryer. You can add humidity using a humidifier."
 author: Daniel Hirsch
 category:
   - heater-guides

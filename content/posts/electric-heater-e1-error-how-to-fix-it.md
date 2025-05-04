@@ -1,4 +1,5 @@
 ---
+description: "Usually, the source of the E1 error code is overheating due to dust, a faulty temperature sensor, or a faulty thermal cutoff switch."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "To fix a Vornado heater not working, open the case, remove dust which causes overheating and inspect the electronic circuitry."
 author: Daniel Hirsch
 category:
   - heater-guides

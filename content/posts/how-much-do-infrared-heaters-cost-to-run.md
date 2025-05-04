@@ -1,4 +1,5 @@
 ---
+description: "An infrared heater costs $57 a month given it runs on full power for 8 hours a day. Factoring in placement and heat settings saves up to 40%."
 author: Daniel Hirsch
 category:
   - heater-guides

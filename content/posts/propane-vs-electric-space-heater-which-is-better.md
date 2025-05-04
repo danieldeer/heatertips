@@ -1,4 +1,5 @@
 ---
+description: "Propane heaters are better than electric space heaters for rooms without a heat source or access to electricity. They are cheaper to run and produce more heat."
 author: Daniel Hirsch
 category:
   - heater-guides

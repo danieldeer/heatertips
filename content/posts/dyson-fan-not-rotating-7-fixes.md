@@ -1,4 +1,5 @@
 ---
+description: "Dyson heaters usually don’t rotate if there’s still tape on your Dyson fan's base body split section. Also the rotor could be defective."
 author: Daniel Hirsch
 category:
   - air-conditioning

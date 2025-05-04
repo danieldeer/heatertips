@@ -1,4 +1,5 @@
 ---
+description: "Wood stoves take 1 hour to 3 hours to heat up depending on the temperature of your home. Mostly, it is best to kindle 3 hours in advance."
 author: Daniel Hirsch
 category:
   - heater-guides

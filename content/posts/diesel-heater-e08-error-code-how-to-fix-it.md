@@ -1,4 +1,5 @@
 ---
+description: "The E08 error code on a diesel heater means lack of fuel or flame put out. Reasons are no fuel, wind put out flame, or pressure in the tank."
 author: Daniel Hirsch
 category:
   - repair

@@ -1,4 +1,5 @@
 ---
+description: "Yes, air conditioners wear out. You can expect an air conditioner to last 20+ years if you maintain it once a year."
 author: Daniel Hirsch
 category:
   - air-conditioning

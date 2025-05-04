@@ -1,4 +1,5 @@
 ---
+description: "Mr. Heater Buddy and Big Buddy heaters are only safe to use in >3-person tents. For smaller tents, you should get the Little Buddy heater."
 author: Daniel Hirsch
 category:
   - heater-guides

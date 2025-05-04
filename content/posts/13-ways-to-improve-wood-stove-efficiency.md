@@ -1,4 +1,5 @@
 ---
+description: "To improve your wood stove’s efficiency, use a firewood holder, install a wood stove insert or a reflective wall heat shield."
 author: Daniel Hirsch
 category:
   - heater-guides

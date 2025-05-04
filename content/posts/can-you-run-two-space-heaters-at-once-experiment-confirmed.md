@@ -1,4 +1,5 @@
 ---
+description: "On 120V US outlets you can run two space heaters at once on reduced settings (&lt;80%). On 220V-240V outlets two heaters can run on full power"
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Infrared and radiant heaters both use radiation to heat your home. But are they the same or is there a difference? Here's everything you need to know."
 author: Daniel Hirsch
 category:
   - heater-guides

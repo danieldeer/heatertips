@@ -1,4 +1,5 @@
 ---
+description: "Yes. Pelonis heaters are safe. They are as safe as other heater brands. The cheap price comes from cheaper production."
 author: Daniel Hirsch
 category:
   - heater-guides

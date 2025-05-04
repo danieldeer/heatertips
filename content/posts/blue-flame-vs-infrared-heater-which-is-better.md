@@ -1,4 +1,5 @@
 ---
+description: "Technically, infrared heaters are better than blue flame heaters since they radiate some of the heat into the room."
 author: Daniel Hirsch
 category:
   - heater-guides

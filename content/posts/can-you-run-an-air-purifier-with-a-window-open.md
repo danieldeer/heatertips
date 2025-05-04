@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run an air purifier with a window open. In most areas, outdoor air is clean and the airstream can support air purification."
 author: Daniel Hirsch
 category:
   - air-quality

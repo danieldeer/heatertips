@@ -1,4 +1,5 @@
 ---
+description: "You need about 20 candles to heat a room. One candle outputs about 80W of heating power. To produce the equivalent of a space heater, you'd need 20 candles."
 author: Daniel Hirsch
 category:
   - heater-guides

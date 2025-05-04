@@ -1,4 +1,5 @@
 ---
+description: "Resetting the “F” code on a Dyson fan and air purifier is as simple as replacing the filter and holding the power button for a few seconds."
 author: Daniel Hirsch
 category:
   - air-quality

@@ -1,4 +1,5 @@
 ---
+description: "Yes, propane heaters are safe indoors! But propane heaters can emit enough heat to ignite household things (wood, curtains, carpets)."
 author: Daniel Hirsch
 category:
   - heater-guides

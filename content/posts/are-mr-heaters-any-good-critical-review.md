@@ -1,4 +1,5 @@
 ---
+description: "Mr. Heater Buddy heaters are not good for everyone. They get over >1,000°F. Their protection grid can’t prevent fire."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "The best air conditioner for small rooms is a 5,000 BTU window air conditioner. A large AC for your entire living space is even better."
 author: Daniel Hirsch
 category:
   - air-conditioning

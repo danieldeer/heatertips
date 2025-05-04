@@ -1,4 +1,5 @@
 ---
+description: "To fix the E10 error on your diesel heater, check the electric power supply, the fuel supply, and the glow plug."
 author: Daniel Hirsch
 category:
   - heater-guides

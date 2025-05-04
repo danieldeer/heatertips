@@ -1,4 +1,5 @@
 ---
+description: "Space heaters are not always safe for cats. In this article you'll find out exactly how you can make sure your cat is safe when you use a space heater."
 author: Daniel Hirsch
 category:
   - heater-guides

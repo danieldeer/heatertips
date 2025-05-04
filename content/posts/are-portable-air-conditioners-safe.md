@@ -1,4 +1,5 @@
 ---
+description: "Yes, portable air conditioners are safe to use as long as you maintain them properly and run them on moderate settings."
 author: Daniel Hirsch
 category:
   - air-conditioning

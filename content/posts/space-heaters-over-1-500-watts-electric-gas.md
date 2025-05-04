@@ -1,4 +1,5 @@
 ---
+description: "My #1 electric space heater over 1,500 watts is the 5,000-watt Comfort Zone CZ220 garage heater. It outputs a full 5,000 Watts."
 author: Daniel Hirsch
 category:
   - heater-guides

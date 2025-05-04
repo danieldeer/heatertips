@@ -1,0 +1,12 @@
+content/archives.md		No valid URL in frontmatter
+content/search.md		No valid URL in frontmatter
+content/_index.md		No valid URL in frontmatter
+content/pages/the-best-oil-filled-radiator-my-favorite.md	recommended-products/oil-filled-radiator	No matching slug in CSV
+content/pages/the-best-torpedo-heater-powerful-and-reliable.md	recommended-products/torpedo-heater	No matching slug in CSV
+content/pages/privacy-policy.md	privacy-policy	No matching slug in CSV
+content/pages/meet-daniel.md	about	No matching slug in CSV
+content/pages/legal-details.md	legal-details	No matching slug in CSV
+content/pages/best-infrared-heater-for-your-home-my-top-pick.md	recommended-products/best-infrared-heater	No matching slug in CSV
+content/pages/recommended-products.md	recommended-products	No matching slug in CSV
+content/pages/cookie-privacy-policy.md	cookie-privacy-policy	No matching slug in CSV
+content/pages/best-propane-heater-my-top-pick.md	recommended-products/propane-heater	No matching slug in CSV

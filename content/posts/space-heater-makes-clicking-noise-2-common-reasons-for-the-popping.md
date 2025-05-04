@@ -1,4 +1,5 @@
 ---
+description: "When your space heater makes a clicking noise (or a crackling and popping noise), read this! We'll cover where the noise comes from and what to do!"
 author: Daniel Hirsch
 category:
   - heater-guides

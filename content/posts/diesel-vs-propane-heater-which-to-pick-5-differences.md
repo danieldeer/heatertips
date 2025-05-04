@@ -1,4 +1,5 @@
 ---
+description: "Propane heaters work without electricity and require no installation. Diesel heaters need electricity to run and require some setup."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Electric space heaters never burn oxygen. But fuel-burning space heaters such as propane heaters do burn oxygen."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Dyson is the best overall space heater brand, due to its innovative features like air purification and air quality monitoring."
 author: Daniel Hirsch
 category:
   - heater-guides

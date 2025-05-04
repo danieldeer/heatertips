@@ -1,4 +1,5 @@
 ---
+description: "You should be able to fix your Dyson fan showing the warning triangle error by quickly lowering the fan speed after turning it on."
 author: Daniel Hirsch
 category:
   - air-quality

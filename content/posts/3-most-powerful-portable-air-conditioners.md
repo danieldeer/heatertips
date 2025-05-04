@@ -1,4 +1,5 @@
 ---
+description: "The most powerful portable air conditioners are a 15,000 BTU AC by Honeywell and a 14,000 BTU dual-hose AC by Whynter."
 author: Daniel Hirsch
 category:
   - air-conditioning

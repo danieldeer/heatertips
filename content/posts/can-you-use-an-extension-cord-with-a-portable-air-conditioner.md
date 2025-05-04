@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use an extension cord with a portable air conditioner. Just make sure that your extension cord can handle the power of your AC."
 author: Daniel Hirsch
 category:
   - air-conditioning

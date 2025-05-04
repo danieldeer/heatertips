@@ -1,4 +1,5 @@
 ---
+description: "You can make your window AC more efficient by insulating windows, gaps below your door. Clean the evaporator coil and air filter."
 author: Daniel Hirsch
 category:
   - air-conditioning

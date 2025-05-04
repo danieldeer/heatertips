@@ -1,4 +1,5 @@
 ---
+description: "The best basement heater is the Pioneer Diamante Ultra Mini-Split Heat Pump (12,000 BTU) for those who use their basements regularly."
 author: Daniel Hirsch
 category:
   - heater-guides

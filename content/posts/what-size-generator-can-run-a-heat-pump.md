@@ -1,4 +1,5 @@
 ---
+description: "Only a home standby generator can power a medium-sized heat pump. Small heat pumps of 1-2 tons can be powered off large portable generators."
 author: Daniel Hirsch
 category:
   - heater-guides

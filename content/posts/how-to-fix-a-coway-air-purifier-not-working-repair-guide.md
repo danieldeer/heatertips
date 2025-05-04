@@ -1,4 +1,5 @@
 ---
+description: "How to fix a Coway air purifier 1. not turning on, 2. not blowing air, 3. indicator light issues, 4. connectivity issues"
 author: Daniel Hirsch
 category:
   - air-quality

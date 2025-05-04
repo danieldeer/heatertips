@@ -1,4 +1,5 @@
 ---
+description: "The best swamp cooler is the Hessaire MC37M. It is robust, has more than enough power to cool even large spaces, and lasts a lifetime."
 author: Daniel Hirsch
 category:
   - air-conditioning

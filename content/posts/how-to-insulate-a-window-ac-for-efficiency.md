@@ -1,4 +1,5 @@
 ---
+description: "You can add insulation around a window AC by gluing styrofoam panels around the sides. To close all air gaps, use spray foam or foam tape."
 author: Daniel Hirsch
 category:
   - air-conditioning

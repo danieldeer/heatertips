@@ -1,4 +1,5 @@
 ---
+description: "Electric space heaters never emit carbon monoxide. But fuel or gas-burning heaters can produce carbon monoxide if improperly adjusted."
 author: Daniel Hirsch
 category:
   - heater-guides

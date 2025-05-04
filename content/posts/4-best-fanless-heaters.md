@@ -1,4 +1,5 @@
 ---
+description: "For living spaces, oil-filled radiators are always the better fanless choice. Fanless infrared heaters are only good in garages and workshops."
 author: Daniel Hirsch
 category:
   - heater-guides

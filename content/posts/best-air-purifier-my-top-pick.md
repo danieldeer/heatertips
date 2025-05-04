@@ -1,4 +1,5 @@
 ---
+description: "The best air purifier is the Levoit Core 300. It is simple, collects a lot of dust and is easy to maintain."
 author: Daniel Hirsch
 category:
   - air-quality

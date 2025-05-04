@@ -1,4 +1,5 @@
 ---
+description: "Yes, Vornado heaters are energy efficient. Instead of heating the whole room evenly, Vornado heaters blow a focused stream of hot air."
 author: Daniel Hirsch
 category:
   - heater-guides

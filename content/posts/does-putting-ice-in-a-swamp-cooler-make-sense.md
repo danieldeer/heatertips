@@ -1,4 +1,5 @@
 ---
+description: "Putting ice in a swamp cooler doesn't make sense. The addition of ice doesn't enhance cooling, but it increases energy consumption."
 author: Daniel Hirsch
 category:
   - air-conditioning

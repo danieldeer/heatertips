@@ -1,4 +1,5 @@
 ---
+description: "A Dyson fan is usually not cooling because of blocked airways (air filter, air inlet holes). Ensure it is not in backward airflow mode."
 author: Daniel Hirsch
 category:
   - air-conditioning

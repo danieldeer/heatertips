@@ -1,4 +1,5 @@
 ---
+description: "Yes, electric fireplaces are 100% efficient. But at the same time, they output just ~20% of the total heat a wood-burning stove would output."
 author: Daniel Hirsch
 category:
   - heater-guides

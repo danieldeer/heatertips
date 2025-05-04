@@ -1,4 +1,5 @@
 ---
+description: "The average oil-filled radiator weighs 18.9 pounds. The weight usually decreases for low-power oil heaters. Small heaters weigh less."
 author: Daniel Hirsch
 category:
   - heater-guides

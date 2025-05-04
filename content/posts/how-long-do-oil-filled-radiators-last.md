@@ -1,4 +1,5 @@
 ---
+description: "An oil-filled radiator lasts at least 20+ years. If it is not exposed to weather and large temperature changes, it will run for 30 years."
 author: Daniel Hirsch
 category:
   - heater-guides

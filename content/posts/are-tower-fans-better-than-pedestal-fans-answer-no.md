@@ -1,4 +1,5 @@
 ---
+description: "Tower fans are plain novelty marketing. A modern pedestal fan outperforms a tower fan in 1. design, 2. airflow, and 3. safety."
 author: Daniel Hirsch
 category:
   - air-conditioning

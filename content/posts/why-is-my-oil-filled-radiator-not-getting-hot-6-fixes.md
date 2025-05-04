@@ -1,4 +1,5 @@
 ---
+description: "Oil-filled radiators stop heating because of a broken thermostat. Also, the thermostat can cut off the heating if the room is already warm."
 author: Daniel Hirsch
 category:
   - heater-guides

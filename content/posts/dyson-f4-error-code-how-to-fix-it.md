@@ -1,4 +1,5 @@
 ---
+description: "If your Dyson shows an F4 error, first try power cycling and checking for any obvious blockages or misalignments."
 author: Daniel Hirsch
 category:
   - air-quality

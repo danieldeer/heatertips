@@ -1,4 +1,5 @@
 ---
+description: "To fix your portable air conditioner not cooling, insulate the hose using aluminum wrap and HVAC tape. Clean air filters and evaporator coil."
 author: Daniel Hirsch
 category:
   - air-conditioning

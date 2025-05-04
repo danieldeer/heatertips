@@ -1,4 +1,5 @@
 ---
+description: "To fix a window air conditioner not cooling, ensure that all airways are free. Clean the evaporator coil. Ensure that the power supply is OK."
 author: Daniel Hirsch
 category:
   - air-conditioning

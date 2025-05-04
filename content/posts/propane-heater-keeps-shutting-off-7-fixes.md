@@ -1,4 +1,5 @@
 ---
+description: "Propane heaters usually keep shutting off and don’t stay lit because of a dirty pilot light or thermocouple."
 author: Daniel Hirsch
 category:
   - heater-guides

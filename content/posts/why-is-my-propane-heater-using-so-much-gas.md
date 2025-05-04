@@ -1,4 +1,5 @@
 ---
+description: "Your Propane heater consumes more gas than usual if there is a leakage in the gas tank, hose, or heater itself."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "The best way to heat a cabin without electricity is a wood-burning stove or a propane heater. Wood and propane have a high heat capacity."
 author: Daniel Hirsch
 category:
   - heater-guides

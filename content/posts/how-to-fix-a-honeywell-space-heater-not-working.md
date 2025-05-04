@@ -1,4 +1,5 @@
 ---
+description: "To fix your Honeywell heater not working, open its case and clean out all of the dust. Also, plug it in another wall outlet."
 author: Daniel Hirsch
 category:
   - heater-guides

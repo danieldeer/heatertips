@@ -1,4 +1,5 @@
 ---
+description: "Will a space heater dehumidify your room? Answer: Space heaters don't dehumidify rooms. They just make the air in your room feel dryer."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Best space heaters for the office: Infrared heaters, oil-filled radiators, and neck warmers / heating pads, if space heaters are not allowed."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "With just $10.91 per Million BTUs of heat, wood-burning stoves are the cheapest way to heat a room without electricity."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "The Dyson Big+Quiet is technically superior to regular-sized air purifiers. But within the premium segment, they prove overly expensive."
 author: Daniel Hirsch
 category:
   - air-quality

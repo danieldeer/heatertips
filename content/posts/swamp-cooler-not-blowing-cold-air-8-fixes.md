@@ -1,4 +1,5 @@
 ---
+description: "Possible causes for a swamp cooler not blowing cold air are a broken fan, clogged air filters, a broken water pump, or clogged water lines."
 author: Daniel Hirsch
 category:
   - air-conditioning

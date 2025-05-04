@@ -1,4 +1,5 @@
 ---
+description: "During startup, a diesel heater draws 8 - 12 Amps and during operation, it draws 0.25 - 2 Amps, depending on the fan and pump setting."
 author: Daniel Hirsch
 category:
   - heater-guides

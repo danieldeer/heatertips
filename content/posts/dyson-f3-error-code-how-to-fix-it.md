@@ -1,4 +1,5 @@
 ---
+description: "To reset the F3 error code, hold the power button on your Dyson fan for 10 seconds. Turn your Dyson fan back on. Repeat until F3 is gone."
 author: Daniel Hirsch
 category:
   - air-quality

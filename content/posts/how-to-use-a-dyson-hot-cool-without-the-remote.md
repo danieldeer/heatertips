@@ -1,4 +1,5 @@
 ---
+description: "Press the standby button to turn on and off your Dyson Hot + Cool. Press and hold to cycle temperature settings. Buy a replacement remote."
 author: Daniel Hirsch
 category:
   - heater-guides

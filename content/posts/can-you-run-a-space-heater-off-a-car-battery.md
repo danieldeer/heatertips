@@ -1,4 +1,5 @@
 ---
+description: "You can theoretically run a space heater off a car battery, but you shouldn't. Let me show you much better alternatives to keep warm without electricity."
 author: Daniel Hirsch
 category:
   - heater-guides

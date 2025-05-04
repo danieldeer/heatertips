@@ -1,4 +1,5 @@
 ---
+description: "To find out whether you can plug your space heater into a timer you should check the power rating of your timer. Generally, most timers can handle heaters."
 author: Daniel Hirsch
 category:
   - heater-guides

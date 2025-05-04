@@ -1,4 +1,5 @@
 ---
+description: "The H2 error code on your Dyson Hot+Cool fan signifies an overheating issue, due to dust and dirt accumulation around the heating elements."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "A 100lb propane tank lasts between 13 hours to 576 hours depending on the heating power. With a 9,000 BTU heater, it lasts for 192 hours."
 author: Daniel Hirsch
 category:
   - heater-guides

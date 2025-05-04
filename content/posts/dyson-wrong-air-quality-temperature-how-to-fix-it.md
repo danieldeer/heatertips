@@ -1,4 +1,5 @@
 ---
+description: "To fix the Dyson air quality / temperature problem, reset to factory settings, holding both power buttons (on remote and fan) for 10 seconds."
 author: Daniel Hirsch
 category:
   - air-quality

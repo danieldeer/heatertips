@@ -1,4 +1,5 @@
 ---
+description: "The Nuwave OxyPure is the only air purifier (I know) that drops ozone levels. Regular HEPA-filter air purifiers don’t collect ozone."
 author: Daniel Hirsch
 category:
   - air-quality

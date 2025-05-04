@@ -1,4 +1,5 @@
 ---
+description: "Here's a list of 5 space reliable and safe space heaters you can leave unattended. They all have various safety features to avoid overheating other risks."
 author: Daniel Hirsch
 category:
   - heater-guides

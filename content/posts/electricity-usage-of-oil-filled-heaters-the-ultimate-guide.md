@@ -1,4 +1,5 @@
 ---
+description: "The ultimate guide on the electricity usage on oil heaters. With a look up diagram to find your exact costs to run an oil heater and plenty efficiency tips."
 author: Daniel Hirsch
 category:
   - heater-guides

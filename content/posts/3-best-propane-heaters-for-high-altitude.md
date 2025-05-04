@@ -1,4 +1,5 @@
 ---
+description: "The best propane heaters for high altitude are the Mr. Heater Buddy and Big Buddy models. But any quality heater will work up to 15,000 feet."
 author: Daniel Hirsch
 category:
   - heater-guides

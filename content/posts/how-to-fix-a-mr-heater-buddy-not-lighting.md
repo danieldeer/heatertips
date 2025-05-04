@@ -1,4 +1,5 @@
 ---
+description: "You can fix your Mr. Heater Buddy not lighting by cleaning the pilot light opening with a Q-tip and rubbing alcohol. Also, firmly smack your Mr. Heater 5-10 times."
 author: Daniel Hirsch
 category:
   - heater-guides

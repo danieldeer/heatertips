@@ -1,4 +1,5 @@
 ---
+description: "The best wood workshop heater is a wall-mounted Dyna-Glo propane heater. It outputs lots of heat, takes up no floor space, and is dust-safe."
 author: Daniel Hirsch
 category:
   - heater-guides

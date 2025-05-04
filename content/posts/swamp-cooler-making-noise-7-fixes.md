@@ -1,4 +1,5 @@
 ---
+description: "Swamp coolers make humming, gurgling and crackling noises. These are expected. You can reduce these normal noises with anti-vibration pads."
 author: Daniel Hirsch
 category:
   - air-conditioning

@@ -1,4 +1,5 @@
 ---
+description: "Here's everything you need to know about heating a wedding tent. For heating your tent, propane heaters are usually the best choice."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Here are 5 ways to heat a garage without insulation. After reading this, you'll know exactly which garage heater to get and which insulation steps to take."
 author: Daniel Hirsch
 category:
   - heater-guides

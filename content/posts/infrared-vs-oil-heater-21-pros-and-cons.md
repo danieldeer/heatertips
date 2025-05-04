@@ -1,4 +1,5 @@
 ---
+description: "Infrared vs Oil Heater: Which to Choose? What's the difference? Let's take a look at 21 pros and cons and find out what's better!"
 author: Daniel Hirsch
 category:
   - heater-guides

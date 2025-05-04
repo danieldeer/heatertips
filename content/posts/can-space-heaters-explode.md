@@ -1,4 +1,5 @@
 ---
+description: "Space heaters can't explode by design. There is no chamber where pressure can build up. Additionally, they use non-flammable materials."
 author: Daniel Hirsch
 category:
   - heater-guides

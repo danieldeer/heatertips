@@ -1,4 +1,5 @@
 ---
+description: "Here are my best programmable space heaters. All of them are oil-filled radiators. They are the safest programmable space heaters."
 author: Daniel Hirsch
 category:
   - heater-guides

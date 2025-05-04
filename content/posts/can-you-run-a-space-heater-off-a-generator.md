@@ -1,4 +1,5 @@
 ---
+description: "You want to run your space heater off a generator? Here's everything you need to know about powering space heaters and generators safely."
 author: Daniel Hirsch
 category:
   - heater-guides

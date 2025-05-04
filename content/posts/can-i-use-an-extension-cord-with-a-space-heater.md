@@ -1,4 +1,5 @@
 ---
+description: "You should only use heavy-duty extension cords with your space heater. A cheap extension cord easily overheats and risks fire."
 author: Daniel Hirsch
 category:
   - heater-guides

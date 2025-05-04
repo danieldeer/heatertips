@@ -1,4 +1,5 @@
 ---
+description: "The best tiny house heaters are Dyna-Glo propane heaters and electric Dr. Infrared heaters. They are reliable and safe for a tiny house."
 author: Daniel Hirsch
 category:
   - heater-guides

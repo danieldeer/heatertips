@@ -1,4 +1,5 @@
 ---
+description: "The best car camping heaters for winter are propane heaters. These output enough heat to keep your car warm and don’t drain your car battery."
 author: Daniel Hirsch
 category:
   - heater-guides

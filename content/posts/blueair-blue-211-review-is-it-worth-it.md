@@ -1,4 +1,5 @@
 ---
+description: "The Blueair Blue 211+ is not as feature-rich as its competitors, but it shines in energy efficiency, quiet operation, and user simplicity."
 author: Daniel Hirsch
 category:
   - air-quality

@@ -1,4 +1,5 @@
 ---
+description: "Usually, air purifiers keep shutting off due to mechanical issues such as clogged filters or overheating."
 author: Daniel Hirsch
 category:
   - air-quality

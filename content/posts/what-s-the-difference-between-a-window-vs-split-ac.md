@@ -1,4 +1,5 @@
 ---
+description: "Window ACs are window-mounted, low-cost, but noisy. Split ACs are wall-mounted, rather expensive, but more powerful and quiet."
 author: Daniel Hirsch
 category:
   - air-conditioning

@@ -1,4 +1,5 @@
 ---
+description: "How to assemble an oil heater with picture manual. To assemble your oil heater wheels just follow the steps explained in the pictures."
 author: Daniel Hirsch
 category:
   - heater-guides

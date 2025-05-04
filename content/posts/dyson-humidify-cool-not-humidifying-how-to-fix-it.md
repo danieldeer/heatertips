@@ -1,4 +1,5 @@
 ---
+description: "To fix your Dyson Humidify+Cool not humidifying, clean the pump column base cap and scrub off all the residue blocking water flow."
 author: Daniel Hirsch
 category:
   - air-quality

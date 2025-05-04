@@ -1,4 +1,5 @@
 ---
+description: "You can increase your infrared heater's perceived efficiency through room insulation and proper placement within your room."
 author: Daniel Hirsch
 category:
   - heater-guides

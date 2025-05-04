@@ -1,4 +1,5 @@
 ---
+description: "A 1,500W space heater with a built-in thermostat has a perfect size. It automatically produces the required amount of heat."
 author: Daniel Hirsch
 category:
   - heater-guides

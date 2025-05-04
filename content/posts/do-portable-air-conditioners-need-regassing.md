@@ -1,4 +1,5 @@
 ---
+description: "Portable air conditioners never need regassing. To maintain efficiency, you should rather rather clean airways, coil and condenser."
 author: Daniel Hirsch
 category:
   - air-conditioning

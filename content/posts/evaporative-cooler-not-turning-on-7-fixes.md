@@ -1,4 +1,5 @@
 ---
+description: "An evaporative cooler won’t turn on if it does not receive electric power. Causes are broken wall outlets, power cords, or blown fuses."
 author: Daniel Hirsch
 category:
   - air-conditioning

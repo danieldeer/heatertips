@@ -1,4 +1,5 @@
 ---
+description: "It is not recommended to burn coal in a wood stove. While it is possible, it is not efficient and can cause damage to your stove."
 author: Daniel Hirsch
 category:
   - heater-guides

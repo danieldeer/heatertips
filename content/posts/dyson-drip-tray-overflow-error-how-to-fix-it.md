@@ -1,4 +1,5 @@
 ---
+description: "Usually, the drip tray overflow error can be fixed by drying the drip tray, performing a manual deep clean cycle, and forcing a hard reset."
 author: Daniel Hirsch
 category:
   - air-quality

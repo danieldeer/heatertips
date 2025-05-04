@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run a quality infrared heater overnight given it is made of fireproof material and has built-in overheat protection."
 author: Daniel Hirsch
 category:
   - heater-guides

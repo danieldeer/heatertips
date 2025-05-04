@@ -1,4 +1,5 @@
 ---
+description: "Here are 3 space heaters with built-in humidifiers that don't dry the air. Instead, they keep humidity up by heating and humidifying at the same time!"
 author: Daniel Hirsch
 category:
   - heater-guides

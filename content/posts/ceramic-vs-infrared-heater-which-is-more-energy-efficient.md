@@ -1,4 +1,5 @@
 ---
+description: "Ceramic heaters warm slowly, needing insulation. Infrared heaters emit heat instantly, no insulation required."
 author: Daniel Hirsch
 category:
   - heater-guides

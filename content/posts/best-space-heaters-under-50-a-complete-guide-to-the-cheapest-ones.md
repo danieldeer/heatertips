@@ -1,4 +1,5 @@
 ---
+description: "Here are the best space heaters under $50 and everything you need to know about space heater costs and whether cheap heaters are as safe as expensive ones."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Space heaters only save you money if you reduce your central heating's temperature by 4°F - 8°F or more and you supply heat in used rooms."
 author: Daniel Hirsch
 category:
   - heater-guides

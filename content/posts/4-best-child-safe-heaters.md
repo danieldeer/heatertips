@@ -1,4 +1,5 @@
 ---
+description: "The best child-safe heaters are Dyson Hot+Cool heaters, and, for babies, the Vornadobaby Tempa, with its lockable power switch."
 author: Daniel Hirsch
 category:
   - heater-guides

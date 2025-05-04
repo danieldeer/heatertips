@@ -1,4 +1,5 @@
 ---
+description: "Yes, radiant floor heating can add value to your home. But before adding floor heating, ensure your house is well-insulated."
 author: Daniel Hirsch
 category:
   - heater-guides

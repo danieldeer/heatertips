@@ -1,4 +1,5 @@
 ---
+description: "The Dyson Hot + Cool is the best space heater that’s not hot to the touch. A cost-effective alternative is a DeLonghi oil-filled radiator."
 author: Daniel Hirsch
 category:
   - heater-guides

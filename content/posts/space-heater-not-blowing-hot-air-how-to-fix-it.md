@@ -1,4 +1,5 @@
 ---
+description: "Your space heater is not blowing hot air because of an electronic issue. The simplest fix is to just get a new space heater."
 author: Daniel Hirsch
 category:
   - heater-guides

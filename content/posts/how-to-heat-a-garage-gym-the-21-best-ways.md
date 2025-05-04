@@ -1,4 +1,5 @@
 ---
+description: "Heating a garage gym is simpler than you think. You can add insulation, use space heaters or add layers of clothing. You can also connect central heating."
 author: Daniel Hirsch
 category:
   - heater-guides

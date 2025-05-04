@@ -1,4 +1,5 @@
 ---
+description: "The best ventless propane heaters on the market are the Rinnai and Dyna-Glo models. They produce good-quality heaters that last a long time!"
 author: Daniel Hirsch
 category:
   - heater-guides

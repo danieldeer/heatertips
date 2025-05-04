@@ -1,4 +1,5 @@
 ---
+description: "Swamp coolers work in almost every US state during the afternoon, because that is the driest time of the day."
 author: Daniel Hirsch
 category:
   - air-conditioning

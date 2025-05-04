@@ -1,4 +1,5 @@
 ---
+description: "To build a terracotta clay pot heater, place an upside-down flowerpot onto a pedestal. Place candles below and light them."
 author: Daniel Hirsch
 category:
   - heater-guides

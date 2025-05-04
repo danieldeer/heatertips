@@ -1,4 +1,5 @@
 ---
+description: "he best swamp cooler for most garages is the Hessaire MC37M. It’s got enough power to cool even spacey garages and it is very durable."
 author: Daniel Hirsch
 category:
   - air-conditioning

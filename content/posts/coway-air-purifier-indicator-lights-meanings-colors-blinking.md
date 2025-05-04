@@ -1,4 +1,5 @@
 ---
+description: "Blue air quality indicator lights indicate good air quality, while pink or red air quality indicator lights indicate high pollution."
 author: Daniel Hirsch
 category:
   - air-quality

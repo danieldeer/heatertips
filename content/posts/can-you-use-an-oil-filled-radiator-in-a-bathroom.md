@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use an oil-filled radiator in a bathroom. The large metal heating body is safe, even when water is splashed on it."
 author: Daniel Hirsch
 category:
   - heater-guides

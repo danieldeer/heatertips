@@ -1,4 +1,5 @@
 ---
+description: "You don't have to put water in a portable air conditioner. Any AC where you have to refill anything is a fake product and does not work."
 author: Daniel Hirsch
 category:
   - air-conditioning

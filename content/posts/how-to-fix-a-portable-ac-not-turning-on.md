@@ -1,4 +1,5 @@
 ---
+description: ": To fix a portable AC not turning on, check fuses and circuit breakers. Ensure the wall outlet is powered. Check clogged air filters."
 author: Daniel Hirsch
 category:
   - air-conditioning

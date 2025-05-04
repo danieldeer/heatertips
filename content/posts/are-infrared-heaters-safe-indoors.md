@@ -1,4 +1,5 @@
 ---
+description: "Electric infrared heaters are safe to use indoors. Don’t place anything right in front of the heater, as the radiation can ignite it."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Here are the cheapest methods to cool your room and house without an AC, without electricity, or without windows."
 author: Daniel Hirsch
 category:
   - air-conditioning

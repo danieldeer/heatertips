@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run an air purifier and a humidifier at the same time. However, place them far apart, so the purifier does not absorb the vapor."
 author: Daniel Hirsch
 category:
   - air-quality

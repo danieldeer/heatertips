@@ -1,4 +1,5 @@
 ---
+description: "Some noises, for example, quiet humming are normal. However, loud buzzing, screeching, or even banging noises indicate danger."
 author: Daniel Hirsch
 category:
   - air-quality

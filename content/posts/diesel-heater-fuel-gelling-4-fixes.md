@@ -1,4 +1,5 @@
 ---
+description: "To fix diesel heater gelling use anti-gel additives, add kerosene to diesel, use heating pads, and insulate parts of the fuel lines."
 author: Daniel Hirsch
 category:
   - heater-guides

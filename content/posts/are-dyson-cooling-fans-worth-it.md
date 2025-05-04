@@ -1,4 +1,5 @@
 ---
+description: "No, Dyson cooling fans are not worth it and overpriced. For venting a room, a regular floor or pedestal fan will perform just as well."
 author: Daniel Hirsch
 category:
   - air-conditioning

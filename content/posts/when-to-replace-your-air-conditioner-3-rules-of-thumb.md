@@ -1,4 +1,5 @@
 ---
+description: "Replace your air conditioner only when it is absolutely necessary, e.g. when your air conditioner is irreparable."
 author: Daniel Hirsch
 category:
   - air-conditioning

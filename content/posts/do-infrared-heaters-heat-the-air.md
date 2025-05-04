@@ -1,4 +1,5 @@
 ---
+description: "Yes, contrary to what most people think, infrared heaters do heat the air. When you run an infrared heater, room temperature rises."
 author: Daniel Hirsch
 category:
   - heater-guides

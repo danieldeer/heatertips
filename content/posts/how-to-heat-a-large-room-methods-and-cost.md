@@ -1,4 +1,5 @@
 ---
+description: "Cost-effectively heat a large room using a wood stove, space heaters, or improve your fireplace's efficiency using a fireplace insert."
 author: Daniel Hirsch
 category:
   - heater-guides

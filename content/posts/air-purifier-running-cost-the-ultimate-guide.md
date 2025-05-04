@@ -1,4 +1,5 @@
 ---
+description: "An average air purifier costs $15.24 to run per year. Factoring in replacement filter cost, the total yearly cost is $50.24."
 author: Daniel Hirsch
 category:
   - air-quality

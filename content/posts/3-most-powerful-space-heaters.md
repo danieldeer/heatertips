@@ -1,4 +1,5 @@
 ---
+description: "The Dyna-Glo Dual Power is the most powerful electric space heater with 15,000 Watts, but it requires professional installation."
 author: Daniel Hirsch
 category:
   - heater-guides

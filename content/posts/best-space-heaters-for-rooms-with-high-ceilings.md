@@ -1,4 +1,5 @@
 ---
+description: "Best space heaters for rooms with high ceillings: 1. Wall-mounted infrared heaters 2. Hanging infrared heaters 3. Standing infrared heaters"
 author: Daniel Hirsch
 category:
   - heater-guides

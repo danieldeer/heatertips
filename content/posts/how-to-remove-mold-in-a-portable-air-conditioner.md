@@ -1,4 +1,5 @@
 ---
+description: "Remove mold in a portable air conditioner using an AC brush set and mold cleaner. First, open the AC unit, then scrub everything thoroughly."
 author: Daniel Hirsch
 category:
   - air-conditioning

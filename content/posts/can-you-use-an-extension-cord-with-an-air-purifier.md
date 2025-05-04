@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use an extension cord with an air purifier. Extension cords support 13 Amps. More than the 2.5 Amps the strongest purifiers draw."
 author: Daniel Hirsch
 category:
   - air-quality

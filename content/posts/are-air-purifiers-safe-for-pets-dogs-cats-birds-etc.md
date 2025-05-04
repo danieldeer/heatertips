@@ -1,4 +1,5 @@
 ---
+description: "Yes, air purifiers are generally safe for pets. However, ensure you’re using a HEPA air purifier. Never use an ionizer."
 author: Daniel Hirsch
 category:
   - air-quality

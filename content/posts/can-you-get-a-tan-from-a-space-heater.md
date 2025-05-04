@@ -1,4 +1,5 @@
 ---
+description: "Is getting a tan from a space heater possible? For tanning, you need UV light. This article explains how you can get a tan indoors."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Diesel heaters are great for off-grid and colder climates, while electric heaters are better for short trips with easy access to electricity."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "How to dispose of a space heater: You can dispose of most space heaters in your household trash. If it contains hazardous materials, bring it to a depot."
 author: Daniel Hirsch
 category:
   - heater-guides

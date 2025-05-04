@@ -1,4 +1,5 @@
 ---
+description: "A 420lb propane tank can last from roughly 60 hours up to an impressive 2,419 hours, depending on the heater's BTU rating."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Broken space heaters usually smoke from the heating elements, the internal power electronics, the power cord, or the case."
 author: Daniel Hirsch
 category:
   - heater-guides

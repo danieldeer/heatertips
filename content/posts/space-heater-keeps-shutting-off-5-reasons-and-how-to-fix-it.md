@@ -1,4 +1,5 @@
 ---
+description: "Your space heater keeps shutting off. Here are 5 reasons and fixes. Usually it is best to replace faulty space heaters."
 author: Daniel Hirsch
 category:
   - heater-guides

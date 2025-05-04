@@ -1,4 +1,5 @@
 ---
+description: "The quietest portable air conditioner is a 47dB TOSOT unit. After that, most quiet air conditioners are rated either 51dB or 52dB."
 author: Daniel Hirsch
 category:
   - air-conditioning

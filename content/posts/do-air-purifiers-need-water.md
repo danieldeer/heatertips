@@ -1,4 +1,5 @@
 ---
+description: "No, most air purifiers never need water. Air purifiers pass air through a dry HEPA filter, which needs replacement every 6-12 months."
 author: Daniel Hirsch
 category:
   - air-quality

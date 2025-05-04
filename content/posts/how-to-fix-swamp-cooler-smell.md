@@ -1,4 +1,5 @@
 ---
+description: "You can fix swamp cooler smell by cleaning or replacing the water pads. Also, clean the water tank with a vinegar and water solution."
 author: Daniel Hirsch
 category:
   - air-conditioning

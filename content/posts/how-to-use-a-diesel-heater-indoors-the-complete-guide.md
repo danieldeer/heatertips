@@ -1,4 +1,5 @@
 ---
+description: "To use a diesel heater indoors, place it outdoors and route the hot air vent pipe indoors. This ensures safety and eliminates smells."
 author: Daniel Hirsch
 category:
   - heater-guides

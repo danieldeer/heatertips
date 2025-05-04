@@ -1,4 +1,5 @@
 ---
+description: "An average patio heater (45,000 BTU/h) lasts 7 hours with a 20lb propane tank and 13 hours with a 40lb propane tank."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Infrared radiation is not hotter than visible light. Most radiators, however, emit the majority of their heat as infrared radiation."
 author: Daniel Hirsch
 category:
   - heater-guides

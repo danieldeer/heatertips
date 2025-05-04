@@ -1,4 +1,5 @@
 ---
+description: "A swamp cooler will not catch fire, even when the water runs out. Swamp coolers run on low wattages, which makes overheating highly unlikely."
 author: Daniel Hirsch
 category:
   - air-conditioning

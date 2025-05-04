@@ -1,4 +1,5 @@
 ---
+description: "The best overall air purifier for small rooms is the Levoit Core 300. It can filter your entire small room’s air thoroughly in under one hour."
 author: Daniel Hirsch
 category:
   - air-quality

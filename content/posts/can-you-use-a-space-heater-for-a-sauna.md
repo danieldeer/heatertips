@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use space heaters to heat a sauna. You have to use two electric space heaters simultaneously or one propane gas heater."
 author: Daniel Hirsch
 category:
   - heater-guides

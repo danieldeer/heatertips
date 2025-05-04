@@ -1,4 +1,5 @@
 ---
+description: "To fix your electric kettle that keeps boiling, replace the steam switch. Unscrew the top of the handle to uncover the black switch box."
 author: Daniel Hirsch
 category:
   - repair

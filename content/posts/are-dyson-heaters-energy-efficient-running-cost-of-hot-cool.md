@@ -1,4 +1,5 @@
 ---
+description: "Are Dyson heaters energy efficient? Let's check the Dyson Hot and Cool's running cost and power consumption."
 author: Daniel Hirsch
 category:
   - heater-guides

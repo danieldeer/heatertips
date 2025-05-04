@@ -1,4 +1,5 @@
 ---
+description: "I measured the cord temperatures of two different space heaters. One cord got hot, the the other didn't. Here's why and how to fix it."
 author: Daniel Hirsch
 category:
   - heater-guides

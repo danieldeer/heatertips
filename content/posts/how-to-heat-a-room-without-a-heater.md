@@ -1,4 +1,5 @@
 ---
+description: "You can heat a room without a heater using candles, electronics, or wearing warm clothing. The cheapest method is using an infrared heater."
 author: Daniel Hirsch
 category:
   - heater-guides

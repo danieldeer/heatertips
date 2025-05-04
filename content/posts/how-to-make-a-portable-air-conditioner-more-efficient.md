@@ -1,4 +1,5 @@
 ---
+description: "You can make your portable air conditioner more efficient by insulating the exhaust hose. Also, ensure that your room is well-insulated."
 author: Daniel Hirsch
 category:
   - air-conditioning

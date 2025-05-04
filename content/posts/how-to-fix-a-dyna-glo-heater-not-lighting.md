@@ -1,4 +1,5 @@
 ---
+description: "Dyna-Glo heaters usually don’t light when the pilot light is clogged, the thermocouple is dirty, or when the igniter doesn’t spark."
 author: Daniel Hirsch
 category:
   - heater-guides

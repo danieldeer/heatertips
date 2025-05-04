@@ -1,4 +1,5 @@
 ---
+description: "Your portable air conditioner collects no water because it is either broken or the water tank leaks. Low air humidity is also a cause."
 author: Daniel Hirsch
 category:
   - air-conditioning

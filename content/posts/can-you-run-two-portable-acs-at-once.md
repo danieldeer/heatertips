@@ -1,4 +1,5 @@
 ---
+description: "You can run two portable air conditioners at once on the same circuit if they do not draw current more than the amperage of the circuit."
 author: Daniel Hirsch
 category:
   - air-conditioning

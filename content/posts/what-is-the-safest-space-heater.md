@@ -1,4 +1,5 @@
 ---
+description: "The DeLonghi oil-filled radiator is the safest space heater. It comes with built-in overheat protection, tip-over protection and a thermostat."
 author: Daniel Hirsch
 category:
   - heater-guides

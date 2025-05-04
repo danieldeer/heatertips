@@ -1,4 +1,5 @@
 ---
+description: "An average heat pump runs on 667W of power per ton, with a seasonal energy efficiency rating (SEER) of 18."
 author: Daniel Hirsch
 category:
   - heater-guides

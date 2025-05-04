@@ -1,4 +1,5 @@
 ---
+description: "Your air purifier might not collect dust due to clogged filters, unsuitable room size, improper placement, or seals on new filters."
 author: Daniel Hirsch
 category:
   - air-quality

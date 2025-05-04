@@ -1,4 +1,5 @@
 ---
+description: "Yes, Dyson heaters are noisy. Especially on the high airflow speed settings. To reduce the noise, use the lowest settings."
 author: Daniel Hirsch
 category:
   - heater-guides

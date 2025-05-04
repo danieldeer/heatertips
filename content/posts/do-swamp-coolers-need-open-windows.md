@@ -1,4 +1,5 @@
 ---
+description: "No, swamp coolers do not need open windows to operate effectively. For optimal performance and energy efficiency, keep your windows closed."
 author: Daniel Hirsch
 category:
   - air-conditioning

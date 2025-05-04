@@ -1,4 +1,5 @@
 ---
+description: "Yes, Dyson air purifiers are worth the money for their detailed air quality monitoring features. Also, Dyson air purifiers look great."
 author: Daniel Hirsch
 category:
   - air-quality

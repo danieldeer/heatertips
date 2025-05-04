@@ -1,4 +1,5 @@
 ---
+description: "Can you use a space heater in a bathroom? Here are 5 safety tips you should follow to make sure you run your space heater safely in your bathroom."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use a surge protector with your space heater. In the US, you can use a 15A surge protector with any space heater."
 author: Daniel Hirsch
 category:
   - heater-guides

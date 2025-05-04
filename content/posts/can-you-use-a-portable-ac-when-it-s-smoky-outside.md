@@ -1,4 +1,5 @@
 ---
+description: "You should not use a single-hose portable AC when it’s smoky outside. However, you can use dual-hose portable ACs, window ACs and split ACs."
 author: Daniel Hirsch
 category:
   - air-conditioning

@@ -1,4 +1,5 @@
 ---
+description: "Some propane heater noises such as clicking and crackling are normal. They come from the thermostat, or heater parts expanding."
 author: Daniel Hirsch
 category:
   - heater-guides

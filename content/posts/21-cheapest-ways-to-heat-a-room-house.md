@@ -1,4 +1,5 @@
 ---
+description: "Here are the 21 cheapest methods to heat a room. Most tips don't even require a central heating or electricity."
 author: Daniel Hirsch
 category:
   - heater-guides

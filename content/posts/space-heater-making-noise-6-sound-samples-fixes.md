@@ -1,4 +1,5 @@
 ---
+description: "Space heaters making clicking or humming noises are safe and expected. Screeching, squealing, or buzzing noises indicate electric issues."
 author: Daniel Hirsch
 category:
   - heater-guides

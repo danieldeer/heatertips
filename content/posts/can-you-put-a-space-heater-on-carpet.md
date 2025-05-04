@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can put any regular household space heater on carpet. Exceptions are torpedo heaters which exhaust flames."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "The Mr. Heater Big Buddy and Big Maxx models are the safest propane heaters by specification. However, real heater safety is up to you."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use a propane heater in an RV. The heater must be fully functional (ideally new) and its oxygen intake must be well-adjusted."
 author: Daniel Hirsch
 category:
   - heater-guides

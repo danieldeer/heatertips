@@ -1,4 +1,5 @@
 ---
+description: "You can fix a diesel heater not getting hot by ensuring the fuel line is unclogged, the battery is charged, and the heater is free of dust."
 author: Daniel Hirsch
 category:
   - heater-guides

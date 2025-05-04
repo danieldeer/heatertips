@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run a swamp cooler all day. Swamp coolers do not add humidity to your room indefinitely, because they run at room temperature."
 author: Daniel Hirsch
 category:
   - air-conditioning

@@ -1,4 +1,5 @@
 ---
+description: "The cheapest way to cool a garage is a floor or ceiling fan. Installing air conditioning is rather expensive but very effective for cooling."
 author: Daniel Hirsch
 category:
   - air-conditioning

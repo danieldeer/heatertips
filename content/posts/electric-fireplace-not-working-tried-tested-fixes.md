@@ -1,4 +1,5 @@
 ---
+description: "You can fix most electric fireplace issues by opening the back panel and visually checking the electronic circuitry."
 author: Daniel Hirsch
 category:
   - heater-guides

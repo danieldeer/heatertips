@@ -1,4 +1,5 @@
 ---
+description: "The best portable air conditioner for garages is the Whynter ARC-14S. For setup, you need a window fitting two hoses or drill a double vent."
 author: Daniel Hirsch
 category:
   - air-conditioning

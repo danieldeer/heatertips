@@ -1,4 +1,5 @@
 ---
+description: "No, portable propane heaters never need electricity and work fully off-grid. However, central heating propane furnaces need electricity."
 author: Daniel Hirsch
 category:
   - heater-guides

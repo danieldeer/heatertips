@@ -1,4 +1,5 @@
 ---
+description: "To use a window air conditioner without a window, you have to vent the air into another room through a ducting system. Here's how."
 author: Daniel Hirsch
 category:
   - air-conditioning

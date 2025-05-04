@@ -1,4 +1,5 @@
 ---
+description: "To fix your infrared heater not working: Firmly smack it on the back. Push all infrared heating tubes in place. Remove all the dust."
 author: Daniel Hirsch
 category:
   - heater-guides

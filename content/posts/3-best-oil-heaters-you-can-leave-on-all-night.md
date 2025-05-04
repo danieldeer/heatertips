@@ -1,4 +1,5 @@
 ---
+description: "Here are the 3 best oil heaters that you can safely leave on all night. I picked them because they are safe, certified and are quiet overnight during sleep."
 author: Daniel Hirsch
 category:
   - heater-guides

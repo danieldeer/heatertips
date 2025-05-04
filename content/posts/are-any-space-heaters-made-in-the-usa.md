@@ -1,4 +1,5 @@
 ---
+description: "There are no space heaters that are 100% made in the USA, but some are engineered, designed, or assembled in the country."
 author: Daniel Hirsch
 category:
   - heater-guides

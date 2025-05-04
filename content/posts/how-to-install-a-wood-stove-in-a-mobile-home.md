@@ -1,4 +1,5 @@
 ---
+description: "To install a wood stove in a mobile home, drill a hole where you insert a double-layered pipe or a firebox. Connect a pipe to your wood stove."
 author: Daniel Hirsch
 category:
   - heater-guides

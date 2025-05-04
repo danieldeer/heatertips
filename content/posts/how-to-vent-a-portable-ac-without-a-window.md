@@ -1,4 +1,5 @@
 ---
+description: "You can vent a portable air conditioner without a window through the door, wall, drop ceiling, chimney, or even the dryer vent."
 author: Daniel Hirsch
 category:
   - air-conditioning

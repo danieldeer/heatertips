@@ -1,4 +1,5 @@
 ---
+description: "Dual-hose portable air conditioners are always better than single-hose units. Dual-hose air conditioners are a lot more efficient."
 author: Daniel Hirsch
 category:
   - air-conditioning

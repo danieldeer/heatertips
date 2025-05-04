@@ -1,4 +1,5 @@
 ---
+description: "The best vented gas heaters are the Mr. Heater Big Maxx models and the Rinnai direct-vent heater. All three of them are high-quality."
 author: Daniel Hirsch
 category:
   - heater-guides

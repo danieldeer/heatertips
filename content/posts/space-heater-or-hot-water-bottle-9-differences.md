@@ -1,4 +1,5 @@
 ---
+description: "Space heaters offer room-wide warmth but are expensive, while hot water bottles are cheap and safe, ideal for personal use."
 author: Daniel Hirsch
 category:
   - heater-guides

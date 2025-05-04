@@ -1,4 +1,5 @@
 ---
+description: "Window AC noises are usually not dangerous. But scratching, whistling or banging noises indicate larger failures in your window AC."
 author: Daniel Hirsch
 category:
   - air-conditioning

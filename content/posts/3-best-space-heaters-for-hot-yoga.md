@@ -1,4 +1,5 @@
 ---
+description: "The best space heaters for Hot Yoga are the Mr. Heater Big Buddy (propane heater) or the Dr. Infrared Heater."
 author: Daniel Hirsch
 category:
   - heater-guides

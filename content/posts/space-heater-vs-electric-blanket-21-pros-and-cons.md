@@ -1,4 +1,5 @@
 ---
+description: "Space heater vs electric blanket: Here are 21 differences you have to know to decide which one's the better choice for keeping you warm."
 author: Daniel Hirsch
 category:
   - heater-guides

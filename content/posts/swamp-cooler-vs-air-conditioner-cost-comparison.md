@@ -1,4 +1,5 @@
 ---
+description: "Swamp coolers are way cheaper to run and do not require any installation. Air conditioners, however, work anywhere and anytime."
 author: Daniel Hirsch
 category:
   - air-conditioning

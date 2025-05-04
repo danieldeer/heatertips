@@ -1,4 +1,5 @@
 ---
+description: "Yes, Vornado fans are worth it. They output a focused stream of air, ideal for cooling people. Their build quality is superior."
 author: Daniel Hirsch
 category:
   - air-conditioning

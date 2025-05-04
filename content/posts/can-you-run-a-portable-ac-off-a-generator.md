@@ -1,4 +1,5 @@
 ---
+description: "You can run most portable air conditioners off most 2500W generators. Make sure you separate generator and portable AC in separate locations."
 author: Daniel Hirsch
 category:
   - air-conditioning

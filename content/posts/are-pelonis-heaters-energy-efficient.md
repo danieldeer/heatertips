@@ -1,4 +1,5 @@
 ---
+description: "Yes, Pelonis heaters are as energy efficient as any other heater brand. The 100% efficiency applies to all heating devices."
 author: Daniel Hirsch
 category:
   - heater-guides

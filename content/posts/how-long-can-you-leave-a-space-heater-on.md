@@ -1,4 +1,5 @@
 ---
+description: "You can leave any quality and modern space heater on 24h a day, as long as they have built-in overheat protection and a thermostat."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "To get heat upstairs, you have to improve insulation, efficiency and ventillation. This is especially important in old houses with wood stoves."
 author: Daniel Hirsch
 category:
   - heater-guides

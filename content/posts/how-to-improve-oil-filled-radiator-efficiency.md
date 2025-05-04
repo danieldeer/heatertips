@@ -1,4 +1,5 @@
 ---
+description: "Oil-filled radiators are 100% efficient. You can improve its perceived efficiency (the amount of heat reaching you) through proper placement."
 author: Daniel Hirsch
 category:
   - heater-guides

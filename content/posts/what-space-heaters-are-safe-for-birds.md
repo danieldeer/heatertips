@@ -1,4 +1,5 @@
 ---
+description: "Which space heaters should you use for birds? In this article you'll learn about what to consider and which space heaters to pick to keep your birds safe!"
 author: Daniel Hirsch
 category:
   - heater-guides

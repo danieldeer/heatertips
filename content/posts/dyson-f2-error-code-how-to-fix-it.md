@@ -1,4 +1,5 @@
 ---
+description: "To fix the F2 error in your Dyson fan, remove blocking parts from the fan motor, clean out dust, ensure the fan motor sits firmly in position"
 author: Daniel Hirsch
 category:
   - air-conditioning

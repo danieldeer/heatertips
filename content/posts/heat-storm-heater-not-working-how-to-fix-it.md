@@ -1,4 +1,5 @@
 ---
+description: "To fix your Heat Storm heater, check the power supply, clean filters, hard reset it, and inspect fan motor & circuitry."
 author: Daniel Hirsch
 category:
   - heater-guides

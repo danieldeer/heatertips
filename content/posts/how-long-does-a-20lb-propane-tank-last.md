@@ -1,4 +1,5 @@
 ---
+description: "A 20lb propane tank lasts for 38 hours of heating on a regular 9,000 BTU portable propane heater, or between 6 to 12 hours on large heaters."
 author: Daniel Hirsch
 category:
   - heater-guides

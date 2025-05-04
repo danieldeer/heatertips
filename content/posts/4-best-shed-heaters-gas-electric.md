@@ -1,4 +1,5 @@
 ---
+description: "For most sheds, a portable or wall-mounted propane heater is the best choice. They output the most heat for the least cost."
 author: Daniel Hirsch
 category:
   - heater-guides

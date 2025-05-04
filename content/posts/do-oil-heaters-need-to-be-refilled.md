@@ -1,4 +1,5 @@
 ---
+description: "Oil heaters contain oil. But oil heaters do not need to be refilled. The heat is produced from electricity, not from the oil."
 author: Daniel Hirsch
 category:
   - heater-guides

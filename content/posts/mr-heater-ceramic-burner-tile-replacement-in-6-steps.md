@@ -1,4 +1,5 @@
 ---
+description: "To replace your Mr. Heater Burner tile, you’ll need to buy a replacement burner tile kit for your Mr. Heater model."
 author: Daniel Hirsch
 category:
   - heater-guides

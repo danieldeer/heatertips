@@ -1,4 +1,5 @@
 ---
+description: "You can fix a Dyson heater not turning on by making sure the wall outlet and power cord work. Clean the airways (inlet holes, air filter)."
 author: Daniel Hirsch
 category:
   - heater-guides

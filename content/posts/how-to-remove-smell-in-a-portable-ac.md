@@ -1,4 +1,5 @@
 ---
+description: "The only way to remove smell from a portable AC is to open it up and clean the components. Clean and deodorize the entire appliance regularly"
 author: Daniel Hirsch
 category:
   - air-conditioning

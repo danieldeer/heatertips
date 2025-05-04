@@ -1,4 +1,5 @@
 ---
+description: "The Dyson Humidify+Cool combines air purification, humidification, and cooling, but at up to $900, it may not offer enough value for everyone."
 author: Daniel Hirsch
 category:
   - air-quality

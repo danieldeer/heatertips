@@ -1,4 +1,5 @@
 ---
+description: "In most cases, a propane heater is the best way to heat a van during winter. Propane heaters are very durable and last you decades."
 author: Daniel Hirsch
 category:
   - heater-guides

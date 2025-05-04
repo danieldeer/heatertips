@@ -1,4 +1,5 @@
 ---
+description: "To heat a boat in the wintertime, here's how to safely use propane heaters in a boat cabin and why they are the best choice."
 author: Daniel Hirsch
 category:
   - heater-guides

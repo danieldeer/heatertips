@@ -1,4 +1,5 @@
 ---
+description: "Portable air conditioner running cost is $25.20 on average if you use it 4h a day at an average electricity rate of 14 cents per kWh."
 author: Daniel Hirsch
 category:
   - air-conditioning

@@ -1,4 +1,5 @@
 ---
+description: "Are there space heaters that don't blow fuses? I checked each space heater for its power consumption and picked the ones that are fuse-friendly."
 author: Daniel Hirsch
 category:
   - heater-guides

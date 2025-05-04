@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can put a space heater on a table. Space heaters radiate heat away from the tabletop, so there is no risk of fire."
 author: Daniel Hirsch
 category:
   - heater-guides

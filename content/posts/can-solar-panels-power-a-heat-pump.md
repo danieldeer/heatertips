@@ -1,4 +1,5 @@
 ---
+description: "You need 17 solar panels to power a 3-ton heat pump. Depending on unit size and efficiency, you will need between 5 to 32 solar panels."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "The most efficient infrared heater placement is immediately in front of people. This maximizes the density of the infrared rays."
 author: Daniel Hirsch
 category:
   - heater-guides

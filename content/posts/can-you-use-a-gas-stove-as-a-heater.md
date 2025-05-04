@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use a gas stove as a heater. To do it safely, monitor the flame color (should be blue) and vent your room occasionally."
 author: Daniel Hirsch
 category:
   - heater-guides

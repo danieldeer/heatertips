@@ -1,4 +1,5 @@
 ---
+description: "1. Coway Airmega air purifiers don’t filter air better. 2. Coway Airmegas are overpriced. 3. Coway claims things but does not prove with data."
 author: Daniel Hirsch
 category:
   - air-quality

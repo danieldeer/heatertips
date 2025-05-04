@@ -1,4 +1,5 @@
 ---
+description: "Convection heaters work by producing a hot stream of air that distributes across the room. Usually the warm air is pushed by a built-in fan."
 author: Daniel Hirsch
 category:
   - heater-guides

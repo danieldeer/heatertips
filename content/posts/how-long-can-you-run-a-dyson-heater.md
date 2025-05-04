@@ -1,4 +1,5 @@
 ---
+description: "You can run a Dyson heater 24/7 in your bedroom, living room, or kitchen. Dyson heaters don’t overheat when running them for long durations."
 author: Daniel Hirsch
 category:
   - heater-guides

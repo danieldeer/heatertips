@@ -1,4 +1,5 @@
 ---
+description: "Last ceramic heaters shut off on their own when they overheat. To fix it, open up the heater and remove the dust."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "Yes, all portable air conditioners need to be vented. Else, the heat will not leave your room and running the AC is pointless."
 author: Daniel Hirsch
 category:
   - air-conditioning

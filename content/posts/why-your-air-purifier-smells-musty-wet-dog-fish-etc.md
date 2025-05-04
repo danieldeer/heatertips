@@ -1,4 +1,5 @@
 ---
+description: "An air purifier smells after 6-12 months of not exchanging filters. 1. Replace filters. 2. Run it 8 hours a day. 3. Place away from humidity."
 author: Daniel Hirsch
 category:
   - air-quality

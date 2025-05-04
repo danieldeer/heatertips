@@ -1,4 +1,5 @@
 ---
+description: "Here's how to heat a walk-in closet. First, make sure that you pick the right heat source. Then improve the insulation. And install a vented louver door."
 author: Daniel Hirsch
 category:
   - heater-guides

@@ -1,4 +1,5 @@
 ---
+description: "A portable air conditioner works by cleverly compressing and evaporating a refrigerant liquid which absorbs heat from the air."
 author: Daniel Hirsch
 category:
   - air-conditioning

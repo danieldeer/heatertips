@@ -1,4 +1,5 @@
 ---
+description: "Space heaters are allowed in most, but not all dorms. Most dorms set up space heater guidelines you have to follow if you want to use a heater."
 author: Daniel Hirsch
 category:
   - heater-guides

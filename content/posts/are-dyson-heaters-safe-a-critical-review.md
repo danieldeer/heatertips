@@ -1,4 +1,5 @@
 ---
+description: "Yes, Dyson heaters are very safe due to their clever design which hides hot heating elements and the built-in fan inside the case."
 author: Daniel Hirsch
 category:
   - heater-guides

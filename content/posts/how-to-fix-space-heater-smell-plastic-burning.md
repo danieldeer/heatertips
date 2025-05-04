@@ -1,4 +1,5 @@
 ---
+description: "To fix space heater smell: 1. Run your heater on full power 2. Clean the casing 3. Clean the heating elements 4. Check the power cord"
 author: Daniel Hirsch
 category:
   - heater-guides

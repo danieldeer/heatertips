@@ -1,4 +1,5 @@
 ---
+description: "Yes, portable air conditioners can run 24/7. It will result in an increase of your electricity bill by around $151.20 a month."
 author: Daniel Hirsch
 category:
   - air-conditioning

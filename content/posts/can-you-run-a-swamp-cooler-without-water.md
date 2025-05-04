@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run a swamp cooler without water. Once the water runs out, it becomes a simple fan. So, you still have a cooling effect."
 author: Daniel Hirsch
 category:
   - air-conditioning

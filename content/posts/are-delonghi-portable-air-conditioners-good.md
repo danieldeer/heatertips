@@ -1,4 +1,5 @@
 ---
+description: "DeLonghi portable air conditioners are good. But any portable AC at their price point is good. DeLonghi is, however, quieter than most ACs."
 author: Daniel Hirsch
 category:
   - air-conditioning

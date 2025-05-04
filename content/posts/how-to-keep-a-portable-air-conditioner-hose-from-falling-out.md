@@ -1,4 +1,5 @@
 ---
+description: "You can fix your portable air conditioner hose falling out by applying temperature-resistant HVAC tape. Alternatively rebuy original parts."
 author: Daniel Hirsch
 category:
   - air-conditioning

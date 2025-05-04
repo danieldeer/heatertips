@@ -1,4 +1,5 @@
 ---
+description: "I've researched the cord lengths of dozens of space heaters and here's what I've found: 5 Space heaters with long cords and how to extend cords safely!"
 author: Daniel Hirsch
 category:
   - heater-guides

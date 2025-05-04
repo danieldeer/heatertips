@@ -1,4 +1,5 @@
 ---
+description: "Odor issue? Ensure your purifier has an activated carbon filter. Run it for 8+ hours and regularly replace filters. Tackle smell sources."
 author: Daniel Hirsch
 category:
   - air-quality

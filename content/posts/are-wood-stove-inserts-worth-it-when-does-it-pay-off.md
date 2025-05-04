@@ -1,4 +1,5 @@
 ---
+description: "Wood stove inserts are worth it if you heat with wood regularly. You don't need a wood stove insert if you heat with wood rarely."
 author: Daniel Hirsch
 category:
   - heater-guides

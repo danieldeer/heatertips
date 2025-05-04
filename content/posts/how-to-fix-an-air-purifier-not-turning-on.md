@@ -1,4 +1,5 @@
 ---
+description: "The most common cause of an air purifier not turning is the power source not working (wall outlet or power cord)."
 author: Daniel Hirsch
 category:
   - air-quality

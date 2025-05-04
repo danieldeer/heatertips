@@ -1,4 +1,5 @@
 ---
+description: "Let's learn how to keep heat in a room without a door. It's not that difficult! The best tip is to cover the open doorframe to limit cold airflow."
 author: Daniel Hirsch
 category:
   - heater-guides

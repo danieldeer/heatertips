@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run a space heater off a solar panel. One solar panel produces enough energy to run one space heater for 1.2h a day."
 author: Daniel Hirsch
 category:
   - heater-guides

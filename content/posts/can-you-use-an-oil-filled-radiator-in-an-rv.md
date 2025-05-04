@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can use an oil-filled radiator in an RV. You can run any oil-filled radiator off shore power, off a generator, or off the batteries."
 author: Daniel Hirsch
 category:
   - heater-guides

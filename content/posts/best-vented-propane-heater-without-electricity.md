@@ -1,4 +1,5 @@
 ---
+description: "Vented propane heaters always need electricity to power their built-in fan which blows waste gases through the vent."
 author: Daniel Hirsch
 category:
   - heater-guides

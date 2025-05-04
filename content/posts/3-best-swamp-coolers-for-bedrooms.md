@@ -1,4 +1,5 @@
 ---
+description: "The best bedroom swamp coolers are the Hessaire MC37M and MC18M models. Their water tanks last for a full night."
 author: Daniel Hirsch
 category:
   - air-conditioning

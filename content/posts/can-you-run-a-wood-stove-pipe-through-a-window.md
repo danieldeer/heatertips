@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run a wood stove pipe through a window using double-walled metal pipes and a metal sheet to cover the window space."
 author: Daniel Hirsch
 category:
   - heater-guides

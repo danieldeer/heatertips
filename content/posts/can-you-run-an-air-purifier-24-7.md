@@ -1,4 +1,5 @@
 ---
+description: "Yes, you can run an air purifier 24/7. Air purifiers run on low power and don’t overheat. The monthly running cost is $3.80."
 author: Daniel Hirsch
 category:
   - air-quality

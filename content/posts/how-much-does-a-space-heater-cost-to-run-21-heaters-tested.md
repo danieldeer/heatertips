@@ -1,4 +1,5 @@
 ---
+description: "A space heater costs $54 a month to run if you use it for 8 hours a day. I checked 21 different space heaters. Here's how to reduce the cost."
 author: Daniel Hirsch
 category:
   - heater-guides

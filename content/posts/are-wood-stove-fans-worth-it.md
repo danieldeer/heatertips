@@ -1,4 +1,5 @@
 ---
+description: "Wood stove fans work and are worth it only for smaller rooms. To distribute heat in a bigger room or home, electric floor fans are better."
 author: Daniel Hirsch
 category:
   - heater-guides

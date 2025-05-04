@@ -1,4 +1,5 @@
 ---
+description: "The Bluegrass Living propane heater beats other portable heaters with its high heat output. Plus, it has a built-in thermostat and blower!"
 author: Daniel Hirsch
 category:
   - heater-guides

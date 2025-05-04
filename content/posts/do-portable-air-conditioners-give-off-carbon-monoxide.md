@@ -1,4 +1,5 @@
 ---
+description: "Portable air conditioners do not give off carbon monoxide. ACs are fully sealed systems. No gas will ever leak unless the device is broken."
 author: Daniel Hirsch
 category:
   - air-conditioning

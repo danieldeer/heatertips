@@ -1,4 +1,5 @@
 ---
+description: "A wood stove usually does not get hot because of insufficient oxygen supply. You can fix this by cleaning the chamber, vents, and wood grate."
 author: Daniel Hirsch
 category:
   - heater-guides

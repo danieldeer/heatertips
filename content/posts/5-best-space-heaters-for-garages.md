@@ -1,4 +1,5 @@
 ---
+description: "The best space heaters for garages are regular electric heaters for 1-2 car garages, portable propane heaters for 2-3 car garages."
 author: Daniel Hirsch
 category:
   - heater-guides

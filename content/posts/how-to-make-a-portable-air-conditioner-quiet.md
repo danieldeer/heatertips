@@ -1,4 +1,5 @@
 ---
+description: "You can make your portable air conditioner quiet by placing it on an anti-vibration pad. Also, new portable ACs are quieter than old ones."
 author: Daniel Hirsch
 category:
   - air-conditioning

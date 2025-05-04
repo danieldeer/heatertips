@@ -1,4 +1,5 @@
 ---
+description: "Your Dyson heater does not blow hot air if airways are blocked with dust and moisture. You can fix this by dry-brushing internal parts."
 author: Daniel Hirsch
 category:
   - heater-guides

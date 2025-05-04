@@ -1,4 +1,5 @@
 ---
+description: "Mini-split ACs are the best type of air conditioner for garages. They provide enough cooling power and don’t consume floor space."
 author: Daniel Hirsch
 category:
   - air-conditioning

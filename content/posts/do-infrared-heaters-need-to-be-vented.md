@@ -1,4 +1,5 @@
 ---
+description: "No, you never need to vent an electric infrared heater. They don’t burn fuel or gas. Therefore, they emit no waste gases or water vapor."
 author: Daniel Hirsch
 category:
   - heater-guides

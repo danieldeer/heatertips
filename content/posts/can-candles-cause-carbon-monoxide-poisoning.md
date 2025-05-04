@@ -1,4 +1,5 @@
 ---
+description: "Yes, candles can cause carbon monoxide poisoning, but it’s highly unlikely. Candles produce too little CO to cause a poisoning."
 author: Daniel Hirsch
 category:
   - heater-guides
