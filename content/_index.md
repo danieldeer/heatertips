@@ -1,8 +1,11 @@
 ---
 author: Daniel Hirsch
-title: 🔥 Stay Warm, Cool, and Safe – Your Complete Home Heating & Cooling Resource
+title: Best Space Heaters, Air Conditioners & Purifiers – Save Energy & Stay Comfortable
+description: "Welcome to your #1 resource for space heaters, air conditioners, purifiers, and energy-saving tips"
 
 ---
+
+# The Ultimate Guide to Space Heaters, Air Conditioners & Purifiers
 
 Welcome to your **#1 resource for space heaters, air conditioners, purifiers, and energy-saving tips**! Whether you’re trying to warm up a cold room, cool your garage, purify the air, or cut electricity costs - **I’ve got you covered**. Below you’ll find a couple of hand-picked guides to start with!
 
