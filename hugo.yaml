@@ -3,6 +3,7 @@ languageCode: en-US
 title: HeaterTips
 theme: PaperMod
 enableRobotsTXT: true
+enableGitInfo: true
 taxonomies:
   category: category
   tag: tag
