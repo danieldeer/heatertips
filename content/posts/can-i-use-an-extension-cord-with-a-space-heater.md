@@ -105,7 +105,7 @@ These higher currents can cause a fire! This is one of the main reasons you shou
 
 ## Can I use a Power Strip with a Space Heater?
 
-Similar to extension cords, you should not use power strips with a space heater **except if you use a heavy-duty produc** t. Cheaply made power strips can easily heat up so the material melts. They might even catch fire.
+Similar to extension cords, you should not use power strips with a space heater **except if you use a heavy-duty product**. Cheaply made power strips can easily heat up so the material melts. They might even catch fire.
 
 Personally, I recommend [**this heavy-duty power strip** (click here to view it on amazon)](https://amzn.to/3dLAyOa).
 
